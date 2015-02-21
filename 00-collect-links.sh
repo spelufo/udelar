@@ -1,13 +1,10 @@
 #!/bin/bash
 
-dl bedelias.edu.uy bedelias.edu.uy
+./wget-download.sh bedelias.edu.uy
+
 grep -oP 'href="([^"]+)"' bedelias.edu.uy/sti/facultades.html | cut -d ':' -f2 | cut -d '/' -f '3-' | grep -oP --color=none '[^"]+' > facultades.lns
 
-while read -r l
-do
-	dl "$(echo $l | grep -oP --color=none '^[^/]+')" "$l"
-done < facultades.lns
-
+while read -r l; do ./wget-download.sh "$l"; done < facultades.lns
 
 FACDS=$(echo www{1,2,3}.bedelias.edu.uy/*/)
 
