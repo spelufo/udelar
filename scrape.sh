@@ -11,7 +11,7 @@
 # 	GNU bash, version 4.3.11(1)-release (x86_64-pc-linux-gnu)
 #
 # 	$ apt install html-xml-utils
-#   $ apt show html-xml-utils
+# 	$ apt show html-xml-utils
 # 	Package: html-xml-utils
 # 	State: installed
 # 	Automatically installed: no
@@ -21,19 +21,21 @@
 
 ./wget-download.sh bedelias.edu.uy
 
-grep -oP --color=none 'href=".*\K(www\d[^"]+)' bedelias.edu.uy/sti/facultades.html > facultades.lns
+grep -oP --color=none 'href=".*\K(www\d[^"]+)' bedelias.edu.uy/sti/facultades.html > facultades.txt
 
-while read -r l; do ./wget-download.sh "$l"; done < facultades.lns
+while read -r l; do ./wget-download.sh "$l"; done < facultades.txt
 
 FACDS=$(echo www{1,2,3}.bedelias.edu.uy/*/)
 
 for f in $FACDS; do
 	grep -oP "parent.contenidos.location[^']+'\K([^']+)(?=')" $f/menu.planes* | while read -r lnk; do echo "${f/\/*/}""$lnk"; done
-done > planes.lns
+done > planes.txt
 
 PREVS=$(echo www{1,2,3}.bedelias.edu.uy/*/muestra)
 
-while read -r l; do ./wget-download.sh "$l"; done < planes.lns
+while read -r l; do ./wget-download.sh "$l"; done < planes.txt
+
+> carreras.txt
 
 for f in $FACDS
 do
