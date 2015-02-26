@@ -1,0 +1,479 @@
+[
+	{
+		"id": "110",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "7A",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A11",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "21",
+		"min": 1,
+		"max": 6,
+		"previas": [
+			{
+				"id": "ALEM",
+				"nombre": "ALEMAN COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FRANC",
+				"nombre": "FRANCES COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INGL",
+				"nombre": "INGLES COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INGIN",
+				"nombre": "INGLES INTERMEDIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ITAL",
+				"nombre": "ITALIANO COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ITINT",
+				"nombre": "ITALIANO INTERMEDIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PORT",
+				"nombre": "PORTUGUES COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PORIN",
+				"nombre": "PORTUGUES INTERMEDIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "2",
+		"min": 1,
+		"max": 6,
+		"previas": [
+			{
+				"id": "ALEM",
+				"nombre": "ALEMAN COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FRANC",
+				"nombre": "FRANCES COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INGL",
+				"nombre": "INGLES COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INGIN",
+				"nombre": "INGLES INTERMEDIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ITAL",
+				"nombre": "ITALIANO COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ITINT",
+				"nombre": "ITALIANO INTERMEDIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PORT",
+				"nombre": "PORTUGUES COMPRENSION LECTORA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PORIN",
+				"nombre": "PORTUGUES INTERMEDIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "B100B",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A12A",
+				"nombre": "TEC.INVEST.ANTROP.SOCIAL Y CULTURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A12",
+				"nombre": "TECNICAS DE INVESTIGACION ARQUEOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "B100",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A12A",
+				"nombre": "TEC.INVEST.ANTROP.SOCIAL Y CULTURAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A12",
+				"nombre": "TECNICAS DE INVESTIGACION ARQUEOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "B200B",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A14A",
+				"nombre": "TALLER I ANTROPOLOGIA CULTURAL Y SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A14",
+				"nombre": "TALLER I EN ARQUEOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "B200",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A14A",
+				"nombre": "TALLER I ANTROPOLOGIA CULTURAL Y SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A14",
+				"nombre": "TALLER I EN ARQUEOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BAS1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "EGU",
+				"nombre": "EGRESAD@ UDELAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BAS2",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "EGU2",
+				"nombre": "EGRESAD@ UDELAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BAS3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "EGU3",
+				"nombre": "EGRESAD@ UDELAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "COE1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "COE1",
+				"nombre": "INSTR. Y RECURSOS DEL CORRECTOR ESTILO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "COE1E",
+				"nombre": "INSTRUMENTOS DEL CORRECTOR DE ESTILO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "EA",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "EAI",
+				"nombre": "EXAMEN ADMISION OP.DOCENCIA INGLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "EAP",
+				"nombre": "EXAMEN ADMISION OP.DOCENCIA PORTUGUES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FA1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F2",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FB1",
+				"nombre": "LOGICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FA2",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F4",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FC1",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F5",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "FD1",
+				"nombre": "ETICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F6",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FA3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F7",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FF1",
+				"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F8",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FE1",
+				"nombre": "ESTETICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PREV",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

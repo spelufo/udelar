@@ -1,0 +1,1288 @@
+[
+	{
+		"id": "C1",
+		"min": 8,
+		"max": 8,
+		"previas": [
+			{
+				"id": "ARTE1",
+				"nombre": "ARTE ESCÉNICO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ARTE2",
+				"nombre": "ARTE ESCÉNICO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ARTE3",
+				"nombre": "ARTE ESCÉNICO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ARTE4",
+				"nombre": "ARTE ESCÉNICO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CANT1",
+				"nombre": "CANTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CANT2",
+				"nombre": "CANTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CANT3",
+				"nombre": "CANTO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CANT4",
+				"nombre": "CANTO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PC1",
+				"nombre": "PRÁCTICA DE CORO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PC2",
+				"nombre": "PRÁCTICA DE CORO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PC3",
+				"nombre": "PRÁCTICA DE CORO 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PC4",
+				"nombre": "PRÁCTICA DE CORO 4",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN1",
+				"nombre": "SEMINARIO DE INTERPRETACION 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN2",
+				"nombre": "SEMINARIO DE INTERPRETACIÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN3",
+				"nombre": "SEMINARIO DE INTERPRETACIÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN4",
+				"nombre": "SEMINARIO DE INTERPRETACIÓN 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS1",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS2",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CB1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "CONT1",
+				"nombre": "CONTRABAJO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CONT2",
+				"nombre": "CONTRABAJO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CONT3",
+				"nombre": "CONTRABAJO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CONT4",
+				"nombre": "CONTRABAJO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CO1",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "COMP1",
+				"nombre": "COMPOSICIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "COMP2",
+				"nombre": "COMPOSICIÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "COMP3",
+				"nombre": "COMPOSICIÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "COMP4",
+				"nombre": "COMPOSICIÓN 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INST1",
+				"nombre": "INSTRUMENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INST2",
+				"nombre": "INSTRUMENTACIÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INST3",
+				"nombre": "INSTRUMENTACIÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LST4",
+				"nombre": "LECTURA SOBRE EL TECLADO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MINV1",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN 1",
+				"actividad": "1 parcial",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC1",
+				"nombre": "PRÁCTICA CORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC2",
+				"nombre": "PRÁCTICA CORAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC1",
+				"nombre": "PRÁCTICA DE CONJUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC2",
+				"nombre": "PRÁCTICA DE CONJUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "DCO1",
+		"min": 9,
+		"max": 9,
+		"previas": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DCOR1",
+				"nombre": "DIRECCIÓN DE CORO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DCOR2",
+				"nombre": "DIRECCIÓN DE CORO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DCOR3",
+				"nombre": "DIRECCIÓN DE CORO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DCOR4",
+				"nombre": "DIRECCIÓN DE CORO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LST4",
+				"nombre": "LECTURA SOBRE EL TECLADO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MINV1",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC1",
+				"nombre": "PRÁCTICA CORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC2",
+				"nombre": "PRÁCTICA CORAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PC1",
+				"nombre": "PRÁCTICA DE CORO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PC2",
+				"nombre": "PRÁCTICA DE CORO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PC3",
+				"nombre": "PRÁCTICA DE CORO 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS1",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS2",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TVOC1",
+				"nombre": "TÉCNICAS VOCALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TVOC2",
+				"nombre": "TÉCNICAS VOCALES 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TVOC3",
+				"nombre": "TÉCNICAS VOCALES 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TVOC4",
+				"nombre": "TÉCNICAS VOCALES 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "DO1",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "D68",
+				"nombre": "DIRECCION ORQUESTAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "DORQ1",
+				"nombre": "DIRECCIÓN DE ORQUESTA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DORQ2",
+				"nombre": "DIRECCIÓN DE ORQUESTA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "DOR1",
+		"min": 7,
+		"max": 7,
+		"previas": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DORQ1",
+				"nombre": "DIRECCIÓN DE ORQUESTA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DORQ2",
+				"nombre": "DIRECCIÓN DE ORQUESTA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DORQ3",
+				"nombre": "DIRECCIÓN DE ORQUESTA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "DORQ4",
+				"nombre": "DIRECCIÓN DE ORQUESTA 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INST1",
+				"nombre": "INSTRUMENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INST2",
+				"nombre": "INSTRUMENTACIÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INST3",
+				"nombre": "INSTRUMENTACIÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LST4",
+				"nombre": "LECTURA SOBRE EL TECLADO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MINV1",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC1",
+				"nombre": "PRÁCTICA CORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC2",
+				"nombre": "PRÁCTICA CORAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC1",
+				"nombre": "PRÁCTICA DE CONJUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC2",
+				"nombre": "PRÁCTICA DE CONJUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS1",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS2",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "FLAU1",
+				"nombre": "FLAUTA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FLAU2",
+				"nombre": "FLAUTA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FLAU3",
+				"nombre": "FLAUTA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FLAU4",
+				"nombre": "FLAUTA 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "GUIT1",
+				"nombre": "GUITARRA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GUIT2",
+				"nombre": "GUITARRA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GUIT3",
+				"nombre": "GUITARRA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GUIT4",
+				"nombre": "GUITARRA 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GC39",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C39",
+				"nombre": "CONTRAPUNTO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C39R",
+				"nombre": "CONTRAPUNTO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "I1",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "PCTC1",
+				"nombre": "PRÁCTICA CORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC1",
+				"nombre": "PRÁCTICA DE CONJUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC2",
+				"nombre": "PRÁCTICA DE CONJUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC3",
+				"nombre": "PRÁCTICA DE CONJUNTO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN1",
+				"nombre": "SEMINARIO DE INTERPRETACION 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN2",
+				"nombre": "SEMINARIO DE INTERPRETACIÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN3",
+				"nombre": "SEMINARIO DE INTERPRETACIÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SIN4",
+				"nombre": "SEMINARIO DE INTERPRETACIÓN 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS1",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SENS2",
+				"nombre": "SENSIBILIZACIÓN CORPORAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "M1",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INMU1",
+				"nombre": "INTRODUCCIÓN A LA MUSICOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "INMU2",
+				"nombre": "INTRODUCCIÓN A LA MUSICOLOGÍA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MINV1",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MINV",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ORG1",
+				"nombre": "ORGANOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ORG2",
+				"nombre": "ORGANOLOGÍA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC1",
+				"nombre": "PRÁCTICA CORAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PCTC2",
+				"nombre": "PRÁCTICA CORAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC1",
+				"nombre": "PRÁCTICA DE CONJUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PDC2",
+				"nombre": "PRÁCTICA DE CONJUNTO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TRA1",
+				"nombre": "TRANSCRIPCIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MO3G",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "HO1",
+				"nombre": "HISTORIA OCCIDENTAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MO4G",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "T14",
+				"nombre": "HISTORIA DE LA MUSICA III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "O1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "OBOE1",
+				"nombre": "OBOE 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OBOE2",
+				"nombre": "OBOE 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OBOE3",
+				"nombre": "OBOE 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OBOE4",
+				"nombre": "OBOE 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OR1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "ORGA1",
+				"nombre": "ÓRGANO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ORGA2",
+				"nombre": "ÓRGANO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ORGA3",
+				"nombre": "ÓRGANO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ORGA4",
+				"nombre": "ÓRGANO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "PERC1",
+				"nombre": "PERCUSIÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PERC2",
+				"nombre": "PERCUSIÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PERC3",
+				"nombre": "PERCUSIÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PERC4",
+				"nombre": "PERCUSIÓN 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PI1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "PIAN1",
+				"nombre": "PIANO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PIAN2",
+				"nombre": "PIANO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PIAN3",
+				"nombre": "PIANO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PIAN4",
+				"nombre": "PIANO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "SAXO1",
+				"nombre": "SAXOFÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SAXO2",
+				"nombre": "SAXOFÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SAXO3",
+				"nombre": "SAXOFÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SAXO4",
+				"nombre": "SAXOFÓN 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "T02",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "RM",
+				"nombre": "RÍTMICA - MÉTRICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "SOL1",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 4
+			},
+			{
+				"id": "T02",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 4
+			},
+			{
+				"id": "T02A",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 4
+			},
+			{
+				"id": "T02R",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "TEO",
+				"nombre": "TEORIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "T02GR",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "T02",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T02A",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T02R",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "T09G",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T09",
+				"nombre": "CONTRAPUNTO COMPLEMENTARIO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T09R",
+				"nombre": "CONTRAPUNTO COMPLEMENTARIO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "T1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "TROB1",
+				"nombre": "TROMBÓN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TROB2",
+				"nombre": "TROMBÓN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TROB3",
+				"nombre": "TROMBÓN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TROB4",
+				"nombre": "TROMBÓN 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "TC1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "ACUS",
+				"nombre": "ACÚSTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ARM1",
+				"nombre": "ARMONÍA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ARM2",
+				"nombre": "ARMONÍA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ARM4",
+				"nombre": "ARMONÍA 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "HMUS1",
+				"nombre": "HISTORIA DE LA MÚSICA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "HMUS3",
+				"nombre": "HISTORIA DE LA MÚSICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IUN",
+				"nombre": "INTRODUCCIÓN A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LST1",
+				"nombre": "LECTURA SOBRE EL TECLADO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LST2",
+				"nombre": "LECTURA SOBRE EL TECLADO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "LST3",
+				"nombre": "LECTURA SOBRE EL TECLADO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "REP1",
+				"nombre": "REPERTORIO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "REP2",
+				"nombre": "REPERTORIO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "REP3",
+				"nombre": "REPERTORIO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "RM",
+				"nombre": "RÍTMICA - MÉTRICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "TR1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "TROP1",
+				"nombre": "TROMPETA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TROP2",
+				"nombre": "TROMPETA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TROP3",
+				"nombre": "TROMPETA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "TROP4",
+				"nombre": "TROMPETA 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "V1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "VLIN1",
+				"nombre": "VIOLÍN 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "VLIN2",
+				"nombre": "VIOLÍN 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "VLIN3",
+				"nombre": "VIOLÍN 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "VLIN4",
+				"nombre": "VIOLÍN 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "VO1",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "CELO1",
+				"nombre": "VIOLONCHELO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CELO2",
+				"nombre": "VIOLONCHELO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CELO3",
+				"nombre": "VIOLONCHELO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CELO4",
+				"nombre": "VIOLONCHELO 4",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

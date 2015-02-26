@@ -1,0 +1,51 @@
+[
+	{
+		"id": "11000",
+		"min": 6,
+		"max": 6,
+		"previas": [
+			{
+				"id": "11004",
+				"nombre": "ES.FU.NO. UTI: LOCOMOTOR Y ESPLACNICA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11002",
+				"nombre": "ES.FU.NO. UTI: NEUROBIOLOGIA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11003",
+				"nombre": "ES.FU.NO. UTI: REPRODUCTOR Y DESARROLLO",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11005",
+				"nombre": "ESFUNO UTI CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11006",
+				"nombre": "ESFUNO UTI DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11001",
+				"nombre": "ESFUNO UTI: BIOL. CELULAR Y TISULAR",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1100",
+				"nombre": "ESTRUCTURAS Y FUNCIONES NORMALES",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 6
+			}
+		]
+	}
+]

@@ -1,0 +1,674 @@
+[
+	{
+		"id": "1ESPE",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "1TJA",
+				"nombre": "PRIMERO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TAH",
+				"nombre": "PRIMERO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TDQ",
+				"nombre": "PRIMERO PROF. DUNCAN QUINTELA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TEA",
+				"nombre": "PRIMERO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1MAPF",
+				"nombre": "PRIMERO PROF. MIGUEL PAREJA FOTOCINE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1TFP",
+		"min": 1,
+		"max": 7,
+		"previas": [
+			{
+				"id": "1TEDY",
+				"nombre": "PRIMERO PROF. EDUARDO DIAZ YEPES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TFMP",
+				"nombre": "PRIMERO PROF. MIGUEL A. PAREJA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TFAH",
+				"nombre": "PRIMERO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TALL",
+				"nombre": "PRIMERO PROF. ANTONIO LLORENS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1CS",
+				"nombre": "PRIMERO PROF. CARLOS SEVESO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TFDQ",
+				"nombre": "PRIMERO PROF. DUNCAN QUINTELA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TFEA",
+				"nombre": "PRIMERO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TFJA",
+				"nombre": "PRIMERO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1JI",
+				"nombre": "PRIMERO PROF. JOSE L. INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TFJI",
+				"nombre": "TALLER FUNDAMENTAL P.JOSE L.INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1TGPD",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "GEO1",
+				"nombre": "GEOMETRIA PRIMER AÑO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1TGPD",
+				"nombre": "TALLER DE GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "UHC",
+				"nombre": "UBICACION HISTORICO CULTURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "2ESPE",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "2APPM",
+				"nombre": "SEGUNDO PROF MIGUEL PAREJA PINTURA MURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2MAPP",
+				"nombre": "SEGUNDO PROF. MIGUEL A. PAREJA PINTURA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2MAPF",
+				"nombre": "SEGUNDO PROF. MIGUEL A. PAREJA FOTOCINE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TAH",
+				"nombre": "SEGUNDO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TEA",
+				"nombre": "SEGUNDO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TJA",
+				"nombre": "SEGUNDO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2MAPI",
+				"nombre": "SEGUNDO PROF. MIGUEL A. PAREJA IMPRENTA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "2TFP",
+		"min": 1,
+		"max": 7,
+		"previas": [
+			{
+				"id": "2TFAH",
+				"nombre": "SEGUNDO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TALL",
+				"nombre": "SEGUNDO PROF. ANTONIO LLORENS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TEDY",
+				"nombre": "SEGUNDO PROF. EDUARDO DIAZ YEPES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TFEA",
+				"nombre": "SEGUNDO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TFJA",
+				"nombre": "SEGUNDO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2AL",
+				"nombre": "SEGUNDO PROF. AURELIO LEBRATO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2CS",
+				"nombre": "SEGUNDO PROF. CARLOS SEVESO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TFDQ",
+				"nombre": "SEGUNDO PROF. DUNCAN QUINTELA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2HL",
+				"nombre": "SEGUNDO PROF. HECTOR LABORDE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TFJI",
+				"nombre": "SEGUNDO PROF. J. INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2JI",
+				"nombre": "SEGUNDO PROF. JOSE L. INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TFMP",
+				"nombre": "SEGUNDO PROF. MIGUEL A. PAREJA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2SP",
+				"nombre": "SEGUNDO PROF. SILVESTRE PECIAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2TFOA",
+				"nombre": "TALLER FUNDAMENTAL OSCAR AGUIRRE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "3ESPE",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "3TJA",
+				"nombre": "TERCERO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "3TFP",
+		"min": 1,
+		"max": 7,
+		"previas": [
+			{
+				"id": "3TFAH",
+				"nombre": "TERCERO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3TALL",
+				"nombre": "TERCERO PROF. ANTONIO LLORENS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3TEDY",
+				"nombre": "TERCERO PROF. EDUARDO DIAZ YEPES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3TFEA",
+				"nombre": "TERCERO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3TFJA",
+				"nombre": "TERCERO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3TFMP",
+				"nombre": "TERCERO PROF. MIGUEL A. PAREJA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3AH",
+				"nombre": "TERCERO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3AL",
+				"nombre": "TERCERO PROF. AURELIO LEBRATO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3CS",
+				"nombre": "TERCERO PROF. CARLOS SEVESO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3TFDQ",
+				"nombre": "TERCERO PROF. DUNCAN QUINTELA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3HL",
+				"nombre": "TERCERO PROF. HECTOR LABORDE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3JI",
+				"nombre": "TERCERO PROF. JOSE L. INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3SP",
+				"nombre": "TERCERO PROF. SILVESTRE PECIAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "4TFP",
+		"min": 1,
+		"max": 7,
+		"previas": [
+			{
+				"id": "4TFAH",
+				"nombre": "CUARTO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4TALL",
+				"nombre": "CUARTO PROF. ANTONIO LLORENS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4TEDY",
+				"nombre": "CUARTO PROF. EDUARDO DIAZ YEPES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4TFJA",
+				"nombre": "CUARTO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4TFMP",
+				"nombre": "CUARTO PROF. MIGUEL A. PAREJA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4TFDQ",
+				"nombre": "CUARTO PROF. DUNCAN QUINTELA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4TFEA",
+				"nombre": "CUARTO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SEM",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "SEMI",
+				"nombre": "SEMINARIO DE LAS ESTETICAS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SEMII",
+				"nombre": "SEMINARIO DE LAS ESTETICAS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S-T",
+				"nombre": "SEMINARIO TALLER",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "TLO2",
+		"min": 1,
+		"max": 7,
+		"previas": [
+			{
+				"id": "2.2AH",
+				"nombre": "SEGUNDO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2AL",
+				"nombre": "SEGUNDO PROF. AURELIO LEBRATO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2CM",
+				"nombre": "SEGUNDO PROF. CARLOS MUSSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2CS",
+				"nombre": "SEGUNDO PROF. CARLOS SEVESO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2EA",
+				"nombre": "SEGUNDO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2GB",
+				"nombre": "SEGUNDO PROF. GABRIEL BRUZZONE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2HL",
+				"nombre": "SEGUNDO PROF. HECTOR LABORDE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2JA",
+				"nombre": "SEGUNDO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2JI",
+				"nombre": "SEGUNDO PROF. JOSE L. INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2OA",
+				"nombre": "SEGUNDO PROF. OSCAR AGUIRRE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2SP",
+				"nombre": "SEGUNDO PROF. SILVESTRE PECIAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.2LL",
+				"nombre": "SEGUNDO TALLER ANTONIO LLORENS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "TLO3",
+		"min": 1,
+		"max": 7,
+		"previas": [
+			{
+				"id": "2.3AH",
+				"nombre": "TERCERO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3AL",
+				"nombre": "TERCERO PROF. AURELIO LEBRATO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3CM",
+				"nombre": "TERCERO PROF. CARLOS MUSSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3CS",
+				"nombre": "TERCERO PROF. CARLOS SEVESO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3EA",
+				"nombre": "TERCERO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3GB",
+				"nombre": "TERCERO PROF. GABRIEL BRUZZONE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3HL",
+				"nombre": "TERCERO PROF. HECTOR LABORDE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3JA",
+				"nombre": "TERCERO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3JI",
+				"nombre": "TERCERO PROF. JOSE L. INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3OA",
+				"nombre": "TERCERO PROF. OSCAR AGUIRRE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.3SP",
+				"nombre": "TERCERO PROF. SILVESTRE PECIAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "TLOEP",
+		"min": 1,
+		"max": 8,
+		"previas": [
+			{
+				"id": "2.1AH",
+				"nombre": "PRIMERO PROF. ANHELO HERNANDEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1AL",
+				"nombre": "PRIMERO PROF. AURELIO LEBRATO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1CM",
+				"nombre": "PRIMERO PROF. CARLOS MUSSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1CS",
+				"nombre": "PRIMERO PROF. CARLOS SEVESO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1EA",
+				"nombre": "PRIMERO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1GB",
+				"nombre": "PRIMERO PROF. GABRIEL BRUZZONE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1HL",
+				"nombre": "PRIMERO PROF. HECTOR LABORDE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1JA",
+				"nombre": "PRIMERO PROF. JAVIER ALONSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1JI",
+				"nombre": "PRIMERO PROF. JOSE L. INVERNIZZI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1OA",
+				"nombre": "PRIMERO PROF. OSCAR AGUIRRE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1SP",
+				"nombre": "PRIMERO PROF. SILVESTRE PECIAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2.1LL",
+				"nombre": "PRIMERO TALLER ANTONIO LLORENS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

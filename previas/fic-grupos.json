@@ -1,0 +1,1773 @@
+[
+	{
+		"id": "GA12C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A12B",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A12",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA23C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A10B",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA23E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A10B",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A302",
+				"nombre": "GESTIÓN DOCUMENTAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA26C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A6B",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA26E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A201",
+				"nombre": "GESTION DOCUMENTAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A6B",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA29E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A9",
+				"nombre": "DESCRIPCION DOCUMENTAL Y SERV.ARCHIVISTI",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A301",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A9B",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL Y SERV. EXT.ARCH.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA32C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A101",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2B",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA32E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A101",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2B",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA34C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A102",
+				"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1B",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGÍA.-",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA34E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A102",
+				"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1B",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGÍA.-",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA7C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A71",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA7",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A71",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205",
+				"nombre": "ORGANIZACIÓN DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA9C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A9",
+				"nombre": "DESCRIPCION DOCUMENTAL Y SERV.ARCHIVISTI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A301",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A9B",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL Y SERV. EXT.ARCH.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GAB2E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GAB3E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "204",
+				"nombre": "IPAD I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GB1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "404",
+				"nombre": "ADMINISTRACIÓN UNIDADES INFORMACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GB2",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "401",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "401",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GB3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "403",
+				"nombre": "HISTORIA DE LAS IDEAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GBA4E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AB4",
+				"nombre": "INTRODUCCION AL PROC. AUT. DATOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304",
+				"nombre": "IPAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL11E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL15",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "B301",
+				"nombre": "DESCRIPCIÓN Y ACCESO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL17C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L17",
+				"nombre": "PROCESOS TECNICOS III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L17B",
+				"nombre": "PROCESOS TÉCNICOS III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL19E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "B208",
+				"nombre": "REFERENCIA Y SERVICIOS AL USUARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL20E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "103",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL32C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L13B",
+				"nombre": "INTROD. A LA BIBLIOTECOLOGÍA Y CS. DE LA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B102",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL32E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L13B",
+				"nombre": "INTROD. A LA BIBLIOTECOLOGÍA Y CS. DE LA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B102",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL33E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "104",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL35E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "B101",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL38E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "B501",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL3C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L43",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "402",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L43",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "402",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL47C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL47E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL50C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L18",
+				"nombre": "REDES Y SISTEMAS DE INFORMACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L28",
+				"nombre": "REDES Y SISTEMAS DE INFORMACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL51C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L6",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L6B",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL51E",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L6",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L6B",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL5C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L5",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L53",
+				"nombre": "ADMINISTRACIÓN I I.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL5",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L5",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L53",
+				"nombre": "ADMINISTRACIÓN I I.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL7E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B207",
+				"nombre": "METODOLOGÍA DEL TRABAJO BIBLIOGRÁFICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL8",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L8",
+				"nombre": "BIBLIOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B406",
+				"nombre": "FUENTES INFORMACIÓN ESPECIALIZADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL9",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B302",
+				"nombre": "ORGANIZACIÓN DEL CONOCIMIENTO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GRIEC",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "4003",
+				"nombre": "DISCURSO, TECNICAS Y COM (GEN.2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "005",
+				"nombre": "INTROD. AL ESTUDIO DE LA COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "4002",
+				"nombre": "TEORIAS DE LA COM. I (CR 9 / GEN 2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GRIE",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "4003",
+				"nombre": "DISCURSO, TECNICAS Y COM (GEN.2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5006",
+				"nombre": "DISCURSO, TÉCNICA Y COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "005",
+				"nombre": "INTROD. AL ESTUDIO DE LA COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "4002",
+				"nombre": "TEORIAS DE LA COM. I (CR 9 / GEN 2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5003",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GRSOC",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "5005",
+				"nombre": "PENSAMIENTO SOCIAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4005",
+				"nombre": "PENSAMIENTO SOCIAL I (GEN 2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "004",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "032",
+				"nombre": "SOCIOLOGIA DE LA COMUNICACION (PLAN 95)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "4200",
+				"nombre": "SOCIOLOGÍA DE LA COMUNICACIÓN P.2012-5CR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GSTAU",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "044ST",
+				"nombre": "SEMINARIO TALLER ANÁLISIS COM. (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "042ST",
+				"nombre": "SEMINARIO TALLER COM.COMUNITARIA (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "040ST",
+				"nombre": "SEMINARIO TALLER DE PERIODISMO (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "043ST",
+				"nombre": "SEMINARIO TALLER DE PUBLICIDAD (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			}
+		]
+	},
+	{
+		"id": "GSTCO",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "044ST",
+				"nombre": "SEMINARIO TALLER ANÁLISIS COM. (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "041ST",
+				"nombre": "SEMINARIO TALLER AUDIOVISUAL (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "040ST",
+				"nombre": "SEMINARIO TALLER DE PERIODISMO (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "043ST",
+				"nombre": "SEMINARIO TALLER DE PUBLICIDAD (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			}
+		]
+	},
+	{
+		"id": "GSTOP",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "041ST",
+				"nombre": "SEMINARIO TALLER AUDIOVISUAL (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "042ST",
+				"nombre": "SEMINARIO TALLER COM.COMUNITARIA (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "040ST",
+				"nombre": "SEMINARIO TALLER DE PERIODISMO (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "043ST",
+				"nombre": "SEMINARIO TALLER DE PUBLICIDAD (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			}
+		]
+	},
+	{
+		"id": "GSTPE",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "044ST",
+				"nombre": "SEMINARIO TALLER ANÁLISIS COM. (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "041ST",
+				"nombre": "SEMINARIO TALLER AUDIOVISUAL (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "042ST",
+				"nombre": "SEMINARIO TALLER COM.COMUNITARIA (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "043ST",
+				"nombre": "SEMINARIO TALLER DE PUBLICIDAD (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			}
+		]
+	},
+	{
+		"id": "GSTPU",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "044ST",
+				"nombre": "SEMINARIO TALLER ANÁLISIS COM. (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "041ST",
+				"nombre": "SEMINARIO TALLER AUDIOVISUAL (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "042ST",
+				"nombre": "SEMINARIO TALLER COM.COMUNITARIA (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			},
+			{
+				"id": "040ST",
+				"nombre": "SEMINARIO TALLER DE PERIODISMO (180HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 180
+			}
+		]
+	},
+	{
+		"id": "GTEC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4206",
+				"nombre": "DISEÑO Y ANÁLISIS CUAL. Y CUANTI. (CR 6)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "023",
+				"nombre": "INTROD. A LAS TECN. DE INV. EN COMUNIC.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4007",
+				"nombre": "MET. DE LA INV. EN COM. (GEN 2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5010",
+				"nombre": "METODOLOGÍA INVESTIGACIÓN EN COM",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GTEOR",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "022",
+				"nombre": "TEORIA DE LA COMUNICACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "4205",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN II C.PROF-TEOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "PRE4B",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "036",
+				"nombre": "EPISTEMOLOGIA DE LAS CIENCIAS DE LA COM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "030",
+				"nombre": "LENGUAJE AUDIOVISUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "031",
+				"nombre": "SEMIOTICA Y TEORIA DE LA INTERPRETACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "032",
+				"nombre": "SOCIOLOGIA DE LA COMUNICACION (PLAN 95)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PRE4",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "O1039",
+				"nombre": "ARGUMENTACIÓN (5 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "024",
+				"nombre": "CIENCIA POLITICA Y COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4203",
+				"nombre": "COMUNICACIÓN SONORA C.PROF LENG Y MED",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1018",
+				"nombre": "COMUNICACIÓN Y GÉNERO (5 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4003",
+				"nombre": "DISCURSO, TECNICAS Y COM (GEN.2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5006",
+				"nombre": "DISCURSO, TÉCNICA Y COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "025",
+				"nombre": "ECONOMIA Y COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4207",
+				"nombre": "ECONOMÍA Y POLÍTICA-EQUIV.CIEN.POL.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1001",
+				"nombre": "ESTADÍSTICA APLICADA (9.CRED-2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "001",
+				"nombre": "HISTORIA CONTEMPORANEA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4004",
+				"nombre": "HISTORIA CONTEMPORANEA (G.2013-8CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5008",
+				"nombre": "HISTORIA CONTEMPORÁNEA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1021",
+				"nombre": "HISTORIA DEL PENSAMIENTO ECONOM. (4 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4201",
+				"nombre": "IMAGEN I - C.PROF. LENG Y MED",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1024",
+				"nombre": "IMAGEN II (8 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "023",
+				"nombre": "INTROD. A LAS TECN. DE INV. EN COMUNIC.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "005",
+				"nombre": "INTROD. AL ESTUDIO DE LA COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5000",
+				"nombre": "LENGUA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4000",
+				"nombre": "LENGUA I (CR 9 / GEN 2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "020",
+				"nombre": "LENGUAJE Y ESTETICA DE LA IMAGEN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "021",
+				"nombre": "LENGUAJE Y ESTETICA DEL SONIDO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1032",
+				"nombre": "MEDIOS, POLÍT Y DEMOCR. URUGUAY 8 CR/SCP",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4007",
+				"nombre": "MET. DE LA INV. EN COM. (GEN 2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5010",
+				"nombre": "METODOLOGÍA INVESTIGACIÓN EN COM",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "006",
+				"nombre": "METODOS LOGICO CUANTITATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5005",
+				"nombre": "PENSAMIENTO SOCIAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4005",
+				"nombre": "PENSAMIENTO SOCIAL I (GEN 2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "004",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1020",
+				"nombre": "TALLER DE HISTORIA CONTEMPORÁNEA (3 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1023",
+				"nombre": "TECNOLOGÍA APLICADA AL SONIDO (9CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "022",
+				"nombre": "TEORIA DE LA COMUNICACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4002",
+				"nombre": "TEORIAS DE LA COM. I (CR 9 / GEN 2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5003",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4205",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN II C.PROF-TEOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PRE4E",
+		"min": 5,
+		"max": 0,
+		"previas": [
+			{
+				"id": "034",
+				"nombre": "ANTROPOLOGIA CULTURAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1039",
+				"nombre": "ARGUMENTACIÓN (5 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1017",
+				"nombre": "ARGUMENTACIÓN (8 CR-2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1002",
+				"nombre": "ARGUMENTACIÓN (9 CRED.) 2013",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "024",
+				"nombre": "CIENCIA POLITICA Y COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4203",
+				"nombre": "COMUNICACIÓN SONORA C.PROF LENG Y MED",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "035",
+				"nombre": "DERECHO DEONTOLOGIA Y ETICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4003",
+				"nombre": "DISCURSO, TECNICAS Y COM (GEN.2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5006",
+				"nombre": "DISCURSO, TÉCNICA Y COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4206",
+				"nombre": "DISEÑO Y ANÁLISIS CUAL. Y CUANTI. (CR 6)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "025",
+				"nombre": "ECONOMIA Y COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1033",
+				"nombre": "ECONOMÍA IND. CULT. Y POLIT. PÚBL. 6 CR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "50",
+				"nombre": "ECONOMÍA Y POL. (EQUIV-ECON COM)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4207",
+				"nombre": "ECONOMÍA Y POLÍTICA-EQUIV.CIEN.POL.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "036",
+				"nombre": "EPISTEMOLOGIA DE LAS CIENCIAS DE LA COM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1001",
+				"nombre": "ESTADÍSTICA APLICADA (9.CRED-2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4209",
+				"nombre": "ESTADÍSTICA BÁSICA - C.PROF. - METODOLOG",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "001",
+				"nombre": "HISTORIA CONTEMPORANEA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4004",
+				"nombre": "HISTORIA CONTEMPORANEA (G.2013-8CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5008",
+				"nombre": "HISTORIA CONTEMPORÁNEA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1021",
+				"nombre": "HISTORIA DEL PENSAMIENTO ECONOM. (4 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4201",
+				"nombre": "IMAGEN I - C.PROF. LENG Y MED",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1024",
+				"nombre": "IMAGEN II (8 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "029CL",
+				"nombre": "INGLÉS (COMPRENSIÓN LECTORA 60 HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "023",
+				"nombre": "INTROD. A LAS TECN. DE INV. EN COMUNIC.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "005",
+				"nombre": "INTROD. AL ESTUDIO DE LA COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "003",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "026B1",
+				"nombre": "ITALIANO (COMPRENSIÓN LECT. 44 HS-2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "002",
+				"nombre": "LENGUA ESCRITA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5000",
+				"nombre": "LENGUA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4000",
+				"nombre": "LENGUA I (CR 9 / GEN 2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "030",
+				"nombre": "LENGUAJE AUDIOVISUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "020",
+				"nombre": "LENGUAJE Y ESTETICA DE LA IMAGEN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "021",
+				"nombre": "LENGUAJE Y ESTETICA DEL SONIDO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1032",
+				"nombre": "MEDIOS, POLÍT Y DEMOCR. URUGUAY 8 CR/SCP",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4007",
+				"nombre": "MET. DE LA INV. EN COM. (GEN 2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5010",
+				"nombre": "METODOLOGÍA INVESTIGACIÓN EN COM",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "006",
+				"nombre": "METODOS LOGICO CUANTITATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5005",
+				"nombre": "PENSAMIENTO SOCIAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4005",
+				"nombre": "PENSAMIENTO SOCIAL I (GEN 2013/CR 9)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "028CL",
+				"nombre": "PORTUGUÉS (COMPRENSIÓN LECTORA 60HS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5004",
+				"nombre": "PORTUGUÉS-LENGUA EXTR.MOD.LENG Y MED 9CR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "033",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "031",
+				"nombre": "SEMIOTICA Y TEORIA DE LA INTERPRETACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "004",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "032",
+				"nombre": "SOCIOLOGIA DE LA COMUNICACION (PLAN 95)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4200",
+				"nombre": "SOCIOLOGÍA DE LA COMUNICACIÓN P.2012-5CR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1020",
+				"nombre": "TALLER DE HISTORIA CONTEMPORÁNEA (3 CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O1023",
+				"nombre": "TECNOLOGÍA APLICADA AL SONIDO (9CR)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "022",
+				"nombre": "TEORIA DE LA COMUNICACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4002",
+				"nombre": "TEORIAS DE LA COM. I (CR 9 / GEN 2013)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5003",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4205",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN II C.PROF-TEOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PRE4S",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "036",
+				"nombre": "EPISTEMOLOGIA DE LAS CIENCIAS DE LA COM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "030",
+				"nombre": "LENGUAJE AUDIOVISUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "031",
+				"nombre": "SEMIOTICA Y TEORIA DE LA INTERPRETACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "032",
+				"nombre": "SOCIOLOGIA DE LA COMUNICACION (PLAN 95)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

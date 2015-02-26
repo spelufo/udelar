@@ -1,0 +1,673 @@
+[
+	{
+		"id": "NEURO",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1005",
+				"nombre": "COMP0NENTE NEURO-ENDOCRINO-VASCULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1012C",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1010",
+				"nombre": "ASISTENCIA ODONTOLOGICA Y ERGONOMIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1012",
+				"nombre": "INTROD. A LA ATENC. ODONT. Y MMDD",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "1011",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "1012",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1010",
+				"nombre": "ASISTENCIA ODONTOLOGICA Y ERGONOMIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1012",
+				"nombre": "INTROD. A LA ATENC. ODONT. Y MMDD",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "1011",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "102",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "102",
+				"nombre": "HISTOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "103",
+				"nombre": "HISTOLOGIA Y EMBRIOLOGIA BUCODENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "104",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "104",
+				"nombre": "BIOQUIMICA Y BIOFISICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "208",
+				"nombre": "BIOQUIMICA Y BIOFISICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "111",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "111",
+				"nombre": "ODONTOLOGIA SOCIAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "SALUD PUBLICA 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "2000",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "2017",
+				"nombre": "OCLUSIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2022",
+				"nombre": "OCLUSIÓN Y PROSTODONCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "2021",
+				"nombre": "PROSTODONCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "2011",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "2011",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "2008",
+				"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "236",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1003",
+				"nombre": "CAVIDAD BUCAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "1006",
+				"nombre": "CAVIDAD BUCAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "1002",
+				"nombre": "COMPLEJO MAXILO-ALVEOLO-DENTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "3000",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "3011A",
+				"nombre": "PAT. INFL.INFEC.Y TUMORAL DE P.BLANDAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "3012",
+				"nombre": "PATOLOGIA INFLAMATORIA E INFECCIOSA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL.INFECCIOSA Y TUMORAL(CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "3001",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "3011B",
+				"nombre": "MICRO.Y QUIM.DE LAS INF.EN ESTOMATOLOGÍA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "3012",
+				"nombre": "PATOLOGIA INFLAMATORIA E INFECCIOSA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL.INFECCIOSA Y TUMORAL(CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "3011",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "3011B",
+				"nombre": "MICRO.Y QUIM.DE LAS INF.EN ESTOMATOLOGÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "3011A",
+				"nombre": "PAT. INFL.INFEC.Y TUMORAL DE P.BLANDAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3012",
+				"nombre": "PATOLOGIA INFLAMATORIA E INFECCIOSA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL.INFECCIOSA Y TUMORAL(CL.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "407",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "406",
+				"nombre": "ORTOPEDIA DENTO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "407",
+				"nombre": "ORTOPEDIA DENTO MAXILO FACIAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5020",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "5010",
+				"nombre": "PEDIATRIA (CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "4010",
+				"nombre": "PEDIATRIA I (CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5015",
+				"nombre": "PEDIATRIA II (CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "A13A5",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AH5C",
+				"nombre": "MAT. PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A13",
+				"nombre": "MATERIALES DENTALES PARA ASISTENTES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "A5A13",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AH5C",
+				"nombre": "MAT. PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A13",
+				"nombre": "MATERIALES DENTALES PARA ASISTENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "A9H8",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "H8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A9",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "AH89",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "H8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A9",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C102",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "102",
+				"nombre": "HISTOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "103",
+				"nombre": "HISTOLOGIA Y EMBRIOLOGIA BUCODENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C104",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "104",
+				"nombre": "BIOQUIMICA Y BIOFISICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "208",
+				"nombre": "BIOQUIMICA Y BIOFISICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C403",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "403",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "404",
+				"nombre": "CLINICA OPERATORIA DENTAL 2 (P)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CLIN3",
+		"min": 3,
+		"max": 4,
+		"previas": [
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4014",
+				"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "H8A9",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "H8",
+				"nombre": "PROCED. TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "H8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "HA98",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "H8",
+				"nombre": "PROCED. TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "H8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OPT1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1040",
+				"nombre": "CURSO BASICO DE INFORMATICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2040",
+				"nombre": "INICIACION A LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2041",
+				"nombre": "INICIACION A LA INVESTIGACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1041",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1050",
+				"nombre": "LECTURA COMPRENSIVA DE INGLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1051",
+				"nombre": "LECTURA COMPRENSIVA DE INGLES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OPT2",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4040",
+				"nombre": "EMERGENCIAS EN ODONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4050",
+				"nombre": "FACTORES PSICOLOGICOS EN LA PRACTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4060",
+				"nombre": "TUTORÍA ENTRE PARES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OPT3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5045",
+				"nombre": "ATENCION A PACIENTES ESPECIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5050",
+				"nombre": "INTRODUCCION A LA PROTESIS BMF",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5055",
+				"nombre": "ODONTOLOGIA DEL ADULTO MAYOR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5060",
+				"nombre": "ODONTOLOGIA LEGAL Y FORENSE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OS1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1030",
+				"nombre": "ODONTOLOGIA SOCIAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1031",
+				"nombre": "SALUD Y PREVENCION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OS2",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "2030",
+				"nombre": "ODONTOLOGIA SOCIAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3030",
+				"nombre": "ODONTOLOGIA SOCIAL 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "3031",
+				"nombre": "SALUD COLECTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	}
+]

@@ -1,0 +1,1064 @@
+[
+	{
+		"id": "001",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "001",
+				"nombre": "CICLO BASICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "016",
+				"nombre": "CICLO BÁSICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CIMGI",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "CIMG",
+				"nombre": "CICLO INTROD.MED.GENERAL INTEGRAL 2013",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "CMEIA",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "SMEIA",
+				"nombre": "MEIA - 2013 EN ADELANTE",
+				"actividad": "Curso aprobado",
+				"puntaje": 55
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"puntaje": 55
+			}
+		]
+	},
+	{
+		"id": "G003",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "003",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "203",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G09C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "209",
+				"nombre": "C.E.F.A.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "509",
+				"nombre": "C.E.F.A.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G11",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "211",
+				"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "511",
+				"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G1CGI",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CGIM2",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CGIM1",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CLIM1",
+				"nombre": "CLINICO GRAL INTEGRAL MEDICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G1CIM",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BCM",
+				"nombre": "BCM DEL CBCC MOD1 - CAMBIO DE PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CBCC",
+				"nombre": "CBCC - MODULO I CURSO 2009-2012",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC",
+				"nombre": "CBCC MODULO I CURSO A PARTIR 2013",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP2",
+				"nombre": "COMPLEMENTO CBCCMODULOI - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G1MC",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BCM",
+				"nombre": "BCM DEL CBCC MOD1 - CAMBIO DE PLAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CBCC",
+				"nombre": "CBCC - MODULO I CURSO 2009-2012",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC",
+				"nombre": "CBCC MODULO I CURSO A PARTIR 2013",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP2",
+				"nombre": "COMPLEMENTO CBCCMODULOI - CAMBIO PLAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G2CGI",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CGIM2",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CGIM1",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CLIM1",
+				"nombre": "CLINICO GRAL INTEGRAL MEDICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G2CIM",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CBCC2",
+				"nombre": "CBCC - MODULO II CURSO 2010-2011",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC2",
+				"nombre": "CBCC - MODULO II CURSO A PARTIR 2012",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP3",
+				"nombre": "COMPLEMENTO CBCCMODULOII - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CT2",
+				"nombre": "CONT.TEORICOS CBCCMODII - CAMBIO DE PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G3CIM",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CBCC3",
+				"nombre": "CBCC - MODULO III CURSO 2010-2011",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC3",
+				"nombre": "CBCC - MODULO III CURSO A PARTIR 2012",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP4",
+				"nombre": "COMPLEMENTO CBCCMODULOIII - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CT3",
+				"nombre": "CONT.TEORICOS CBCCMOD III - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "203",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "503",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G4CIM",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CBCC4",
+				"nombre": "CBCC - MODULO IV CURSO 2010",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC4",
+				"nombre": "CBCC - MODULO IV CURSO A PARTIR 2011",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP5",
+				"nombre": "COMPLEMENTO CBCCMODULOIV - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CT4",
+				"nombre": "CONT.TEORICOS CBCCMOD IV - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G4",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "204",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "504",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G5CIM",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BCC5",
+				"nombre": "CBCC - MODULO V CURSO DESDE 2014",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "CBCC5",
+				"nombre": "CBCC - MODULO V CURSOS 2011-2013",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP6",
+				"nombre": "COMPLEMENTO CBCCMODULO V - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CT5",
+				"nombre": "CONT.TEORICOS CBCCMOD V - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G5",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "205",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "505",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G6CIM",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CBCC6",
+				"nombre": "CBCC - MOD VI",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP7",
+				"nombre": "COMPLEMENTO CBCCMODULO VI - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CT6",
+				"nombre": "CONT.TEORICOS CBCCMOD VI - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G6",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "206",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "506",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G7",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "207",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "507",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G9",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "209",
+				"nombre": "C.E.F.A.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "509",
+				"nombre": "C.E.F.A.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GBCC2",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CBCC2",
+				"nombre": "CBCC - MODULO II CURSO 2010-2011",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC2",
+				"nombre": "CBCC - MODULO II CURSO A PARTIR 2012",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP3",
+				"nombre": "COMPLEMENTO CBCCMODULOII - CAMBIO PLAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CT2",
+				"nombre": "CONT.TEORICOS CBCCMODII - CAMBIO DE PLAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GBCC4",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CBCC4",
+				"nombre": "CBCC - MODULO IV CURSO 2010",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC4",
+				"nombre": "CBCC - MODULO IV CURSO A PARTIR 2011",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "GCBCC",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BCM",
+				"nombre": "BCM DEL CBCC MOD1 - CAMBIO DE PLAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CBCC",
+				"nombre": "CBCC - MODULO I CURSO 2009-2012",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC",
+				"nombre": "CBCC MODULO I CURSO A PARTIR 2013",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP2",
+				"nombre": "COMPLEMENTO CBCCMODULOI - CAMBIO PLAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GCI",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CI13",
+				"nombre": "CICLO INTRODUCTORIO A PARTIR AÑO 2013",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "CI",
+				"nombre": "CICLO INTRODUCTORIO CURSO 2009-2012",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP1",
+				"nombre": "COMPLEMENTO (CICLO INTRODUCTORIO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CTCI",
+				"nombre": "CONTENIDOS TEORICOS DEL C.I.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GCIM",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 55
+			},
+			{
+				"id": "CIMG",
+				"nombre": "CICLO INTROD.MED.GENERAL INTEGRAL 2013",
+				"actividad": "Curso aprobado",
+				"puntaje": 55
+			}
+		]
+	},
+	{
+		"id": "GCIMG",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 55
+			},
+			{
+				"id": "CIMG",
+				"nombre": "CICLO INTROD.MED.GENERAL INTEGRAL 2013",
+				"actividad": "Examen aprobado",
+				"puntaje": 55
+			}
+		]
+	},
+	{
+		"id": "GCMEI",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "SMEIA",
+				"nombre": "MEIA - 2013 EN ADELANTE",
+				"actividad": "Curso aprobado",
+				"puntaje": 55
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"puntaje": 55
+			}
+		]
+	},
+	{
+		"id": "GEXM2",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CBCC2",
+				"nombre": "CBCC - MODULO II CURSO 2010-2011",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BCC2",
+				"nombre": "CBCC - MODULO II CURSO A PARTIR 2012",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "COMP3",
+				"nombre": "COMPLEMENTO CBCCMODULOII - CAMBIO PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CT2",
+				"nombre": "CONT.TEORICOS CBCCMODII - CAMBIO DE PLAN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GMEIA",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "SMEIA",
+				"nombre": "MEIA - 2013 EN ADELANTE",
+				"actividad": "Examen aprobado",
+				"puntaje": 55
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Examen aprobado",
+				"puntaje": 55
+			}
+		]
+	},
+	{
+		"id": "GO10",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "210",
+				"nombre": "C.I.M.I.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510",
+				"nombre": "C.I.M.I.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GO13",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "213",
+				"nombre": "CICLO MATERNO INFANTIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "513",
+				"nombre": "CICLO MATERNO INFANTIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GO1",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "216",
+				"nombre": "CICLO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "CB07",
+				"nombre": "CICLO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "CBASC",
+				"nombre": "CICLO BASICO CURSO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MODI",
+				"nombre": "CICLO BASICO MODULO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MODII",
+				"nombre": "CICLO BASICO MODULO II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MOD3",
+				"nombre": "CICLO BASICO MODULO III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MOD4",
+				"nombre": "CICLO BASICO MODULO IV",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "501",
+				"nombre": "CICLO BÁSICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "516",
+				"nombre": "CICLO BÁSICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			}
+		]
+	},
+	{
+		"id": "GO2",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "202",
+				"nombre": "ESFUNO-BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "502",
+				"nombre": "ESFUNO-BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GO3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "203",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "503",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GO4",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "204",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "504",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "220",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GO5",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "218",
+				"nombre": "ANATOMIA CLINICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "518",
+				"nombre": "ANATOMIA CLINICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "215",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "515",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "205",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "505",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "GO6",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "206",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "506",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GO7",
+		"min": 6,
+		"max": 7,
+		"previas": [
+			{
+				"id": "217",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 4
+			},
+			{
+				"id": "517",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 4
+			},
+			{
+				"id": "219",
+				"nombre": "DIGESTIVO, RENAL Y ENDOCRINO Y REPRODUCT",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "519",
+				"nombre": "DIGESTIVO, RENAL Y ENDOCRINO Y REPRODUCT",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "207",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "507",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "208",
+				"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "508",
+				"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			}
+		]
+	},
+	{
+		"id": "GR015",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "005",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "003",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "004",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GR15",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "215",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "515",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GRC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "015",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "020",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

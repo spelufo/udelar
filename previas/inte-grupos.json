@@ -1,0 +1,141 @@
+[
+	{
+		"id": "M1Y2",
+		"min": 2,
+		"max": 3,
+		"previas": [
+			{
+				"id": "MC10T",
+				"nombre": "CALCULO",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "114T",
+				"nombre": "CÁLCULO I /A",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "128T",
+				"nombre": "CÁLCULO I /B",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "RA13A",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "RAH5C",
+				"nombre": "MAT. PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "RA13",
+				"nombre": "MATERIALES DENTALES PARA ASISTENTES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "RA5A1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "RAH5C",
+				"nombre": "MAT. PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "RA13",
+				"nombre": "MATERIALES DENTALES PARA ASISTENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "RA9H8",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "RH8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "RA9",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "RAH89",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "RH8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "RA9",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "RH8A9",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "RH8",
+				"nombre": "PROCED. TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "RH8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "RHA98",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "RH8",
+				"nombre": "PROCED. TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "RH8A9",
+				"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

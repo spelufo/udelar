@@ -1,0 +1,4442 @@
+[
+	{
+		"id": "100EC",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "A10",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "215",
+				"nombre": "CIENCIA POLITICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S21",
+				"nombre": "CIENCIA POLÍTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "425",
+				"nombre": "COMERCIALIZACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC10",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC31",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC43",
+				"nombre": "CÁLCULO III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "220",
+				"nombre": "DERECHO PUBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J60",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "451",
+				"nombre": "DIRECCION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "440",
+				"nombre": "DIRECCION DE ORGANIZACIONES PUBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "431",
+				"nombre": "ECONOMETRÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "454",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC61",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "526",
+				"nombre": "ECONOMETRÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC70",
+				"nombre": "ECONOMETRÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "324",
+				"nombre": "ECONOMÍA DE AMERICA LATINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E51",
+				"nombre": "ECONOMÍA DE AMÉRICA LATINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4341",
+				"nombre": "ECONOMÍA DEL SECTOR PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "E60",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E20",
+				"nombre": "ECONOMÍA DESCRIPTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "116",
+				"nombre": "ECONOMÍA DESCRIPTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "216",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "442",
+				"nombre": "ECONOMÍA INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "538",
+				"nombre": "ECONOMÍA INST. Y DE LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "432",
+				"nombre": "ECONOMÍA INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "E70",
+				"nombre": "ECONOMÍA INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "444",
+				"nombre": "ECONOMÍA LABORAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "326",
+				"nombre": "ECONOMÍA MATEMÁTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "433",
+				"nombre": "ECONOMÍA MONETARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "418",
+				"nombre": "ECONOMÍA Y FINANZAS INTERNACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "434",
+				"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "527",
+				"nombre": "ECONOMÍA Y GESTIÓN BANCARIAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "529",
+				"nombre": "ECONOMÍA Y GESTIÓN DE LA SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "222",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "321",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC42",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC51",
+				"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "452",
+				"nombre": "FINANZAS DE EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "620",
+				"nombre": "GENERO Y ECONOMIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "419",
+				"nombre": "GLOBALIZACION,TRANS.,COM.INTERN.E INTEG.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "516",
+				"nombre": "HISTORIA DEL PENSAMIENTO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "446",
+				"nombre": "HISTORIA ECONOMICA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "219",
+				"nombre": "HISTORIA ECONOMICA UNIVERSAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S40",
+				"nombre": "HISTORIA ECONÓMICA UNIVERSAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S20",
+				"nombre": "INT. A LAS ESC. DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "217",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "114",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "514",
+				"nombre": "MACROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4342",
+				"nombre": "MACROECONOMIA Y FINANZAS PUBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E50",
+				"nombre": "MACROECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A61",
+				"nombre": "MARKETING BÁSICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC30",
+				"nombre": "MATEMÁTICA FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "515",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "453",
+				"nombre": "METODOS CUANT.AVANZADOS (OP.ECONOMETRIA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "441",
+				"nombre": "METODOS CUANT.AVANZADOS (OP.ESTADISTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E41",
+				"nombre": "MICROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E61",
+				"nombre": "MICROECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "518",
+				"nombre": "POLITICA Y PLANIFICACION ECONOMICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "445",
+				"nombre": "PREPARACION Y EVAL. DE PROYECTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "517",
+				"nombre": "SEMINARIO DE ECONOMIA NACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E33",
+				"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "115",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "115P",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S90",
+				"nombre": "SOCIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E71",
+				"nombre": "TEORÍAS DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC20",
+				"nombre": "ÁLGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "111G",
+		"min": 2,
+		"max": 7,
+		"previas": [
+			{
+				"id": "MC10",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC10E",
+				"nombre": "CÁLCULO **",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC20",
+				"nombre": "ÁLGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC20E",
+				"nombre": "ÁLGEBRA LINEAL**",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "113G",
+		"min": 2,
+		"max": 6,
+		"previas": [
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "J20B",
+				"nombre": "DERECHO CIVIL *",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "114G",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A10",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "114P",
+		"min": 1,
+		"max": 6,
+		"previas": [
+			{
+				"id": "A10",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A10E",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I **",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "116G",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "E20",
+				"nombre": "ECONOMÍA DESCRIPTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "116",
+				"nombre": "ECONOMÍA DESCRIPTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "117G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "125M",
+		"min": 1,
+		"max": 1,
+		"previas": []
+	},
+	{
+		"id": "180CP",
+		"min": 8,
+		"max": 0,
+		"previas": [
+			{
+				"id": "532",
+				"nombre": "ACTUACIONES PERICIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A10",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "541",
+				"nombre": "AUDITORIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "5411",
+				"nombre": "AUDITORIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5412",
+				"nombre": "AUDITORIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C70",
+				"nombre": "AUDITORÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A63",
+				"nombre": "COMERCIO INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "CONT.PRESUPUESTAL Y PARA EL CONT.DE GES.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "210",
+				"nombre": "CONTABILIDAD BASICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "316",
+				"nombre": "CONTABILIDAD DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C40",
+				"nombre": "CONTABILIDAD GENERAL III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C60",
+				"nombre": "CONTABILIDAD SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "317",
+				"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C61",
+				"nombre": "CONTROL INTERNO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "429",
+				"nombre": "CONTROL INTERNO Y ORGANIZ.DE SIST.CONTAB",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C62",
+				"nombre": "COSTOS PARA LA TOMA DE DECISIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC10",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC31",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC43",
+				"nombre": "CÁLCULO III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "213",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "J30",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "220",
+				"nombre": "DERECHO PUBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J60",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J40",
+				"nombre": "DERECHO SOCIETARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "322",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J50",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "319",
+				"nombre": "ECONOMÍA APLICADA A LA EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E20",
+				"nombre": "ECONOMÍA DESCRIPTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "116",
+				"nombre": "ECONOMÍA DESCRIPTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "218",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC42",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC51",
+				"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A71",
+				"nombre": "FINANZAS CORPORATIVAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "S20",
+				"nombre": "INT. A LAS ESC. DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "217",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "114",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "422",
+				"nombre": "LEGISLACION Y TECNICA TRIBUTARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C41",
+				"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC30",
+				"nombre": "MATEMÁTICA FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "522",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I70",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN*",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C50",
+				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "536",
+				"nombre": "NEGOCIOS CON EL EXTERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "214",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A30",
+				"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "318",
+				"nombre": "RELACIONES LABORALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "313",
+				"nombre": "SISTEMAS COMPUTACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "115",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "115P",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S90",
+				"nombre": "SOCIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "430",
+				"nombre": "TEORIA CONTABLE SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C72",
+				"nombre": "TRIBUTARIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C82",
+				"nombre": "TRIBUTARIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC20",
+				"nombre": "ÁLGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "202",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "202A",
+				"nombre": "ADMINISTRACIÓN GENERAL (PLAN 90)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "202",
+				"nombre": "ORG.Y ADM.DE EMPRESAS.",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "202B",
+				"nombre": "ORG.Y MET. ADMINISTRATIVOS (PLAN 90)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "20ADM",
+		"min": 2,
+		"max": 6,
+		"previas": [
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "213",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "J30",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J21",
+				"nombre": "DERECHO DEL EMPRESARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J40",
+				"nombre": "DERECHO SOCIETARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "20CRJ",
+		"min": 2,
+		"max": 0,
+		"previas": [
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "213",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "J30",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "220",
+				"nombre": "DERECHO PUBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J60",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J40",
+				"nombre": "DERECHO SOCIETARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "322",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J50",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "210G",
+		"min": 2,
+		"max": 8,
+		"previas": [
+			{
+				"id": "210",
+				"nombre": "CONTABILIDAD BASICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C30B",
+				"nombre": "CONTABILIDAD GENERAL II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C40",
+				"nombre": "CONTABILIDAD GENERAL III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C40B",
+				"nombre": "CONTABILIDAD GENERAL III *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "211G",
+		"min": 2,
+		"max": 9,
+		"previas": [
+			{
+				"id": "MC31",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC31B",
+				"nombre": "CÁLCULO II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC43",
+				"nombre": "CÁLCULO III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "212G",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30B",
+				"nombre": "MACROECONOMÍA I *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40B",
+				"nombre": "MACROECONOMÍA II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "214G",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "214",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "214E",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMNISTRATIVOS/E",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A30",
+				"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "216G",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "216",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E33",
+				"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "218G",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "218",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC30",
+				"nombre": "MATEMÁTICA FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "220G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "220",
+				"nombre": "DERECHO PUBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J60",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "222G",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "222",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC30",
+				"nombre": "MATEMÁTICA FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "307",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "307B",
+				"nombre": "CONT.Y CAMBIO DE PRECIOS (PLAN 90)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "307",
+				"nombre": "CONTABILIDAD SUPERIOR.",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "307A",
+				"nombre": "TEORIA CONTABLE SUPERIOR (PLAN 90)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "30EC",
+		"min": 3,
+		"max": 0,
+		"previas": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "324",
+				"nombre": "ECONOMÍA DE AMERICA LATINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E51",
+				"nombre": "ECONOMÍA DE AMÉRICA LATINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4341",
+				"nombre": "ECONOMÍA DEL SECTOR PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E60",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E20",
+				"nombre": "ECONOMÍA DESCRIPTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "116",
+				"nombre": "ECONOMÍA DESCRIPTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "216",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "E70",
+				"nombre": "ECONOMÍA INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "326",
+				"nombre": "ECONOMÍA MATEMÁTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "433",
+				"nombre": "ECONOMÍA MONETARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "418",
+				"nombre": "ECONOMÍA Y FINANZAS INTERNACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "434",
+				"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "419",
+				"nombre": "GLOBALIZACION,TRANS.,COM.INTERN.E INTEG.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4342",
+				"nombre": "MACROECONOMIA Y FINANZAS PUBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E50",
+				"nombre": "MACROECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E61",
+				"nombre": "MICROECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E33",
+				"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E71",
+				"nombre": "TEORÍAS DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "30ECP",
+		"min": 3,
+		"max": 0,
+		"previas": [
+			{
+				"id": "319",
+				"nombre": "ECONOMÍA APLICADA A LA EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E20",
+				"nombre": "ECONOMÍA DESCRIPTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "116",
+				"nombre": "ECONOMÍA DESCRIPTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "312G",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "312",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC42",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC51",
+				"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "314G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A20B",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "315G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "315",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A40",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A40B",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS***",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "316G2",
+		"min": 1,
+		"max": 5,
+		"previas": [
+			{
+				"id": "316",
+				"nombre": "CONTABILIDAD DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C50",
+				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "316P",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "316",
+				"nombre": "CONTABILIDAD DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "317",
+				"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C50",
+				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "321G",
+		"min": 2,
+		"max": 8,
+		"previas": [
+			{
+				"id": "321",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC42",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC42B",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC51",
+				"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC51B",
+				"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "322G",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "322",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J50",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "325P",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E60",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "327P",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "328G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "328",
+				"nombre": "CONTABILIDAD DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C31",
+				"nombre": "COSTOS PARA LA GESTIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C31B",
+				"nombre": "COSTOS PARA LA GESTIÓN *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "332G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3332",
+				"nombre": "METODOS NUMÉRICOS - F.ING.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "40CP",
+		"min": 4,
+		"max": 0,
+		"previas": [
+			{
+				"id": "541",
+				"nombre": "AUDITORIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C70",
+				"nombre": "AUDITORÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C73",
+				"nombre": "CONT.DE EMPRESAS DE INTERMED.FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "CONT.PRESUPUESTAL Y PARA EL CONT.DE GES.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "535",
+				"nombre": "CONTAB.DE ENTIDADES DE INTERMED.FINANC.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "210",
+				"nombre": "CONTABILIDAD BASICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "316",
+				"nombre": "CONTABILIDAD DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "588C",
+				"nombre": "CONTABILIDAD DE HOTELERIA Y TURISMO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C40",
+				"nombre": "CONTABILIDAD GENERAL III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C60",
+				"nombre": "CONTABILIDAD SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "317",
+				"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "533",
+				"nombre": "CONTABILIDADES ESPECIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C61",
+				"nombre": "CONTROL INTERNO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "429",
+				"nombre": "CONTROL INTERNO Y ORGANIZ.DE SIST.CONTAB",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C62",
+				"nombre": "COSTOS PARA LA TOMA DE DECISIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "426",
+				"nombre": "GESTION FINANCIERA DEL ESTADO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "422",
+				"nombre": "LEGISLACION Y TECNICA TRIBUTARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C41",
+				"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C50",
+				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "430",
+				"nombre": "TEORIA CONTABLE SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C72",
+				"nombre": "TRIBUTARIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C82",
+				"nombre": "TRIBUTARIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "40JCP",
+		"min": 5,
+		"max": 0,
+		"previas": [
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "213",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 20
+			},
+			{
+				"id": "J30",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "220",
+				"nombre": "DERECHO PUBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "J60",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "J40",
+				"nombre": "DERECHO SOCIETARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "322",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "J50",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			}
+		]
+	},
+	{
+		"id": "429P",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "C61",
+				"nombre": "CONTROL INTERNO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C61B",
+				"nombre": "CONTROL INTERNO *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "429",
+				"nombre": "CONTROL INTERNO Y ORGANIZ.DE SIST.CONTAB",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "430P",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "C60",
+				"nombre": "CONTABILIDAD SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C60B",
+				"nombre": "CONTABILIDAD SUPERIOR *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "430",
+				"nombre": "TEORIA CONTABLE SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "431P",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "431",
+				"nombre": "ECONOMETRÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "526",
+				"nombre": "ECONOMETRÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "432P",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "432",
+				"nombre": "ECONOMÍA INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "418",
+				"nombre": "ECONOMÍA Y FINANZAS INTERNACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "418A",
+				"nombre": "ECONOMÍA Y FINANZAS INTERNACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "434P",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "434",
+				"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "4342",
+				"nombre": "MACROECONOMIA Y FINANZAS PUBLICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "445P",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "452",
+				"nombre": "FINANZAS DE EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "452A",
+				"nombre": "FINANZAS DE EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "445",
+				"nombre": "PREPARACION Y EVAL. DE PROYECTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "445A",
+				"nombre": "PREPARACION Y EVAL. DE PROYECTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "534P",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "534",
+				"nombre": "CONT.PRESUPUESTAL Y PARA EL CONT.DE GES.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C51",
+				"nombre": "CONTABILIDAD DE GESTIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "A20G",
+		"min": 1,
+		"max": 5,
+		"previas": [
+			{
+				"id": "A20R",
+				"nombre": "ADMIN.Y GEST.DE LAS ORG.II (TUA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A20B",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C10G",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C10B",
+				"nombre": "CONCEPTOS CONTABLES *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "C20B",
+		"min": 2,
+		"max": 6,
+		"previas": [
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C10B",
+				"nombre": "CONCEPTOS CONTABLES *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C20B",
+				"nombre": "CONTABILIDAD GENERAL I *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "C30G",
+		"min": 1,
+		"max": 6,
+		"previas": [
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C30B",
+				"nombre": "CONTABILIDAD GENERAL II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C50G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "C50",
+				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C50B",
+				"nombre": "MODELOS Y SISTEMAS DE COSTOS *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E10P",
+		"min": 1,
+		"max": 5,
+		"previas": [
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112E",
+				"nombre": "ECONOMÍA I/E",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10B",
+				"nombre": "INTROD. A LA ECONOMÍA *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E30G",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30B",
+				"nombre": "MACROECONOMÍA I *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E31P",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E40G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40B",
+				"nombre": "MACROECONOMÍA II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E41P",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "4341",
+				"nombre": "ECONOMÍA DEL SECTOR PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "434",
+				"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E41",
+				"nombre": "MICROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E41B",
+				"nombre": "MICROECONOMÍA II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G101",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A10E",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I **",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "125A",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "M125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "101",
+				"nombre": "PRINCIPIOS DE ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G103",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "M112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q112A",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q103",
+				"nombre": "TENEDURIA DE LIBROS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "104",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "Q206",
+				"nombre": "PRACTICA DE RACIONALIZACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q104",
+				"nombre": "TECNICAS DE OFICINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G106",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "M111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q111A",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106",
+				"nombre": "NOCIONES DE ECONOMIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G112B",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C10B",
+				"nombre": "CONCEPTOS CONTABLES *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126A",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G114",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "114A",
+				"nombre": "CÁLCULO I/A",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G125",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A10",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "125A",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "125M",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "M125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G126",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126A",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G126P",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C20B",
+				"nombre": "CONTABILIDAD GENERAL I *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126A",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G128",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CM128",
+				"nombre": "COMP.MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "128A",
+				"nombre": "CÁLCULO I/B",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G201",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "3261",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3261A",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A70",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "M3261",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "201",
+				"nombre": "RELACIONES HUMANAS Y SUPERVISION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G207",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "207",
+				"nombre": "CONTABILIDAD DE LA HACIENDA PUBLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3282",
+				"nombre": "CONTABILIDAD DE LA HACIENDA PUBLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "M3282",
+				"nombre": "CONTABILIDAD DE LA HACIENDA PUBLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3282A",
+				"nombre": "GESTION FINANCIERA DEL ESTADO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G208",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "208",
+				"nombre": "CONTABILIDAD APLICADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "126A",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "M126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G211",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "211A",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G212",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "212A",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G213",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "Q213",
+				"nombre": "INTROD. A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "213A",
+				"nombre": "INTROD. A LA PROBABILIDAD Y ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G214C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "214C",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G214",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "214A",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G227C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "227C",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G227",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "227A",
+				"nombre": "ESTADÍSTICA APLICADA A LA ADMINISTRACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G228C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "228C",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G228",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "228A",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G311",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "311A",
+				"nombre": "MARKETING I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q311",
+				"nombre": "MARKETING I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G312",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "312A",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q312",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GP230",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GPREV",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "225",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Q206",
+				"nombre": "PRACTICA DE RACIONALIZACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "I60PA",
+		"min": 6,
+		"max": 0,
+		"previas": [
+			{
+				"id": "A10",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "524",
+				"nombre": "ADMINISTRACIÓN DE LA PRODUCCIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "315",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A40",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "420",
+				"nombre": "AUDITORIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "4201",
+				"nombre": "AUDITORIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4202",
+				"nombre": "AUDITORIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "521",
+				"nombre": "CAMBIO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "425",
+				"nombre": "COMERCIALIZACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "210",
+				"nombre": "CONTABILIDAD BASICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "328",
+				"nombre": "CONTABILIDAD DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C40",
+				"nombre": "CONTABILIDAD GENERAL III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "317",
+				"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C31",
+				"nombre": "COSTOS PARA LA GESTIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC10",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC31",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC43",
+				"nombre": "CÁLCULO III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "213",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "J30",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J21",
+				"nombre": "DERECHO DEL EMPRESARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J40",
+				"nombre": "DERECHO SOCIETARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "451",
+				"nombre": "DIRECCION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "319",
+				"nombre": "ECONOMÍA APLICADA A LA EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E53",
+				"nombre": "ECONOMÍA DE LAS DECISIONES EMPRESARIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E20",
+				"nombre": "ECONOMÍA DESCRIPTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "116",
+				"nombre": "ECONOMÍA DESCRIPTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "218",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC42",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC51",
+				"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "S20",
+				"nombre": "INT. A LAS ESC. DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "217",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "114",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "422",
+				"nombre": "LEGISLACION Y TECNICA TRIBUTARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C41",
+				"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A61",
+				"nombre": "MARKETING BÁSICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC30",
+				"nombre": "MATEMÁTICA FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "424",
+				"nombre": "METODOS CUANT.APLIC.A LA ADM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "214",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A30",
+				"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "523",
+				"nombre": "PROYECTOS DE INVERSION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "318",
+				"nombre": "RELACIONES LABORALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "313",
+				"nombre": "SISTEMAS COMPUTACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "115",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "115P",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S90",
+				"nombre": "SOCIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC20",
+				"nombre": "ÁLGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "I60P",
+		"min": 6,
+		"max": 0,
+		"previas": [
+			{
+				"id": "532",
+				"nombre": "ACTUACIONES PERICIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A10",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "541",
+				"nombre": "AUDITORIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "5411",
+				"nombre": "AUDITORIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5412",
+				"nombre": "AUDITORIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A63",
+				"nombre": "COMERCIO INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C10",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "CONT.PRESUPUESTAL Y PARA EL CONT.DE GES.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "210",
+				"nombre": "CONTABILIDAD BASICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "316",
+				"nombre": "CONTABILIDAD DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C20",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C40",
+				"nombre": "CONTABILIDAD GENERAL III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C60",
+				"nombre": "CONTABILIDAD SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "317",
+				"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C61",
+				"nombre": "CONTROL INTERNO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "429",
+				"nombre": "CONTROL INTERNO Y ORGANIZ.DE SIST.CONTAB",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C62",
+				"nombre": "COSTOS PARA LA TOMA DE DECISIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC10",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC31",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC43",
+				"nombre": "CÁLCULO III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "113",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "213",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "J30",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "220",
+				"nombre": "DERECHO PUBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J60",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J40",
+				"nombre": "DERECHO SOCIETARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "322",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J50",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "319",
+				"nombre": "ECONOMÍA APLICADA A LA EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E20",
+				"nombre": "ECONOMÍA DESCRIPTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "116",
+				"nombre": "ECONOMÍA DESCRIPTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "218",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC42",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC51",
+				"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "S20",
+				"nombre": "INT. A LAS ESC. DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E10",
+				"nombre": "INTROD. A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "217",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "INTRODUCCIÓN A LA CONTABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC40",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "422",
+				"nombre": "LEGISLACION Y TECNICA TRIBUTARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "C41",
+				"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E30",
+				"nombre": "MACROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "E40",
+				"nombre": "MACROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC30",
+				"nombre": "MATEMÁTICA FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C50",
+				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "536",
+				"nombre": "NEGOCIOS CON EL EXTERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "214",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A30",
+				"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "318",
+				"nombre": "RELACIONES LABORALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "313",
+				"nombre": "SISTEMAS COMPUTACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "115",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "115P",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S90",
+				"nombre": "SOCIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "430",
+				"nombre": "TEORIA CONTABLE SUPERIOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MC20",
+				"nombre": "ÁLGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "J30G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "J30",
+				"nombre": "DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "J30B",
+				"nombre": "DERECHO COMERCIAL *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MC10P",
+		"min": 1,
+		"max": 5,
+		"previas": [
+			{
+				"id": "CM128",
+				"nombre": "COMP.MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC10",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC10E",
+				"nombre": "CÁLCULO **",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "128A",
+				"nombre": "CÁLCULO I/B",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MC20P",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC20",
+				"nombre": "ÁLGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC20E",
+				"nombre": "ÁLGEBRA LINEAL**",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MC30P",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "218",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "222",
+				"nombre": "ESTADISTICA I (FINANCIERA Y PROBABILIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC30",
+				"nombre": "MATEMÁTICA FINANCIERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC30B",
+				"nombre": "MATEMÁTICA FINANCIERA *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MC31G",
+		"min": 1,
+		"max": 8,
+		"previas": [
+			{
+				"id": "MC31",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC31B",
+				"nombre": "CÁLCULO II *",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211EA",
+				"nombre": "MATEMATICA II A",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211EB",
+				"nombre": "MATEMATICA II B",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211E",
+				"nombre": "MATEMATICA II/E",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MC40P",
+		"min": 1,
+		"max": 4,
+		"previas": [
+			{
+				"id": "MC40",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC40B",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA*",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MC42G",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "312",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "321",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC42",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC42B",
+				"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MC70P",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "454",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MC61",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PREV",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "425",
+				"nombre": "COMERCIALIZACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "451",
+				"nombre": "DIRECCION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "440",
+				"nombre": "DIRECCION DE ORGANIZACIONES PUBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "431",
+				"nombre": "ECONOMETRÍA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "454",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "526",
+				"nombre": "ECONOMETRÍA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "443",
+				"nombre": "ECONOMÍA AGROPECUARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4341",
+				"nombre": "ECONOMÍA DEL SECTOR PÚBLICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "442",
+				"nombre": "ECONOMÍA INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "538",
+				"nombre": "ECONOMÍA INST. Y DE LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "432",
+				"nombre": "ECONOMÍA INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "444",
+				"nombre": "ECONOMÍA LABORAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "433",
+				"nombre": "ECONOMÍA MONETARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "418",
+				"nombre": "ECONOMÍA Y FINANZAS INTERNACIONALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "434",
+				"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "527",
+				"nombre": "ECONOMÍA Y GESTIÓN BANCARIAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "529",
+				"nombre": "ECONOMÍA Y GESTIÓN DE LA SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "452",
+				"nombre": "FINANZAS DE EMPRESA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "620",
+				"nombre": "GENERO Y ECONOMIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "419",
+				"nombre": "GLOBALIZACION,TRANS.,COM.INTERN.E INTEG.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "446",
+				"nombre": "HISTORIA ECONOMICA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4342",
+				"nombre": "MACROECONOMIA Y FINANZAS PUBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "453",
+				"nombre": "METODOS CUANT.AVANZADOS (OP.ECONOMETRIA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "441",
+				"nombre": "METODOS CUANT.AVANZADOS (OP.ESTADISTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "445",
+				"nombre": "PREPARACION Y EVAL. DE PROYECTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "447",
+				"nombre": "REGIMENES ECONOMICOS COMPARADOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S20P",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S20",
+				"nombre": "INT. A LAS ESC. DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

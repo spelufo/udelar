@@ -1,0 +1,1197 @@
+[
+	{
+		"id": "C1YC2",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "12111",
+				"nombre": "AGROMETEOROLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12115",
+				"nombre": "ANATOMIA Y FISIOLOGIA ANIMAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12105",
+				"nombre": "BIOQUIMICA Y BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12109",
+				"nombre": "BOTANICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12110",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12205",
+				"nombre": "EL PROCESO TECNOLOGICO (CCSS III)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12207",
+				"nombre": "ENTOMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12202",
+				"nombre": "FERTILIDAD DE SUELOS Y SU MANEJO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12106",
+				"nombre": "FISICO-QUIMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12204",
+				"nombre": "FISIOLOGIA DE CULTIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12114",
+				"nombre": "FISIOLOGIA VEGETAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12208",
+				"nombre": "FITOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12210",
+				"nombre": "FITOTECNIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12113",
+				"nombre": "GENETICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12206",
+				"nombre": "MECANIZACION AGRICOLA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12108",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12101",
+				"nombre": "METODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12107",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12203",
+				"nombre": "NUTRICION ANIMAL GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12102",
+				"nombre": "TALLER II LA REGION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12218",
+				"nombre": "TALLER III BOV. DE CARNE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12216",
+				"nombre": "TALLER III CEBOLLA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12217",
+				"nombre": "TALLER III FORESTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12281",
+				"nombre": "TALLER III PRODUCCION ANIMAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12280",
+				"nombre": "TALLER III PRODUCCION VEGETAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12212",
+				"nombre": "TALLER III RUBRO CEBADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12213",
+				"nombre": "TALLER III RUBRO CITRUS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12214",
+				"nombre": "TALLER III RUBRO LECHERIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12211",
+				"nombre": "TALLER III RUBRO SUINOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12112",
+				"nombre": "TEORIA DE LAS CCSS (CIENCIAS SOC. II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12209",
+				"nombre": "ZOOTECNIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CC1C2",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "12111",
+				"nombre": "AGROMETEOROLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12109",
+				"nombre": "BOTANICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12205",
+				"nombre": "EL PROCESO TECNOLOGICO (CCSS III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12207",
+				"nombre": "ENTOMOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12202",
+				"nombre": "FERTILIDAD DE SUELOS Y SU MANEJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12106",
+				"nombre": "FISICO-QUIMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12204",
+				"nombre": "FISIOLOGIA DE CULTIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12208",
+				"nombre": "FITOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12210",
+				"nombre": "FITOTECNIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12206",
+				"nombre": "MECANIZACION AGRICOLA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12101",
+				"nombre": "METODOS CUANTITATIVOS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12107",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12203",
+				"nombre": "NUTRICION ANIMAL GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12112",
+				"nombre": "TEORIA DE LAS CCSS (CIENCIAS SOC. II)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12209",
+				"nombre": "ZOOTECNIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "EC1C2",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "12205",
+				"nombre": "EL PROCESO TECNOLOGICO (CCSS III)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12207",
+				"nombre": "ENTOMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12202",
+				"nombre": "FERTILIDAD DE SUELOS Y SU MANEJO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12204",
+				"nombre": "FISIOLOGIA DE CULTIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12208",
+				"nombre": "FITOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12210",
+				"nombre": "FITOTECNIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12206",
+				"nombre": "MECANIZACION AGRICOLA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12107",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12203",
+				"nombre": "NUTRICION ANIMAL GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12209",
+				"nombre": "ZOOTECNIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "IRA",
+		"min": 5,
+		"max": 2,
+		"previas": [
+			{
+				"id": "11107",
+				"nombre": "APROX. A LA VIDA UNIVERSITARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11102",
+				"nombre": "ECOLOGIA AGRARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11103",
+				"nombre": "INTRODUCCION A LA CCSS (CCSS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11101",
+				"nombre": "INTRODUCCION A LA REALIDAD AGROPECUARIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 16
+			},
+			{
+				"id": "11106",
+				"nombre": "SEMINARIO INTRODUCCION A LOS MMCC",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11104",
+				"nombre": "TALLER I (IRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 8
+			},
+			{
+				"id": "11105",
+				"nombre": "URUGUAY RURAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "TIIIE",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "12218",
+				"nombre": "TALLER III BOV. DE CARNE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12216",
+				"nombre": "TALLER III CEBOLLA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12217",
+				"nombre": "TALLER III FORESTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12281",
+				"nombre": "TALLER III PRODUCCION ANIMAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12280",
+				"nombre": "TALLER III PRODUCCION VEGETAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12212",
+				"nombre": "TALLER III RUBRO CEBADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12213",
+				"nombre": "TALLER III RUBRO CITRUS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12214",
+				"nombre": "TALLER III RUBRO LECHERIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12211",
+				"nombre": "TALLER III RUBRO SUINOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12219",
+				"nombre": "TALLER III- CEREALES DE INVIERNO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "TIVE",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "12361",
+				"nombre": "TALLER IV AGRICOLA GANADERO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12378",
+				"nombre": "TALLER IV AGRICOLA GANADERO (11C)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12360",
+				"nombre": "TALLER IV AGRICOLA LECHERO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12377",
+				"nombre": "TALLER IV AGRICOLA LECHERO (11C)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12359",
+				"nombre": "TALLER IV FORESTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12379",
+				"nombre": "TALLER IV GANADERO AGRICOLA (11C)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12362",
+				"nombre": "TALLER IV GANADERO-AGRICOLA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12366",
+				"nombre": "TALLER IV LOS SIST. PROD. (FRUTICULTURA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12367",
+				"nombre": "TALLER IV LOS SIST. PROD. (HORTICULTURA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12363",
+				"nombre": "TALLER IV PROD. ANIMAL INT. (SUINOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12364",
+				"nombre": "TALLER IV PROD. ANIMAL INT. (LECHERIA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12433",
+				"nombre": "TALLER IV PROD. COMBINADA INTENSIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12371",
+				"nombre": "TALLER IV PRODUCCION ANIMAL INTENSIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "TP",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "14040",
+				"nombre": "ADMINISTRACION GERENCIAL (F.C.) (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12326",
+				"nombre": "ADMINISTRACION RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12383",
+				"nombre": "ANAL. MAN. GENOMICO MEJ. VEG. (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12373",
+				"nombre": "ASERRADERO (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12314",
+				"nombre": "AVICULTURA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12342",
+				"nombre": "BASES PARA MANEJO DEL CAMPO NATURAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12392",
+				"nombre": "BIODIV. CONS. MAN. ENE. NATURALES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12381",
+				"nombre": "BIOLOGIA DEL SUELO (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12304",
+				"nombre": "BOVINOS DE CARNE (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12305",
+				"nombre": "BOVINOS DE LECHE (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12425",
+				"nombre": "CAL. DE LA CANAL Y CARNE DE RUMIANTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12346",
+				"nombre": "CELULOSA Y PAPEL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12517",
+				"nombre": "CEREALES Y CULTIVOS INDUSTRIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12302",
+				"nombre": "CEREALES Y CULTIVOS INDUSTRIALES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12427",
+				"nombre": "CERTIFICACION FORESTAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12382",
+				"nombre": "COMERCIALIZACION DE FRUTAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12403",
+				"nombre": "COOPERATIVISMO AGRARIO (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12370",
+				"nombre": "COS. Y POST COSECHA DE HORTALIZAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12412",
+				"nombre": "COSECHA DE CEREALES Y FORRAJES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12324",
+				"nombre": "CUNICULTURA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12321",
+				"nombre": "DASOMETRIA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13127",
+				"nombre": "DECISIONES FINANCIERAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12320",
+				"nombre": "DENDROLOGIA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12423",
+				"nombre": "DIAGNOSTICO Y MAN. ENF. CUL. PROT. (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12428",
+				"nombre": "DISEÑO DE AREAS VERDES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12409",
+				"nombre": "EC.Y MAN. DE SIS. PROD. PASTORIL 3C (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12356",
+				"nombre": "ECOSISTEMAS FOREST. NAT. URUGUAY (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12340",
+				"nombre": "ENOLOGIA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12397",
+				"nombre": "ESTRES TERMICO EN PRODUCCION ANIMAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "14031",
+				"nombre": "EV. REC. NAT. E IMPACTO AMB.(4º) (F.C.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12317",
+				"nombre": "EVALUACION Y MANEJO DE ALIMENTOS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12341",
+				"nombre": "EXTENSION RURAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12394",
+				"nombre": "FORM. Y EV. DE PROYECTOS 4C (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12385",
+				"nombre": "FORM. Y EV. DE PROYECTOS(4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12303",
+				"nombre": "FORRAJERAS (EEMAC 4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12315",
+				"nombre": "FORRAJERAS (PROD. ANIMAL INTENSIVA 4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13105",
+				"nombre": "FOTOINTERPRETACION (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12308",
+				"nombre": "FRUTICULTURA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12380",
+				"nombre": "FUNDAMENTOS EN AGRONEGOCIOS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12411",
+				"nombre": "GESTION FORESTAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12372",
+				"nombre": "GESTION DE EMPRESAS (EEMAC) (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12387",
+				"nombre": "GESTION DE EMPRESAS (MDEO.) (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12307",
+				"nombre": "HORTICULTURA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12328",
+				"nombre": "IMPLANTACION DE CULTIVOS FRUTALES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12333",
+				"nombre": "INDUSTRIAS LACTEAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12389",
+				"nombre": "LA AGR. SUS. DESDE UNA PERS. SOC. (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12312",
+				"nombre": "LECHERIA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12407",
+				"nombre": "M.Y C.S.Y A.OP.PLAN USO TIERRA N.PRED.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12406",
+				"nombre": "M.Y C.S.Y A.OP.SIS.DE PROD.AGROP. (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12357",
+				"nombre": "MANEJO DE MALEZAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12432",
+				"nombre": "MANEJO DE PLAGAS EN CULTIVOS GRANIFEROS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12435",
+				"nombre": "MANEJO DE SUELOS Y SU MATERIA ORGANICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12334",
+				"nombre": "MANEJO POST COSECHA DE FRUTAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12335",
+				"nombre": "MANEJO POST COSECHA DE HORTALIZAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12323",
+				"nombre": "MEDIO NATURAL Y ESPACIOS LIBRES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12420",
+				"nombre": "MEJ. VEG. APLICADO Y OBT. CULTIV. (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12417",
+				"nombre": "MEJORAMIENTO GENETICO FORESTAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12396",
+				"nombre": "MERCADOS Y PRECIOS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12418",
+				"nombre": "MICROBIOLOGIA LACTEA (4C) 4º",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12419",
+				"nombre": "MMCC III OP. EXPERIMENTACION (EEMAC) 4º",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12410",
+				"nombre": "MMCC III- OP. EXPERIMENTACION (4º 4C)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12384",
+				"nombre": "MUESTREO DE BOSQUE NATIVO (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12348",
+				"nombre": "NUTRICION APL. ING. DE ALIMENTOS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12306",
+				"nombre": "OVINOS Y LANAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13234",
+				"nombre": "PASTURAS (EEMAC) (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12375",
+				"nombre": "PASTURAS (MDEO.) (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12429",
+				"nombre": "PERDIDA DE BIODIV. Y AGRICULTURA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12390",
+				"nombre": "PLAN. AREAS SIL. Y RECREATIVAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12415",
+				"nombre": "PLANIFICACION DE AREAS SILVESTRES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12325",
+				"nombre": "PLANIFICACION FORESTAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12358",
+				"nombre": "PLANIFICACION TERRITORIAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12426",
+				"nombre": "PRIN. PLAN. DIS. AREAS REC. AIRE L. (4)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12436",
+				"nombre": "PROD. SEMILLAS EN HORTALIZAS SEX Y ASEX",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12408",
+				"nombre": "PROD. Y EV. RESERVAS FORRAJERAS (4)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12351",
+				"nombre": "PROD.SEM. SEXUALES Y ASEXUALES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12369",
+				"nombre": "PRODUCCION DE ARROZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12437",
+				"nombre": "PRODUCCION DE CERDOS A CAMPO (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12404",
+				"nombre": "PRODUCCION DE SEMILLAS HORTICOLAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12393",
+				"nombre": "PRODUCCION INT. DE CARNE (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12352",
+				"nombre": "PROFUNDIZACION EN CITRUS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12327",
+				"nombre": "PROFUNDIZACION PROD. DE LANA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12388",
+				"nombre": "PROGRAMACION LINEAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12322",
+				"nombre": "PROTECCION FORESTAL (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12309",
+				"nombre": "PROTECCION VEGETAL FRUTICOLA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12310",
+				"nombre": "PROTECCION VEGETAL HORTICOLA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12316",
+				"nombre": "REPRODUCCION ANIMAL APLICADA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12339",
+				"nombre": "RIEGO Y DRENAJE (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12434",
+				"nombre": "SECADO DE MADERAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "14017",
+				"nombre": "SEMINARIO 1º RIEGO Y DRENAJE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "14018",
+				"nombre": "SEMINARIO 2º RIEGO Y DRENAJE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12311",
+				"nombre": "SEMINARIOS DE RIEGO Y DRENAJE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12345",
+				"nombre": "SIEMBRA S/LABOREO CULT. GRANIFEROS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12318",
+				"nombre": "SILVICULTURA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12398",
+				"nombre": "SIST. ALIMENTACION GANADO CARNE (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "14033",
+				"nombre": "SIST. INF. GEOGRAFICA (F.C) (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13197",
+				"nombre": "SISTEMAS DE PRODUCCION (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12313",
+				"nombre": "SUINOTECNIA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12366",
+				"nombre": "TALLER IV LOS SIST. PROD. (FRUTICULTURA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12319",
+				"nombre": "TEC. DE LOS PRODUCTOS FORESTALES (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12343",
+				"nombre": "TECNICAS REP. EN BOVINOS Y OVINOS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12349",
+				"nombre": "TECNOLOGIA DE FRUTAS Y HORTALIZAS (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12401",
+				"nombre": "TECNOLOGIA DE LA CARNE Y PROD. CARNICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12386",
+				"nombre": "TOPOGRAFIA AGRICOLA (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12422",
+				"nombre": "USO CULT. RES. MAN. ENF. CUL. EXT.(4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "12374",
+				"nombre": "USO REG. DESARROLLO PROD. FRUTAL. (4º)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

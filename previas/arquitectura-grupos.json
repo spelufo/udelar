@@ -1,0 +1,3626 @@
+[
+	{
+		"id": "10",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "13A",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13B",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13C",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13E",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13Z",
+				"nombre": "EXPRESION GRAFICA SALTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11Z",
+				"nombre": "INTROD. A LA COMPOSICION",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11JA",
+				"nombre": "INTROD. A LA COMPOSICION APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11BE",
+				"nombre": "INTROD. A LA COMPOSICION BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11CO",
+				"nombre": "INTROD. A LA COMPOSICION COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11MD",
+				"nombre": "INTROD. A LA COMPOSICION DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11DB",
+				"nombre": "INTROD. A LA COMPOSICION DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11FO",
+				"nombre": "INTROD. A LA COMPOSICION FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11NE",
+				"nombre": "INTROD. A LA COMPOSICION NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11RO",
+				"nombre": "INTROD. A LA COMPOSICION OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11PA",
+				"nombre": "INTROD. A LA COMPOSICION PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11AP",
+				"nombre": "INTROD. A LA COMPOSICION PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11PI",
+				"nombre": "INTROD. A LA COMPOSICION PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11RI",
+				"nombre": "INTROD. A LA COMPOSICION RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11SC",
+				"nombre": "INTROD. A LA COMPOSICION SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11JS",
+				"nombre": "INTROD. A LA COMPOSICION SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11SP",
+				"nombre": "INTROD. A LA COMPOSICION SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11T+",
+				"nombre": "INTROD. A LA COMPOSICION T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11YI",
+				"nombre": "INTROD. A LA COMPOSICION YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "10Z",
+				"nombre": "INTROD.A LA COMPOSICION",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10CO",
+				"nombre": "INTROD.A LA COMPOSICION COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10FO",
+				"nombre": "INTROD.A LA COMPOSICION FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10LA",
+				"nombre": "INTROD.A LA COMPOSICION LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10NE",
+				"nombre": "INTROD.A LA COMPOSICION NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10RO",
+				"nombre": "INTROD.A LA COMPOSICION OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10PA",
+				"nombre": "INTROD.A LA COMPOSICION PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10PE",
+				"nombre": "INTROD.A LA COMPOSICION PETIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10PI",
+				"nombre": "INTROD.A LA COMPOSICION PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10RE",
+				"nombre": "INTROD.A LA COMPOSICION REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10RI",
+				"nombre": "INTROD.A LA COMPOSICION RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10SP",
+				"nombre": "INTROD.A LA COMPOSICION SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10VA",
+				"nombre": "INTROD.A LA COMPOSICION VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "10YI",
+				"nombre": "INTROD.A LA COMPOSICION YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "110",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "110Z",
+				"nombre": "ANTEPROYECTO I",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110FO",
+				"nombre": "ANTEPROYECTO I FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110LA",
+				"nombre": "ANTEPROYECTO I LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110RO",
+				"nombre": "ANTEPROYECTO I OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110PA",
+				"nombre": "ANTEPROYECTO I PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110PE",
+				"nombre": "ANTEPROYECTO I PETIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110PI",
+				"nombre": "ANTEPROYECTO I PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110RE",
+				"nombre": "ANTEPROYECTO I REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110SP",
+				"nombre": "ANTEPROYECTO I SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110VA",
+				"nombre": "ANTEPROYECTO I VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "110YI",
+				"nombre": "ANTEPROYECTO I YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "111Z",
+				"nombre": "ANTEPROYECTO I MODULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111JA",
+				"nombre": "ANTEPROYECTO I MODULO 1 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111AR",
+				"nombre": "ANTEPROYECTO I MODULO 1 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111BE",
+				"nombre": "ANTEPROYECTO I MODULO 1 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111CO",
+				"nombre": "ANTEPROYECTO I MODULO 1 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111MD",
+				"nombre": "ANTEPROYECTO I MODULO 1 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111DB",
+				"nombre": "ANTEPROYECTO I MODULO 1 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111FO",
+				"nombre": "ANTEPROYECTO I MODULO 1 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111LA",
+				"nombre": "ANTEPROYECTO I MODULO 1 LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111NE",
+				"nombre": "ANTEPROYECTO I MODULO 1 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111RO",
+				"nombre": "ANTEPROYECTO I MODULO 1 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111PA",
+				"nombre": "ANTEPROYECTO I MODULO 1 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111AP",
+				"nombre": "ANTEPROYECTO I MODULO 1 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111PI",
+				"nombre": "ANTEPROYECTO I MODULO 1 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111RE",
+				"nombre": "ANTEPROYECTO I MODULO 1 REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111RI",
+				"nombre": "ANTEPROYECTO I MODULO 1 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111SC",
+				"nombre": "ANTEPROYECTO I MODULO 1 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111JS",
+				"nombre": "ANTEPROYECTO I MODULO 1 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111SP",
+				"nombre": "ANTEPROYECTO I MODULO 1 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111T+",
+				"nombre": "ANTEPROYECTO I MODULO 1 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111VA",
+				"nombre": "ANTEPROYECTO I MODULO 1 VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111YI",
+				"nombre": "ANTEPROYECTO I MODULO 1 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112Z",
+				"nombre": "ANTEPROYECTO I MODULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112JA",
+				"nombre": "ANTEPROYECTO I MODULO 2 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112AR",
+				"nombre": "ANTEPROYECTO I MODULO 2 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112BE",
+				"nombre": "ANTEPROYECTO I MODULO 2 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112CO",
+				"nombre": "ANTEPROYECTO I MODULO 2 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112MD",
+				"nombre": "ANTEPROYECTO I MODULO 2 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112DB",
+				"nombre": "ANTEPROYECTO I MODULO 2 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112FO",
+				"nombre": "ANTEPROYECTO I MODULO 2 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112LA",
+				"nombre": "ANTEPROYECTO I MODULO 2 LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112NE",
+				"nombre": "ANTEPROYECTO I MODULO 2 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112RO",
+				"nombre": "ANTEPROYECTO I MODULO 2 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112PA",
+				"nombre": "ANTEPROYECTO I MODULO 2 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112AP",
+				"nombre": "ANTEPROYECTO I MODULO 2 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112PI",
+				"nombre": "ANTEPROYECTO I MODULO 2 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112RE",
+				"nombre": "ANTEPROYECTO I MODULO 2 REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112RI",
+				"nombre": "ANTEPROYECTO I MODULO 2 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112SC",
+				"nombre": "ANTEPROYECTO I MODULO 2 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112JS",
+				"nombre": "ANTEPROYECTO I MODULO 2 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112SP",
+				"nombre": "ANTEPROYECTO I MODULO 2 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112T+",
+				"nombre": "ANTEPROYECTO I MODULO 2 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112VA",
+				"nombre": "ANTEPROYECTO I MODULO 2 VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112YI",
+				"nombre": "ANTEPROYECTO I MODULO 2 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "111",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "111Z",
+				"nombre": "ANTEPROYECTO I MODULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111JA",
+				"nombre": "ANTEPROYECTO I MODULO 1 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111AR",
+				"nombre": "ANTEPROYECTO I MODULO 1 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111BE",
+				"nombre": "ANTEPROYECTO I MODULO 1 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111CO",
+				"nombre": "ANTEPROYECTO I MODULO 1 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111MD",
+				"nombre": "ANTEPROYECTO I MODULO 1 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111DB",
+				"nombre": "ANTEPROYECTO I MODULO 1 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111FO",
+				"nombre": "ANTEPROYECTO I MODULO 1 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111NE",
+				"nombre": "ANTEPROYECTO I MODULO 1 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111RO",
+				"nombre": "ANTEPROYECTO I MODULO 1 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111PA",
+				"nombre": "ANTEPROYECTO I MODULO 1 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111AP",
+				"nombre": "ANTEPROYECTO I MODULO 1 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111PI",
+				"nombre": "ANTEPROYECTO I MODULO 1 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111RI",
+				"nombre": "ANTEPROYECTO I MODULO 1 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111SC",
+				"nombre": "ANTEPROYECTO I MODULO 1 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111JS",
+				"nombre": "ANTEPROYECTO I MODULO 1 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111SP",
+				"nombre": "ANTEPROYECTO I MODULO 1 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111T+",
+				"nombre": "ANTEPROYECTO I MODULO 1 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111YI",
+				"nombre": "ANTEPROYECTO I MODULO 1 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "112",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "112Z",
+				"nombre": "ANTEPROYECTO I MODULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112JA",
+				"nombre": "ANTEPROYECTO I MODULO 2 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112AR",
+				"nombre": "ANTEPROYECTO I MODULO 2 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112BE",
+				"nombre": "ANTEPROYECTO I MODULO 2 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112CO",
+				"nombre": "ANTEPROYECTO I MODULO 2 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112MD",
+				"nombre": "ANTEPROYECTO I MODULO 2 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112DB",
+				"nombre": "ANTEPROYECTO I MODULO 2 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112FO",
+				"nombre": "ANTEPROYECTO I MODULO 2 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112NE",
+				"nombre": "ANTEPROYECTO I MODULO 2 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112RO",
+				"nombre": "ANTEPROYECTO I MODULO 2 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112PA",
+				"nombre": "ANTEPROYECTO I MODULO 2 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112AP",
+				"nombre": "ANTEPROYECTO I MODULO 2 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112PI",
+				"nombre": "ANTEPROYECTO I MODULO 2 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112RI",
+				"nombre": "ANTEPROYECTO I MODULO 2 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112SC",
+				"nombre": "ANTEPROYECTO I MODULO 2 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112JS",
+				"nombre": "ANTEPROYECTO I MODULO 2 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112SP",
+				"nombre": "ANTEPROYECTO I MODULO 2 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112T+",
+				"nombre": "ANTEPROYECTO I MODULO 2 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112YI",
+				"nombre": "ANTEPROYECTO I MODULO 2 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "11",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "11Z",
+				"nombre": "INTROD. A LA COMPOSICION",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11JA",
+				"nombre": "INTROD. A LA COMPOSICION APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11BE",
+				"nombre": "INTROD. A LA COMPOSICION BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11CO",
+				"nombre": "INTROD. A LA COMPOSICION COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11MD",
+				"nombre": "INTROD. A LA COMPOSICION DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11DB",
+				"nombre": "INTROD. A LA COMPOSICION DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11FO",
+				"nombre": "INTROD. A LA COMPOSICION FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11NE",
+				"nombre": "INTROD. A LA COMPOSICION NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11RO",
+				"nombre": "INTROD. A LA COMPOSICION OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11PA",
+				"nombre": "INTROD. A LA COMPOSICION PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11AP",
+				"nombre": "INTROD. A LA COMPOSICION PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11PI",
+				"nombre": "INTROD. A LA COMPOSICION PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11RI",
+				"nombre": "INTROD. A LA COMPOSICION RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11SC",
+				"nombre": "INTROD. A LA COMPOSICION SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11JS",
+				"nombre": "INTROD. A LA COMPOSICION SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11SP",
+				"nombre": "INTROD. A LA COMPOSICION SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11T+",
+				"nombre": "INTROD. A LA COMPOSICION T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "11YI",
+				"nombre": "INTROD. A LA COMPOSICION YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "120",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "120",
+				"nombre": "CONSTRUCCION I",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "122",
+				"nombre": "CONSTRUCCION I MODULO 2",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "121",
+				"nombre": "CONSTRUCCIÓN I MÓDULO 1",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "13",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "13A",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13B",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13C",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13E",
+				"nombre": "EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "13Z",
+				"nombre": "EXPRESION GRAFICA SALTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "140",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "140",
+				"nombre": "HIST. DE LA ARQ.I UNIVERSAL",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "141",
+				"nombre": "HIST. DE LA ARQ.I UNIVERSAL MODULO 1",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "142",
+				"nombre": "HIST. DE LA ARQ.I UNIVERSAL MODULO 2",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "210",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "210Z",
+				"nombre": "ANTEPROYECTO II",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210FO",
+				"nombre": "ANTEPROYECTO II FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210LA",
+				"nombre": "ANTEPROYECTO II LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210RO",
+				"nombre": "ANTEPROYECTO II OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210PA",
+				"nombre": "ANTEPROYECTO II PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210PE",
+				"nombre": "ANTEPROYECTO II PETIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210PI",
+				"nombre": "ANTEPROYECTO II PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210RE",
+				"nombre": "ANTEPROYECTO II REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210SP",
+				"nombre": "ANTEPROYECTO II SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210VA",
+				"nombre": "ANTEPROYECTO II VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "210YI",
+				"nombre": "ANTEPROYECTO II YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "211Z",
+				"nombre": "ANTEPROYECTO II MODULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211JA",
+				"nombre": "ANTEPROYECTO II MODULO 1 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211AR",
+				"nombre": "ANTEPROYECTO II MODULO 1 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211BE",
+				"nombre": "ANTEPROYECTO II MODULO 1 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211CO",
+				"nombre": "ANTEPROYECTO II MODULO 1 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211MD",
+				"nombre": "ANTEPROYECTO II MODULO 1 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211DB",
+				"nombre": "ANTEPROYECTO II MODULO 1 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211FO",
+				"nombre": "ANTEPROYECTO II MODULO 1 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211LA",
+				"nombre": "ANTEPROYECTO II MODULO 1 LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211NE",
+				"nombre": "ANTEPROYECTO II MODULO 1 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211RO",
+				"nombre": "ANTEPROYECTO II MODULO 1 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211PA",
+				"nombre": "ANTEPROYECTO II MODULO 1 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211AP",
+				"nombre": "ANTEPROYECTO II MODULO 1 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211PI",
+				"nombre": "ANTEPROYECTO II MODULO 1 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211RE",
+				"nombre": "ANTEPROYECTO II MODULO 1 REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211RI",
+				"nombre": "ANTEPROYECTO II MODULO 1 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211SC",
+				"nombre": "ANTEPROYECTO II MODULO 1 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211JS",
+				"nombre": "ANTEPROYECTO II MODULO 1 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211SP",
+				"nombre": "ANTEPROYECTO II MODULO 1 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211T+",
+				"nombre": "ANTEPROYECTO II MODULO 1 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211VA",
+				"nombre": "ANTEPROYECTO II MODULO 1 VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211YI",
+				"nombre": "ANTEPROYECTO II MODULO 1 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212Z",
+				"nombre": "ANTEPROYECTO II MODULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212JA",
+				"nombre": "ANTEPROYECTO II MODULO 2 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212AR",
+				"nombre": "ANTEPROYECTO II MODULO 2 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212BE",
+				"nombre": "ANTEPROYECTO II MODULO 2 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212CO",
+				"nombre": "ANTEPROYECTO II MODULO 2 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212MD",
+				"nombre": "ANTEPROYECTO II MODULO 2 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212DB",
+				"nombre": "ANTEPROYECTO II MODULO 2 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212FO",
+				"nombre": "ANTEPROYECTO II MODULO 2 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212LA",
+				"nombre": "ANTEPROYECTO II MODULO 2 LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212NE",
+				"nombre": "ANTEPROYECTO II MODULO 2 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212RO",
+				"nombre": "ANTEPROYECTO II MODULO 2 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212PA",
+				"nombre": "ANTEPROYECTO II MODULO 2 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212AP",
+				"nombre": "ANTEPROYECTO II MODULO 2 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212PI",
+				"nombre": "ANTEPROYECTO II MODULO 2 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212RE",
+				"nombre": "ANTEPROYECTO II MODULO 2 REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212RI",
+				"nombre": "ANTEPROYECTO II MODULO 2 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212SC",
+				"nombre": "ANTEPROYECTO II MODULO 2 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212JS",
+				"nombre": "ANTEPROYECTO II MODULO 2 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212SP",
+				"nombre": "ANTEPROYECTO II MODULO 2 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212T+",
+				"nombre": "ANTEPROYECTO II MODULO 2 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212VA",
+				"nombre": "ANTEPROYECTO II MODULO 2 VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212YI",
+				"nombre": "ANTEPROYECTO II MODULO 2 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "211",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "211Z",
+				"nombre": "ANTEPROYECTO II MODULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211JA",
+				"nombre": "ANTEPROYECTO II MODULO 1 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211AR",
+				"nombre": "ANTEPROYECTO II MODULO 1 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211BE",
+				"nombre": "ANTEPROYECTO II MODULO 1 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211CO",
+				"nombre": "ANTEPROYECTO II MODULO 1 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211MD",
+				"nombre": "ANTEPROYECTO II MODULO 1 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211DB",
+				"nombre": "ANTEPROYECTO II MODULO 1 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211FO",
+				"nombre": "ANTEPROYECTO II MODULO 1 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211NE",
+				"nombre": "ANTEPROYECTO II MODULO 1 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211RO",
+				"nombre": "ANTEPROYECTO II MODULO 1 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211PA",
+				"nombre": "ANTEPROYECTO II MODULO 1 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211AP",
+				"nombre": "ANTEPROYECTO II MODULO 1 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211PI",
+				"nombre": "ANTEPROYECTO II MODULO 1 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211RE",
+				"nombre": "ANTEPROYECTO II MODULO 1 REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211RI",
+				"nombre": "ANTEPROYECTO II MODULO 1 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211SC",
+				"nombre": "ANTEPROYECTO II MODULO 1 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211JS",
+				"nombre": "ANTEPROYECTO II MODULO 1 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211SP",
+				"nombre": "ANTEPROYECTO II MODULO 1 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211T+",
+				"nombre": "ANTEPROYECTO II MODULO 1 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211YI",
+				"nombre": "ANTEPROYECTO II MODULO 1 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "212",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "212Z",
+				"nombre": "ANTEPROYECTO II MODULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212JA",
+				"nombre": "ANTEPROYECTO II MODULO 2 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212AR",
+				"nombre": "ANTEPROYECTO II MODULO 2 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212BE",
+				"nombre": "ANTEPROYECTO II MODULO 2 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212CO",
+				"nombre": "ANTEPROYECTO II MODULO 2 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212MD",
+				"nombre": "ANTEPROYECTO II MODULO 2 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212DB",
+				"nombre": "ANTEPROYECTO II MODULO 2 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212FO",
+				"nombre": "ANTEPROYECTO II MODULO 2 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212NE",
+				"nombre": "ANTEPROYECTO II MODULO 2 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212RO",
+				"nombre": "ANTEPROYECTO II MODULO 2 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212PA",
+				"nombre": "ANTEPROYECTO II MODULO 2 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212AP",
+				"nombre": "ANTEPROYECTO II MODULO 2 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212PI",
+				"nombre": "ANTEPROYECTO II MODULO 2 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212RI",
+				"nombre": "ANTEPROYECTO II MODULO 2 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212SC",
+				"nombre": "ANTEPROYECTO II MODULO 2 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212JS",
+				"nombre": "ANTEPROYECTO II MODULO 2 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212SP",
+				"nombre": "ANTEPROYECTO II MODULO 2 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212T+",
+				"nombre": "ANTEPROYECTO II MODULO 2 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "212YI",
+				"nombre": "ANTEPROYECTO II MODULO 2 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "220",
+		"min": 5,
+		"max": 5,
+		"previas": [
+			{
+				"id": "220",
+				"nombre": "CONSTRUCCION II",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "221",
+				"nombre": "CONSTRUCCION II MODULO 1",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "222",
+				"nombre": "CONSTRUCCION II MODULO 2",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "310",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "310Z",
+				"nombre": "ANTEPROYECTO III",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310FO",
+				"nombre": "ANTEPROYECTO III FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310LA",
+				"nombre": "ANTEPROYECTO III LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310RO",
+				"nombre": "ANTEPROYECTO III OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310PA",
+				"nombre": "ANTEPROYECTO III PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310PE",
+				"nombre": "ANTEPROYECTO III PETIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310PI",
+				"nombre": "ANTEPROYECTO III PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310RE",
+				"nombre": "ANTEPROYECTO III REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310SP",
+				"nombre": "ANTEPROYECTO III SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310VA",
+				"nombre": "ANTEPROYECTO III VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "310YI",
+				"nombre": "ANTEPROYECTO III YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "311Z",
+				"nombre": "ANTEPROYECTO III MODULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311JA",
+				"nombre": "ANTEPROYECTO III MODULO 1 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311AR",
+				"nombre": "ANTEPROYECTO III MODULO 1 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311BE",
+				"nombre": "ANTEPROYECTO III MODULO 1 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311CO",
+				"nombre": "ANTEPROYECTO III MODULO 1 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311MD",
+				"nombre": "ANTEPROYECTO III MODULO 1 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311DB",
+				"nombre": "ANTEPROYECTO III MODULO 1 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311FO",
+				"nombre": "ANTEPROYECTO III MODULO 1 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311LA",
+				"nombre": "ANTEPROYECTO III MODULO 1 LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311NE",
+				"nombre": "ANTEPROYECTO III MODULO 1 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311RO",
+				"nombre": "ANTEPROYECTO III MODULO 1 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311PA",
+				"nombre": "ANTEPROYECTO III MODULO 1 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311AP",
+				"nombre": "ANTEPROYECTO III MODULO 1 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311PI",
+				"nombre": "ANTEPROYECTO III MODULO 1 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311RE",
+				"nombre": "ANTEPROYECTO III MODULO 1 REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311RI",
+				"nombre": "ANTEPROYECTO III MODULO 1 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311SC",
+				"nombre": "ANTEPROYECTO III MODULO 1 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311JS",
+				"nombre": "ANTEPROYECTO III MODULO 1 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311SP",
+				"nombre": "ANTEPROYECTO III MODULO 1 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311T+",
+				"nombre": "ANTEPROYECTO III MODULO 1 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311VA",
+				"nombre": "ANTEPROYECTO III MODULO 1 VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311YI",
+				"nombre": "ANTEPROYECTO III MODULO 1 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312Z",
+				"nombre": "ANTEPROYECTO III MODULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312JA",
+				"nombre": "ANTEPROYECTO III MODULO 2 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312AR",
+				"nombre": "ANTEPROYECTO III MODULO 2 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312BE",
+				"nombre": "ANTEPROYECTO III MODULO 2 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312CO",
+				"nombre": "ANTEPROYECTO III MODULO 2 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312MD",
+				"nombre": "ANTEPROYECTO III MODULO 2 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312DB",
+				"nombre": "ANTEPROYECTO III MODULO 2 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312FO",
+				"nombre": "ANTEPROYECTO III MODULO 2 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312LA",
+				"nombre": "ANTEPROYECTO III MODULO 2 LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312NE",
+				"nombre": "ANTEPROYECTO III MODULO 2 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312RO",
+				"nombre": "ANTEPROYECTO III MODULO 2 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312PA",
+				"nombre": "ANTEPROYECTO III MODULO 2 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312AP",
+				"nombre": "ANTEPROYECTO III MODULO 2 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312PI",
+				"nombre": "ANTEPROYECTO III MODULO 2 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312RE",
+				"nombre": "ANTEPROYECTO III MODULO 2 REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312RI",
+				"nombre": "ANTEPROYECTO III MODULO 2 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312SC",
+				"nombre": "ANTEPROYECTO III MODULO 2 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312JS",
+				"nombre": "ANTEPROYECTO III MODULO 2 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312SP",
+				"nombre": "ANTEPROYECTO III MODULO 2 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312T+",
+				"nombre": "ANTEPROYECTO III MODULO 2 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312VA",
+				"nombre": "ANTEPROYECTO III MODULO 2 VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312YI",
+				"nombre": "ANTEPROYECTO III MODULO 2 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "311",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "311Z",
+				"nombre": "ANTEPROYECTO III MODULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311JA",
+				"nombre": "ANTEPROYECTO III MODULO 1 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311AR",
+				"nombre": "ANTEPROYECTO III MODULO 1 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311BE",
+				"nombre": "ANTEPROYECTO III MODULO 1 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311CO",
+				"nombre": "ANTEPROYECTO III MODULO 1 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311MD",
+				"nombre": "ANTEPROYECTO III MODULO 1 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311DB",
+				"nombre": "ANTEPROYECTO III MODULO 1 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311FO",
+				"nombre": "ANTEPROYECTO III MODULO 1 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311LA",
+				"nombre": "ANTEPROYECTO III MODULO 1 LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311NE",
+				"nombre": "ANTEPROYECTO III MODULO 1 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311RO",
+				"nombre": "ANTEPROYECTO III MODULO 1 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311PA",
+				"nombre": "ANTEPROYECTO III MODULO 1 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311AP",
+				"nombre": "ANTEPROYECTO III MODULO 1 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311PI",
+				"nombre": "ANTEPROYECTO III MODULO 1 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311RI",
+				"nombre": "ANTEPROYECTO III MODULO 1 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311SC",
+				"nombre": "ANTEPROYECTO III MODULO 1 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311JS",
+				"nombre": "ANTEPROYECTO III MODULO 1 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311SP",
+				"nombre": "ANTEPROYECTO III MODULO 1 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311T+",
+				"nombre": "ANTEPROYECTO III MODULO 1 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "311YI",
+				"nombre": "ANTEPROYECTO III MODULO 1 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "312",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "312Z",
+				"nombre": "ANTEPROYECTO III MODULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312JA",
+				"nombre": "ANTEPROYECTO III MODULO 2 APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312AR",
+				"nombre": "ANTEPROYECTO III MODULO 2 ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312BE",
+				"nombre": "ANTEPROYECTO III MODULO 2 BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312CO",
+				"nombre": "ANTEPROYECTO III MODULO 2 COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312MD",
+				"nombre": "ANTEPROYECTO III MODULO 2 DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312DB",
+				"nombre": "ANTEPROYECTO III MODULO 2 DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312FO",
+				"nombre": "ANTEPROYECTO III MODULO 2 FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312NE",
+				"nombre": "ANTEPROYECTO III MODULO 2 NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312RO",
+				"nombre": "ANTEPROYECTO III MODULO 2 OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312PA",
+				"nombre": "ANTEPROYECTO III MODULO 2 PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312AP",
+				"nombre": "ANTEPROYECTO III MODULO 2 PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312PI",
+				"nombre": "ANTEPROYECTO III MODULO 2 PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312RI",
+				"nombre": "ANTEPROYECTO III MODULO 2 RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312SC",
+				"nombre": "ANTEPROYECTO III MODULO 2 SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312JS",
+				"nombre": "ANTEPROYECTO III MODULO 2 SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312SP",
+				"nombre": "ANTEPROYECTO III MODULO 2 SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312T+",
+				"nombre": "ANTEPROYECTO III MODULO 2 T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "312YI",
+				"nombre": "ANTEPROYECTO III MODULO 2 YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "410",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "410Z",
+				"nombre": "ANTEPROYECTO IV",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410JA",
+				"nombre": "ANTEPROYECTO IV APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410AR",
+				"nombre": "ANTEPROYECTO IV ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410BE",
+				"nombre": "ANTEPROYECTO IV BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410CO",
+				"nombre": "ANTEPROYECTO IV COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410MD",
+				"nombre": "ANTEPROYECTO IV DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410DB",
+				"nombre": "ANTEPROYECTO IV DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410FO",
+				"nombre": "ANTEPROYECTO IV FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410LA",
+				"nombre": "ANTEPROYECTO IV LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410NE",
+				"nombre": "ANTEPROYECTO IV NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410RO",
+				"nombre": "ANTEPROYECTO IV OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410PA",
+				"nombre": "ANTEPROYECTO IV PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410AP",
+				"nombre": "ANTEPROYECTO IV PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410PE",
+				"nombre": "ANTEPROYECTO IV PETIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410PI",
+				"nombre": "ANTEPROYECTO IV PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410RE",
+				"nombre": "ANTEPROYECTO IV REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410RI",
+				"nombre": "ANTEPROYECTO IV RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410SC",
+				"nombre": "ANTEPROYECTO IV SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410JS",
+				"nombre": "ANTEPROYECTO IV SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410SP",
+				"nombre": "ANTEPROYECTO IV SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410T+",
+				"nombre": "ANTEPROYECTO IV T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410VA",
+				"nombre": "ANTEPROYECTO IV VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410YI",
+				"nombre": "ANTEPROYECTO IV YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "450",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "450Z",
+				"nombre": "PROYECTO DE ARQ.(CARPETA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450JA",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450AR",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450BE",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450CO",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450MD",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450DB",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450FO",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450LA",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450NE",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450RO",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450PA",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450AP",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450PE",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) PETIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450PI",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450RE",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450RI",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450SC",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450JS",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450SP",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450T+",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450VA",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450YI",
+				"nombre": "PROYECTO DE ARQ.(CARPETA) YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "510",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "510Z",
+				"nombre": "ANTEPROYECTO V",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510JA",
+				"nombre": "ANTEPROYECTO V APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510AR",
+				"nombre": "ANTEPROYECTO V ARTICARDI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510BE",
+				"nombre": "ANTEPROYECTO V BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510CO",
+				"nombre": "ANTEPROYECTO V COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510MD",
+				"nombre": "ANTEPROYECTO V DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510DB",
+				"nombre": "ANTEPROYECTO V DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510FO",
+				"nombre": "ANTEPROYECTO V FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510LA",
+				"nombre": "ANTEPROYECTO V LATCHINIAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510NE",
+				"nombre": "ANTEPROYECTO V NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510RO",
+				"nombre": "ANTEPROYECTO V OTERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510PA",
+				"nombre": "ANTEPROYECTO V PARODI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510AP",
+				"nombre": "ANTEPROYECTO V PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510PE",
+				"nombre": "ANTEPROYECTO V PETIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510PI",
+				"nombre": "ANTEPROYECTO V PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510RE",
+				"nombre": "ANTEPROYECTO V REVERDITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510RI",
+				"nombre": "ANTEPROYECTO V RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510SC",
+				"nombre": "ANTEPROYECTO V SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510JS",
+				"nombre": "ANTEPROYECTO V SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510SP",
+				"nombre": "ANTEPROYECTO V SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510T+",
+				"nombre": "ANTEPROYECTO V T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510VA",
+				"nombre": "ANTEPROYECTO V VANINI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510YI",
+				"nombre": "ANTEPROYECTO V YIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G520",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "G524",
+				"nombre": "SEMIN.INTERAREAS CAMINAR MONTEVIDEO",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "G527",
+				"nombre": "SEMIN.INTERAREAS HABITAT Y TERRITORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "G520",
+				"nombre": "SEMIN.INTERAREAS HABITAT Y VIVIENDA",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "G526",
+				"nombre": "SEMIN.INTERAREAS INTENSIFICACION URBANA",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "G521",
+				"nombre": "SEMIN.INTERAREAS VENTANAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "G522",
+				"nombre": "SEMIN.INTERAREAS VIVIENDO AL MARGEN",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "G525",
+				"nombre": "SEMIN.INTERAREAS VIVIENDO AL MARGEN 2010",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "G523",
+				"nombre": "SEMIN.INTERAREAS VIVIENDO AL MARGEN II",
+				"actividad": "Curso aprobado",
+				"puntaje": 10
+			}
+		]
+	},
+	{
+		"id": "L1000",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "C100",
+				"nombre": "ARQUITECTURA Y TEORIA",
+				"actividad": "Curso o Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L100",
+				"nombre": "SEMINARIO INTRODUCTORIO DE DISEÑO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B100",
+				"nombre": "TALLER FENOMENOS PERCEPCION Y LENGUAJES",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "L110",
+				"nombre": "TALLER TRANSVERSAL DE DISEÑO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P100",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "P113",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P114",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P101",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P111",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P102",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P103",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P104",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P105",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P106",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P107",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P108",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P110",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P109",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P112",
+				"nombre": "ANTEPROY.DE ARQ.-INTROD.T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			},
+			{
+				"id": "P100",
+				"nombre": "ANTEPROY.DE ARQ.-INTRODUCTORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 24
+			}
+		]
+	},
+	{
+		"id": "P200",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "P200",
+				"nombre": "ANTEPROYECTO I - A",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P213",
+				"nombre": "ANTEPROYECTO I - A APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P214",
+				"nombre": "ANTEPROYECTO I - A BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P201",
+				"nombre": "ANTEPROYECTO I - A COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P211",
+				"nombre": "ANTEPROYECTO I - A DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P202",
+				"nombre": "ANTEPROYECTO I - A DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P203",
+				"nombre": "ANTEPROYECTO I - A FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P204",
+				"nombre": "ANTEPROYECTO I - A NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P205",
+				"nombre": "ANTEPROYECTO I - A PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P206",
+				"nombre": "ANTEPROYECTO I - A PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P207",
+				"nombre": "ANTEPROYECTO I - A RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P208",
+				"nombre": "ANTEPROYECTO I - A SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P210",
+				"nombre": "ANTEPROYECTO I - A SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P209",
+				"nombre": "ANTEPROYECTO I - A SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P212",
+				"nombre": "ANTEPROYECTO I - A T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			}
+		]
+	},
+	{
+		"id": "P230",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "P230",
+				"nombre": "ANTEPROYECTO I - B",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P243",
+				"nombre": "ANTEPROYECTO I - B APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P244",
+				"nombre": "ANTEPROYECTO I - B BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P231",
+				"nombre": "ANTEPROYECTO I - B COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P241",
+				"nombre": "ANTEPROYECTO I - B DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P232",
+				"nombre": "ANTEPROYECTO I - B DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P233",
+				"nombre": "ANTEPROYECTO I - B FOLCO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P234",
+				"nombre": "ANTEPROYECTO I - B NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P235",
+				"nombre": "ANTEPROYECTO I - B PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P236",
+				"nombre": "ANTEPROYECTO I - B PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P237",
+				"nombre": "ANTEPROYECTO I - B RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P238",
+				"nombre": "ANTEPROYECTO I - B SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P240",
+				"nombre": "ANTEPROYECTO I - B SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P239",
+				"nombre": "ANTEPROYECTO I - B SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P242",
+				"nombre": "ANTEPROYECTO I - B T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			}
+		]
+	},
+	{
+		"id": "P300",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "P300",
+				"nombre": "ANTEPROYECTO II - A",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P313",
+				"nombre": "ANTEPROYECTO II - A APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P314",
+				"nombre": "ANTEPROYECTO II - A BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P301",
+				"nombre": "ANTEPROYECTO II - A COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P311",
+				"nombre": "ANTEPROYECTO II - A DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P302",
+				"nombre": "ANTEPROYECTO II - A DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P304",
+				"nombre": "ANTEPROYECTO II - A NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P305",
+				"nombre": "ANTEPROYECTO II - A PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P306",
+				"nombre": "ANTEPROYECTO II - A PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P307",
+				"nombre": "ANTEPROYECTO II - A RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P308",
+				"nombre": "ANTEPROYECTO II - A SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P310",
+				"nombre": "ANTEPROYECTO II - A SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P309",
+				"nombre": "ANTEPROYECTO II - A SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P312",
+				"nombre": "ANTEPROYECTO II - A T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			}
+		]
+	},
+	{
+		"id": "P330",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "P330",
+				"nombre": "ANTEPROYECTO II - B",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P343",
+				"nombre": "ANTEPROYECTO II - B APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P344",
+				"nombre": "ANTEPROYECTO II - B BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P331",
+				"nombre": "ANTEPROYECTO II - B COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P341",
+				"nombre": "ANTEPROYECTO II - B DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P332",
+				"nombre": "ANTEPROYECTO II - B DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P334",
+				"nombre": "ANTEPROYECTO II - B NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P335",
+				"nombre": "ANTEPROYECTO II - B PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P336",
+				"nombre": "ANTEPROYECTO II - B PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P337",
+				"nombre": "ANTEPROYECTO II - B RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P338",
+				"nombre": "ANTEPROYECTO II - B SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P340",
+				"nombre": "ANTEPROYECTO II - B SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P339",
+				"nombre": "ANTEPROYECTO II - B SPRECHMANN",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P342",
+				"nombre": "ANTEPROYECTO II - B T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			}
+		]
+	},
+	{
+		"id": "P400",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "P400",
+				"nombre": "ANTEPROYECTO III - A",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P413",
+				"nombre": "ANTEPROYECTO III - A APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P414",
+				"nombre": "ANTEPROYECTO III - A BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P401",
+				"nombre": "ANTEPROYECTO III - A COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P411",
+				"nombre": "ANTEPROYECTO III - A DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P402",
+				"nombre": "ANTEPROYECTO III - A DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P404",
+				"nombre": "ANTEPROYECTO III - A NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P405",
+				"nombre": "ANTEPROYECTO III - A PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P406",
+				"nombre": "ANTEPROYECTO III - A PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P407",
+				"nombre": "ANTEPROYECTO III - A RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P408",
+				"nombre": "ANTEPROYECTO III - A SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P410",
+				"nombre": "ANTEPROYECTO III - A SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P412",
+				"nombre": "ANTEPROYECTO III - A T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			}
+		]
+	},
+	{
+		"id": "P430",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "P430",
+				"nombre": "ANTEPROYECTO III - B",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P443",
+				"nombre": "ANTEPROYECTO III - B APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P444",
+				"nombre": "ANTEPROYECTO III - B BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P431",
+				"nombre": "ANTEPROYECTO III - B COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P441",
+				"nombre": "ANTEPROYECTO III - B DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P432",
+				"nombre": "ANTEPROYECTO III - B DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P434",
+				"nombre": "ANTEPROYECTO III - B NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P435",
+				"nombre": "ANTEPROYECTO III - B PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P436",
+				"nombre": "ANTEPROYECTO III - B PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P437",
+				"nombre": "ANTEPROYECTO III - B RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P438",
+				"nombre": "ANTEPROYECTO III - B SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P440",
+				"nombre": "ANTEPROYECTO III - B SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			},
+			{
+				"id": "P442",
+				"nombre": "ANTEPROYECTO III - B T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 22
+			}
+		]
+	},
+	{
+		"id": "P500",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "P500",
+				"nombre": "ANTEPROYECTO IV",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P513",
+				"nombre": "ANTEPROYECTO IV - APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P514",
+				"nombre": "ANTEPROYECTO IV - BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P501",
+				"nombre": "ANTEPROYECTO IV - COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P511",
+				"nombre": "ANTEPROYECTO IV - DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P502",
+				"nombre": "ANTEPROYECTO IV - DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P504",
+				"nombre": "ANTEPROYECTO IV - NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P505",
+				"nombre": "ANTEPROYECTO IV - PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P506",
+				"nombre": "ANTEPROYECTO IV - PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P507",
+				"nombre": "ANTEPROYECTO IV - RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P508",
+				"nombre": "ANTEPROYECTO IV - SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P510",
+				"nombre": "ANTEPROYECTO IV - SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			},
+			{
+				"id": "P512",
+				"nombre": "ANTEPROYECTO IV - T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 42
+			}
+		]
+	},
+	{
+		"id": "P600",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "P600",
+				"nombre": "ANTEPROYECTO V",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P613",
+				"nombre": "ANTEPROYECTO V - APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P614",
+				"nombre": "ANTEPROYECTO V - BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P601",
+				"nombre": "ANTEPROYECTO V - COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P611",
+				"nombre": "ANTEPROYECTO V - DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P602",
+				"nombre": "ANTEPROYECTO V - DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P604",
+				"nombre": "ANTEPROYECTO V - NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P605",
+				"nombre": "ANTEPROYECTO V - PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P606",
+				"nombre": "ANTEPROYECTO V - PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P607",
+				"nombre": "ANTEPROYECTO V - RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P608",
+				"nombre": "ANTEPROYECTO V - SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P610",
+				"nombre": "ANTEPROYECTO V - SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			},
+			{
+				"id": "P612",
+				"nombre": "ANTEPROYECTO V - T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 43
+			}
+		]
+	},
+	{
+		"id": "P700",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P700",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P713",
+				"nombre": "PROYECTO TALLER APOLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P714",
+				"nombre": "PROYECTO TALLER BERIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P701",
+				"nombre": "PROYECTO TALLER COMERCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P711",
+				"nombre": "PROYECTO TALLER DANZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P702",
+				"nombre": "PROYECTO TALLER DE BETOLAZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P704",
+				"nombre": "PROYECTO TALLER NEIRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P705",
+				"nombre": "PROYECTO TALLER PERDOMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P706",
+				"nombre": "PROYECTO TALLER PINTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P707",
+				"nombre": "PROYECTO TALLER RIDAO",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P708",
+				"nombre": "PROYECTO TALLER SCHELOTTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P710",
+				"nombre": "PROYECTO TALLER SCHEPS",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			},
+			{
+				"id": "P712",
+				"nombre": "PROYECTO TALLER T+",
+				"actividad": "Curso aprobado",
+				"puntaje": 51
+			}
+		]
+	}
+]

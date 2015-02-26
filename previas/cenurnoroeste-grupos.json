@@ -1,0 +1,6113 @@
+[
+	{
+		"id": "110",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "PS04",
+				"nombre": "ARTICULACION DE SABERES I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PS17",
+				"nombre": "ARTICULACION DE SABERES III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PS17S",
+				"nombre": "ARTICULACION SABERES III FORMATO SEMINAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110",
+				"nombre": "SOCIOLOGIA E HIST.SOCIAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "200OE",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "200",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			},
+			{
+				"id": "200E",
+				"nombre": "DERECHO PUBLICO 1 - ESCRITO",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			}
+		]
+	},
+	{
+		"id": "201",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "R201",
+				"nombre": "ECONOMIA POLITICA (REGLAMENTADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			},
+			{
+				"id": "201",
+				"nombre": "ECONOMÍA POLÍTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			},
+			{
+				"id": "L201",
+				"nombre": "ECONOMÍA POLÍTICA (LIBRE CONTROLADA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C144A",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "144A1",
+				"nombre": "RORSCHACH",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144A2",
+				"nombre": "RORSCHACH",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144A3",
+				"nombre": "RORSCHACH",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P144A",
+				"nombre": "RORSCHACH",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CIMAS",
+		"min": 5,
+		"max": 0,
+		"previas": [
+			{
+				"id": "PS04",
+				"nombre": "ARTICULACION DE SABERES I",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS10",
+				"nombre": "ARTICULACION DE SABERES II",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			}
+		]
+	},
+	{
+		"id": "CIMM",
+		"min": 0,
+		"max": 2,
+		"previas": [
+			{
+				"id": "PS27",
+				"nombre": "ACREDITACIÓN IDIOMA (OPTATIVA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS03",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS02",
+				"nombre": "HERRAMIENTAS PARA EL TRABAJO INTELECTUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS08",
+				"nombre": "METODOLOGIA GENERAL DE LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS09",
+				"nombre": "METODOS Y HERRAMIENTAS ORIENT. EXTENSIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "CIMP",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "PS01",
+				"nombre": "HISTORIA DE LA PSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "PS071",
+				"nombre": "PROCESOS COGNITIVOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS072",
+				"nombre": "PROCESOS COGNITIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS06",
+				"nombre": "PSICOLOGIA DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "PS00",
+				"nombre": "TEORIAS PSICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			}
+		]
+	},
+	{
+		"id": "CIREF",
+		"min": 5,
+		"max": 0,
+		"previas": [
+			{
+				"id": "PS05",
+				"nombre": "REFERENCIAL I:INICIACION A LO UNIVESIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS11",
+				"nombre": "REFERENCIAL II:FORMACION INTEGRAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			}
+		]
+	},
+	{
+		"id": "CIT",
+		"min": 5,
+		"max": 7,
+		"previas": [
+			{
+				"id": "PS27",
+				"nombre": "ACREDITACIÓN IDIOMA (OPTATIVA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS04",
+				"nombre": "ARTICULACION DE SABERES I",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS10",
+				"nombre": "ARTICULACION DE SABERES II",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS03",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS16",
+				"nombre": "ESPACIO PRACTICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS02",
+				"nombre": "HERRAMIENTAS PARA EL TRABAJO INTELECTUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS01",
+				"nombre": "HISTORIA DE LA PSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "PS08",
+				"nombre": "METODOLOGIA GENERAL DE LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS09",
+				"nombre": "METODOS Y HERRAMIENTAS ORIENT. EXTENSIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "PS071",
+				"nombre": "PROCESOS COGNITIVOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS072",
+				"nombre": "PROCESOS COGNITIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS06",
+				"nombre": "PSICOLOGIA DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "PS05",
+				"nombre": "REFERENCIAL I:INICIACION A LO UNIVESIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS11",
+				"nombre": "REFERENCIAL II:FORMACION INTEGRAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "PS00",
+				"nombre": "TEORIAS PSICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			}
+		]
+	},
+	{
+		"id": "DE202",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "202E",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "R202E",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L202",
+				"nombre": "DERECHO PRIVADO 2 (LIBRE CONTROLADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "R202",
+				"nombre": "DERECHO PRIVADO 2 (REGLAMENTADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "DE300",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L300",
+				"nombre": "DERECHO PRIVADO 3 (LIBRE CONTROLADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "R300",
+				"nombre": "DERECHO PRIVADO 3 (REGLAMENTADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "R300E",
+				"nombre": "DERECHO PRIVADO 3(REGLAMENTADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "DE301",
+		"min": 0,
+		"max": 9,
+		"previas": [
+			{
+				"id": "301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			},
+			{
+				"id": "L301",
+				"nombre": "DERECHO PROCESAL 1 (LIBRE CONTROLADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			},
+			{
+				"id": "R301",
+				"nombre": "DERECHO PROCESAL 1 (REGLAMENTADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			}
+		]
+	},
+	{
+		"id": "DE401",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "401",
+				"nombre": "DERECHO PROCESAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L401",
+				"nombre": "DERECHO PROCESAL 2 (LIBRE CONTROLADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "R401",
+				"nombre": "DERECHO PROCESAL 2 (REGLAMENTADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "DE403",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "403",
+				"nombre": "DERECHO PRIVADO 6",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L403",
+				"nombre": "DERECHO PRIVADO 6 (LIBRE CONTROLADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "R403",
+				"nombre": "DERECHO PRIVADO 6 (REGLAMENTADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "DE404",
+		"min": 0,
+		"max": 1,
+		"previas": [
+			{
+				"id": "404",
+				"nombre": "FILOSOFIA DEL DERECHO",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			},
+			{
+				"id": "L404",
+				"nombre": "FILOSOFÍA DEL DERECHO (LIBRE CONTROLADO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			},
+			{
+				"id": "R404",
+				"nombre": "FILOSOFÍA DEL DERECHO (REGLAMENTADA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 0
+			}
+		]
+	},
+	{
+		"id": "GA12C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A12B",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A12",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA23C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A10B",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA23E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A10B",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A302",
+				"nombre": "GESTIÓN DOCUMENTAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA26C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A6B",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA26E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A201",
+				"nombre": "GESTION DOCUMENTAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A6B",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA29E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A9",
+				"nombre": "DESCRIPCION DOCUMENTAL Y SERV.ARCHIVISTI",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A301",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A9B",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL Y SERV. EXT.ARCH.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA32C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A101",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2B",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA32E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A101",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A2B",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA34C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A102",
+				"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1B",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGÍA.-",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA34E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A102",
+				"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1B",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGÍA.-",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA7C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A71",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA7",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A71",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205",
+				"nombre": "ORGANIZACIÓN DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GA9C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "A9",
+				"nombre": "DESCRIPCION DOCUMENTAL Y SERV.ARCHIVISTI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A301",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "A9B",
+				"nombre": "DESCRIPCIÓN DOCUMENTAL Y SERV. EXT.ARCH.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GAB2E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GAB3E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I204",
+				"nombre": "IPAD I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GB1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I404",
+				"nombre": "ADMINISTRACIÓN UNIDADES INFORMACIÓN I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GB2",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I401",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I401",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GB3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "I403",
+				"nombre": "HISTORIA DE LAS IDEAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GBA4E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "AB4",
+				"nombre": "INTRODUCCION AL PROC. AUT. DATOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I304",
+				"nombre": "IPAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL15",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "B301",
+				"nombre": "DESCRIPCIÓN Y ACCESO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL17C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L17",
+				"nombre": "PROCESOS TECNICOS III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L17B",
+				"nombre": "PROCESOS TÉCNICOS III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL19E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "B208",
+				"nombre": "REFERENCIA Y SERVICIOS AL USUARIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL20E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "I103",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL32C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L13B",
+				"nombre": "INTROD. A LA BIBLIOTECOLOGÍA Y CS. DE LA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B102",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL32E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L13B",
+				"nombre": "INTROD. A LA BIBLIOTECOLOGÍA Y CS. DE LA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B102",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL33E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "I104",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL35E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "B101",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL38E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL3C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L43",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I402",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L43",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I402",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL47C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL50C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L18",
+				"nombre": "REDES Y SISTEMAS DE INFORMACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L28",
+				"nombre": "REDES Y SISTEMAS DE INFORMACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL51C",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L6",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L6B",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL51E",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L6",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L6B",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL5C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L5",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L53",
+				"nombre": "ADMINISTRACIÓN I I.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL5",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "L5",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "L53",
+				"nombre": "ADMINISTRACIÓN I I.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL7E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B207",
+				"nombre": "METODOLOGÍA DEL TRABAJO BIBLIOGRÁFICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL8",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L8",
+				"nombre": "BIBLIOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B406",
+				"nombre": "FUENTES INFORMACIÓN ESPECIALIZADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL9",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "B302",
+				"nombre": "ORGANIZACIÓN DEL CONOCIMIENTO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P10",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "140DE",
+				"nombre": " ACOMPAÑAMIENTO EN CONS.JURIDICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140S",
+				"nombre": " EDUCACION INICIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140V",
+				"nombre": " INSERCION DEL DISCAPACITADO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140EE",
+				"nombre": " INT. AL HOSPITAL PSIQUIATRICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140HH",
+				"nombre": " NIÑOS EN SITUACION DE CALLE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140FF",
+				"nombre": " POL CURVA DE MAROÑAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140K",
+				"nombre": " PSICOLOGIA DE LA VEJEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140MM",
+				"nombre": " QUEMAZON DE EQUIPOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140GG",
+				"nombre": " RADIO VILARDEVOZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140N",
+				"nombre": " SALUD FAMILIAR Y COMUNITARIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140JJ",
+				"nombre": " TALLER LA BAHIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AM",
+				"nombre": "ABORDAJE CLÍNICO BARRIO URUGUAY - SALTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI018",
+				"nombre": "ABORDAJES EN LA DISCAPACIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140W",
+				"nombre": "ACCID. DE TRABAJO EN LA CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140OO",
+				"nombre": "ADOLESCENTES URUGUAYOS HOY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140VV",
+				"nombre": "AREA PSIC EDU. FAC. MEDICINA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140DD",
+				"nombre": "AT. PSIC. A PERS. DISCAPACIDAD Y FLIAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI023",
+				"nombre": "AT.INTEGRAL A LA FLIA-ENFOQUE 1ER INFANC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140DC",
+				"nombre": "ATENCION NIÑOS Y NIÑAS -DERECHOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140WZ",
+				"nombre": "AUDA (SALTO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140SS",
+				"nombre": "BAREMACION DEL WISC III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140PP",
+				"nombre": "CASAJOVEN BIEN AL SUR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140G",
+				"nombre": "CENTRO PSICOSOCIAL SUR-PALERMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140XX",
+				"nombre": "CENTRO DIURNO DEL HOSP. VILARDEBÓ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140YY",
+				"nombre": "CENTRO NAC. DE REHABILITACIÓN PSIQUICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140RR",
+				"nombre": "CENTRO REHAB. SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140G4",
+				"nombre": "CIUDAD DE LA COSTA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140G2",
+				"nombre": "CLIN Y FLIA EN EL CAMPO DE LA VIOLENCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BE",
+				"nombre": "CLIN. TERRITORIO Y ENTRAMADO SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140D",
+				"nombre": "CLINICA PSICOANALITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI027",
+				"nombre": "COMPROMISO EDUCATIVO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140WW",
+				"nombre": "CONSTRUYENDO MOD. DE INTERV. EN PSIC....",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AN",
+				"nombre": "CONSULTORIO JURÍDICO REGIONAL NORTE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140DF",
+				"nombre": "CORREDORES TERAPEUTICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140VB",
+				"nombre": "CUIDADOS PALIATIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140VA",
+				"nombre": "DIVISION DE AT. INTEGRAL-INAU-",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140G3",
+				"nombre": "EL GRUPO COMO CAMPO DE PROBLEMATICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140A2",
+				"nombre": "EL SALADITO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140VH",
+				"nombre": "EMPLEO C/APOYO Y DISCAPACIDAD INTELECT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AJ",
+				"nombre": "ESCUELA Y LICEO CRANDON SALTO.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140T",
+				"nombre": "ESPACIO COLECTIVO PARA JOVENES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BD",
+				"nombre": "ESTRATEGIAS E INTERV. EN USO DE DROGAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AI",
+				"nombre": "EXPERIENCIA EN CLÍNICA POPULAR -EN SOCAF",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140DG",
+				"nombre": "EXPERIENCIAS MIGRATORIAS Y PROC.SOCIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI025",
+				"nombre": "FUND.PARA LA INTERV.EN DISPOSITIVOS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140Y",
+				"nombre": "GRUPOS MULTIFAMILIARES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AE",
+				"nombre": "GRUPOS, ORG E INST. DEL CAMPO DE LA ...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140R",
+				"nombre": "HABITACION Y SUBJETIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AK",
+				"nombre": "HUERTAS FAMILIARES Y COMUNITARIAS -SALTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140G1",
+				"nombre": "IMPACTO SOC.DE LOS PROC DE VIOLENCIA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI016",
+				"nombre": "INIC A INTERV.PS EN SERV SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI020",
+				"nombre": "INIC.A INTERV.PS.EN SERV.DE SALUD...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140C",
+				"nombre": "INST. PSICOPEDAGOGICO URUGUAYO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140QQ",
+				"nombre": "INT PSIC EN PRACTICA ODONTOLOGICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140DB",
+				"nombre": "INT.A LA PS.BASICA EXPERIMENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140Z",
+				"nombre": "INT.EN LA COMUN. A PARTIR DEL JUEGO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI026",
+				"nombre": "INTERV.PS:PRAC.CLIN.CON NIÑOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AO",
+				"nombre": "INTROD.A LA INVESTIG. EN PSIC. EVOLUTIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140TT",
+				"nombre": "INV. EN PSICOPAT. INFANTIL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140UU",
+				"nombre": "INV. MALESTAR EN ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI019",
+				"nombre": "INVENTARIO.ESTUDIO DE PRACTICAS PSI...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140ZZ",
+				"nombre": "INVESTIGACION EN CAMBIO PSIQUICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI021",
+				"nombre": "LA CONS.POR NIÑOS/AS EN INST.AT.A INFANC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BG",
+				"nombre": "LA FUNCION ATENC. EN LA GEN MILENIUM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BF",
+				"nombre": "MEJORAS EN APREND. DE LOS NIÑOS C/ NBI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI024",
+				"nombre": "MOD.DE INTERV.EN VIOLENCIA BASADA EN GEN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BI",
+				"nombre": "MODELOS DE INTERVENCION SOCIOEDUCATIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AB",
+				"nombre": "MOVIMIENTO TACURÚ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AH",
+				"nombre": "MUJERES DESCUBRIENDO SUS DERECHOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140GR",
+				"nombre": "MUJERES PRIVADAS DE LIBERTAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI028",
+				"nombre": "ORIENT.VOC-OCUPACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140U",
+				"nombre": "ORIENTAC.VOCACIONAL-OCUPACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AD",
+				"nombre": "P.INV.CONST.DEL IMAG. DE ROLES FEM.Y MAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140CA",
+				"nombre": "PACIENTES C/TRASTORNOS TEMP.MANDIBULARES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BA",
+				"nombre": "PARTIC. Y PRODUC. DE SUBJETIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BJ",
+				"nombre": "PARTICIPACION CIUDADANA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6560",
+				"nombre": "PG-SUBJETIV Y CRISIS SOCIOECON 2002",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6598",
+				"nombre": "PI-ABORDAJES EN LA DISCAP",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6800",
+				"nombre": "PI-AT INTEG.A LA FLIA ENFOQUE 1A INFAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6584",
+				"nombre": "PI-COMPROMISO EDUCATIVO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6518",
+				"nombre": "PI-CONSULTA POR NIÑOS/AS EN INST.DE ATEN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6589",
+				"nombre": "PI-DES. APRENDIZAJE Y EDUCACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6550",
+				"nombre": "PI-ESTRAT.DE INTERV. EN USO DE DROGAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6726",
+				"nombre": "PI-IMPLEMEN. DE LA PESQUISA SOBRE VIOL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6517",
+				"nombre": "PI-INIC A LAS INTERV PSICOLOGICAS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6523",
+				"nombre": "PI-INT Y CONSULTA PSIC-TALLER CLIN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6595",
+				"nombre": "PI-INVENT ESTUDIO PRACTICAS PSI POL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6587",
+				"nombre": "PI-ORIENT. VOCACIONAL OCUPACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6717",
+				"nombre": "PI-RADIO EN FUGA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6603",
+				"nombre": "PI-SALUD SEXUAL Y REPRODUC. EN ADOLES.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BZ",
+				"nombre": "PREVENCION DE VIOLENCIA DE GENERO...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AF",
+				"nombre": "PROG. DE ADOLESCENTES IMM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140DA",
+				"nombre": "PROGR.INTERVENCIONES SOCIO-EDUCATIVAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AP",
+				"nombre": "PROY. DE INSV.\"VIOLENCIA GÉNERO Y CLAS.S",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AL",
+				"nombre": "PROY.INTERD. BARRIO DON ATILIO-SALTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BL",
+				"nombre": "PS.DEL DEPORTE Y ACTIVIDAD FISICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BC",
+				"nombre": "RADIO ON LINE DE FAC. DE PSICOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140B",
+				"nombre": "SAP- APEX",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140NN",
+				"nombre": "SAP- ATENCION PS. CALLE MERCEDES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140P",
+				"nombre": "SAP- CAPURRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140M",
+				"nombre": "SAP- HOSP.DE CLINICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AQ",
+				"nombre": "SEGUIMIENTO A PACIENTES HOSP. VILARDEBÓ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AG",
+				"nombre": "SERSOC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AA",
+				"nombre": "SERV. :PROG. DE AT. INTEGRAL AL ALUMNO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P140",
+				"nombre": "SERV.4TO-PARTE I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140-2",
+				"nombre": "SERV.4TO-PARTE II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140II",
+				"nombre": "SERV.: TALLER DE ESTIMULACION AL APREN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140X",
+				"nombre": "SERV.:PROG. PROMOCION JOV. DEL INTERIOR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140KK",
+				"nombre": "SERV:INV. Y DETEC. TRAST. TEMPRANOS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140Q",
+				"nombre": "SERVICIO: CENTRO DE SALUD MENTAL B.MENNI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140CC",
+				"nombre": "SERVICIO: CENTRO EL FARO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BB",
+				"nombre": "SERVICIO: ESCUELAS PUBLICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140CH",
+				"nombre": "SERVICIO: FORO JUVENIL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140J",
+				"nombre": "SERVICIO: MUJER DEL PSICOANALISIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140A",
+				"nombre": "SERVICIO: POBREZA Y SOCIALIZACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140LL",
+				"nombre": "SERVICIOS: ABANDONO DEL SIST. EDUCATIVO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140A1",
+				"nombre": "SINTOMA DE FUGA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140O",
+				"nombre": "SOCIAL COMUNITARIO DE AT. PSICOLOGICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140AC",
+				"nombre": "TRAB. C/ ADULTOS SIGN. ENT. NIÑOS INAU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140E",
+				"nombre": "TRABAJO COMUNITARIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140DH",
+				"nombre": "TUTORIAS ENRE PARES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140L",
+				"nombre": "UCP-HOSPITALES (CIPRES)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140H",
+				"nombre": "UCP-HOSPITALES (HOSP. DE CLINICAS)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140F",
+				"nombre": "UCP-HOSPITALES (HOSPITAL MACIEL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140I",
+				"nombre": "UCP-HOSPITALES (HOSPITAL PASTEUR)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI022",
+				"nombre": "VARONES Y SALUD SEX,Y REPRODUCTIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "140BH",
+				"nombre": "VIOLENCIA SOBRE NIÑAS, NIÑOS Y ADOLES.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P110",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "604",
+				"nombre": "ARTICULACION DE SABERES I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "617",
+				"nombre": "ARTICULACION DE SABERES III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "617E",
+				"nombre": "ARTICULACION DE SABERES III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "617S",
+				"nombre": "ARTICULACION SABERES III FORMATO SEMINAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110A",
+				"nombre": "SOCIOLOGIA E HIST. SOCIAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P110",
+				"nombre": "SOCIOLOGIA E HIST. SOCIAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P111",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "601",
+				"nombre": "HISTORIA DE LA PSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P111A",
+				"nombre": "UNIV E HIST DE LA PSICOLOGIA EN EL URU",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P111",
+				"nombre": "UNIV E HIST DE LA PSICOLOGÍA EN EL URU",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P111B",
+				"nombre": "UNIVERSIDAD E HISTORIA DE LA PSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P112",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P112",
+				"nombre": "INTRODUCCION A LAS TEORIAS PSICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P112A",
+				"nombre": "INTRODUCCION A LAS TEORIAS PSICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P112B",
+				"nombre": "INTRODUCCION A LAS TEORIAS PSICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P600",
+				"nombre": "TEORIAS PSICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P113",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P603",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P113",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P114",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P114",
+				"nombre": "BASES BIOLOGICAS DEL COMP. HUMANO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P114A",
+				"nombre": "BASES BIOLOGICAS DEL COMP. HUMAN0",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114B",
+				"nombre": "BASES BIOLOGICAS DEL COMP. HUMANO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114C",
+				"nombre": "BASES BIOLOGICAS DEL COMP. HUMANO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114D",
+				"nombre": "BASES BIOLOGICAS DEL COMP. HUMANO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6071",
+				"nombre": "PROCESOS COGNITIVOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6072",
+				"nombre": "PROCESOS COGNITIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P116",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "605",
+				"nombre": "REFERENCIAL I:INICIACION A LO UNIVERSIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P116",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P11",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "150AK",
+				"nombre": " ACOMPAÑAMIENTO PSICOTERAPEUTICO PORTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150O",
+				"nombre": " ADOLESCENTES URUGUAYOS HOY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150W",
+				"nombre": " AT. PSIC. PREVENTIVA ASISTENCIAL- SAPPA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150SS",
+				"nombre": " BAREMO WISC III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150Q",
+				"nombre": " C. DE SALUD MENTAL B. MENNI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AA",
+				"nombre": " EDUCACION INICIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150V",
+				"nombre": " INTERV. A PARTIR DEL HOSP. PSIQ.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150JJ",
+				"nombre": " NEUROPEDIATRIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150N",
+				"nombre": " NIÑOS EN SITUACION DE CALLE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150I",
+				"nombre": " PASANTIA EN PSIC. EDUCACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AS",
+				"nombre": " PASANTIA POR LA UAEN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6542",
+				"nombre": " PG-EVAL PSIC A ADULTOS MAYORES ...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150K",
+				"nombre": " PRACTICAS DEL CURSO DE T.A.C.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150B",
+				"nombre": " PSICOLOGIA DE LA VEJEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150T",
+				"nombre": " RADIO VILARDEVOZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG017",
+				"nombre": "ABORD.CLIN. CON ADOLESCENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AC",
+				"nombre": "ABORDAJE CLIN EN CENTRO DE RECLUSION FEM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG020",
+				"nombre": "ABORDAJES EN LA DISCAPACIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MG",
+				"nombre": "ACCIDENTES DE TRABAJO-HOSPITAL CLÍNICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG061",
+				"nombre": "APEX-CERRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AR",
+				"nombre": "ASSE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG026",
+				"nombre": "AT.PS.A NIÑOS/AS Y ADOLESCENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BH",
+				"nombre": "ATENCION NIÑAS Y NIÑOS-PERSP.DE DERECHOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150R",
+				"nombre": "ATENCION PSIC.A PERS.DISC.Y SUS FAM.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AB",
+				"nombre": "AVENTURAS E HIST.DE ENSEÑANZAS Y APREND.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150EE",
+				"nombre": "CENTRO NACIONAL DE REHABILITACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG037",
+				"nombre": "CLIN. Y GRUPALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG049",
+				"nombre": "CLIN.ESQUIZ.ANAL EN VILARDEBO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150H",
+				"nombre": "CLINICA PSICOANALITICA - UNION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CE",
+				"nombre": "CLINICA,TERRITORIO Y ENTRAMADO SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BB",
+				"nombre": "CLUB DE NIÑOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG072",
+				"nombre": "COMPROMISO EDUCATIVO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG024",
+				"nombre": "CONST.HABITARES EN VIVIENDAS PROTEG.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AP",
+				"nombre": "CONST.MOD.DE INTERV. EN PSIC.DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150ZZ",
+				"nombre": "CONSULTORIO JURIDICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BJ",
+				"nombre": "CORREDORES TERAPEUTICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MN",
+				"nombre": "CUIDADOS PALIATIVOS EN 1ER NIVEL DE AT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150ME",
+				"nombre": "CULTURA ORG. EN IMM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG040",
+				"nombre": "DIAG.E INTERV.EN USO PROB. DE DROGAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150XX",
+				"nombre": "DIVISION DE AT INTEGRAL A FLIA-INAU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BK",
+				"nombre": "EDUCACION EN SALUD-POLICL.BARRIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CA",
+				"nombre": "EL JUEGO Y LA RECR. EN SEC. DE POBL INAU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BN",
+				"nombre": "EMPLEO C/APOYO Y DISCAPACIDAD INTELEC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150YY",
+				"nombre": "ESCUELAS ESPECIALES Y EQ. DE SALUD MENT",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CC",
+				"nombre": "ESP. COLECTIVO PARA JOVENES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG019",
+				"nombre": "ESP. DE PSICOPED.CLIN.ARTIC.ED-CLIN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150VV",
+				"nombre": "ESPACIO DIAGNÓSTICO NEUROPSICOLÓGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG018",
+				"nombre": "ESPACIO LUDICO CREAT.PARA NIÑOS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CG",
+				"nombre": "ESTRAT. DE INTERV. EN USO PROB. DE DROGA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG069",
+				"nombre": "FLIA:POL PCAS Y PSIC COMUN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MM",
+				"nombre": "FRACASO ESCOLAR TEMPRANO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG050",
+				"nombre": "HABITACION Y SUBJETIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG043",
+				"nombre": "HERRAM.PARA PREV.DE USO DE DROGAS..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150WW",
+				"nombre": "INDICADORES DE RIESGO EN POBLAC. ESCOLAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BL",
+				"nombre": "INFRACCION ADOLESCENTE-POLITICAS PUBL.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BO",
+				"nombre": "INT EN PROYECTO SOC.DEPORTIVO\"TATAMI\"",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150P",
+				"nombre": "INT. EN LA COM. A PARTIR DEL JUEGO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG064",
+				"nombre": "INT.EN CUIDADOS PALIATIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG068",
+				"nombre": "INT.PS:PRAC CLIN CON NIÑOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG080",
+				"nombre": "INT.PSIC HOSP.CLINICAS/INJU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150S",
+				"nombre": "INTERJ.INAU AREA ESC.DE PADRES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG046",
+				"nombre": "INTERV. Y CONS.TERAPEUTICA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG045",
+				"nombre": "INTERV.1ER NIVEL ATENCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG047",
+				"nombre": "INTERV.DOMIC.Y SEGUIM A PACIENTES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG065",
+				"nombre": "INTERV.SOCIO-EDUCATIVAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AT",
+				"nombre": "INTERV.SOCIOEDUCATIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG025",
+				"nombre": "INTERV.TERAP.BREVES PARA NIÑOS/AS ADOLSC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG034",
+				"nombre": "INTERV.Y CONSULTA PSIC. TALLER CLIN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BF",
+				"nombre": "INTROD.A LA PSICOLOGIA BAS.EXPERIMENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150DD",
+				"nombre": "INV. TRAST. PROF. DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BC",
+				"nombre": "INV.EVALUATIVA EDUCACION NO FORMAL-CURE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AD",
+				"nombre": "INV.IMAGINARIO,ROLES FEM.MAS.CONFLICTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MH",
+				"nombre": "INVESTIGACIÓN IDENTIDAD PROFESIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG081",
+				"nombre": "LA CONS.POR NIÑOS/AS EN INSTIT.DE AT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MF",
+				"nombre": "LA DIDACTICA Y LOS GRUPOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150G",
+				"nombre": "LIBRE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MC",
+				"nombre": "M.S.P. SALUD AMBIENTAL (PLAGUICIDAS)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CB",
+				"nombre": "MEJORA DE APREND. EN NIÑOS CON NBI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AF",
+				"nombre": "MOVIMIENTO TACURÚ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AJ",
+				"nombre": "MUJERES DESCUBRIENDO SUS DERECHOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CI",
+				"nombre": "MUJERES PRIVADAS DE LIBERTAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AE",
+				"nombre": "NUCLEOS EVOL DE PROBLEM. EN CICLO VITAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG042",
+				"nombre": "ORG. DEL TRABAJO-CONTROL SOC.Y PRIV. LIB",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150UU",
+				"nombre": "ORIENTACION VOCACIONAL OCUPACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BM",
+				"nombre": "PAS.OPERADORES JUVENILES-CURE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AU",
+				"nombre": "PERSP.PARTIC.Y PRODUC.DE LA SUBJETIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7007",
+				"nombre": "PG- CONSULTA POR NIÑO/AS EN INST AT.INF",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6532",
+				"nombre": "PG- CUIDADOS PALIATIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6709",
+				"nombre": "PG- ORGANIZACION DEL TRABAJO:TRAB...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6527",
+				"nombre": "PG- PROCESO DIAG EN DIFIC APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7006",
+				"nombre": "PG-ABORD.EN LA DISCAPACIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6605",
+				"nombre": "PG-ABORDAJES GRUP CON TRABAJADORES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6564",
+				"nombre": "PG-ACCION E INVEST EN PS SOC-COMUN...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6541",
+				"nombre": "PG-ACTUAL. EN TECNICAS DE DIAG",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7062",
+				"nombre": "PG-APORTES A LOS PROC. SIMBOLIZACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6574",
+				"nombre": "PG-ASESORAM. PEDAG EN UAEN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6558",
+				"nombre": "PG-AT INTEGRAL AL ADOLESCENTE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6604",
+				"nombre": "PG-AT. PSIC A NIÑOS/AS DESDE LA PERSP",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6725",
+				"nombre": "PG-AT.PSIC A NIÑOS/AS DESDE LA PERSP",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6553",
+				"nombre": "PG-CLIN ESQUIZOAN. EN H.VILARDEBO.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6514",
+				"nombre": "PG-CLIN PSICOANAL CON NIÑOS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6549",
+				"nombre": "PG-CLIN Y GRUPALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7008",
+				"nombre": "PG-COMPROMISO EDUCATIVO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6520",
+				"nombre": "PG-CONS. PSIC EN SALUD MENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6546",
+				"nombre": "PG-CONST. HABITARES EN VIVIENDAS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6515",
+				"nombre": "PG-CONSULTA PSIC EN SERV DE SALUD...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6555",
+				"nombre": "PG-CONSULTORIOS JURIDICOS BARRIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6590",
+				"nombre": "PG-DISPOSITIVOS ALTERN. PARA EL TRABAJ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6561",
+				"nombre": "PG-DISPOSITIVOS CLIN Y PSICOTERAP.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6516",
+				"nombre": "PG-ESP. DE ENCUENTRO CREATIVO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6545",
+				"nombre": "PG-ESTUDIO PSICOSOCIAL DE LA PRODUC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6802",
+				"nombre": "PG-EVAL.PSIC.EN SITUAC DE EXCLUSION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6557",
+				"nombre": "PG-EXP. DE VIOLENCIA DE GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6563",
+				"nombre": "PG-FLIA, POLITICAS PUB Y PS COMUN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6554",
+				"nombre": "PG-HABITACION Y SUBJETIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6719",
+				"nombre": "PG-INDICADORES DE INCLUSION SOC Y EDUC..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6579",
+				"nombre": "PG-INST EDUC:SENTIDO DADO A LA NOVELA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6581",
+				"nombre": "PG-INSTITUCION. DE LA 1ERA INFANCI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6524",
+				"nombre": "PG-INT EN 1ER NIVEL DE ATENCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6801",
+				"nombre": "PG-INT Y CONSULTA TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6521",
+				"nombre": "PG-INT. CLIN., INTERDIS E INTEGRALES..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6536",
+				"nombre": "PG-INT.CLIN EN SERV DE SALUD UNIV:SAPPA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6716",
+				"nombre": "PG-INT.PSICOSOCIOED.EN CENTROS EDUC.IN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6531",
+				"nombre": "PG-INTERV A PARTIR DEL HOPITAL PSIQ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6526",
+				"nombre": "PG-INTERV DOMIC. Y SEG DE PACIENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6580",
+				"nombre": "PG-INTERV. SOCIOEDUCATIVAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6576",
+				"nombre": "PG-INTERV. SOCIOEDUCATIVAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6562",
+				"nombre": "PG-INTERV.SOCIOEDUCATIVAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6577",
+				"nombre": "PG-INTERV.SOCIOEDUCATIVAS.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6708",
+				"nombre": "PG-JOVENES Y TRAB. TALLERES DE ORIENTAC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6537",
+				"nombre": "PG-LA FUNCION AT EN GEN MILENIUM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6586",
+				"nombre": "PG-LIGAZONES Y ALTERN.DE PERTENENCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6552",
+				"nombre": "PG-LOS ALCANCES DE LA PRISION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6556",
+				"nombre": "PG-NIEVE-PARTIC. CIUD. Y VEJEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6803",
+				"nombre": "PG-NIEVE.PARTICIPACION CIUDADANA Y VEJEZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6710",
+				"nombre": "PG-ORG. DEL TRABAJO (CECEA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7011",
+				"nombre": "PG-ORGAN. DEL TRABAJO (ANCAP)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6711",
+				"nombre": "PG-ORGAN.DEL TRABAJO. OSE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6712",
+				"nombre": "PG-ORGANIZACION DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7009",
+				"nombre": "PG-ORGANIZACION DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6583",
+				"nombre": "PG-ORIENT VOCACIONAL OCUPAC.(SOVO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6597",
+				"nombre": "PG-PASAN. EFI, INTERV EN EL PROY. SOC...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6599",
+				"nombre": "PG-PASAN. EN PS EXPERIMENTAL CIBPSI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6548",
+				"nombre": "PG-PERSP E INTERV PSICOSOCIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6533",
+				"nombre": "PG-PRACT CLINICAS-CLIN PS UNION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7012",
+				"nombre": "PG-PRIVACIDAD DE LIBERTAD Y CONTROL SOC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6573",
+				"nombre": "PG-PROC DE SIMBOLIZACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6591",
+				"nombre": "PG-PSICOLOGIA, EDUCACION Y TIC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6718",
+				"nombre": "PG-RADIO VILARDEVOZ",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6530",
+				"nombre": "PG-REHAB PSICOSOCIAL EN PSICOSIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6551",
+				"nombre": "PG-TRAB COMUNITARIO CON NIÑOS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6578",
+				"nombre": "PG-TRAB.INTERDIS. PARA LA PREVENCION...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7010",
+				"nombre": "PG-TRABAJO Y GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6525",
+				"nombre": "PG-TRAUMA Y TRAST.DE ANSIEDAD...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6585",
+				"nombre": "PG-TUTORIAS ENTRE PARES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150FF",
+				"nombre": "POL. CURVA DE MAROÑAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CF",
+				"nombre": "PREV. DE VIOLENCIA DE GENERO EN ADOL.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AV",
+				"nombre": "PRODUC.Y PARTIC DE SUBJETIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AI",
+				"nombre": "PROY. EXT.ATENC.INTERD. JURÍDICO PSIC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AN",
+				"nombre": "PS LABORAL VIOLENCIA PSIC EN EL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M6",
+				"nombre": "PS LABORAL- COFAC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AM",
+				"nombre": "PS LABORAL-MINISTERIO DE TURISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MA",
+				"nombre": "PS. LABORAL INV. CONDICIONES SIC. TIC`S",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M2",
+				"nombre": "PS. LABORAL- CASMU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MB",
+				"nombre": "PS. LABORAL- FFOSE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MP",
+				"nombre": "PS. LABORAL- HOSPITAL DE PANDO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M7",
+				"nombre": "PS. LABORAL- INGENER",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M8",
+				"nombre": "PS. LABORAL- KPMG",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M1",
+				"nombre": "PS. LABORAL- MERCADO DE LOS ARTESANOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M5",
+				"nombre": "PS. LABORAL- PARQUE TEC. DEL CERRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M4",
+				"nombre": "PS. LABORAL- SACCEM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M9",
+				"nombre": "PS. LABORAL-CECEA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M3",
+				"nombre": "PS. LABORAL-CONFLICTIVIDAD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MK",
+				"nombre": "PS. LABORAL-CUTU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MD",
+				"nombre": "PS. LABORAL-DIR. NAC. ADUANA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MI",
+				"nombre": "PS. LABORAL-INAU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150MJ",
+				"nombre": "PS. LABORAL-SUNTMA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BG",
+				"nombre": "PS.DEL DEPORTE Y LA ACTIVIDAD FISICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG062",
+				"nombre": "REHAB.PSICOSOC.EN PSICOSIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150ZY",
+				"nombre": "REHABILITACION COGNITIVA PATRONATO PSICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150A1",
+				"nombre": "RESPIRA URUGUAY LATU-CIET-UDELAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150A",
+				"nombre": "SALUD FAMILIAR Y COMUNITARIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150D",
+				"nombre": "SAP- ATENC.PSIC.HOSP.DE CLINICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150NN",
+				"nombre": "SAP- ATENCION PSIC. CALLE MERCEDES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150J",
+				"nombre": "SAP- ATENCION PSIC.-CAPURRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150E",
+				"nombre": "SAP-ATENCION PSIC. - APEX",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6582",
+				"nombre": "SENTIDOS Y GENEALOGIA DE LA EXPERIENCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AO",
+				"nombre": "SERSOC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150GG",
+				"nombre": "SERV. SOCIAL PEÑAROL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150X",
+				"nombre": "SERV.: ESCUELA Nª205.\"OBRA MORQUIO\"",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150F",
+				"nombre": "SERVICIO SOCIAL-COMUNITARIO DE AT. PSIC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150",
+				"nombre": "SERVICIOS V",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150M",
+				"nombre": "SERVICIOS: PASANTIA EN PSIC. LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150L",
+				"nombre": "SERVICIOS: INST. DE EDUCACION PREESCOLAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150U",
+				"nombre": "SERVICIOS:CARACT.DEL POTENCIAL DE APREND",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AL",
+				"nombre": "SIST DE EXPERIENCIAS DE DESARROLLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150II",
+				"nombre": "TALLER EST. DE APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150A2",
+				"nombre": "TALLER I Y V",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150ML",
+				"nombre": "TALLER Y TRABAJO GRUPAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG077",
+				"nombre": "TRAB.COMUNITARIO CON NIÑOS Y ADOL.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG067",
+				"nombre": "TRAB.PS CON PERS.AFECT.POR TERRORISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AG",
+				"nombre": "TRABAJO C/ADOLESCENTES EN INFRACCION...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150C",
+				"nombre": "TRABAJO COMUNITARIO C/NIÑOSYADOLESCENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150BI",
+				"nombre": "TUTORIAS ENTRE PARES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150AH",
+				"nombre": "U.C.P.-HOSPITALES (UODA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG030",
+				"nombre": "USO PROBLEM.DE DROGAS:ABORDJES DE PROXIM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "150CD",
+				"nombre": "VIOLENCIA SOBRE NIÑAS,NIÑOS Y ADOLESCENT",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P120",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P120A",
+				"nombre": "INTRODUCCION A LA PSICOLOGIA SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P120B",
+				"nombre": "INTRODUCCION A LA PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P120",
+				"nombre": "INTRODUCCION A LA PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P612",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P121",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "606",
+				"nombre": "PSICOLOGIA DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P121",
+				"nombre": "PSICOLOGIA EVOLUTIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P121A",
+				"nombre": "PSICOLOGIA EVOLUTIVA '07",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P122",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6428A",
+				"nombre": "CLINICA DE NIÑOS QUE PRESENTAN DIF.ATENC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6439A",
+				"nombre": "DIAGNOSTICO Y EVAL. PSICODEPORTIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG307",
+				"nombre": "HERRAMIENTAS Y TEC.PARA DEVOL EN INTER..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P122",
+				"nombre": "INT. AL DIAGNOSTICO PSICOLOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P122A",
+				"nombre": "INT. AL DIAGNOSTICO PSICOLOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P122B",
+				"nombre": "INT. AL DIAGNOSTICO PSICOLOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "122C",
+				"nombre": "INTRODUCCION AL DIAGNOSTICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI614",
+				"nombre": "LA CONSULTA POR ADOLESCENTES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P123",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6428",
+				"nombre": "CLIN DE NIÑOS QUE PRESENTAN DIF ATENCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6439",
+				"nombre": "DIAG Y EVAL PSICODEPORTIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "622",
+				"nombre": "HERRAMIENTAS TEC EVALUAC DIAG INTERV PSI",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG307",
+				"nombre": "HERRAMIENTAS Y TEC.PARA DEVOL EN INTER..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI614",
+				"nombre": "LA CONSULTA POR ADOLESCENTES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "123B",
+				"nombre": "TEORIA Y TECNICA DE LA ENTREVISTA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "123C",
+				"nombre": "TEORIA Y TECNICA DE LA ENTREVISTA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P123",
+				"nombre": "TEORIA Y TECNICA DE LA ENTREVISTA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P123A",
+				"nombre": "TEORIA Y TECNICA DE LA ENTREVISTA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P124",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "124A",
+				"nombre": "CORRIENTES TEORICO-TECNICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P124",
+				"nombre": "CORRIENTES TEORICO-TECNICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI605",
+				"nombre": "DISCAP.Y DEPORTES ADAPTADOS A LA ...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG007",
+				"nombre": "EL DOLOR PSIQUICO Y LAS INTERVENCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI002",
+				"nombre": "ESQUIZOANALISIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI644",
+				"nombre": "FUNDAM.DE PS.CLIN. COGNITIVO-CONDUC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG315",
+				"nombre": "HERRAMIENTAS SISTEMICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6408",
+				"nombre": "INT A LA OBRA DE LACAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI015",
+				"nombre": "PSICOANALISIS Y CINE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI317",
+				"nombre": "PSICODRAMA ENTRE LA EPISTEM. Y LA METOD.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6472",
+				"nombre": "PSICOGENESIS CONOCIMIENTO Y APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI628",
+				"nombre": "PSICOSOMAT.PSICOANALITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG653",
+				"nombre": "PSICOSOMATICA PSICOANALITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6419",
+				"nombre": "PSICOTERAPIA CORPORAL.BIOENERGETICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI323",
+				"nombre": "PSICOTERAPIA DE LOS VINCULOS TEORIA DE G",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6427",
+				"nombre": "PSICOTERAPIA SISTEMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI012",
+				"nombre": "RELACIONES HISTÓRICO-EPISTEMOLOGICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI621",
+				"nombre": "SISTEMAS, FLIAS, CALIDAD DE VIDA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI042",
+				"nombre": "TEO.CONTEMPORANEAS DE LAS CIENCIAS COGN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P126",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P126",
+				"nombre": "DESARROLLO NEUROPSICOLOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P625",
+				"nombre": "NEUROPSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P127",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P611",
+				"nombre": "REFERENCIAL II:FORMACION INTEGRAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P127",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P130",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "130A",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "130B",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "130C",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P130",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "130D",
+				"nombre": "PSICOLOGÍA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P131",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "131A",
+				"nombre": "NIVELES DE ATENCION EN SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P131",
+				"nombre": "NIVELES DE ATENCION EN SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P620",
+				"nombre": "PSICOLOGIA Y SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P132",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "613S",
+				"nombre": "PSICO SUJETO Y APREND- FORMATO SEMINARIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P613",
+				"nombre": "PSICO SUJETO Y APREND- FORMATO TEORICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6472A",
+				"nombre": "PSICOGENESIS CONOCIMIENTO Y APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "132A",
+				"nombre": "PSICOLOGIA GENETICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P132",
+				"nombre": "PSICOLOGIA GENETICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P133",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P133",
+				"nombre": "EXPL. DE LOS ASPECTOS INTELECTUALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "133A",
+				"nombre": "EXPL. LOS ASPECTOS INTELECTUALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P137",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "OG601",
+				"nombre": "ABUSO SEXUAL E INCESTO...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI600",
+				"nombre": "ACTING-OUT Y PASAJE AL ACTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI312",
+				"nombre": "APORTES TEO-TEC.A LA CLIN PSICOANAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI613",
+				"nombre": "INT. A LA OBRA DE LACAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG624",
+				"nombre": "INTRODUCCION A LA OBRA DE JACQUES LACAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG610",
+				"nombre": "LA CLIN PSICOANAL DESDE FREUD A LACAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI634",
+				"nombre": "LA CLÍNICIA PSICOAN A PARTIR DE FREUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI615",
+				"nombre": "LA FUNCION TERAP.DE LA AMISTAD...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG640",
+				"nombre": "LA PAREJA LOS NIÑOS Y LA PARENTALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI639",
+				"nombre": "LAS DIMENSIONES ESTETICA ,ETICA Y POL...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI616",
+				"nombre": "LAS ESTRUCTURAS FREUDIANAS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI315",
+				"nombre": "METODO CLINICO Y SUBJETIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG317",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION EN PSICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6262",
+				"nombre": "PS CLINICA II: INTERVENCIONES CLINICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG613",
+				"nombre": "PSICOANAL Y ETICA DE LA INTERVENCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI622",
+				"nombre": "PSICOANAL Y VIOLENCIA DOMESTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "137A",
+				"nombre": "PSICOANALISIS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "137B",
+				"nombre": "PSICOANALISIS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "137C",
+				"nombre": "PSICOANALISIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P137",
+				"nombre": "PSICOANALISIS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI014",
+				"nombre": "SER NIÑO HOY PSICOANALISIS Y DISCURSOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG314",
+				"nombre": "TRANSFERENCIA EN LA CLÍNICA PSICOANALÍTI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG011",
+				"nombre": "VICISITUDES DEL AMOR DE PAREJA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P138",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "138A",
+				"nombre": "PSICOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "138B",
+				"nombre": "PSICOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "138C",
+				"nombre": "PSICOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P138",
+				"nombre": "PSICOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P619",
+				"nombre": "PSICOPATOLOGIA CLINICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P139",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P618",
+				"nombre": "REFERENCIAL III:CONSTRUC DE ITINERARIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P139",
+				"nombre": "TALLER III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P141",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6617",
+				"nombre": "ADOLESC:DERECHOS CIVILES, POL, SEXUALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI013",
+				"nombre": "ADOLESCENCIA AUTONOMIA PROGRESIVA Y EJER",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P610",
+				"nombre": "ARTICULACION DE SABERES II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P141",
+				"nombre": "ASPECTO PSICOL.DE LA ATENCION SANITARIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "141A",
+				"nombre": "ASPECTOS SANITARIOS DE AT. PSIC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "141A",
+				"nombre": "ASPECTOS SANITARIOS DE AT. PSIC.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6620",
+				"nombre": "DER. DE INFANCIA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI300",
+				"nombre": "EL CUIDADO HUMANO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG637",
+				"nombre": "HERRAMIENTAS DEL PAYASO PARA EL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG001",
+				"nombre": "MODAL.DE INTERV EN VIOLENCIA BASADA EN..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG002",
+				"nombre": "POL.PUB.DE INFANCIA EN URUGUAY...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6477",
+				"nombre": "PS EN EMERGENCIAS Y DESASTRES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI038",
+				"nombre": "PS Y POLITICAS PUB EN URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG635",
+				"nombre": "PSICOLOGIA EN EMERGENCIAS Y DESASTRES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6619",
+				"nombre": "SALUD REPRODUCTIV Y SUBJETIIDAD...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI026",
+				"nombre": "SEXUALIDADES GÉNERO Y DIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6622",
+				"nombre": "SEXUALIDADES, GEN Y DIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI004",
+				"nombre": "SEXUALIDADES, GEN Y DIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG002",
+				"nombre": "TRAB.PS.CON PERS.AFEC. POR TERRORISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG003",
+				"nombre": "VAL.DE IMPACTO SUBJ.EN VICTIMAS DE VIOL.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI035",
+				"nombre": "VIOLENCIA DE GENERO Y SEXUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P142",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "OG009",
+				"nombre": "ASPECTOSPSICOSOCIOLINGUISTICOS DEL LENGU",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "142B",
+				"nombre": "INT. A LA PSICOLINGUISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "142A",
+				"nombre": "INTRODUCCION .A LA PSICOLINGUISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "142",
+				"nombre": "INTRODUCCION A LA PSICOLINGUISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG621",
+				"nombre": "PSICOLINGUISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6625",
+				"nombre": "PSICOLINGUISTICA, LENGUAJE, DISCURSO...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P143",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "OI601",
+				"nombre": "AGENCIAMIENTO DE LA GRUPALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG628",
+				"nombre": "AGENCIAMIENTOS DE LA GRUPALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG649",
+				"nombre": "ARTE Y TICS PERFORMATIVIDAD DIMENSIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI643",
+				"nombre": "ARTE Y TICS.PERFORMATIVIDAD. DIMENS. ET.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI640",
+				"nombre": "CLIN.GRUPAL:EL \"ENTRE\"COMO ESPACIO DE...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6700",
+				"nombre": "ECON. LIBIDINAL Y POLITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6700A",
+				"nombre": "ECONOMIA LIBIDINAL Y POLITICA-GRUPAL B.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI017",
+				"nombre": "ENTRE EL CINE Y LA LECTURA TRANSITOS POR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6438",
+				"nombre": "LA GRUPALIDAD COMO ACONTECIMIENTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6445",
+				"nombre": "LO GRUPAL:ENTRE LO LISO Y LO ESTRIADO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6440",
+				"nombre": "PRACTICAS DE ENCIERRO.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "143B",
+				"nombre": "PSIC. GRUPAL E INST. (MOD. INTEGRADA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "143",
+				"nombre": "PSIC.GRUPAL E INSTITUCIONAL-CURSO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "143A",
+				"nombre": "PSICOLOGÍA GRUPAL E INSTITUCIONAL-BÁSICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P144A",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6491",
+				"nombre": "FUNDAMENTOS MET Y CONCEPTUALES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144A1",
+				"nombre": "RORSCHACH",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144A2",
+				"nombre": "RORSCHACH",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144A3",
+				"nombre": "RORSCHACH",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144A4",
+				"nombre": "RORSCHACH",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI882",
+				"nombre": "RORSCHACH",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P144A",
+				"nombre": "RORSCHACH",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG306",
+				"nombre": "TEC DE RORSCHACH EN NIÑAS/OS MALTRATADOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6492",
+				"nombre": "TEC DE RORSCHACH EN NIÑOS MALTRATADOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P144",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "OI320",
+				"nombre": "ACTUALIZACION EN TECNICAS DE DIAGNOSTICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI321",
+				"nombre": "CARTOGRAFÍAS CLINICAS Y PSICOTERAPIA SOC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI319",
+				"nombre": "FUNDAMENTOS CONCEPTUALES Y METODOLOGICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG618",
+				"nombre": "FUNDAMENTOS METODOLOGICOS Y CONCEP...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI308",
+				"nombre": "NUEVAS SUBJETIVIDADES:GEN.NI-NI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144B",
+				"nombre": "TECNICAS PROYECTIVAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "144C",
+				"nombre": "TECNICAS PROYECTIVAS - CURSO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P144",
+				"nombre": "TECNICAS PROYECTIVAS - CURSO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P145",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "145A",
+				"nombre": "ANTROPOLOGIA BASICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "617SA",
+				"nombre": "ANTROPOLOGIA BASICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "145",
+				"nombre": "ANTROPOLOGIA FILOSOFICA - CURSO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI040",
+				"nombre": "EL MALESTAR DE LA CULTURA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CLINICA",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "OG616",
+				"nombre": "ESQUIZOFRENIA.REHAB PSICO-SOCIAL INT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6418",
+				"nombre": "PSICOPATOL INFANTIL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "146",
+				"nombre": "PSICOPATOLOGIA CLINICA - CURSO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "146B",
+				"nombre": "PSICOPATOLOGIA-BASICO-",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "7852",
+				"nombre": "PSICOPATOLOGÍA CLINICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG643",
+				"nombre": "TRASTORNOS DE LA PERSONALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P147",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6624",
+				"nombre": "DER A LA CIUDAD E INSEG EN LATINOAMERICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P615",
+				"nombre": "ETICA Y DEONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6498",
+				"nombre": "INT A LA PSICOMETRIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6706",
+				"nombre": "PROBLEMAS ETICO POLITICOS Y LOS DISPOSI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P147",
+				"nombre": "TALLER IV",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6615",
+				"nombre": "VIOLENCIA DE GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P14",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1482D",
+				"nombre": "EL CUERPO EN LA CLINICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1482H",
+				"nombre": "INT. A LA CLINICA GRUPAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P1521",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "OG600",
+				"nombre": "ABORDAJE DIAGNOSTICO DESDE LA PERSP...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI316",
+				"nombre": "CONCEPT. SOBRE LAS INTERV.PS.E INSTRUM..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG318",
+				"nombre": "DIAGNOSTICO Y EVALUACION PSICODEPORTIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI325",
+				"nombre": "EVALUACION PSICOLOGICA EN NIÑOS Y ADOLES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI331",
+				"nombre": "HERRAMIENTAS TEO-CLIN EN LA CONSULTA PS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG307",
+				"nombre": "HERRAMIENTAS Y TEC.PARA DEVOL EN INTER..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PI011",
+				"nombre": "INTERV Y CONSULTA PSIC-TALLER CLIN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6487",
+				"nombre": "INTERV. Y CONSULTA TERAP...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG008",
+				"nombre": "INTERV.EN CLINICA DESDE LA INTERDISC...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "YG004",
+				"nombre": "INTERV.EN PSICOPED.CLINICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG612",
+				"nombre": "LOS/AS ADULTOS RESPONSABLES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6510",
+				"nombre": "PROFUNDIZACIÓN DIAG PSICOLOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1521",
+				"nombre": "SEM. DE PROF. DE DIAGNOSTICO PSICOLOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1522",
+				"nombre": "SEM. PROF. DE DIAGNOSTICO PSICOLOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1523",
+				"nombre": "SEM. PROF. DE DIAGNOSTICO PSICOLOGICO-07",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6493",
+				"nombre": "TEC GRAFICAS:DIBUJO LIBRE,DFH...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6492B",
+				"nombre": "TEC.DE RORSCHACH EN NIÑOS MALTRATADOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "PG009",
+				"nombre": "VINCULO Y PSICOP EN NIÑOS ESCOLARES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P152B",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "152",
+				"nombre": "DIAGNOSTICO PSICOLOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "152A",
+				"nombre": "DIAGNOSTICO PSICOLOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "152B",
+				"nombre": "DIAGNOSTICO PSICOLOGICO (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P153",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6494",
+				"nombre": "CARTOGRAFIAS CLIN Y PSIC.SOCIOANALITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI321",
+				"nombre": "CARTOGRAFÍAS CLINICAS Y PSICOTERAPIA SOC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI604",
+				"nombre": "CLINICA DEL DUELO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6487B",
+				"nombre": "CONSULTA TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG606",
+				"nombre": "DEL PSICODRAMA A LAS INS. CLINICAS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6612",
+				"nombre": "ESQUIZODRAMA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI034",
+				"nombre": "ESQUIZODRAMA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI611",
+				"nombre": "HERRAMIENTAS SISTEMICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "153",
+				"nombre": "INT. A LAS TECNICAS PSICOTERAPEUTICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "153A",
+				"nombre": "INT. A LAS TECNICAS PSICOTERAPEUTICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG312",
+				"nombre": "INTERVENCIONES Y CONSULTA TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG624",
+				"nombre": "INTRODUCCION A LA OBRA DE JACQUES LACAN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG611",
+				"nombre": "LA CUESTION DEPRESIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG645",
+				"nombre": "LOS APORTES MAS IMPORTANTES DEL PARADIGM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6484",
+				"nombre": "MET. Y TEC PSICOANALITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG310",
+				"nombre": "METODO PSICOANALITICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6486",
+				"nombre": "PSICODRAMA:ENTRE LA EPSIT Y LA METODOLOG",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI623",
+				"nombre": "PSICODRAMA:PSICOTERAPIA Y CREATIVIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI629",
+				"nombre": "PSICOTERAP.SOCIOANALITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI313",
+				"nombre": "PSICOTERAPIA CORP. BIOENERGETICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6419A",
+				"nombre": "PSICOTERAPIA CORPORAL BIOENERGETICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6427A",
+				"nombre": "PSICOTERAPIA SISTEMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P154",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "OI617",
+				"nombre": "NEUROPSIC.CLIN.DEL ADULTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI619",
+				"nombre": "NEUROPSIC.DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "154A",
+				"nombre": "NEUROPSICOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P154",
+				"nombre": "NEUROPSICOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P155",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6455",
+				"nombre": "PSIC DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "155A2",
+				"nombre": "PSIC LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI624",
+				"nombre": "PSIC. DE LAS ORG. DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6860",
+				"nombre": "PSICOANALISIS Y CINE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6470",
+				"nombre": "PSICOLOGIA EDUCACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "155B",
+				"nombre": "PSICOLOGIA EDUCACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "155C",
+				"nombre": "PSICOLOGIA EDUCACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P155",
+				"nombre": "PSICOLOGIA EDUCACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "155A",
+				"nombre": "PSICOLOGIA LABORAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "155A1",
+				"nombre": "PSICOLOGIA LABORAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P15",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1483H",
+				"nombre": "DE LA CLIN.: NEUROSIS OBSESIVA E HIST.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1483N",
+				"nombre": "TEC. Y LUDICA DEL PSICOANAL.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1483K",
+				"nombre": "VIOLENCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P17",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "P125A",
+				"nombre": "INT. AL PSICOANALISIS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "125B",
+				"nombre": "INTRODUCC. AL PSICOANÁLISIS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P125",
+				"nombre": "INTRODUCCION AL PSICOANALISIS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6261",
+				"nombre": "PS CLINICA I: FUND PSICOANALITIC CLINICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "P20",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "6441",
+				"nombre": "ADOLESCENCIA-S TRANSFORMACIONES Y ...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6446",
+				"nombre": "APORTES DE LA PS SOCIAL COMUNITARIA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI033",
+				"nombre": "CONSTRUYENDO PRESENCIA: PROFES. DE PS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6607",
+				"nombre": "CONSTRUYENDO PRESENCIA:PROF DE LA PSIC..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI304",
+				"nombre": "ENFOQUES Y ABORD.FAMILIARES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG607",
+				"nombre": "HUELLAS DE LAS DICTADURAS DEL CONO SUR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI306",
+				"nombre": "INT.A LAS MET.CUALIT.DE INVESTIGACION...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG609",
+				"nombre": "INTERV.EN REDES SOCIALES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI029",
+				"nombre": "LA CONSTRUCCIÓN DEL PROBLEMA SOCIAL DESD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI307",
+				"nombre": "MET.Y TEC.DE INTERV COMUN.NIÑOS Y ADOLES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6505",
+				"nombre": "METODOLOGIA Y TEC INTERV COMUN....",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6454",
+				"nombre": "PARTICIPACION ADOLES. Y SERV DE SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG636",
+				"nombre": "PARTICIPACION ADOLESCENTES Y SERVICIOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6435",
+				"nombre": "POL.SOCIALES Y PROCESOS INCLUSIVOS ...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG644",
+				"nombre": "PREVENCION DE ADICCIONES LOS USOS DE DRO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6453",
+				"nombre": "PREVENCION EN ADICCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG006",
+				"nombre": "PSICOLOGIA SOCIAL COMUNITARIA Y POLIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI318",
+				"nombre": "RECURSOS EXPRESIVOS CREATIVOS EN TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "151A",
+				"nombre": "TECNICAS DE ATENCION COMUNITARIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "151",
+				"nombre": "TECNICAS DE ATENCION COMUNITARIAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PCGT",
+		"min": 5,
+		"max": 3,
+		"previas": [
+			{
+				"id": "617",
+				"nombre": "ARTICULACION DE SABERES III",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P624",
+				"nombre": "ARTICULACION DE SABERES IV",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "617S",
+				"nombre": "ARTICULACION SABERES III FORMATO SEMINAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P623",
+				"nombre": "DISEÑO DE PROYECTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P615",
+				"nombre": "ETICA Y DEONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "622",
+				"nombre": "HERRAMIENTAS TEC EVALUAC DIAG INTERV PSI",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "P625",
+				"nombre": "NEUROPSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6261",
+				"nombre": "PS CLINICA I: FUND PSICOANALITIC CLINICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6262",
+				"nombre": "PS CLINICA II: INTERVENCIONES CLINICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "613S",
+				"nombre": "PSICO SUJETO Y APREND- FORMATO SEMINARIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P613",
+				"nombre": "PSICO SUJETO Y APREND- FORMATO TEORICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P612",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "P620",
+				"nombre": "PSICOLOGIA Y SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "P619",
+				"nombre": "PSICOPATOLOGIA CLINICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P618",
+				"nombre": "REFERENCIAL III:CONSTRUC DE ITINERARIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			}
+		]
+	},
+	{
+		"id": "PCIMM",
+		"min": 0,
+		"max": 4,
+		"previas": [
+			{
+				"id": "P627",
+				"nombre": "ACREDITACIÓN DE IDIOMA(OPTATIVA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P603",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "602A",
+				"nombre": "HERRAM TRABAJO INTELEC-ACREDITACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "602",
+				"nombre": "HERRAMIENTAS PARA EL TRABAJO INTELECTUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P643",
+				"nombre": "IDIOMA: INGLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P644",
+				"nombre": "IDIOMA: PORTUGUES",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "609A",
+				"nombre": "MET Y HERRAM ORINT EXTENSIO ACREDITACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "609",
+				"nombre": "MET. Y HERRAMIENTAS ORIENT.A LA EXTEN.",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "608",
+				"nombre": "METODOLOGIA GENERAL DE LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			}
+		]
+	},
+	{
+		"id": "PCIMP",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "601",
+				"nombre": "HISTORIA DE LA PSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "6071",
+				"nombre": "PROCESOS COGNITIVOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6072",
+				"nombre": "PROCESOS COGNITIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "606",
+				"nombre": "PSICOLOGIA DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "P600",
+				"nombre": "TEORIAS PSICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			}
+		]
+	},
+	{
+		"id": "PCIT1",
+		"min": 7,
+		"max": 0,
+		"previas": []
+	},
+	{
+		"id": "PCIT",
+		"min": 5,
+		"max": 0,
+		"previas": [
+			{
+				"id": "P627",
+				"nombre": "ACREDITACIÓN DE IDIOMA(OPTATIVA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "604",
+				"nombre": "ARTICULACION DE SABERES I",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P610",
+				"nombre": "ARTICULACION DE SABERES II",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P603",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P616",
+				"nombre": "ESPACIO PRACTICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "616A",
+				"nombre": "ESPACIO PRACTICO-ACREDITACIÓN- FLOR CEIB",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "602A",
+				"nombre": "HERRAM TRABAJO INTELEC-ACREDITACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "602",
+				"nombre": "HERRAMIENTAS PARA EL TRABAJO INTELECTUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "601",
+				"nombre": "HISTORIA DE LA PSICOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "P643",
+				"nombre": "IDIOMA: INGLES",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P644",
+				"nombre": "IDIOMA: PORTUGUES",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "609A",
+				"nombre": "MET Y HERRAM ORINT EXTENSIO ACREDITACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "609",
+				"nombre": "MET. Y HERRAMIENTAS ORIENT.A LA EXTEN.",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "608",
+				"nombre": "METODOLOGIA GENERAL DE LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6071",
+				"nombre": "PROCESOS COGNITIVOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6072",
+				"nombre": "PROCESOS COGNITIVOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "606",
+				"nombre": "PSICOLOGIA DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "605A",
+				"nombre": "REFERENCIAL I - ACREDITACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "605",
+				"nombre": "REFERENCIAL I:INICIACION A LO UNIVERSIT",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "611A",
+				"nombre": "REFERENCIAL II-ACREDITACIÓN-FLOR CEIBO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P611",
+				"nombre": "REFERENCIAL II:FORMACION INTEGRAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P600",
+				"nombre": "TEORIAS PSICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			}
+		]
+	},
+	{
+		"id": "PMMPG",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "OI311",
+				"nombre": "ABORDAJE PSICO-SOCIO-EDUCATIVO...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI301",
+				"nombre": "AGENCIAMIENTOS TECNOL:TIC...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6811",
+				"nombre": "AGENCIAMIENTOS TECNOLOGICOS: TIC.HERRAMI",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6813",
+				"nombre": "APORTES PARA EL DESARROLLO DE PROGRAMAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI312",
+				"nombre": "APORTES TEO-TEC.A LA CLIN PSICOANAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI302",
+				"nombre": "APROX A LA INTERV.EN LA PRIV.LIBERTAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI303",
+				"nombre": "APROX.ETNOGRAFICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6494",
+				"nombre": "CARTOGRAFIAS CLIN Y PSIC.SOCIOANALITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI300",
+				"nombre": "EL CUIDADO HUMANO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI304",
+				"nombre": "ENFOQUES Y ABORD.FAMILIARES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6499",
+				"nombre": "ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI305",
+				"nombre": "EVAL.NEUROPSIC.DEL PACIENTE CON DAÑO...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6491",
+				"nombre": "FUNDAMENTOS MET Y CONCEPTUALES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OG307",
+				"nombre": "HERRAMIENTAS Y TEC.PARA DEVOL EN INTER..",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6498",
+				"nombre": "INT A LA PSICOMETRIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OG300",
+				"nombre": "INT.A LA INVEST.EN PSICOTERAPIA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI306",
+				"nombre": "INT.A LAS MET.CUALIT.DE INVESTIGACION...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI314",
+				"nombre": "INTRODUCCION A LA PSICOMETRIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OG301",
+				"nombre": "INVEST-ACCION:TRABAJO Y FLIA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OG302",
+				"nombre": "MATEMATICA Y BASES PSICOFISICAS...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI307",
+				"nombre": "MET.Y TEC.DE INTERV COMUN.NIÑOS Y ADOLES",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6505",
+				"nombre": "METODOLOGIA Y TEC INTERV COMUN....",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P621",
+				"nombre": "METODOS Y TECNICAS CUALITATIVAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "P614",
+				"nombre": "METODOS Y TECNICAS CUANTITATIVAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI308",
+				"nombre": "NUEVAS SUBJETIVIDADES:GEN.NI-NI",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6281",
+				"nombre": "OPTATIVA II MOD METODOLÓGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6282",
+				"nombre": "OPTATIVA III MOD METODOLOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "630",
+				"nombre": "OPTATIVA IV MOD METODOLOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI309",
+				"nombre": "PARADIGMAS Y TEC DE INVES.CUALITATIVA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI310",
+				"nombre": "PERSP.Y HERRAMIENTAS DE LA INVEST CRITIC",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6486",
+				"nombre": "PSICODRAMA:ENTRE LA EPSIT Y LA METODOLOG",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OG303",
+				"nombre": "PSICOFISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OG305",
+				"nombre": "PSICOLOGIA EN DESASTRES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OI313",
+				"nombre": "PSICOTERAPIA CORP. BIOENERGETICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "OG304",
+				"nombre": "TRABAJO Y FEMINISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			},
+			{
+				"id": "6705",
+				"nombre": "VIOLENCIA DOMESTICA, UNA METODOLOGIA...",
+				"actividad": "Curso aprobado",
+				"puntaje": 5
+			}
+		]
+	},
+	{
+		"id": "PSEM",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "OI601",
+				"nombre": "AGENCIAMIENTO DE LA GRUPALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "617SB",
+				"nombre": "ANTROPOLOGIA PROFUNDIZACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG603",
+				"nombre": "CLIN DE NIÑOS QUE PRESENTAN DIFICULTADES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6428B",
+				"nombre": "CLINICA DE NIÑOS QUE PRESENTAN DIF.ATENC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI324",
+				"nombre": "ECONOMIA LIBIDINAL Y POLITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6700B",
+				"nombre": "ECONOMIA LIBIDINAL Y POLITICA-GRUPAL P.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG620",
+				"nombre": "EL MALESTAR EN LA CULTURA, FUNDAMENTOS..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG017",
+				"nombre": "EL PENSAMIENTO DE NIETZCHE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG619",
+				"nombre": "EL PENSAMIENTO DE NIETZCHE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI637",
+				"nombre": "EL TRABAJO TERAP. GRUPAL CON PACIENTES..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI017",
+				"nombre": "ENTRE EL CINE Y LA LECTURA TRANSITOS POR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI612",
+				"nombre": "INT.A LA CLIN.DE LOS ESTADOS LIMITES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG654",
+				"nombre": "LA CLIN DE LOS ESTADOS LIMITES...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6438A",
+				"nombre": "LA GRUPALIDAD COMO ACONTECIMIENTO-GRUP.P",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6445A",
+				"nombre": "LO GRUPAL: ENTRE LO LISO Y LO ESTRIADO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI340",
+				"nombre": "LOS TESTS GRAFICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6440A",
+				"nombre": "PRACTICAS DE ENCIERRO-GRUPAL P.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI88",
+				"nombre": "PROF. ANTROPOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI627",
+				"nombre": "PSICOP. INFANTIL:UNA MIRADA DESDE EL PSI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI881",
+				"nombre": "REFLEXIONES FILOSOFICAS Y PSICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI636",
+				"nombre": "SALUD MENTAL, PROCESOS DE INSTITUC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG617",
+				"nombre": "SALUD MENTAL,PROC.DE INSTITUCIONALIZ...",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1481",
+				"nombre": "SEM. PROF. ANTROPOLOGIA FILOSOFICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1482",
+				"nombre": "SEM. PROF. PSICOLOGIA GRUPAL E INSTIT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1483",
+				"nombre": "SEM. PROF. PSICOPATOLOGIA CLINICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "P1484",
+				"nombre": "SEM. PROF. TECNICAS PROYECTIVAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OI023",
+				"nombre": "SEMINARIO DE LECTURA Y ANALISIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "6492A",
+				"nombre": "TECNICAS DE RORSCHACH EN NIÑOS MALTRATAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG615",
+				"nombre": "UN ENCUENTRO ENTRE 2 AUTORES:RIVIERE Y..",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OG614",
+				"nombre": "VINCULO TEMPRANO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SA13A",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "SAH5C",
+				"nombre": "MAT. PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA13",
+				"nombre": "MATERIALES DENTALES PARA ASISTENTE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SA5A1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "SAH5C",
+				"nombre": "MAT. PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA13",
+				"nombre": "MATERIALES DENTALES PARA ASISTENTE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SA9H8",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "SH8A9",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA9",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SAH89",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "SH8A9",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA9",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SH8A9",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "SH8A9",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SH8",
+				"nombre": "PROCED. TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SHA98",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "SH8A9",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SH8",
+				"nombre": "PROCED. TÉCNICOS DE BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

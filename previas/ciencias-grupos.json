@@ -1,0 +1,2409 @@
+[
+	{
+		"id": "100",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BQ400",
+				"nombre": "BIOQUIMICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ302",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ017",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "101",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BQ004",
+				"nombre": "FISICOQUIMICA GENERAL (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "104",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "BQ101",
+				"nombre": "MATEMATICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "106",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI017",
+				"nombre": "FISICA GENERAL Y EXPERIMENTAL II (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "107",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA023",
+				"nombre": "ALGEBRA LINEAL Y GEOMETRIA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "10",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "MA087",
+				"nombre": "ANALISIS MATEMATICO II (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "130",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "BL233",
+				"nombre": "VERTEBRADOS (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL233",
+				"nombre": "VERTEBRADOS (ANUAL)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA023",
+				"nombre": "ALGEBRA LINEAL Y GEOMETRIA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "201",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "BQ101",
+				"nombre": "MATEMATICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "203",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "BQ101",
+				"nombre": "MATEMATICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "205",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BQ004",
+				"nombre": "FISICOQUIMICA GENERAL (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "206",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "BQ400",
+				"nombre": "BIOQUIMICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ017",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "207",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BQ400",
+				"nombre": "BIOQUIMICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ302",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "210",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL037",
+				"nombre": "INTRODUCCION A LA GEOLOGIA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "211",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BQ007",
+				"nombre": "QUIMICA ORGANICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ402",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "214",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "QU013",
+				"nombre": "QUIMICA ORGANICA 102 (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ402",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "QU034",
+				"nombre": "QUIMICA ORGANICA II (FAC. QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ403",
+				"nombre": "QUIMICA ORGANICA II (TEORICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "215",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "BQ402",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ403",
+				"nombre": "QUIMICA ORGANICA II (TEORICO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "233",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BL856",
+				"nombre": "AMNIOTAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL233",
+				"nombre": "VERTEBRADOS (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "26",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI017",
+				"nombre": "FISICA GENERAL Y EXPERIMENTAL II (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "27",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "FI016",
+				"nombre": "FISICA GENERAL Y EXPERIMENTAL I (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "FI002",
+				"nombre": "MECANICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "31",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "FI016",
+				"nombre": "FISICA GENERAL Y EXPERIMENTAL I (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "FI002",
+				"nombre": "MECANICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "331",
+		"min": 3,
+		"max": 0,
+		"previas": [
+			{
+				"id": "BQ404",
+				"nombre": "LABORATORIO DE QUIMICA ORGANICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "QU013",
+				"nombre": "QUIMICA ORGANICA 102 (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BQ402",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU034",
+				"nombre": "QUIMICA ORGANICA II (FAC. QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BQ403",
+				"nombre": "QUIMICA ORGANICA II (TEORICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "332",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BQ400",
+				"nombre": "BIOQUIMICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ017",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "334",
+		"min": 3,
+		"max": 8,
+		"previas": [
+			{
+				"id": "BQ303",
+				"nombre": "QUIMICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU012",
+				"nombre": "QUIMICA ORGANICA 101 (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU033",
+				"nombre": "QUIMICA ORGANICA I (FAC. QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "IP003",
+				"nombre": "QUIMICA ORGANICA I (IPA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "IP004",
+				"nombre": "QUIMICA ORGANICA II (IPA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "335",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "QU075",
+				"nombre": "BIOLOGIA - ANUAL (FAC. QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU045",
+				"nombre": "BIOLOGIA (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MD012",
+				"nombre": "BIOLOGIA DEL CICLO BASICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ003",
+				"nombre": "BIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BL017",
+				"nombre": "BIOLOGIA GENERAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU055",
+				"nombre": "BIOQUIMICA I (ING. ALIMENTOS) (FAC.QUIM.",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MD030",
+				"nombre": "CICLO BASICO MOD.III (INT.A LA BIOLOGIA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ339",
+				"nombre": "INTRODUCCION A LA BIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ337",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU015",
+				"nombre": "INTRODUCCION A LAS CS.BIOLOG.I (F.QUIM.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "QU016",
+				"nombre": "INTRODUCCION A LAS CS.BIOLOG.II (F.QUIM.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "338",
+		"min": 3,
+		"max": 8,
+		"previas": [
+			{
+				"id": "QU063",
+				"nombre": "FISICOQUIMICA 102 (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU038",
+				"nombre": "FISICOQUIMICA I (FAC. QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IP001",
+				"nombre": "FISICOQUIMICA I (IPA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU039",
+				"nombre": "FISICOQUIMICA II (FAC. QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IP002",
+				"nombre": "FISICOQUIMICA II (IPA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "QU040",
+				"nombre": "FISICOQUIMICA III (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "339",
+		"min": 3,
+		"max": 0,
+		"previas": [
+			{
+				"id": "QU041",
+				"nombre": "ELECTROQUIMICA (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BFQ02",
+				"nombre": "FISICOQUIMICA DE LAS INTERFASES",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BFQ03",
+				"nombre": "FISICOQUIMICA MODERNA-ESTR.Y PROP.MOLEC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "354",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "QU006",
+				"nombre": "FISICA 103 (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "QU028",
+				"nombre": "FISICA II (FAC. QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IN020",
+				"nombre": "LABORATORIO II (FAC.ING.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IN019",
+				"nombre": "TALLER LABORATORIO II (FAC.ING.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "435",
+		"min": 2,
+		"max": 5,
+		"previas": [
+			{
+				"id": "QU075",
+				"nombre": "BIOLOGIA - ANUAL (FAC. QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU045",
+				"nombre": "BIOLOGIA (FAC.QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MD012",
+				"nombre": "BIOLOGIA DEL CICLO BASICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MD012",
+				"nombre": "BIOLOGIA DEL CICLO BASICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ003",
+				"nombre": "BIOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BL017",
+				"nombre": "BIOLOGIA GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU055",
+				"nombre": "BIOQUIMICA I (ING. ALIMENTOS) (FAC.QUIM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "MD030",
+				"nombre": "CICLO BASICO MOD.III (INT.A LA BIOLOGIA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ339",
+				"nombre": "INTRODUCCION A LA BIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BL039",
+				"nombre": "INTRODUCCION A LA BIOLOGIA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ337",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU015",
+				"nombre": "INTRODUCCION A LAS CS.BIOLOG.I (F.QUIM.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "QU016",
+				"nombre": "INTRODUCCION A LAS CS.BIOLOG.II (F.QUIM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "438",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "QU063",
+				"nombre": "FISICOQUIMICA 102 (FAC.QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU038",
+				"nombre": "FISICOQUIMICA I (FAC. QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IP001",
+				"nombre": "FISICOQUIMICA I (IPA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "QU039",
+				"nombre": "FISICOQUIMICA II (FAC. QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IP002",
+				"nombre": "FISICOQUIMICA II (IPA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "QU040",
+				"nombre": "FISICOQUIMICA III (FAC.QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "444",
+		"min": 3,
+		"max": 6,
+		"previas": [
+			{
+				"id": "MD001",
+				"nombre": "BIOLOGIA CELULAR (ESFUNO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MD002",
+				"nombre": "BIOLOGIA TISULAR (ESFUNO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL000",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BQ300",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BQ400",
+				"nombre": "BIOQUIMICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU076",
+				"nombre": "BIOQUIMICA (FAC. DE QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU079",
+				"nombre": "BIOQUIMICA (OPTATIVA III) (FAC. QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BQ302",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "QU044",
+				"nombre": "INTRODUCCION A LA BIOQUIMICA (F.QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "MD006",
+				"nombre": "REGUL. HUMORAL Y METABOLICA (ES.FU.NO.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "454",
+		"min": 2,
+		"max": 0,
+		"previas": [
+			{
+				"id": "QU041",
+				"nombre": "ELECTROQUIMICA (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BFQ03",
+				"nombre": "FISICOQUIMICA MODERNA-ESTR.Y PROP.MOLEC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "455",
+		"min": 2,
+		"max": 0,
+		"previas": [
+			{
+				"id": "QU041",
+				"nombre": "ELECTROQUIMICA (FAC.QUIMICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BFQ03",
+				"nombre": "FISICOQUIMICA MODERNA-ESTR.Y PROP.MOLEC.",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "456",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "Y1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "457",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "Y1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "458",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "Y1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "459",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "Y1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA017",
+				"nombre": "INTRODUCCION A LA GEOMETRIA DIFERENCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "53",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "GL033",
+				"nombre": "QUIMICA GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "GL042",
+				"nombre": "QUIMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "54",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "MA900",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "55",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "56",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "57",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "MA970",
+				"nombre": "GEOMETRIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "7",
+		"min": 0,
+		"max": 0,
+		"previas": [
+			{
+				"id": "BFQ02",
+				"nombre": "FISICOQUIMICA DE LAS INTERFASES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ004",
+				"nombre": "FISICOQUIMICA GENERAL (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 10
+			},
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 7
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "BFQ03",
+				"nombre": "FISICOQUIMICA MODERNA-ESTR.Y PROP.MOLEC.",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "96",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL017",
+				"nombre": "GEOLOGIA HISTORICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL037",
+				"nombre": "INTRODUCCION A LA GEOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "99",
+		"min": 2,
+		"max": 6,
+		"previas": [
+			{
+				"id": "BQ103",
+				"nombre": "FISICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "BQ115",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ203",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "9",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "MA021",
+				"nombre": "ANALISIS MATEMATICO I (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "AS00",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BG1",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BL04",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BG1",
+				"nombre": "QUIMICA I (2013-",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL00",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL043",
+				"nombre": "BIOLOGIA VEGETAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL01",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL02",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL011",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL037",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "BL039",
+				"nombre": "INTRODUCCION A LA BIOLOGIA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL011",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL06",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL07",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL08",
+		"min": 6,
+		"max": 6,
+		"previas": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL011",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL13",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL011",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL15",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL17",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL18",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL011",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BL21",
+		"min": 2,
+		"max": 4,
+		"previas": [
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL12",
+				"nombre": "PALEONTOLOGIA (A)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL14",
+				"nombre": "PALEONTOLOGIA (B)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BQ00",
+		"min": 5,
+		"max": 0,
+		"previas": [
+			{
+				"id": "BL017",
+				"nombre": "BIOLOGIA GENERAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BQ104",
+				"nombre": "LABORATORIO DE FISICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BQ043",
+		"min": 1,
+		"max": 0,
+		"previas": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F12",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN1",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F13",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN1",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F14",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN2",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F15",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN2",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F16",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN3",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F17",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "Y1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IN3",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F18",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN4",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F19",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN4",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "Y1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "FI00",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "FI116",
+				"nombre": "FISICA II (MATEMATICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA09",
+				"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "FIS2",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "IN8",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GF00",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "GF032",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GF083",
+				"nombre": "FOTOINTERPRETACION E INT.TELEDETECCION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GF082",
+				"nombre": "GEOGRAFIA HUMANA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "GL00",
+		"min": 4,
+		"max": 4,
+		"previas": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL037",
+				"nombre": "INTRODUCCION A LA GEOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA00",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA09",
+				"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA01",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN1",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA12",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (M)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA02",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN2",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA14",
+				"nombre": "ALGEBRA LINEAL I (M)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA03",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN3",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA04",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN4",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA18",
+				"nombre": "ALGEBRA LINEAL II (M)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA12",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN1",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA12",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (M)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA14",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN2",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA14",
+				"nombre": "ALGEBRA LINEAL I (M)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA16",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN3",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MA18",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "IN4",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "MA18",
+				"nombre": "ALGEBRA LINEAL II (M)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "QUIM1",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BL04",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "BG1",
+				"nombre": "QUIMICA I (2013-",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

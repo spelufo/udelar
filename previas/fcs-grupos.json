@@ -1,0 +1,2909 @@
+[
+	{
+		"id": "250",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "250R",
+				"nombre": "METODOLOGIA DE LA INT.PROFESIONAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2500R",
+				"nombre": "METODOLOGIA DE LA INTERV. PROF. I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "370",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "370R",
+				"nombre": "METODOLOGIA DE LA INT.PROFESIONAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3700R",
+				"nombre": "METODOLOGIA DE LA INTERV. PROF. II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "372",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "SS78",
+				"nombre": "SEM.SOC.ESP.: COMP. LABORALES Y PROF.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S41",
+				"nombre": "SEM.SOC.ESP.: DESIG. SOC. Y TERRITORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SS79",
+				"nombre": "SEM.SOC.ESP.: DESIG. Y DES. EN SOC. INF.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SS70",
+				"nombre": "SEM.SOC.ESP.: DESIGUALDADES DE GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S75",
+				"nombre": "SEM.SOC.ESP.: EDUCACIÓN Y TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SS72",
+				"nombre": "SEM.SOC.ESP.: JOVENES, JUV. Y POL. PCAS.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S43",
+				"nombre": "SEM.SOC.ESP.: SOC. DE LA CULTURA 2013",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SS44",
+				"nombre": "SEM.SOC.ESP.: SOC. DE LA CULTURA 2014",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S40",
+				"nombre": "SEM.SOC.ESP.: SOC. DE LA EDUCACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S77",
+				"nombre": "SEM.SOC.ESP.: SOC. DE LA INF. Y EL CONOC",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S42",
+				"nombre": "SEM.SOC.ESP.: SOC. DE LA SOLIDARIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S74",
+				"nombre": "SEM.SOC.ESP.: SOC. TRAB. Y DE LA GESTIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SS45",
+				"nombre": "SEM.SOC.ESP.: SOCIEDAD RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SS47",
+				"nombre": "SEM.SOC.ESP.: SOCIOLOGÍA DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SS46",
+				"nombre": "SEM.SOC.ESP.: SOCIOLOGÍA DE LAS IDENTID.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S76",
+				"nombre": "SEM.SOC.ESP.: SOCIOLOGÍA RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3721R",
+				"nombre": "TALLER CENT:SOCIOLOGIA URBANA Y REGIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3908",
+				"nombre": "TALLER CENTRAL: CIUDADANIA SEXUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3908A",
+				"nombre": "TALLER CENTRAL: CIUDADANIA SEXUAL (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3781R",
+				"nombre": "TALLER CENTRAL: COMPETENCIAS LABORALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3784R",
+				"nombre": "TALLER CENTRAL: CULTURA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3891",
+				"nombre": "TALLER CENTRAL: DESARROLLO SOCIAL Y A.S.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3785R",
+				"nombre": "TALLER CENTRAL: EDUCACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3774R",
+				"nombre": "TALLER CENTRAL: EDUCACION Y TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3892",
+				"nombre": "TALLER CENTRAL: INNOVACION, TRAB.Y EDUC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3790R",
+				"nombre": "TALLER CENTRAL: JUVENTUD Y VIOLENCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "377R",
+				"nombre": "TALLER CENTRAL: MUJER Y FAMILIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3786R",
+				"nombre": "TALLER CENTRAL: POLITICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3898",
+				"nombre": "TALLER CENTRAL: SOC. DE LA CULTURA/ 2006",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3894",
+				"nombre": "TALLER CENTRAL: SOC. DE LA CULTURA/2008",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3890R",
+				"nombre": "TALLER CENTRAL: SOC. FORMACION Y EMPLEO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "376R",
+				"nombre": "TALLER CENTRAL: SOC.DEL TR.Y DE LAS ORG.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3896",
+				"nombre": "TALLER CENTRAL: SOCIOL. DE LA EDUCACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3897",
+				"nombre": "TALLER CENTRAL: SOCIOL. DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3788R",
+				"nombre": "TALLER CENTRAL: SOCIOL.DE LA COMUNIC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3893",
+				"nombre": "TALLER CENTRAL: SOCIOL.DE LA EDUCACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "372R",
+				"nombre": "TALLER CENTRAL: SOCIOLOGIA AGRARIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3889R",
+				"nombre": "TALLER CENTRAL: SOCIOLOGIA DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3773R",
+				"nombre": "TALLER CENTRAL: SOCIOLOGIA ECONOMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3895",
+				"nombre": "TALLER CENTRAL: SOCIOLOGIA RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3720R",
+				"nombre": "TALLER CENTRAL: SOCIOLOGIA URBANA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3789",
+				"nombre": "TALLER CENTRAL: TRANSFORM. AGRARIAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3783R",
+				"nombre": "TALLER CENTRAL: TRANSFORMAC. AGRARIAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3782R",
+				"nombre": "TALLER CENTRAL: URBANA Y REGIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3778R",
+				"nombre": "TALLER CENTRAL:DE LA TERCERA EDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3780R",
+				"nombre": "TALLER CENTRAL:DE LAS RELACIONES DE GEN.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3779R",
+				"nombre": "TALLER CENTRAL:EDUCACION Y TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3761R",
+				"nombre": "TALLER CENTRAL:SOC. DE LA DESVIACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3775R",
+				"nombre": "TALLER CENTRAL:SOC. URBANA Y REGIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3777R",
+				"nombre": "TALLER CENTRAL:SOC.DE LA EDUCACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3776R",
+				"nombre": "TALLER CENTRAL:SOC.TRABAJO Y COMP.URUG.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3722R",
+				"nombre": "TALLER CENTRAL:SOCIOLOGIA DE LA EDUCAC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3771R",
+				"nombre": "TALLER CENTRAL:SOCIOLOGIA DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3787R",
+				"nombre": "TALLER CENTRAL:SOCIOLOGIA DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3905",
+				"nombre": "TALLER: COLECTIVOS Y LUCHAS SOCIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3902",
+				"nombre": "TALLER: DESARROLLO Y PARTICIP. SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA41",
+				"nombre": "TALLER: DESIG. SOCIALES Y TERRITORIO (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB41",
+				"nombre": "TALLER: DESIG.SOC.Y TERRITORIO(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3904",
+				"nombre": "TALLER: ORGANIZ.DEL TRABAJO Y RRHH",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3900",
+				"nombre": "TALLER: POLITICAS SOCIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3901",
+				"nombre": "TALLER: RELACIONES SOCIALES DE GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA43",
+				"nombre": "TALLER: SOC. DE LA CULTURA 2013 (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA44",
+				"nombre": "TALLER: SOC. DE LA CULTURA 2014 (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB40",
+				"nombre": "TALLER: SOC. DE LA EDUCACION (II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB77",
+				"nombre": "TALLER: SOC. DE LA INF. Y CON.(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA77",
+				"nombre": "TALLER: SOC. DE LA INF. Y EL CONOC (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA46",
+				"nombre": "TALLER: SOC. DE LAS IDENTID. (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB46",
+				"nombre": "TALLER: SOC. DE LAS IDENTID. (II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3907",
+				"nombre": "TALLER: SOC. URBANA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB42",
+				"nombre": "TALLER: SOC.DE LA SOLIDARIDAD (II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3899",
+				"nombre": "TALLER: SOCIEDAD DEL CONOC. Y LA INFORM.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA45",
+				"nombre": "TALLER: SOCIEDAD RURAL (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB45",
+				"nombre": "TALLER: SOCIEDAD RURAL (II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3903",
+				"nombre": "TALLER: SOCIOLOGIA ECONOMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA40",
+				"nombre": "TALLER: SOCIOLOGÍA DE LA EDUCACIÓN (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA47",
+				"nombre": "TALLER: SOCIOLOGÍA DE LA SALUD (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB47",
+				"nombre": "TALLER: SOCIOLOGÍA DE LA SALUD (II Y III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA42",
+				"nombre": "TALLER: SOCIOLOGÍA DE LA SOLIDARIDAD(I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "3906",
+				"nombre": "TALLER: VIOLENCIA Y CRIMINALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA70",
+				"nombre": "TALLER:DESIGUALDADES DE GENERO (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB70",
+				"nombre": "TALLER:DESIGUALDADES DE GENERO(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA75",
+				"nombre": "TALLER:EDUCACION Y TRABAJO (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB75",
+				"nombre": "TALLER:EDUCACION Y TRABAJO (II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA72",
+				"nombre": "TALLER:JOVENES,JUV.Y P.PCAS(I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB72",
+				"nombre": "TALLER:JOVENES,JUV.Y P.PCAS.(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB43",
+				"nombre": "TALLER:SOC. DE LA CULTURA 2013(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB44",
+				"nombre": "TALLER:SOC. DE LA CULTURA 2014(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA71",
+				"nombre": "TALLER:SOC.DE LAS IDENTIDADES (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB71",
+				"nombre": "TALLER:SOC.DE LAS IDENTIDADES(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA74",
+				"nombre": "TALLER:SOC.DEL TRAB.Y DE LA GESTION (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB74",
+				"nombre": "TALLER:SOC.DEL TRAB.Y LA GEST.(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB73",
+				"nombre": "TALLER:SOC.RURAL Y DES.TERR.(II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA73",
+				"nombre": "TALLER:SOC.RURAL Y DES.TERRIT.(I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SA76",
+				"nombre": "TALLER:SOCIOLOGIA RURAL (I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SB76",
+				"nombre": "TALLER:SOCIOLOGIA RURAL (II Y III)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T372",
+				"nombre": "TALLERES CENTR.DE INVESTIGACION (P.2009)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "372",
+				"nombre": "TALLERES CENTRALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "492R",
+				"nombre": "TALLERES CENTRALES* SOCIOLOGIA POLITICA*",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "490",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4900R",
+				"nombre": "METODOLOGIA DE LA INT. PROFESIONAL III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "490R",
+				"nombre": "METODOLOGIA DE LA INT.PROFESIONAL III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "ANTR",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "360",
+				"nombre": "ANTROPOLOGIA CULTURAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "360",
+				"nombre": "ANTROPOLOGIA CULTURAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "BASI",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "110",
+				"nombre": "CIENCIA POLITICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "112",
+				"nombre": "TRABAJO SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C51",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C51",
+				"nombre": "SISTEMA POLITICO NACIONAL I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C51",
+				"nombre": "SISTEMA POLITICO NACIONAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C52",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C52",
+				"nombre": "TEORIA POLITICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C52",
+				"nombre": "TEORIA POLITICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C54",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C54",
+				"nombre": "INSTITUCIONES I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C54",
+				"nombre": "INSTITUCIONES I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C55",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C55",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C55",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C56",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C56",
+				"nombre": "MUESTREO Y TECNICAS ENCUESTA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C56",
+				"nombre": "MUESTREO Y TECNICAS ENCUESTA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C58",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C58",
+				"nombre": "SISTEMA POLITICO NACIONAL II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C58",
+				"nombre": "SISTEMA POLITICO NACIONAL II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C59",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C59",
+				"nombre": "INSTITUCIONES POLITICAS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C59",
+				"nombre": "INSTITUCIONES POLITICAS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C60",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C60",
+				"nombre": "METODOLOGIA II: MEDICION Y DISEÑO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C60",
+				"nombre": "METODOLOGIA II: MEDICION Y DISEÑO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C61",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C61",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C61",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C62",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C62",
+				"nombre": "TEORIA POLITICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C62",
+				"nombre": "TEORIA POLITICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C64",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "8C82",
+				"nombre": "ECONOMIA POLITICA E INSTITUCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "8C82",
+				"nombre": "ECONOMIA POLITICA E INSTITUCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "9C82",
+				"nombre": "ECONOMIA POLITICA E INSTITUCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "9C82",
+				"nombre": "ECONOMIA POLITICA E INSTITUCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C82",
+				"nombre": "ECONOMIA POLITICA E INSTITUCIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C82",
+				"nombre": "ECONOMIA POLITICA E INSTITUCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C81",
+				"nombre": "INSTITUCIONES POLIT.EN AMERICA LATINA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C81",
+				"nombre": "INSTITUCIONES POLIT.EN AMERICA LATINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C65",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C65",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C65",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CSO1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "T53",
+				"nombre": "ANTROPOLOGIA CULTURAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "360",
+				"nombre": "ANTROPOLOGIA CULTURAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "R53",
+				"nombre": "CAJA DE HERRAMIENTAS.FORM.EN COMUNIC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T52C",
+				"nombre": "CS I: PSICOLOGÌA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "368",
+				"nombre": "DEMOGRAFIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C34",
+				"nombre": "DESARROLLO ECON. EN EL URUGUAY CONTEMP.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C34A",
+				"nombre": "DESARROLLO ECON. EN EL URUGUAY CONTEMP.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D40",
+				"nombre": "EDUCACION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C55",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "478C",
+				"nombre": "FF.AA: POLITICA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1C48",
+				"nombre": "GENERO, DIVERSIDAD SEXUAL Y POLITICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C50",
+				"nombre": "HISTORIA DEL URUGUAY CONTEMPORANEO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C57",
+				"nombre": "HISTORIA UNIVERSAL CONTEMPORANEA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T49",
+				"nombre": "POLITICAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O52",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "369",
+				"nombre": "SEMIOTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "367",
+				"nombre": "SEMIOTICA (FAC. HUMANIDADES)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D91",
+				"nombre": "SOCIODEMOGRAFIA: CONCEPTO Y TECNICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "375A",
+				"nombre": "TEORIA LINGUISTICA IV",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O75",
+				"nombre": "TEORIA LINGUISTICA IV",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CSO2",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "T53",
+				"nombre": "ANTROPOLOGIA CULTURAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "495",
+				"nombre": "C.S. II:ECONOMIA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "494",
+				"nombre": "C.S.II:ANTROPOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C74",
+				"nombre": "COOPERACIÓN INTERNACIONAL Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "447R",
+				"nombre": "COOPERATIVISMO Y ASOCIATIVISMO 2011",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S447",
+				"nombre": "COOPERATIVISMO Y ASOCIATIVISMO 2011",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF561",
+				"nombre": "CS II : SOC. DE LA COMUNICA. (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "360A",
+				"nombre": "CS II: ANTROPOLOGIA CULTURAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF543",
+				"nombre": "CS II: ANTROPOLOGIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF556",
+				"nombre": "CS II: ECONOMIA DE AMERICA LATINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF544",
+				"nombre": "CS II: EDUCACION Y SOCIEDAD II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF545",
+				"nombre": "CS II: HISTORIA DE LAS IDEAS Y EDU. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF553",
+				"nombre": "CS II: ORG. DEL TRABAJO Y PSIC. LABORAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF557",
+				"nombre": "CS II: PROB. DE LA REALIDAD EDUCATIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF547",
+				"nombre": "CS II: PSICOLOGIA DE LA EDUCACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF548",
+				"nombre": "CS II: PSICOLOGIA EVOLUTIVA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF546",
+				"nombre": "CS II: PSICOLOGIA EVOLUTIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF549",
+				"nombre": "CS II: PSICOLOGIA GRUPAL E INSTITUCIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF550",
+				"nombre": "CS II: PSICOLOGIA SOCIAL (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF552",
+				"nombre": "CS II: RELACIONES LABORALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF554",
+				"nombre": "CS II: SOCIOL DE LA COMUNICACION (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF555",
+				"nombre": "CS II: TEORIA DE LA COM. SOC. (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF551",
+				"nombre": "CS II: UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "478M",
+				"nombre": "CSII: FFAA: POLITICA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "368A",
+				"nombre": "DEMOGRAFIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST580",
+				"nombre": "DEPORTE, CULTURA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2C34",
+				"nombre": "DESARROLLO ECON. EN EL URUGUAY CONTEMP.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2C34A",
+				"nombre": "DESARROLLO ECON. EN EL URUGUAY CONTEMP.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2D40",
+				"nombre": "EDUCACION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2C55",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C61",
+				"nombre": "ESTADO Y POLITICAS PUBLICAS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "519R",
+				"nombre": "FILOSOFIA DEL LENGUAJE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2C48",
+				"nombre": "GENERO, DIVERSIDAD SEXUAL Y POLITICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2C50",
+				"nombre": "HISTORIA DEL URUGUAY CONTEMPORANEO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2C57",
+				"nombre": "HISTORIA UNIVERSAL CONTEMPORANEA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "506R",
+				"nombre": "O.E.:EL ESTADO CAPITAL.Y LAS TEORIAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "493R",
+				"nombre": "O.E.:EL ROL DE LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534R",
+				"nombre": "O.E.:ESTADO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "533R",
+				"nombre": "O.E.:INTELECTUALES E IDEAS SIGLO XX",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "505R",
+				"nombre": "O.E.:LAS CAMARAS EMPRESARIALES EN EL S.P",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "479R",
+				"nombre": "O.E.:OPINION PUBLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520R",
+				"nombre": "O.E.:POLITICA COMPARADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "528R",
+				"nombre": "O.E.:POLITICAS LABORALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "541",
+				"nombre": "O.E: POLITICAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "529R",
+				"nombre": "O.E:IDEAS Y POLITICAS EN EL SIGLO XX",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "489",
+				"nombre": "O.E:SEGUIM.INTERN,POL.EXTERIOR Y DEFENSA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T49S",
+				"nombre": "OCS II:POLITICAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C45",
+				"nombre": "POLITICAS EDUCATIVAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF558",
+				"nombre": "POLITICAS EDUCATIVAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2T49",
+				"nombre": "POLITICAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "2O52",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T52",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "353",
+				"nombre": "PSICOLOGIA SOCIAL I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "369A",
+				"nombre": "SEMIOTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D86",
+				"nombre": "TEORIA DE LAS INSTITUCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "375",
+				"nombre": "TEORIA LINGUISTICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "375B",
+				"nombre": "TEORIA LINGUISTICA IV",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "D71",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "D71",
+				"nombre": "ANALISIS ECONOMICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "D71",
+				"nombre": "ANALISIS ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "D69",
+				"nombre": "ANALISIS MACRO ECONOMICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "D69",
+				"nombre": "ANALISIS MACRO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "D68",
+				"nombre": "ANALISIS MICRO ECONOMICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D68",
+				"nombre": "ANALISIS MICRO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "D73",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "D73",
+				"nombre": "TEORIA DEL DESARROLLO ECONOMICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D73",
+				"nombre": "TEORIA DEL DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "D80",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "D80",
+				"nombre": "ESTADO,DESARROLLO Y POLITICAS PUBLICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D80",
+				"nombre": "ESTADO,DESARROLLO Y POLITICAS PUBLICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OPES1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "506R",
+				"nombre": "O.E.:EL ESTADO CAPITAL.Y LAS TEORIAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "493R",
+				"nombre": "O.E.:EL ROL DE LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534R",
+				"nombre": "O.E.:ESTADO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "533R",
+				"nombre": "O.E.:INTELECTUALES E IDEAS SIGLO XX",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "505R",
+				"nombre": "O.E.:LAS CAMARAS EMPRESARIALES EN EL S.P",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "476R",
+				"nombre": "O.E.:LAS HERRAMIENTAS DEL S.POLITICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "479R",
+				"nombre": "O.E.:OPINION PUBLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520R",
+				"nombre": "O.E.:POLITICA COMPARADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "528R",
+				"nombre": "O.E.:POLITICAS LABORALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4781R",
+				"nombre": "O.E.:POLITICAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "477R",
+				"nombre": "O.E.:REGIMEN ELECTORAL URUGUAYO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "518R",
+				"nombre": "O.E: LAS INSTITUCIONES POLITICAS URUG.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "529R",
+				"nombre": "O.E:IDEAS Y POLITICAS EN EL SIGLO XX",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "OPES2",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "524R",
+				"nombre": "O.E.: NACION Y CIUDADANIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "503R",
+				"nombre": "O.E.:DEMOCRACIA Y MERCADO DE AM.LATINA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "521R",
+				"nombre": "O.E.:INTR. A LA FILOSOFIA POLITICA CONT.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "538",
+				"nombre": "O.E.:MET. CUANTITATIVOS Y UTIL. DE PAQ.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "507R",
+				"nombre": "O.E.:MODELOS DE DESARROLLO CAPITALISTA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "522R",
+				"nombre": "O.E.:MODERNIZACION DEL ESTADO ...",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5201R",
+				"nombre": "O.E.:POLITICA COMPARADA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "478R",
+				"nombre": "O.E.:POLITICAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "504R",
+				"nombre": "O.E.:RELACIONES INTERPARTIDARIAS Y GEST.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "482R",
+				"nombre": "O.E.:SISTEMA ELECTORAL Y SIST. PARTIDOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "525R",
+				"nombre": "O.P.:REFORMA DE LA ADMINIST. PUBLICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S60",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S60",
+				"nombre": "METODOLOGIA CUANTITATIVA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S60",
+				"nombre": "METODOLOGIA CUANTITATIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S61",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S61",
+				"nombre": "TEORIA SOCIOLOGICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S61",
+				"nombre": "TEORIA SOCIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S62",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S62",
+				"nombre": "METODOLOGIA CUALITATIVA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S62",
+				"nombre": "METODOLOGIA CUALITATIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S64",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S64",
+				"nombre": "TEORIA SOCIOLOGICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S64",
+				"nombre": "TEORIA SOCIOLOGICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S65",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S65",
+				"nombre": "METODOLOGIA CUANTITATIVA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S65",
+				"nombre": "METODOLOGIA CUANTITATIVA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S67",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S67",
+				"nombre": "TEORIA SOCIOLOGICA III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S67",
+				"nombre": "TEORIA SOCIOLOGICA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S86",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "S88",
+				"nombre": "AN. SOC. II: INVESTIGACIÓN EVALUATIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S88",
+				"nombre": "AN. SOC. II: INVESTIGACIÓN EVALUATIVA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S87",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S88",
+				"nombre": "AN. SOC. II: INVESTIGACIÓN EVALUATIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S88",
+				"nombre": "AN. SOC. II: INVESTIGACIÓN EVALUATIVA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "S86",
+				"nombre": "AN. SOC. II: SOCIEDAD Y TERRITORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S86",
+				"nombre": "AN. SOC. II: SOCIEDAD Y TERRITORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S86",
+				"nombre": "AN. SOC. II: SOCIEDAD Y TERRITORIO",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "S88",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "S86",
+				"nombre": "AN. SOC. II: SOCIEDAD Y TERRITORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S86",
+				"nombre": "AN. SOC. II: SOCIEDAD Y TERRITORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S86",
+				"nombre": "AN. SOC. II: SOCIEDAD Y TERRITORIO",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SEM",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "475R",
+				"nombre": "SEMINARIO DE INVESTIGACION I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "475R",
+				"nombre": "SEMINARIO DE INVESTIGACION I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SEMI",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "T72",
+				"nombre": "ABORDAJE FLIAR.DESDE EL PARADIGMA SISTEM",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O51",
+				"nombre": "AGRIC. FAMILIAR EN URUGUAY: PERSP. TERR.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C74",
+				"nombre": "COOPERACIÓN INTERNACIONAL Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "O13",
+				"nombre": "COOPERATIVAS DE VIVIENDA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "OF552",
+				"nombre": "CS II: RELACIONES LABORALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "478C",
+				"nombre": "FF.AA: POLITICA Y SOCIEDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T73",
+				"nombre": "INVESTIGACION EN TRABAJO SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T73A",
+				"nombre": "INVESTIGACION EN TRABAJO SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "201",
+				"nombre": "PROBLEMAS DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T57",
+				"nombre": "PROTECCION SOCIAL A INICIOS DEL S.XXI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T571",
+				"nombre": "PROTECCION SOCIAL A INICIOS DEL S.XXI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T57A",
+				"nombre": "PROTECCION SOCIAL A INICIOS DEL S.XXI",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "452",
+				"nombre": "PROYECTO FLOR DE CEIBO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T591",
+				"nombre": "SALUD, SEXUALIDAD Y CUERPO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T91",
+				"nombre": "SALUD, SEXUALIDAD Y CUERPO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "535T",
+				"nombre": "SEM.OPT.: AGRICULTURA FAMILIAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "444",
+				"nombre": "SEM.OPT.: CAPITALISMO,TRAB. Y CIUDADANIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "450",
+				"nombre": "SEM.OPT.: CUESTION SOCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "443",
+				"nombre": "SEM.OPT.: EL T.S. FRENTE A CUESTIÓN SOC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4811R",
+				"nombre": "SEM.OPT.: EL T.S. FRENTE A CUESTIÓN SOC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "446",
+				"nombre": "SEM.OPT.: EL TRABAJO SOCIAL Y LA SALUD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4812R",
+				"nombre": "SEM.OPT.: EST. Y ANALIS. TOP. POB. URUG.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "442",
+				"nombre": "SEM.OPT.: EST.Y AN.TOP.POBREZA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "445",
+				"nombre": "SEM.OPT.: INFANCIA, FAMILIA Y GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "448",
+				"nombre": "SEM.OPT.: PENS. CRÍTICO JOSE REBELLATO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "451",
+				"nombre": "SEM.OPT.: TRABAJO Y VIDA COTIDIANA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "481R",
+				"nombre": "SEM.OPT.: URUGUAY LA CONST. COLECTIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "441",
+				"nombre": "SEM.OPT.: URUGUAY LA CONST. COLECTIVA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "535",
+				"nombre": "SEM.TEM.: AGRIC. FAMILIAR EN URUGUAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST32",
+				"nombre": "SEM.TEM.: CIUDADANÍA SEXUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST532",
+				"nombre": "SEM.TEM.: CIUDADANÍA SEXUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S529",
+				"nombre": "SEM.TEMATICO: IDENTIDADES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S530",
+				"nombre": "SEM.TEMATICO: RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "440",
+				"nombre": "SEMINARIO OPTATIVO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "480R",
+				"nombre": "SEMINARIO OPTATIVO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "447",
+				"nombre": "SEMINARIO:COOPERATIVISMO Y ASOCIATIVISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "449",
+				"nombre": "SEMINARIO:LA PLURIACTIV. COMO ESTRATEGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T90",
+				"nombre": "SEXUALIDAD, CIENCIA Y REPRODUCCIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SEMT",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "C49",
+				"nombre": "ASUNTOS DE SEGURIDAD INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D78",
+				"nombre": "CIENCIA,TECNOLOGIA,INNOV.SOC.Y DESARR.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "580",
+				"nombre": "DEPORTE, CULTURA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S580",
+				"nombre": "DEPORTE,CULTURA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5285",
+				"nombre": "DESARROLLO LOCAL, ACTORES, FRONTERA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S528",
+				"nombre": "DESARROLLO LOCAL,ACTORES,FRONTERA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C82",
+				"nombre": "ECONOMIA POLITICA E INSTITUCIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C48",
+				"nombre": "GENERO, DIVERSIDAD SEXUAL Y POLITICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "C40",
+				"nombre": "INTRODUCCION A LA POLITICA INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "452",
+				"nombre": "PROYECTO FLOR DE CEIBO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S705",
+				"nombre": "SEM.SOC.ESP.: DESIGUALDADES DE GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1S75",
+				"nombre": "SEM.SOC.ESP.: EDUCACIÓN Y TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S725",
+				"nombre": "SEM.SOC.ESP.: JOVENES, JUV. Y POL. PCAS.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S715",
+				"nombre": "SEM.SOC.ESP.: SOC. DE LAS IDENTIDADES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S735",
+				"nombre": "SEM.SOC.ESP.: SOC. RURAL Y DES. TERRIT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1S74",
+				"nombre": "SEM.SOC.ESP.: SOC. TRAB. Y DE LA GESTIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1S77",
+				"nombre": "SEM.SOC.ESP.: SOCIEDAD DE LA INFORMACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1S76",
+				"nombre": "SEM.SOC.ESP.: SOCIOLOGÍA RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "535",
+				"nombre": "SEM.TEM.: AGRIC. FAMILIAR EN URUGUAY",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "511R",
+				"nombre": "SEM.TEM.: AGRIC. SUST.DIM.SOC. Y ECONOM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "515",
+				"nombre": "SEM.TEM.: CIENCIA TECNOLOGÍA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST32",
+				"nombre": "SEM.TEM.: CIUDADANÍA SEXUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST532",
+				"nombre": "SEM.TEM.: CIUDADANÍA SEXUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "SEM.TEM.: EDUCACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "504",
+				"nombre": "SEM.TEM.: HISTORIAS DE VIDA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST531",
+				"nombre": "SEM.TEM.: JUVENTUD, VIOLENCIA Y SOCIEDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST35",
+				"nombre": "SEM.TEM.: LA TRANSF. EN LA SOC. RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "507",
+				"nombre": "SEM.TEM.: MOV.Y ORGAN.SOC. EN EL CAMPO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "510",
+				"nombre": "SEM.TEM.: POLÍTICA Y ORG.SAN.SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST534",
+				"nombre": "SEM.TEM.: SOC. DEL MOV.SOC. Y ACC.COLEC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "537",
+				"nombre": "SEM.TEM.: SOCIEDAD Y AMBIENTE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549",
+				"nombre": "SEM.TEM.: SOCIOLOGÍA DE LA SOLIDARIDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "526R",
+				"nombre": "SEM.TEM.: SOCIOLOGÍA DE LAS IDENTIDADES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "ST533",
+				"nombre": "SEM.TEM.: SOCIOLOGÍA DE LAS RELIGIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "518",
+				"nombre": "SEM.TEM.: TEMAS DE SOCIEDAD ECONOMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "478S",
+				"nombre": "SEM.TEM.:FF.AA: POLITICA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "513R",
+				"nombre": "SEM.TEM.:TRABAJO E INNOVACION SOC.CAP.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S529",
+				"nombre": "SEM.TEMATICO: IDENTIDADES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S530",
+				"nombre": "SEM.TEMATICO: RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "523",
+				"nombre": "SEM.TEMATICO: SOCIOLOGIA RURAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "532",
+				"nombre": "SEM.TEMATICO: TERRITORIO Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S379",
+				"nombre": "SEM.TEMATICO:JUV.,VIOLENCIA Y CIUDADANIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S378",
+				"nombre": "SEM.TEMATICO:MUJER Y DES.RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "527R",
+				"nombre": "SEMIN.TEMAT.:GLOBALIZACION Y REGIONALIZ.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "519",
+				"nombre": "SEMIN.TEMATICO DE IDENTIDADES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "508",
+				"nombre": "SEMIN.TEMATICO:DESARROLLO URBANO Y A.S.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "509",
+				"nombre": "SEMIN.TEMATICO:GENERO Y ESPACIOS PUBL.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "511",
+				"nombre": "SEMIN.TEMATICO:LA AGRICULTURA SUSTENT.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "523R",
+				"nombre": "SEMINARIO TEM.* ANALISIS DE OP.PUBLICA*",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "514",
+				"nombre": "SEMINARIO TEM.* DESIGUALDAD ENTRE SEXOS*",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "513",
+				"nombre": "SEMINARIO TEM.*SOC.DEL TRABAJO*",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5312",
+				"nombre": "SEMINARIO TEM.:GLOBALIZACION,TERRITORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5311",
+				"nombre": "SEMINARIO TEM.:TENDENCIAS CONTEMPORANEAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "532R",
+				"nombre": "SEMINARIO TEMAT.:DESARROLLO REGIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "531R",
+				"nombre": "SEMINARIO TEMAT.:DESARROLLO SUSTENTABLE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5313",
+				"nombre": "SEMINARIO TEMAT.:SOCIOLOGIA DEL RIESGO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "447",
+				"nombre": "SEMINARIO:COOPERATIVISMO Y ASOCIATIVISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "449",
+				"nombre": "SEMINARIO:LA PLURIACTIV. COMO ESTRATEGIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5455",
+				"nombre": "SOCIOLOGIA DE LA EDUCACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S518",
+				"nombre": "SOCIOLOGIA ECONOMICA DE LA CULTURA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "SOCE",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "S87",
+				"nombre": "AN. SOC. II: ESQ. DE ANALISIS CUALITATIV",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S88",
+				"nombre": "AN. SOC. II: INVESTIGACIÓN EVALUATIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S80",
+				"nombre": "ANALISIS SOCIOLOGICO I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "489S",
+				"nombre": "ASUNTOS DE SEGURIDAD INTERNACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "528",
+				"nombre": "DESARROLLO LOCAL, ACTORES, FRONTERA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "488",
+				"nombre": "GENERO, DIVERSIDAD SEXUAL Y POLITICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "201",
+				"nombre": "PROBLEMAS DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE49",
+				"nombre": "SEM.ESP.: SOCIOLOGÍA DE LA SOLIDARIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S70",
+				"nombre": "SEM.SOC.ESP.: DESIGUALDADES DE GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S72",
+				"nombre": "SEM.SOC.ESP.: JOVENES, JUV. Y POL. PCAS.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S71",
+				"nombre": "SEM.SOC.ESP.: SOC. DE LAS IDENTIDADES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S73",
+				"nombre": "SEM.SOC.ESP.: SOC. RURAL Y DES. TERRIT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "536R",
+				"nombre": "SOC. ESPECIAL: DE GENERO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "540",
+				"nombre": "SOC. ESPECIAL: SOCIOLOGIA DE GENERO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "401",
+				"nombre": "SOC. ESPECIAL: SOCIOLOGIA DE LA SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "539",
+				"nombre": "SOC. ESPECIAL: SOCIOLOGIA DE LA SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "543",
+				"nombre": "SOC. ESPECIAL: TRABAJO Y EDUCACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE75",
+				"nombre": "SOC.ELECTIVA: EDUCACION Y TRABAJO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE529",
+				"nombre": "SOC.ELECTIVA: IDENTIDADES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE378",
+				"nombre": "SOC.ELECTIVA: MUJER Y DES.RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE42",
+				"nombre": "SOC.ELECTIVA: SOC.DE LA SOLIDARIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE528",
+				"nombre": "SOC.ELECTIVA:DES.LOCAL, ACTORES,FRONTERA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE41",
+				"nombre": "SOC.ELECTIVA:DESIG.SOCIALES Y TERRITORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE379",
+				"nombre": "SOC.ELECTIVA:JUV.,VIOLENCIA Y CIUDADANÌA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE530",
+				"nombre": "SOC.ELECTIVA:MUJER Y DESARROLLO RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE74",
+				"nombre": "SOC.ELECTIVA:SOC.DEL TRAB.Y LA GESTION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE76",
+				"nombre": "SOC.ELECTIVA:SOCIOLOGIA RURAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE532",
+				"nombre": "SOC.ESP.: CIUDADANÍA SEXUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE70",
+				"nombre": "SOC.ESP.: DESIGUALDADES DE GENERO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE72",
+				"nombre": "SOC.ESP.: JOVENES, JUVENTUD Y POL. PCAS.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE531",
+				"nombre": "SOC.ESP.: JUVENTUD, VIOLENCIA Y SOCIEDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE40",
+				"nombre": "SOC.ESP.: SOC. DE LA EDUCACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE77",
+				"nombre": "SOC.ESP.: SOC. DE LA INF.Y EL CONOCIMIEN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE534",
+				"nombre": "SOC.ESP.: SOC. DEL MOV.SOC. Y ACC.COLEC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE73",
+				"nombre": "SOC.ESP.: SOC. RURAL Y DES. TERRITORIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE43",
+				"nombre": "SOC.ESP.: SOCIOLOGÍA DE LA CULTURA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE71",
+				"nombre": "SOC.ESP.: SOCIOLOGÍA DE LAS IDENTIDADES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE33",
+				"nombre": "SOC.ESP.: SOCIOLOGÍA DE LAS RELIGIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "SE533",
+				"nombre": "SOC.ESP.: SOCIOLOGÍA DE LAS RELIGIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4881",
+				"nombre": "SOC.ESP.GENERO,DIVERS.SEXUAL Y POLITICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "525",
+				"nombre": "SOC.ESP: DESVIACION Y DELITO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "521",
+				"nombre": "SOC.ESP: SOCIEDAD URBANA Y TERRITORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "524",
+				"nombre": "SOC.ESP: SOCIOLOGIA RURAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "522",
+				"nombre": "SOC.ESP: VIOLENCIA,CRIM. E INS.CIUDADANA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "517",
+				"nombre": "SOC.ESPECIAL: DE LA CULTURA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "536",
+				"nombre": "SOC.ESPECIAL: DESARROLLO Y CULTURA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "531",
+				"nombre": "SOC.ESPECIAL: SOCIEDAD URBANA Y REGIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "535R",
+				"nombre": "SOC.ESPECIAL: URBANA Y REGIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "506",
+				"nombre": "SOC.ESPECIAL:GLOBALIZ.: MODELOS PRODUCT.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "530",
+				"nombre": "SOC.ESPECIAL:SOCIOLOGIA URBANA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "545",
+				"nombre": "SOCIOLOGIA DE LA EDUCACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "S545",
+				"nombre": "SOCIOLOGIA DE LA EDUCACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "516",
+				"nombre": "SOCIOLOGIA ESPEC.:DE LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "544",
+				"nombre": "SOCIOLOGIA ESPECIAL: CRIMINOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "496",
+				"nombre": "SOCIOLOGIA ESPECIAL:RURAL*AGRARIA*",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "500",
+				"nombre": "SOCIOLOGIA ESPECIAL:SALUD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "501",
+				"nombre": "SOCIOLOGIA ESPECIAL:TRABAJO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "499",
+				"nombre": "SOCIOLOGIA ESPECIAL:URBANA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "D79",
+				"nombre": "TEORIA SOCIOLOGICA DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "T44",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "T44",
+				"nombre": "TEORIAS SOCIALES I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "T44",
+				"nombre": "TEORIAS SOCIALES I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

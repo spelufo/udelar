@@ -1,0 +1,230 @@
+[
+	{
+		"id": "102",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "102",
+				"nombre": "PRODUCCION DE ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "102A",
+				"nombre": "PRODUCCION DE ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "105",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "105",
+				"nombre": "EL PROCESO DE APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "105A",
+				"nombre": "EL PROCESO DE APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "106",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "106",
+				"nombre": "INDIVIDUO Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106A",
+				"nombre": "INDIVIDUO Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "107",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "107A",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "109",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "109A",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "110",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "110",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "110A",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "111",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "111",
+				"nombre": "APARATOS Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "111A",
+				"nombre": "APARATOS Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "114",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "114",
+				"nombre": "PREPARACION EXPERIMENTAL DE ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "114A",
+				"nombre": "PREPARACION EXPERIMENTAL DE ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "127",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "127",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "127A",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "130",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "130",
+				"nombre": "ALIMENTOS MODIFICADOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "130A",
+				"nombre": "ALIMENTOS MODIFICADOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "136",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "136A",
+				"nombre": "EDUCACION ALIMENTARIO - NUTRICIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "136",
+				"nombre": "EDUCACION ALIMENTARIO NUTRICIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "137",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "137A",
+				"nombre": "TALLER DE ETICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "137",
+				"nombre": "TALLER ETICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]

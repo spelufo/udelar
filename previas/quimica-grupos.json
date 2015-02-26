@@ -1,0 +1,7881 @@
+[
+	{
+		"id": "303IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "303A",
+				"nombre": "QCA. INORGÁNICA (TEÓRICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303A",
+				"nombre": "QCA. INORGÁNICA (TEÓRICO)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "308IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "308",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "308C",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308I",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308Q",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308R",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "4402I",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4402P",
+				"nombre": "QCA. ANALITICA II (TQ-PAY)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4402P",
+				"nombre": "QCA. ANALITICA II (TQ-PAY)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4402",
+				"nombre": "QCA. ANALÍTICA II (TECNÓLOGO QUÍMICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4402",
+				"nombre": "QCA. ANALÍTICA II (TECNÓLOGO QUÍMICO)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4402L",
+				"nombre": "QCA. ANALÍTICA II (TECNÓLOGO QUÍMICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4402L",
+				"nombre": "QCA. ANALÍTICA II (TECNÓLOGO QUÍMICO)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "4406I",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4406P",
+				"nombre": "FISICOQUIMICA (TQ-PAY)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4406P",
+				"nombre": "FISICOQUIMICA (TQ-PAY)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4406",
+				"nombre": "FISICOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4406",
+				"nombre": "FISICOQUÍMICA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4406L",
+				"nombre": "FISICOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4406L",
+				"nombre": "FISICOQUÍMICA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "4411I",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4411P",
+				"nombre": "CONTROL DE CALIDAD (TQ-PAY)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4411P",
+				"nombre": "CONTROL DE CALIDAD (TQ-PAY)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "505IC",
+		"min": 3,
+		"max": 6,
+		"previas": [
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "483R",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "513A",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "513A",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "505",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "505",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 3
+			},
+			{
+				"id": "505R",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "512",
+				"nombre": "LABORATORIO DE BIOQUÍMICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "512",
+				"nombre": "LABORATORIO DE BIOQUÍMICA (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "513IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "513A",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "513A",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "534IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "534",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "534R",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "535IC",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "535",
+				"nombre": "FARMACOCINÉTICA Y BIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "535",
+				"nombre": "FARMACOCINÉTICA Y BIOFARMACIA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "585",
+				"nombre": "FARMACODINAMIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "571IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "571",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "571",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "571OA",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "571OA",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "700IC",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "486R",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "700",
+				"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "700",
+				"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "700R",
+				"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "701IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "486R",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "701",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "701",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "701A",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "701A",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "701R",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "703IC",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "585",
+				"nombre": "FARMACODINAMIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "585R",
+				"nombre": "FARMACODINAMIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "703",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "703",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "703R",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "731IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "731",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731CQ",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731CQ",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "740IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "740",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "740",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (T)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "740TQ",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "740TQ",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (T)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "_742",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP13",
+				"nombre": "CRÉDITOS POR QUÍMICA INORGÁNICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546A",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546CQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546E",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546EQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547A",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547CQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547E",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547EQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "548",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "548EQ",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "548OM",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "548R",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549EQ",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549OM",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549R",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "382",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "382R",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "750IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "750",
+				"nombre": "QCA. TEÓRICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "750",
+				"nombre": "QCA. TEÓRICA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "750CQ",
+				"nombre": "QCA. TEÓRICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "750CQ",
+				"nombre": "QCA. TEÓRICA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "804IC",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "804",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "804A",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "804A",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "804R",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "583",
+				"nombre": "QCA. ANALÍTICA DE MEDICAMENTOS (PLAN 80)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "583R",
+				"nombre": "QCA. ANALÍTICA DE MEDICAMENTOS (PLAN 80)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "908IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "908",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "908",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "908OA",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "908OA",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "532",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "532OA",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "909IC",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "909OA",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "909OA",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "532",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "532OA",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E01",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP01",
+				"nombre": "CRÉDITOS POR MATEMÁTICAS ANUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "11",
+				"nombre": "INT. AL CÁLCULO DIF. E INT. (ÁREAS TEC.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "01",
+				"nombre": "MAT. 01 (ANÁLISIS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "01I",
+				"nombre": "MAT. 01 (ANÁLISIS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "101",
+				"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "101Q",
+				"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "101R",
+				"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E03",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP01",
+				"nombre": "CRÉDITOS POR MATEMÁTICAS ANUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "03",
+				"nombre": "MAT. 03 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "03I",
+				"nombre": "MAT. 03 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106",
+				"nombre": "MATEMÁTICA 102 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106I",
+				"nombre": "MATEMÁTICA 102 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106R",
+				"nombre": "MATEMÁTICA 102 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E04",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP01",
+				"nombre": "CRÉDITOS POR MATEMÁTICAS ANUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "04",
+				"nombre": "MAT. 04 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "04I",
+				"nombre": "MAT. 04 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "208",
+				"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "208I",
+				"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "208R",
+				"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "209",
+				"nombre": "MATEMÁTICA 108 (ÁLGEBRA Y ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E102",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP22",
+				"nombre": "CRÉDITOS POR QCA. GENERAL E INORGÁNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP02",
+				"nombre": "CRÉDITOS POR QUÍMICA GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "188",
+				"nombre": "QCA. GENERAL (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "188R",
+				"nombre": "QCA. GENERAL (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "600",
+				"nombre": "QCA. GENERAL E INORGÁNICA (PLAN 1992)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "102",
+				"nombre": "QCA. GENERAL I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "102R",
+				"nombre": "QCA. GENERAL I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "181",
+				"nombre": "QCA. GENERAL I (SEMESTRAL 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "186",
+				"nombre": "QCA. GENERAL II (SEMESTRAL 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "E202",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP23",
+				"nombre": "CRÉDITOS POR LABORATORIO GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "CP03",
+				"nombre": "CRÉDITOS POR QCA. ANAL. CUALITATIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "601",
+				"nombre": "LABORATORIO GENERAL (PLAN 1992)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "189",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "189R",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "183",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA I (SEM. 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "284",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA II (SEM.1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "202",
+				"nombre": "QCA. GENERAL II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "202R",
+				"nombre": "QCA. GENERAL II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "E205",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP04",
+				"nombre": "CRÉDITOS POR FÍSICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "I1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I1152",
+				"nombre": "FISICA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "I1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "205A",
+				"nombre": "FÍSICA 001 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "205",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "205C",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "205I",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "205Q",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "205R",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "185",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "185R",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "E304",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP05",
+				"nombre": "CRÉDITOS POR FÍSICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304C",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304I",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304Q",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304R",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281R",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E406",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP12",
+				"nombre": "CRÉDITOS POR FISICOQUÍMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP15",
+				"nombre": "CRÉDITOS POR FISICOQUÍMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "406A",
+				"nombre": "FISICOQUÍMICA 101 (DESDE 2003)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "406Q",
+				"nombre": "FISICOQUÍMICA 101 (DESDE 2003)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "403",
+				"nombre": "FISICOQUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "403R",
+				"nombre": "FISICOQUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "288",
+				"nombre": "FISICOQUÍMICA I (1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "289",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "289R",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "288R",
+				"nombre": "FISICOQUÍMICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "406",
+				"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "406R",
+				"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "384R",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "508",
+				"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "508R",
+				"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "ENBQ",
+		"min": 9,
+		"max": 9,
+		"previas": [
+			{
+				"id": "385",
+				"nombre": "ANÁLISIS INSTRUMENTAL (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "283",
+				"nombre": "COMPUTACIÓN Y CÁLCULO NUMÉRICO PLAN 1980",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "387",
+				"nombre": "ELECTROQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "282",
+				"nombre": "ESTADÍSTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "289",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "388",
+				"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "185",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "189",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "391",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA (ANUAL 1988)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "188",
+				"nombre": "QCA. GENERAL (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "286",
+				"nombre": "QCA. INORGÁNICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "382",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "287",
+				"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "383",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G01",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "11",
+				"nombre": "INT. AL CÁLCULO DIF. E INT. (ÁREAS TEC.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "01",
+				"nombre": "MAT. 01 (ANÁLISIS I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "01I",
+				"nombre": "MAT. 01 (ANÁLISIS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "001",
+				"nombre": "MATEMÁTICA 001 (ANÁLISIS I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "101",
+				"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "101Q",
+				"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "101R",
+				"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G02",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP01",
+				"nombre": "CRÉDITOS POR MATEMÁTICAS ANUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "02",
+				"nombre": "MAT. 02 (ÁLGEBRA Y TRATAMIENTO DE DATOS)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "02Q",
+				"nombre": "MAT. 02 (ÁLGEBRA Y TRATAMIENTO DE DATOS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "187R",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "207",
+				"nombre": "MATEMÁTICA 103 (PARA BC Y QF)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "182",
+				"nombre": "MATEMÁTICA I (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "184",
+				"nombre": "MATEMÁTICA II (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G03",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "03",
+				"nombre": "MAT. 03 (ÁLGEBRA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "03I",
+				"nombre": "MAT. 03 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106",
+				"nombre": "MATEMÁTICA 102 (ÁLGEBRA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106I",
+				"nombre": "MATEMÁTICA 102 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "106R",
+				"nombre": "MATEMÁTICA 102 (ÁLGEBRA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G04",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "I1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "CP01",
+				"nombre": "CRÉDITOS POR MATEMÁTICAS ANUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "04",
+				"nombre": "MAT. 04 (ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "04I",
+				"nombre": "MAT. 04 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "187R",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "206",
+				"nombre": "MATEMÁTICA 003 (ÁLGEBRA Y TRAT DE DATOS)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "201",
+				"nombre": "MATEMÁTICA 008 (ANÁLISIS II PARA QUÍMICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "208",
+				"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "208I",
+				"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "208R",
+				"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "209",
+				"nombre": "MATEMÁTICA 108 (ÁLGEBRA Y ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "182",
+				"nombre": "MATEMÁTICA I (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "184",
+				"nombre": "MATEMÁTICA II (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G05",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP06",
+				"nombre": "CRÉDITOS POR ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "282",
+				"nombre": "ESTADÍSTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "282R",
+				"nombre": "ESTADÍSTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "05",
+				"nombre": "MAT. 05 (ESTADÍSTICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "05I",
+				"nombre": "MAT. 05 (ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "05A",
+				"nombre": "MAT. 05 (ESTADÍSTICA) (DESDE 2015)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "306",
+				"nombre": "MATEMÁTICA 106 (ESTADÍSTICA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "306R",
+				"nombre": "MATEMÁTICA 106 (ESTADÍSTICA)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G06",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "283",
+				"nombre": "COMPUTACIÓN Y CÁLCULO NUMÉRICO PLAN 1980",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "283R",
+				"nombre": "COMPUTACIÓN Y CÁLCULO NUMÉRICO PLAN 1980",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP07",
+				"nombre": "CRÉDITOS POR CÁLCULO NUMÉRICO Y COMP.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP33",
+				"nombre": "CRÉDITOS POR INTROD. A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "611",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "06",
+				"nombre": "MAT. 06 (CÁLCULO NUMÉRICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "06I",
+				"nombre": "MAT. 06 (CÁLCULO NUMÉRICO)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "06A",
+				"nombre": "MAT. 06 (CÁLCULO NUMÉRICO) (DESDE 2015)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "407R",
+				"nombre": "MATEMÁTICA 107 (CALCULO NUM. Y COMP.)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "407",
+				"nombre": "MATEMÁTICA 107 (CÁLCULO NUM. Y COMP.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G07",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP26",
+				"nombre": "CRÉDITOS POR MATEMÁTICAS III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "07",
+				"nombre": "MAT. 07 (ECUACIONES DIF. ORDINARIAS)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "07I",
+				"nombre": "MAT. 07 (ECUACIONES DIF. ORDINARIAS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "07R",
+				"nombre": "MAT. 07 (ECUACIONES DIF. ORDINARIAS)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "307",
+				"nombre": "MATEMÁTICA 005 (EC. DIFERENCIALES)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "309",
+				"nombre": "MATEMÁTICA 105 (EC. DIFERENCIALES)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "604",
+				"nombre": "MATEMÁTICAS III (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G08",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "08",
+				"nombre": "MAT. 08 (ECUACIONES DIF. PARCIALES)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "08EQ",
+				"nombre": "MAT. 08 (ECUACIONES DIF. PARCIALES)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "08TQ",
+				"nombre": "MAT. 08 (ECUACIONES DIF. PARCIALES)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "309",
+				"nombre": "MATEMÁTICA 105 (EC. DIFERENCIALES)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G102",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "102",
+				"nombre": "QCA. GENERAL I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "102R",
+				"nombre": "QCA. GENERAL I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G103",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "103A",
+				"nombre": "INT. A LAS C. BIOLÓGICAS I (DESDE 2002)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "103B",
+				"nombre": "INT. A LAS C. BIOLÓGICAS I (DESDE 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "103R",
+				"nombre": "INT. A LAS C. BIOLÓGICAS I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "103",
+				"nombre": "INT. A LAS CIENCIAS BIOLÓGICAS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "103Q",
+				"nombre": "INT. A LAS CIENCIAS BIOLÓGICAS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G104",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP09",
+				"nombre": "CRÉDITOS POR SEGURIDAD E HIG. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "104A",
+				"nombre": "PREVENCIÓN DE RIESGOS EN EL LABORATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "104R",
+				"nombre": "PREVENCIÓN DE RIESGOS EN EL LABORATORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "104",
+				"nombre": "PREVENCIÓN DE RIESGOS LABORALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "392",
+				"nombre": "SEGURIDAD E HIGIENE (DESDE GEN.1997)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "392R",
+				"nombre": "SEGURIDAD E HIGIENE (DESDE GEN.1997)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "204",
+				"nombre": "SEGURIDAD EN EL LABORATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G105",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "105",
+				"nombre": "BUENAS PRÁCTICAS Y GESTIÓN INTEGRAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "618",
+				"nombre": "INTRODUCCIÓN A LOS SISTEMAS DE GESTIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G185",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP04",
+				"nombre": "CRÉDITOS POR FÍSICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "185",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "185R",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G187",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP01",
+				"nombre": "CRÉDITOS POR MATEMÁTICAS ANUAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "187R",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "182",
+				"nombre": "MATEMÁTICA I (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "184",
+				"nombre": "MATEMÁTICA II (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G188",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP22",
+				"nombre": "CRÉDITOS POR QCA. GENERAL E INORGÁNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP02",
+				"nombre": "CRÉDITOS POR QUÍMICA GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "188",
+				"nombre": "QCA. GENERAL (ANUAL 1986)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "188R",
+				"nombre": "QCA. GENERAL (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "600",
+				"nombre": "QCA. GENERAL E INORGÁNICA (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "181",
+				"nombre": "QCA. GENERAL I (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "186",
+				"nombre": "QCA. GENERAL II (SEMESTRAL 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G189",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP23",
+				"nombre": "CRÉDITOS POR LABORATORIO GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP03",
+				"nombre": "CRÉDITOS POR QCA. ANAL. CUALITATIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "601",
+				"nombre": "LABORATORIO GENERAL (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "189",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA (ANUAL 1986)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "189R",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "183",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA I (SEM. 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "284",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA II (SEM.1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G202",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP23",
+				"nombre": "CRÉDITOS POR LABORATORIO GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "CP03",
+				"nombre": "CRÉDITOS POR QCA. ANAL. CUALITATIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "601",
+				"nombre": "LABORATORIO GENERAL (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "189",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA (ANUAL 1986)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "189R",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "183",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA I (SEM. 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "284",
+				"nombre": "QCA. ANALÍTICA CUALITATIVA II (SEM.1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "202",
+				"nombre": "QCA. GENERAL II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "202R",
+				"nombre": "QCA. GENERAL II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "G203",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "389R",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "610",
+				"nombre": "BIOQUÍMICA I (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP32",
+				"nombre": "CRÉDITOS POR BIOQUÍMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "203A",
+				"nombre": "INT. A LAS C. BIOLÓGICAS II (DESDE 2002)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "203B",
+				"nombre": "INT. A LAS C. BIOLÓGICAS II (DESDE 2007)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "203R",
+				"nombre": "INT. A LAS C. BIOLÓGICAS II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "203",
+				"nombre": "INT. A LAS CIENCIAS BIOLÓGICAS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G205",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CP04",
+				"nombre": "CRÉDITOS POR FÍSICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I1153",
+				"nombre": "FISICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "I1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205A",
+				"nombre": "FÍSICA 001 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205C",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205I",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205Q",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "205R",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "185",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "185R",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G210",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "210A",
+				"nombre": "ANATOMÍA (DESDE 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "210",
+				"nombre": "ANATOMÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "210R",
+				"nombre": "ANATOMÍA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "484",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G211",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "I1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211A",
+				"nombre": "ECONOMÍA (DESDE 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "211",
+				"nombre": "ECONOMÍA (PLAN 2003 - F.ING.)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G286",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP10",
+				"nombre": "CRÉDITOS POR QUÍMICA INORGÁNICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "286",
+				"nombre": "QCA. INORGÁNICA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "286R",
+				"nombre": "QCA. INORGÁNICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G287",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP11",
+				"nombre": "CRÉDITOS POR QUÍMICA ORGÁNICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "287",
+				"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "287R",
+				"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G301",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CP11",
+				"nombre": "CRÉDITOS POR QUÍMICA ORGÁNICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "301",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "301C",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "301R",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "287",
+				"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "287R",
+				"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G302",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "302C",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "302FQ",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "302R",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "405",
+				"nombre": "QCA. ANALÍTICA P/ING.ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G303A",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP13",
+				"nombre": "CRÉDITOS POR QUÍMICA INORGÁNICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303R",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303A",
+				"nombre": "QCA. INORGÁNICA (TEÓRICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "382",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "382R",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G303B",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP13",
+				"nombre": "CRÉDITOS POR QUÍMICA INORGÁNICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303B",
+				"nombre": "LABORATORIO DE QCA. INORGÁNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303R",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "382",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "382R",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G303",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP13",
+				"nombre": "CRÉDITOS POR QUÍMICA INORGÁNICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "303B",
+				"nombre": "LABORATORIO DE QCA. INORGÁNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "303",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "303R",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "303A",
+				"nombre": "QCA. INORGÁNICA (TEÓRICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "382",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "382R",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "G304",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP05",
+				"nombre": "CRÉDITOS POR FÍSICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304C",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304I",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304Q",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "304R",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281R",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G308",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP05",
+				"nombre": "CRÉDITOS POR FÍSICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308C",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308I",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308Q",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308R",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281R",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G386",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G389",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "389R",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "610",
+				"nombre": "BIOQUÍMICA I (PLAN 1992)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP32",
+				"nombre": "CRÉDITOS POR BIOQUÍMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G391",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP08",
+				"nombre": "CRÉDITOS POR QCA. ANAL. CUANTITATIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "CP24",
+				"nombre": "CRÉDITOS POR QCA. ANAL. CUANTITATIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "391",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA (ANUAL 1988)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "391R",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA (ANUAL 1988)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "602",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "285",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA I (SEM.1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "381",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA II(SEM.1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G401",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CP14",
+				"nombre": "CRÉDITOS POR QUÍMICA ORGÁNICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "401",
+				"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "401C",
+				"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "401R",
+				"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "383",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "383R",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G402",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP08",
+				"nombre": "CRÉDITOS POR QCA. ANAL. CUANTITATIVA",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "CP24",
+				"nombre": "CRÉDITOS POR QCA. ANAL. CUANTITATIVA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "391",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA (ANUAL 1988)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "391R",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA (ANUAL 1988)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "602",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "285",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA I (SEM.1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "381",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA II(SEM.1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "402",
+				"nombre": "QCA. ANALÍTICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "402A",
+				"nombre": "QCA. ANALÍTICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "402R",
+				"nombre": "QCA. ANALÍTICA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "G404",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP05",
+				"nombre": "CRÉDITOS POR FÍSICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "404",
+				"nombre": "FÍSICA 003 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308Q",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "308R",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "281R",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G406",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP12",
+				"nombre": "CRÉDITOS POR FISICOQUÍMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP15",
+				"nombre": "CRÉDITOS POR FISICOQUÍMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "406A",
+				"nombre": "FISICOQUÍMICA 101 (DESDE 2003)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "406Q",
+				"nombre": "FISICOQUÍMICA 101 (DESDE 2003)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "403",
+				"nombre": "FISICOQUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "403R",
+				"nombre": "FISICOQUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "288",
+				"nombre": "FISICOQUÍMICA I (1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "289",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "289R",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "288R",
+				"nombre": "FISICOQUÍMICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "406",
+				"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "406R",
+				"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "384R",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "508",
+				"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "508R",
+				"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G408",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "484",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "408A",
+				"nombre": "FISIOLOGÍA (DESDE 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "408",
+				"nombre": "FISIOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "408R",
+				"nombre": "FISIOLOGÍA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G410A",
+		"min": 1,
+		"max": 1,
+		"previas": []
+	},
+	{
+		"id": "G410",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "488",
+				"nombre": "ADMINISTRACIÓN DE EMPRESAS (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "488R",
+				"nombre": "ADMINISTRACIÓN DE EMPRESAS (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410",
+				"nombre": "GESTIÓN DE EMPRESAS (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "410Q",
+				"nombre": "GESTIÓN DE EMPRESAS (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G411",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "411",
+				"nombre": "QCA. NUCLEAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "411CQ",
+				"nombre": "QCA. NUCLEAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "411EQ",
+				"nombre": "QCA. NUCLEAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G412",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "412OM",
+				"nombre": "SOLIDOS INORGÁNICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "412",
+				"nombre": "SÓLIDOS INORGÁNICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "412EQ",
+				"nombre": "SÓLIDOS INORGÁNICOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G413",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "413",
+				"nombre": "COMUNICACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "413A",
+				"nombre": "COMUNICACIÓN ORAL Y ESCRITA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G415",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "415B",
+				"nombre": "FISIOPATOLOGÍA (DESDE 2010 PARA BC)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "415A",
+				"nombre": "FISIOPATOLOGÍA (DESDE 2010 PARA QF-Q)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "415C",
+				"nombre": "FISIOPATOLOGÍA (DESDE 2012)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "415",
+				"nombre": "FISIOPATOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G416",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "416",
+				"nombre": "INT. AL MEDICAMENTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "416A",
+				"nombre": "INT. AL MEDICAMENTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "416B",
+				"nombre": "INT. AL MEDICAMENTO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G4302",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4302P",
+				"nombre": "QCA. ANALITICA 1 (TQ-PAY)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4302P",
+				"nombre": "QCA. ANALITICA 1 (TQ-PAY)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4302",
+				"nombre": "QCA. ANALÍTICA I (TECNÓLOGO QUÍMICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4302",
+				"nombre": "QCA. ANALÍTICA I (TECNÓLOGO QUÍMICO)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4302L",
+				"nombre": "QCA. ANALÍTICA I (TECNÓLOGO QUÍMICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4302L",
+				"nombre": "QCA. ANALÍTICA I (TECNÓLOGO QUÍMICO)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G4405",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4405P",
+				"nombre": "INT. A LA QUIMICA INDUSTRIAL (TQ-PAY",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4405P",
+				"nombre": "INT. A LA QUIMICA INDUSTRIAL (TQ-PAY",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4405",
+				"nombre": "INT. A LA QUÍMICA INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4405",
+				"nombre": "INT. A LA QUÍMICA INDUSTRIAL",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4405L",
+				"nombre": "INT. A LA QUÍMICA INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4405L",
+				"nombre": "INT. A LA QUÍMICA INDUSTRIAL",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G4422",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "4422",
+				"nombre": "INT. A LA INDUSTRIA ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4422",
+				"nombre": "INT. A LA INDUSTRIA ALIMENTARIA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4422L",
+				"nombre": "INT. A LA INDUSTRIA ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4422L",
+				"nombre": "INT. A LA INDUSTRIA ALIMENTARIA",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			},
+			{
+				"id": "4422P",
+				"nombre": "INT.A LA INDUSTRIA ALIMENTARIA(TQ-PAY)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "4422P",
+				"nombre": "INT.A LA INDUSTRIA ALIMENTARIA(TQ-PAY)",
+				"actividad": "Actividad Inscripción",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G484",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "484",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "484R",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G487",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "487R",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G501",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CP14",
+				"nombre": "CRÉDITOS POR QUÍMICA ORGÁNICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "501C",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "501R",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "383",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "383",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "383R",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G502",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP31",
+				"nombre": "CRÉDITOS POR QCA. ORG. III APLIC. ALIM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP17",
+				"nombre": "CRÉDITOS POR QUÍMICA ORGÁNICA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "502",
+				"nombre": "QCA. ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "502R",
+				"nombre": "QCA. ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "386R",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "609",
+				"nombre": "QCA. ORGÁNICA III APLICADA A ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G503",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "385",
+				"nombre": "ANÁLISIS INSTRUMENTAL (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "385R",
+				"nombre": "ANÁLISIS INSTRUMENTAL (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP16",
+				"nombre": "CRÉDITOS POR ANÁLISIS INSTRUMENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP30",
+				"nombre": "CRÉDITOS POR QUÍM. ANALIT. CUANTITAT. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "608",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "503",
+				"nombre": "QCA. ANALÍTICA III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "503R",
+				"nombre": "QCA. ANALÍTICA III (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G505",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "483R",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "514",
+				"nombre": "BIOQUÍMICA OP. I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "513",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "513A",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "505",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "505R",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "512",
+				"nombre": "LABORATORIO DE BIOQUÍMICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G506",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "506",
+				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G508",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "CP12",
+				"nombre": "CRÉDITOS POR FISICOQUÍMICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP15",
+				"nombre": "CRÉDITOS POR FISICOQUÍMICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "508A",
+				"nombre": "FISICOQUÍMICA 102 (DESDE 2003)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "508C",
+				"nombre": "FISICOQUÍMICA 102 (DESDE 2003)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "508Q",
+				"nombre": "FISICOQUÍMICA 102 (DESDE 2003)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "403",
+				"nombre": "FISICOQUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "403R",
+				"nombre": "FISICOQUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "288",
+				"nombre": "FISICOQUÍMICA I (1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "289",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "289R",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "288R",
+				"nombre": "FISICOQUÍMICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "406",
+				"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "406R",
+				"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "384R",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "508",
+				"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "508R",
+				"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G511",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP29",
+				"nombre": "CRÉDITOS POR FENOM. DE TRANSP. Y FLUIDO.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP34",
+				"nombre": "CRÉDITOS POR FENÓMENOS DE TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "607",
+				"nombre": "FENÓMENOS DE TRANSP. Y FLUIDODINÁMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "613",
+				"nombre": "FENÓMENOS DE TRANSPORTE (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "511",
+				"nombre": "FENÓMENOS DE TRANSPORTE EN ING. DE PROC.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "511A",
+				"nombre": "FUNDAMENTOS DE FENOM. DE TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G512",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "483R",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "505",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "505R",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "512",
+				"nombre": "LABORATORIO DE BIOQUÍMICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G513",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "483R",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "514",
+				"nombre": "BIOQUÍMICA OP. I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "513",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "513A",
+				"nombre": "BIOQUÍMICA OP. II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "505",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "505R",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G515",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "515",
+				"nombre": "MODELADO MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "515EQ",
+				"nombre": "MODELADO MOLECULAR I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "515TQ",
+				"nombre": "MODELADO MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G516",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "516",
+				"nombre": "CRISTALOGRAFÍA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "516OM",
+				"nombre": "CRISTALOGRAFÍA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G518",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "518",
+				"nombre": "HIDRODINÁMICA (FÍSICA 104)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "518EQ",
+				"nombre": "HIDRODINÁMICA (FÍSICA 104)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "518TQ",
+				"nombre": "HIDRODINÁMICA (FÍSICA 104)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G520",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP19",
+				"nombre": "CRÉDITOS POR FISICOQUÍMICA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520",
+				"nombre": "FISICOQUÌMICA III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520A",
+				"nombre": "FISICOQUÍMICA 103 (DESDE 2003)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520Q",
+				"nombre": "FISICOQUÍMICA 103 (DESDE 2003)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "504",
+				"nombre": "FISICOQUÍMICA GENERAL II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "504R",
+				"nombre": "FISICOQUÍMICA GENERAL II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "388",
+				"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "388R",
+				"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "520R",
+				"nombre": "FISICOQUÍMICA III (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G521",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "CP18",
+				"nombre": "CRÉDITOS POR ELECTROQUÍMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "387",
+				"nombre": "ELECTROQUÍMICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "387R",
+				"nombre": "ELECTROQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "521",
+				"nombre": "ELECTROQUÍMICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "521R",
+				"nombre": "ELECTROQUÍMICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "521A",
+				"nombre": "FISICOQUÍMICA 104 (DESDE 2003)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G522",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "522EQ",
+				"nombre": "APL. DE BIOLOGÍA MOLECULAR EN MICROBIOL.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "522",
+				"nombre": "APLIC. DE BIOLOGÍA MOLECULAR EN MICROB.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "522TQ",
+				"nombre": "APLIC. DE BIOLOGÍA MOLECULAR EN MICROB.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G523",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "523",
+				"nombre": "QCA. VERDE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "523CQ",
+				"nombre": "QCA. VERDE",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "523EQ",
+				"nombre": "QCA. VERDE",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G528",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "528",
+				"nombre": "QCA. EN SOLUCIÓN ACUOSA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "528CQ",
+				"nombre": "QCA. EN SOLUCIÓN ACUOSA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "528EQ",
+				"nombre": "QCA. EN SOLUCIÓN ACUOSA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G533",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "485",
+				"nombre": "MICROBIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "485R",
+				"nombre": "MICROBIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "533",
+				"nombre": "MICROBIOLOGÍA GENERAL (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "533R",
+				"nombre": "MICROBIOLOGÍA GENERAL (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G534A",
+		"min": 2,
+		"max": 3,
+		"previas": [
+			{
+				"id": "487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "487R",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "506",
+				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "506R",
+				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534R",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G534",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "487R",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534R",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G534M",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "487R",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "534R",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G535",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "535",
+				"nombre": "FARMACOCINÉTICA Y BIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "585",
+				"nombre": "FARMACODINAMIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G536",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "536",
+				"nombre": "BIOLOGÍA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "536C",
+				"nombre": "BIOLOGÍA MOLECULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "536CQ",
+				"nombre": "BIOLOGÍA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "536EQ",
+				"nombre": "BIOLOGÍA MOLECULAR",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G537",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "537",
+				"nombre": "HEMATOLOGÍA CLÍNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "537B",
+				"nombre": "HEMATOLOGÍA CLÍNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G540",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "540",
+				"nombre": "ESPECTROMETRÍA ATÓMICA ANALÍTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "540CQ",
+				"nombre": "ESPECTROMETRÍA ATÓMICA ANALÍTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "540EQ",
+				"nombre": "ESPECTROMETRÍA ATÓMICA ANALÍTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G541",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "541",
+				"nombre": "ESTRATEGIAS EN EL DISEÑO DE COMP.BIOACT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "541EQ",
+				"nombre": "ESTRATEGIAS EN EL DISEÑO DE COMP.BIOACT.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "541TQ",
+				"nombre": "ESTRATEGIAS EN EL DISEÑO DE COMP.BIOACT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G542",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "542",
+				"nombre": "FISICOQUÍMICA MOLECULAR II (QFM 102)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "542CQ",
+				"nombre": "FISICOQUÍMICA MOLECULAR II (QFM 102)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "542EQ",
+				"nombre": "FISICOQUÍMICA MOLECULAR II (QFM 102)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G543",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "CP31",
+				"nombre": "CRÉDITOS POR QCA. ORG. III APLIC. ALIM.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "CP17",
+				"nombre": "CRÉDITOS POR QUÍMICA ORGÁNICA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "543",
+				"nombre": "LAB. AVANZADO DE ORGÁNICA (ORG 201)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "543R",
+				"nombre": "LAB. AVANZADO DE ORGÁNICA (ORG 201)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "386R",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G546",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "546",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546A",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546CQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546E",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "546EQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G547",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "547",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547A",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547CQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547E",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "547EQ",
+				"nombre": "QCA. BIOINORGÁNICA OP. II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G548",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "548",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "548EQ",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "548OM",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "548R",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G549",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "549",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549EQ",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549OM",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "549R",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G550",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "550",
+				"nombre": "RADIOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "550CQ",
+				"nombre": "RADIOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "550EQ",
+				"nombre": "RADIOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G551",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "551",
+				"nombre": "SIMETRÍA EN LAS REACC. ORG. (ORG.305)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "551CQ",
+				"nombre": "SIMETRÍA EN LAS REACC. ORG. (ORG.305)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "551EQ",
+				"nombre": "SIMETRÍA EN LAS REACC. ORG. (ORG.305)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G552",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "552",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "552EQ",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "552OM",
+				"nombre": "QCA. DE COORDINACIÓN - OPCIÓN II (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G553",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "553",
+				"nombre": "QCA. DEL ESTADO SÓLIDO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "553EQ",
+				"nombre": "QCA. DEL ESTADO SÓLIDO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "553OM",
+				"nombre": "QCA. DEL ESTADO SÓLIDO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G554",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "554",
+				"nombre": "MAT. 09 Ó MAT. 201 (OPTIMIZACIÓN)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "554EQ",
+				"nombre": "MAT. 09 Ó MAT. 201 (OPTIMIZACIÓN)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "554TQ",
+				"nombre": "MAT. 09 Ó MAT. 201 (OPTIMIZACIÓN)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G555",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "555",
+				"nombre": "USO Y MANEJO DE ANIMALES DE LABORATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "555EQ",
+				"nombre": "USO Y MANEJO DE ANIMALES DE LABORATORIO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "555TQ",
+				"nombre": "USO Y MANEJO DE ANIMALES DE LABORATORIO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G559",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "559",
+				"nombre": "PROPIEDAD INTELECTUAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G560",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "560",
+				"nombre": "CATALIZADORES Y ADSORBENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "560A",
+				"nombre": "CATALIZADORES Y ADSORBENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "560E",
+				"nombre": "CATALIZADORES Y ADSORBENTES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "560EQ",
+				"nombre": "CATALIZADORES Y ADSORBENTES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "560TQ",
+				"nombre": "CATALIZADORES Y ADSORBENTES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G562",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "562",
+				"nombre": "FÍSICA DEL ESTADO SÓLIDO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "562EQ",
+				"nombre": "FÍSICA DEL ESTADO SÓLIDO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "562OM",
+				"nombre": "FÍSICA DEL ESTADO SÓLIDO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G563",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "563",
+				"nombre": "INT. A LA BIOQUÍMICA CLÍNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "563EQ",
+				"nombre": "INT. A LA BIOQUÍMICA CLÍNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "563TQ",
+				"nombre": "INT. A LA BIOQUÍMICA CLÍNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G564",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "564",
+				"nombre": "INT. A LA GESTIÓN TECNOLÓGICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "564EQ",
+				"nombre": "INT. A LA GESTIÓN TECNOLÓGICA I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "564TQ",
+				"nombre": "INT. A LA GESTIÓN TECNOLÓGICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G565",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "565",
+				"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "565EQ",
+				"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "565OA",
+				"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G566",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "566",
+				"nombre": "MECÁNICA CUÁNTICA (QFM201)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "566CQ",
+				"nombre": "MECÁNICA CUÁNTICA (QFM201)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "566EQ",
+				"nombre": "MECÁNICA CUÁNTICA (QFM201)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G567",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "567",
+				"nombre": "MÉTODOS SEPARATIVOS (ORG. 205)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "567EQ",
+				"nombre": "MÉTODOS SEPARATIVOS (ORG. 205)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "567OA",
+				"nombre": "MÉTODOS SEPARATIVOS (ORG. 205)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "567OC",
+				"nombre": "MÉTODOS SEPARATIVOS (ORG. 205)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G568",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "568",
+				"nombre": "MODELADO MOLECULAR II (QFM104)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "568EQ",
+				"nombre": "MODELADO MOLECULAR II (QFM104)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "568TQ",
+				"nombre": "MODELADO MOLECULAR II (QFM104)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G569",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "569",
+				"nombre": "QCA COMBI.Y SIN.EN FASE SÓLIDA (ORG.307)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "569TQ",
+				"nombre": "QCA COMBIN. Y SINT EN FASE SOLIDA(O.307C",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "569EQ",
+				"nombre": "QCA. COMBIN.Y SIN.EN FASE SÓLIDA (O.307C",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G570",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "570",
+				"nombre": "QCA. DE LOS PROCESOS INDUSTRIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "570EQ",
+				"nombre": "QCA. DE LOS PROCESOS INDUSTRIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "570TQ",
+				"nombre": "QCA. DE LOS PROCESOS INDUSTRIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G571",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "571",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "571EQ",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "571OA",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G572",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "572",
+				"nombre": "QCA. HETEROCÍCLICA (ORG. 306)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "572CQ",
+				"nombre": "QCA. HETEROCÍCLICA (ORG. 306)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "572EQ",
+				"nombre": "QCA. HETEROCÍCLICA (ORG. 306)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G573",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "573",
+				"nombre": "RADIOTRAZADORES EN CIENCIAS BIOLOGICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "573EQ",
+				"nombre": "RADIOTRAZADORES EN CIENCIAS BIOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "573TQ",
+				"nombre": "RADIOTRAZADORES EN CIENCIAS BIOLOGICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G574",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "574",
+				"nombre": "SINT. DE FARM. I ORG. 203A-RETROSÍNTESIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "574CQ",
+				"nombre": "SINT. DE FARM. I ORG. 203A-RETROSÍNTESIS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "574EQ",
+				"nombre": "SINT. DE FARM. I ORG. 203A-RETROSÍNTESIS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G575",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "486R",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "575",
+				"nombre": "SÍNT. DE FÁRMACOS II (ORG. 203B)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "575CQ",
+				"nombre": "SÍNTESIS DE FARMACOS II (ORG. 203B)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "575EQ",
+				"nombre": "SÍNTESIS DE FARMACOS II (ORG. 203B)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G576",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "576",
+				"nombre": "TERMOQUÍMICA COMPUTACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "576EQ",
+				"nombre": "TERMOQUÍMICA COMPUTACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "576TQ",
+				"nombre": "TERMOQUÍMICA COMPUTACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G577",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "577",
+				"nombre": "TÓPICOS AVANZADOS DE RADIOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "577CQ",
+				"nombre": "TÓPICOS AVANZADOS DE RADIOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "577EQ",
+				"nombre": "TÓPICOS AVANZADOS DE RADIOQUÍMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G579",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "579",
+				"nombre": "HABMM - HERR. APLIC. BIOL MOL. EN MICRO.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "579",
+				"nombre": "HABMM - HERR. APLIC. BIOL MOL. EN MICRO.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "579EQ",
+				"nombre": "HABMM - HERR. APLIC. BIOL MOL. EN MICRO.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "579TQ",
+				"nombre": "HABMM - HERR. APLIC. BIOL MOL. EN MICRO.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G593",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "593",
+				"nombre": "GENÉTICA BÁSICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "593CQ",
+				"nombre": "GENÉTICA BÁSICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "593EQ",
+				"nombre": "GENÉTICA BÁSICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G603",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "603",
+				"nombre": "INT. A LA TECNOLOGÍA DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "603A",
+				"nombre": "INT. A LA TECNOLOGÍA DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G629",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "629",
+				"nombre": "FARMACIA ASISTENCIAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G652A",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "652A",
+				"nombre": "ADM. Y GESTION DE LAS ORGANIZACIONES 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "652A",
+				"nombre": "ADM. Y GESTION DE LAS ORGANIZACIONES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "652",
+				"nombre": "INT. A LAS ORGANIZACIONES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "652",
+				"nombre": "INT. A LAS ORGANIZACIONES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G653A",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "653A",
+				"nombre": "ADM. Y GESTION DE LAS ORGANIZACIONES 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "653A",
+				"nombre": "ADM. Y GESTION DE LAS ORGANIZACIONES 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "653",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "653",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G700",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "486R",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "700",
+				"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "700R",
+				"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G701",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "486R",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "701",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "701A",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "701R",
+				"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G702",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "581",
+				"nombre": "FARMACOTECNIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "581R",
+				"nombre": "FARMACOTECNIA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "702",
+				"nombre": "FARMACOTECNIA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "702R",
+				"nombre": "FARMACOTECNIA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "591",
+				"nombre": "FARMACOTECNIA I Y TECNOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "591R",
+				"nombre": "FARMACOTECNIA I Y TECNOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G703",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "585",
+				"nombre": "FARMACODINAMIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "585R",
+				"nombre": "FARMACODINAMIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "703",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "703R",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G704",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "584",
+				"nombre": "BROMATOLOGÍA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "584R",
+				"nombre": "BROMATOLOGÍA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "704",
+				"nombre": "BROMATOLOGÍA Y NUTRICIÓN (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "709",
+				"nombre": "BROMATOLOGÍA Y NUTRICIÓN (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G705",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "705E",
+				"nombre": "BIOQUÍMICA CLÍNICA I (ESCALA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "705",
+				"nombre": "BIOQUÍMICA CLÍNICA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "705M",
+				"nombre": "MOD. I - BIOQUÍMICA CLÍNICA I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G707",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "707E",
+				"nombre": "PARASITOLOGÍA (ESCALA)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "707",
+				"nombre": "PARASITOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G719",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "719",
+				"nombre": "AGROQUÍMICOS I (ORG. 304)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "719EQ",
+				"nombre": "AGROQUÍMICOS I (ORG. 304)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "719OA",
+				"nombre": "AGROQUÍMICOS I (ORG. 304)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G720",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "720",
+				"nombre": "BASES MOLEC. DE LA ACCIÓN DE FÁRMACOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "720CQ",
+				"nombre": "BASES MOLEC. DE LA ACCIÓN DE FÁRMACOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "720EQ",
+				"nombre": "BASES MOLEC. DE LA ACCIÓN DE FÁRMACOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G721",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "723",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723A",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723E",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723EQ",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723TQ",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "721",
+				"nombre": "GESTIÓN DE LA SEGURIDAD Y SALUD OCUP.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "721EQ",
+				"nombre": "GESTIÓN DE LA SEGURIDAD Y SALUD OCUP.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "721TQ",
+				"nombre": "GESTIÓN DE LA SEGURIDAD Y SALUD OCUP.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G722",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "722",
+				"nombre": "ELUCIDACIÓN ESTRUCTURAL (ORG 204)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "722A",
+				"nombre": "ELUCIDACIÓN ESTRUCTURAL (ORG 204)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "722E",
+				"nombre": "ELUCIDACIÓN ESTRUCTURAL (ORG 204)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "722EQ",
+				"nombre": "ELUCIDACIÓN ESTRUCTURAL (ORG 204)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "722TQ",
+				"nombre": "ELUCIDACIÓN ESTRUCTURAL (ORG 204)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G723",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "723",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723A",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723E",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723EQ",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "723TQ",
+				"nombre": "GESTIÓN DE LA SEG. Y SALUD LABORAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G726",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "726",
+				"nombre": "QCA. COMPUTACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "726EQ",
+				"nombre": "QCA. COMPUTACIONAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "726TQ",
+				"nombre": "QCA. COMPUTACIONAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G727",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "727",
+				"nombre": "QCA. DE LOS POLÍMEROS (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "727CQ",
+				"nombre": "QCA. DE POLÍMEROS (T+L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "727E",
+				"nombre": "QCA. DE POLÍMEROS (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "727EQ",
+				"nombre": "QCA. DE POLÍMEROS (T+L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G728",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "728",
+				"nombre": "QCA. DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "728EQ",
+				"nombre": "QCA. DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "728OM",
+				"nombre": "QCA. DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G729",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "729",
+				"nombre": "QCA. ORGÁNICA AVANZADA (ORG. 207)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "729CQ",
+				"nombre": "QCA. ORGÁNICA AVANZADA (ORG. 207)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "729EQ",
+				"nombre": "QCA. ORGÁNICA AVANZADA (ORG. 207)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G730",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "730",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "730CQ",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "730EQ",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G731",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "731",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731A",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731B",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731CQ",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731D",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731E",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731EQ",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731G",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "731H",
+				"nombre": "SÍNT.ORG.MED.TRANSF.ENZIMAT. ORG.309 (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G732",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "732",
+				"nombre": "BIODISPONIBILIDAD Y BIOEQUIVALENCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "732EQ",
+				"nombre": "BIODISPONIBILIDAD Y BIOEQUIVALENCIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "732TQ",
+				"nombre": "BIODISPONIBILIDAD Y BIOEQUIVALENCIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G733",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "733",
+				"nombre": "QCA. AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "733A",
+				"nombre": "QCA. AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "733E",
+				"nombre": "QCA. AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "733EQ",
+				"nombre": "QCA. AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "733OA",
+				"nombre": "QCA. AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G734",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "734",
+				"nombre": "BOTÁNICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "734EQ",
+				"nombre": "BOTÁNICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "734TQ",
+				"nombre": "BOTÁNICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G736",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "736",
+				"nombre": "BIOINFORMÁTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "736CQ",
+				"nombre": "BIOINFORMÁTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "736EQ",
+				"nombre": "BIOINFORMÁTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G739",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "739A",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "739E",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "739EQ",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "739TQ",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "739",
+				"nombre": "ENOLOGÍA Y BIOTEC. DE LA FERMENTACIÓN(L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G740",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "740",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "740EQ",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "740TQ",
+				"nombre": "ENOLOGÍA Y BIOTEC DE LA FERMENTACIÓN (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G741",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "741",
+				"nombre": "INT. A MICROB. AMBIENTAL Y AGRÍCOLA (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "741A",
+				"nombre": "INT. A MICROB. AMBIENTAL Y AGRÍCOLA (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "741E",
+				"nombre": "INT. A MICROB. AMBIENTAL Y AGRÍCOLA (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "741EQ",
+				"nombre": "INT. A MICROB. AMBIENTAL Y AGRÍCOLA (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "741OA",
+				"nombre": "INT. A MICROB. AMBIENTAL Y AGRÍCOLA (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G742",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "742",
+				"nombre": "MAGNETISMO MOLEC.Y COMP.DE COORDINACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "742CQ",
+				"nombre": "MAGNETISMO MOLEC.Y COMP.DE COORDINACIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "742EQ",
+				"nombre": "MAGNETISMO MOLEC.Y COMP.DE COORDINACIÓN",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G743",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "743",
+				"nombre": "SIST. DE GESTIÓN DE CALIDAD EN LAB.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "743EQ",
+				"nombre": "SISTEMAS DE GESTIÓN DE CALIDAD EN LAB.",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "743OC",
+				"nombre": "SISTEMAS DE GESTIÓN DE CALIDAD EN LAB.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G744",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "744",
+				"nombre": "AGROQUÍMICOS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "744EQ",
+				"nombre": "AGROQUÍMICOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "744TQ",
+				"nombre": "AGROQUÍMICOS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G745",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "745",
+				"nombre": "QCA. COSMÉTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "745EQ",
+				"nombre": "QCA. COSMÉTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "745TQ",
+				"nombre": "QCA. COSMÉTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G746",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "746",
+				"nombre": "FARMACOTECNIA III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "746E",
+				"nombre": "FARMACOTECNIA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "746EQ",
+				"nombre": "FARMACOTECNIA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "746TQ",
+				"nombre": "FARMACOTECNIA III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "746A",
+				"nombre": "FARMACOTECNIA III (DESDE 2015)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G747",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "747",
+				"nombre": "MONITOREO TERAPÉUTICO DE MEDICAMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "747EQ",
+				"nombre": "MONITOREO TERAPÉUTICO DE MEDICAMENTOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "747TQ",
+				"nombre": "MONITOREO TERAPÉUTICO DE MEDICAMENTOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G748",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "748",
+				"nombre": "CRONOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "748EQ",
+				"nombre": "CRONOFARMACIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "748TQ",
+				"nombre": "CRONOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G749",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "749",
+				"nombre": "FARMACOTERAPIA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "749EQ",
+				"nombre": "FARMACOTERAPIA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "749TQ",
+				"nombre": "FARMACOTERAPIA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G751",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "751",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751A",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751B",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751E",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751EQ",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751TQ",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751D",
+				"nombre": "RADIOFARMACIA (DESDE 2014)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G752",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "752",
+				"nombre": "ATENCIÓN FARMACÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "752A",
+				"nombre": "ATENCIÓN FARMACÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "752E",
+				"nombre": "ATENCIÓN FARMACÉUTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "752EQ",
+				"nombre": "ATENCIÓN FARMACÉUTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "752TQ",
+				"nombre": "ATENCIÓN FARMACÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G753",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "753",
+				"nombre": "BIOCATÁLISIS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "753A",
+				"nombre": "BIOCATÁLISIS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "753CQ",
+				"nombre": "BIOCATÁLISIS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "753E",
+				"nombre": "BIOCATÁLISIS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "753EQ",
+				"nombre": "BIOCATÁLISIS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G754",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "754",
+				"nombre": "BIOCATÁLISIS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "754CQ",
+				"nombre": "BIOCATÁLISIS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "754EQ",
+				"nombre": "BIOCATÁLISIS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G755",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "755",
+				"nombre": "ECOLOGÍA QUÍMICA (ORG. 311)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "755EQ",
+				"nombre": "ECOLOGÍA QUÍMICA (ORG. 311)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "755OA",
+				"nombre": "ECOLOGÍA QUÍMICA (ORG. 311)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G756",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "756",
+				"nombre": "INT. A LA GESTIÓN TECNOLÓGICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "756EQ",
+				"nombre": "INT. A LA GESTIÓN TECNOLÓGICA II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "756TQ",
+				"nombre": "INT. A LA GESTIÓN TECNOLÓGICA II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G757",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "757",
+				"nombre": "INT. A LA INDUSTRIA FARMACÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "757EQ",
+				"nombre": "INT. A LA INDUSTRIA FARMACÉUTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "757TQ",
+				"nombre": "INT. A LA INDUSTRIA FARMACÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G758",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "758",
+				"nombre": "INT. A LAS OPERACIONES UNITARIAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "758EQ",
+				"nombre": "INT. A LAS OPERACIONES UNITARIAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "758TQ",
+				"nombre": "INT. A LAS OPERACIONES UNITARIAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G759",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "759E",
+				"nombre": "MATERIALES CRISTALINOS I (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "759T",
+				"nombre": "MATERIALES CRISTALINOS I (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "759",
+				"nombre": "MATERIALES CRISTALINOS I (T+P)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "759EQ",
+				"nombre": "MATERIALES CRISTALINOS I (T+P)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "759OM",
+				"nombre": "MATERIALES CRISTALINOS I (T+P)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G761",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "761",
+				"nombre": "ASEG. DE LA CAL. DE LOS PROC. ANAL I (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "761A",
+				"nombre": "ASEG. DE LA CAL. DE LOS PROC. ANAL I (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "761E",
+				"nombre": "ASEG. DE LA CAL. DE LOS PROC. ANAL I (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "761EQ",
+				"nombre": "ASEG. DE LA CAL. DE LOS PROC. ANAL I (T)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "761OC",
+				"nombre": "ASEG. DE LA CAL. DE LOS PROC. ANAL I (T)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G763",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "763",
+				"nombre": "INT. A LOS FITOTERÁPICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "763CQ",
+				"nombre": "INT. A LOS FITOTERÁPICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "763EQ",
+				"nombre": "INT. A LOS FITOTERÁPICOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G764",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "764",
+				"nombre": "MICROBIOLOGÍA FARMACÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "764EQ",
+				"nombre": "MICROBIOLOGÍA FARMACÉUTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "764TQ",
+				"nombre": "MICROBIOLOGÍA FARMACÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G766",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "766",
+				"nombre": "MEJORÍA CONTINUA DE CAL. EN LAB. CLÍNICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "766EQ",
+				"nombre": "MEJORÍA CONTINUA DE CAL. EN LAB. CLÍNICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "766TQ",
+				"nombre": "MEJORÍA CONTINUA DE CAL. EN LAB. CLÍNICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G767",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "767",
+				"nombre": "INT.A LA AUTOMATIZACIÓN EN QCA.ANALÍTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "767EQ",
+				"nombre": "INT.A LA AUTOMATIZACIÓN EN QCA.ANALÍTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "767OC",
+				"nombre": "INT.A LA AUTOMATIZACIÓN EN QCA.ANALÍTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G768",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "768",
+				"nombre": "SINT. DE PROD. NAT. BIOACTIVOS (ORG308)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "768CQ",
+				"nombre": "SINT. DE PROD. NAT. BIOACTIVOS (ORG308)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "768EQ",
+				"nombre": "SINT. DE PROD. NAT. BIOACTIVOS (ORG308)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G769",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "769",
+				"nombre": "TERMODINÁMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "769CQ",
+				"nombre": "TERMODINÁMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "769EQ",
+				"nombre": "TERMODINÁMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G773",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "773A",
+				"nombre": "BIODIESEL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "773",
+				"nombre": "BIODIESEL: FUND. DE TEC. Y PARAM. CAL.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G775",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "775",
+				"nombre": "EDUCACIÓN CIENTÍFICA Y EPISTEMOLOGÍA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "558",
+				"nombre": "EPISTEMOLOGÍA",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G780",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "780",
+				"nombre": "DISEÑO DE COMPUESTOS BIOACTIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "780EQ",
+				"nombre": "DISEÑO DE COMPUESTOS BIOACTIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "780TQ",
+				"nombre": "DISEÑO DE COMPUESTOS BIOACTIVOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G802",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "587",
+				"nombre": "FARMACOTECNIA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "587R",
+				"nombre": "FARMACOTECNIA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "802",
+				"nombre": "FARMACOTECNIA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "802R",
+				"nombre": "FARMACOTECNIA II (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G803",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "588",
+				"nombre": "FARMACODINAMIA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "588R",
+				"nombre": "FARMACODINAMIA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "803",
+				"nombre": "FARMACOTERAPIA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "803R",
+				"nombre": "FARMACOTERAPIA I (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G804",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "804",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "804A",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "804R",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "583",
+				"nombre": "QCA. ANALÍTICA DE MEDICAMENTOS (PLAN 80)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "583R",
+				"nombre": "QCA. ANALÍTICA DE MEDICAMENTOS (PLAN 80)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G805",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "589",
+				"nombre": "QCA. TOXICOLÓGICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "589R",
+				"nombre": "QCA. TOXICOLÓGICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "805EQ",
+				"nombre": "TOXICOLOGÍA FUNDAMENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "805OA",
+				"nombre": "TOXICOLOGÍA FUNDAMENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "805",
+				"nombre": "TOXICOLOGÍA FUNDAMENTAL (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "805TQ",
+				"nombre": "TOXICOLOGÍA FUNDAMENTAL (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G806",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "589",
+				"nombre": "QCA. TOXICOLÓGICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "589R",
+				"nombre": "QCA. TOXICOLÓGICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "806",
+				"nombre": "TOXICOLOGÍA ANALÍTICA Y QUÍMICA LEGAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "806EQ",
+				"nombre": "TOXICOLOGÍA ANALÍTICA Y QUÍMICA LEGAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "806TQ",
+				"nombre": "TOXICOLOGÍA ANALÍTICA Y QUÍMICA LEGAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G807",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "807",
+				"nombre": "BIOQUÍMICA CLÍNICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "807A",
+				"nombre": "BIOQUÍMICA CLÍNICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G809",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "590",
+				"nombre": "LEGISLACIÓN FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "590R",
+				"nombre": "LEGISLACIÓN FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "809",
+				"nombre": "LEGISLACIÓN Y DEONTOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "809R",
+				"nombre": "LEGISLACIÓN Y DEONTOLOGÍA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G810",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "810",
+				"nombre": "VIROLOGÍA CLÍNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "810C",
+				"nombre": "VIROLOGÍA CLÍNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G820",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "820",
+				"nombre": "CURSO AVANZADO DE TÉCNICAS ANALÍTICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "820EQ",
+				"nombre": "CURSO AVANZADO DE TÉCNICAS ANALÍTICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "820OC",
+				"nombre": "CURSO AVANZADO DE TÉCNICAS ANALÍTICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G821",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "821OC",
+				"nombre": "INT. A LA METROLOGÌA Y CONT. DE PROC. I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "821",
+				"nombre": "INT. A LA METROLOGÍA Y CONT. DE PROC. I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "821EQ",
+				"nombre": "INT. A LA METROLOGÍA Y CONT. DE PROC. I",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G822",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "822",
+				"nombre": "INT. A LA METROLOGÍA Y CONT. DE PROC. II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "822EQ",
+				"nombre": "INT. A LA METROLOGÍA Y CONT. DE PROC. II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "822OC",
+				"nombre": "INT. A LA METROLOGÍA Y CONT. DE PROC. II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G834",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "834",
+				"nombre": "BOTÁNICA III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "834CQ",
+				"nombre": "BOTÁNICA III",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "834EQ",
+				"nombre": "BOTÁNICA III",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G837",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "837",
+				"nombre": "ANALISIS DE DATOS (EN EL LAB. CLINICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "837A",
+				"nombre": "ANALISIS DE DATOS (EN EL LAB. CLINICO)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G861",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "861",
+				"nombre": "ASEG. DE LA CAL DE LOS PROC. ANAL II (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "861EQ",
+				"nombre": "ASEG. DE LA CAL DE LOS PROC. ANAL II (L)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "861OC",
+				"nombre": "ASEG. DE LA CAL DE LOS PROC. ANAL II (L)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G905",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "905",
+				"nombre": "TECNOLOGÍA DE POLÍMEROS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "905EQ",
+				"nombre": "TECNOLOGÍA DE POLÍMEROS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "905OM",
+				"nombre": "TECNOLOGÍA DE POLÍMEROS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G907",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "907",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "907EQ",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS II",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "907TQ",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G908",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "908",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "908EQ",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "908OA",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "908R",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "481",
+				"nombre": "BOTÁNICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "481R",
+				"nombre": "BOTÁNICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "532",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "532OA",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "532R",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G909",
+		"min": 3,
+		"max": 5,
+		"previas": [
+			{
+				"id": "909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "909EQ",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "909OA",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "482",
+				"nombre": "FARMACOGNOSIA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "482R",
+				"nombre": "FARMACOGNOSIA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "532",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "532EQ",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "532OA",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "532R",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "565",
+				"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "565EQ",
+				"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "565OA",
+				"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "571",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "571EQ",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "571OA",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "571OA",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G918",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "819",
+				"nombre": "INT. A LA GESTIÓN DE CALIDAD (MOD. I)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "918",
+				"nombre": "SISTEMAS INTEGRADOS DE GESTIÓN",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G919",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "919",
+				"nombre": "INT. A LA GESTIÓN DE CALIDAD (MOD. II)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "919A",
+				"nombre": "INT. A LA GESTIÓN DE CALIDAD (MOD. II)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "919EQ",
+				"nombre": "INT. A LA GESTIÓN DE CALIDAD (MOD. II)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "919OC",
+				"nombre": "INT. A LA GESTIÓN DE CALIDAD (MOD. II)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G920",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "920",
+				"nombre": "GESTIÓN DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "920E",
+				"nombre": "GESTIÓN DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "920EQ",
+				"nombre": "GESTIÓN DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "920OC",
+				"nombre": "GESTIÓN DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "920A",
+				"nombre": "GESTIÓN DE CALIDAD (DESDE 2014)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G972",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "972",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "972CQ",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "972EQ",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G974",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "974",
+				"nombre": "TOXICOLOGÍA AMBIENTAL Y GEOLOGÍA MÉDICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "974EQ",
+				"nombre": "TOXICOLOGÍA AMBIENTAL Y GEOLOGÍA MÉDICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "974TQ",
+				"nombre": "TOXICOLOGÍA AMBIENTAL Y GEOLOGÍA MÉDICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "765",
+				"nombre": "TOXICOLOGÍA Y GESTIÓN AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "765EQ",
+				"nombre": "TOXICOLOGÍA Y GESTIÓN AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "765TQ",
+				"nombre": "TOXICOLOGÍA Y GESTIÓN AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "G975",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "975",
+				"nombre": "GESTIÓN AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "975EQ",
+				"nombre": "GESTIÓN AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "975TQ",
+				"nombre": "GESTIÓN AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "765",
+				"nombre": "TOXICOLOGÍA Y GESTIÓN AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "765EQ",
+				"nombre": "TOXICOLOGÍA Y GESTIÓN AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "765TQ",
+				"nombre": "TOXICOLOGÍA Y GESTIÓN AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "MP577",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "682",
+				"nombre": "QCA. DE LOS RADIOFÁRMACOS I",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "683",
+				"nombre": "QCA. DE LOS RADIOFÁRMACOS II",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751A",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751E",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751EQ",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "751TQ",
+				"nombre": "RADIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "550",
+				"nombre": "RADIOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "550CQ",
+				"nombre": "RADIOQUÍMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "550EQ",
+				"nombre": "RADIOQUÍMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "573",
+				"nombre": "RADIOTRAZADORES EN CIENCIAS BIOLOGICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "573EQ",
+				"nombre": "RADIOTRAZADORES EN CIENCIAS BIOLOGICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "573TQ",
+				"nombre": "RADIOTRAZADORES EN CIENCIAS BIOLOGICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]
