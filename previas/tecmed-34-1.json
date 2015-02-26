@@ -1,0 +1,520 @@
+[
+	{
+		"id": "12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "341",
+		"nombre": "CURSO BASICO DE METODOL.DE LOS RADIOISOT",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "341",
+				"nombre": "CURSO BASICO DE METODOL.DE LOS RADIOISOT",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "13",
+		"nombre": "ENFERMERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "20",
+		"nombre": "FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "20",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "344",
+		"nombre": "QUIMICA FOTOGRAFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "344",
+				"nombre": "QUIMICA FOTOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "342",
+		"nombre": "TECNICAS DIAG. Y TERAP. DE MED. NUCLEAR",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "344",
+				"nombre": "QUIMICA FOTOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "344",
+				"nombre": "QUIMICA FOTOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "342",
+				"nombre": "TECNICAS DIAG. Y TERAP. DE MED. NUCLEAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "343",
+		"nombre": "TECNICAS DIAG. Y TERAP. EN MED. NUCLEAR",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "341",
+				"nombre": "CURSO BASICO DE METODOL.DE LOS RADIOISOT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "20",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "342",
+				"nombre": "TECNICAS DIAG. Y TERAP. DE MED. NUCLEAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "341",
+				"nombre": "CURSO BASICO DE METODOL.DE LOS RADIOISOT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "20",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "344",
+				"nombre": "QUIMICA FOTOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "342",
+				"nombre": "TECNICAS DIAG. Y TERAP. DE MED. NUCLEAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "343",
+				"nombre": "TECNICAS DIAG. Y TERAP. EN MED. NUCLEAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

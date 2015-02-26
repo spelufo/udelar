@@ -1,0 +1,232 @@
+[
+	{
+		"id": "EARR",
+		"nombre": "ARREGLOS MUS. POPULAR P/ GRUPOS VOCALES",
+		"pcurso": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "INMU2",
+		"nombre": "INTRODUCCIÓN A LA MUSICOLOGÍA 2",
+		"pcurso": [
+			{
+				"id": "INMU1",
+				"nombre": "INTRODUCCIÓN A LA MUSICOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "INMU1",
+				"nombre": "INTRODUCCIÓN A LA MUSICOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "INV1",
+		"nombre": "INVESTIGACIÓN 1",
+		"pcurso": [
+			{
+				"id": "MINV1",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MINV",
+				"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MYS",
+		"nombre": "MÚSICA Y SOCIEDAD",
+		"pcurso": [
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MPT2",
+		"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M1",
+				"nombre": "MUSICOLOGIA PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MPT3",
+		"nombre": "MÚSICAS POPULARES Y TRADICIONALES 3",
+		"pcurso": [
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ORG2",
+		"nombre": "ORGANOLOGÍA 2",
+		"pcurso": [
+			{
+				"id": "ORG1",
+				"nombre": "ORGANOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ORG1",
+				"nombre": "ORGANOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

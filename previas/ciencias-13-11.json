@@ -1,0 +1,431 @@
+[
+	{
+		"id": "BL340",
+		"nombre": "AVANCES EN MICROANALISIS DE PROTEINAS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL534",
+		"nombre": "BASES MOL.DEL CONTROL BIOL.EN RIZOSFERA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL120",
+		"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL259",
+		"nombre": "BIOLOGIA DE HONGOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL548",
+		"nombre": "BIOLOGIA DEL SUELO",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL052",
+		"nombre": "BIOLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL052",
+				"nombre": "BIOLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL841",
+		"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL841",
+				"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL482",
+		"nombre": "GENETICA DE BACTERIAS SULFATOREDUCTORAS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL344",
+		"nombre": "INGEN.DE PROT.Y ESTABILIDAD",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL087",
+		"nombre": "INMUNOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL087",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL20",
+		"nombre": "INTROD. A LA VIROLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BG017",
+				"nombre": "VIROLOGIA (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL20",
+				"nombre": "INTROD. A LA VIROLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BG017",
+				"nombre": "VIROLOGIA (LIC. BIOL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL472",
+		"nombre": "MECAN.DE EXPORTACION DE PROTEINAS Y REG.",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL530",
+		"nombre": "MECANISMOS DE REGUL. DE LA EXPRES.GENICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL264",
+		"nombre": "MICROBIOLOGIA (FAC.QUIMICA)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL264",
+				"nombre": "MICROBIOLOGIA (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL744",
+		"nombre": "MICROBIOLOGIA AMBIEN. Y AGRICOLA (TEOR.)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ229",
+		"nombre": "MICROBIOLOGIA CLINICA",
+		"pcurso": [
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ229",
+				"nombre": "MICROBIOLOGIA CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL644",
+		"nombre": "MICROBIOLOGIA DE LACTEOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ075",
+		"nombre": "MICROORG.PROMOT.DEL C.VEGETAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL238",
+		"nombre": "PASANTIA EN MICROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL385",
+		"nombre": "TOLERANCIA DE LOS HONGOS A CONDIC.ESTRES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BG017",
+		"nombre": "VIROLOGIA (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG017",
+				"nombre": "VIROLOGIA (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL142",
+		"nombre": "VIROLOGIA MOLECULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL142",
+				"nombre": "VIROLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

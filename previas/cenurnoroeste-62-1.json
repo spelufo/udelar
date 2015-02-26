@@ -1,0 +1,564 @@
+[
+	{
+		"id": "SAH5B",
+		"nombre": "BIOMATERIALES DE PREVENCION",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAH7",
+		"nombre": "EDUCACIÓN PARA LA SALUD",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAH5D",
+		"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAH5A",
+		"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAH4",
+		"nombre": "LA ATENCION DE LA SALUD",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAH6",
+		"nombre": "LA CLÍNICA ODONTOLÓGICA",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SE1",
+		"nombre": "LA SALUD",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SE2",
+		"nombre": "LA UNIVERSIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAH5C",
+		"nombre": "MAT.  PARA IMPRESIONES Y DE TALLER",
+		"pcurso": [
+			{
+				"id": "SAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH5C",
+				"nombre": "MAT.  PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAH3",
+		"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SH8A9",
+		"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SHA98",
+				"nombre": " PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SH10",
+		"nombre": "PROCED. DE EDUCACIÓN PARA LA SALUD",
+		"pcurso": [
+			{
+				"id": "SHA98",
+				"nombre": " PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "SAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SH11",
+		"nombre": "PROCED. TÉC.PREVENTIVOS Y COMUNITARIOS",
+		"pcurso": [
+			{
+				"id": "SAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SH8A9",
+				"nombre": "PROC. TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "SH10",
+				"nombre": "PROCED. DE EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SH9",
+				"nombre": "PROG. DE LA  AT. SIST. ESTOMATOGNÁTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SH8",
+		"nombre": "PROCED. TÉCNICOS DE BIOSEGURIDAD",
+		"pcurso": [
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SHA98",
+				"nombre": " PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SH12",
+		"nombre": "PROCED. TÉCNICOS-CLÍNICOS PREVENTIVOS",
+		"pcurso": [
+			{
+				"id": "SAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SH8A9",
+				"nombre": "PROC. TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "SH10",
+				"nombre": "PROCED. DE EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SH9",
+				"nombre": "PROG. DE LA  AT. SIST. ESTOMATOGNÁTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SH9",
+		"nombre": "PROG. DE LA  AT. SIST. ESTOMATOGNÁTICO",
+		"pcurso": [
+			{
+				"id": "SHA98",
+				"nombre": " PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "SAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SH13",
+		"nombre": "PRÁCTICA EN SERVICIOS",
+		"pcurso": [
+			{
+				"id": "SH10",
+				"nombre": "PROCED. DE EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SH11",
+				"nombre": "PROCED. TÉC.PREVENTIVOS Y COMUNITARIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SH12",
+				"nombre": "PROCED. TÉCNICOS-CLÍNICOS PREVENTIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SH9",
+				"nombre": "PROG. DE LA  AT. SIST. ESTOMATOGNÁTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

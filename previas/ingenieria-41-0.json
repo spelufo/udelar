@@ -1,0 +1,1824 @@
+[
+	{
+		"id": "4602",
+		"nombre": "AGRIMENSURA LEGAL I",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4602",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4601",
+				"nombre": "ELEMENTOS DEL DERECHO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4603",
+		"nombre": "AGRIMENSURA LEGAL II",
+		"pcurso": [
+			{
+				"id": "4602",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4601",
+				"nombre": "ELEMENTOS DEL DERECHO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4602",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5301",
+		"nombre": "AGRIMENSURA LEGAL III",
+		"pcurso": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5301",
+				"nombre": "AGRIMENSURA LEGAL III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R100",
+		"nombre": "ANALISIS MATEMATICO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R100",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B200",
+		"nombre": "ANALISIS MATEMATICO II (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4703",
+		"nombre": "ASTRONOMIA",
+		"pcurso": [
+			{
+				"id": "4701",
+				"nombre": "GEODESIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4703",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4701",
+				"nombre": "GEODESIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1612",
+		"nombre": "ASTRONOMIA GEODESICA",
+		"pcurso": [
+			{
+				"id": "4701",
+				"nombre": "GEODESIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1612",
+				"nombre": "ASTRONOMIA GEODESICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4701",
+				"nombre": "GEODESIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4801",
+		"nombre": "AVALUACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4402",
+				"nombre": "ELEMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4501",
+				"nombre": "INFORMACION Y ANALISIS RURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5302",
+		"nombre": "AVALUACIONES II",
+		"pcurso": [
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5102",
+				"nombre": "CATASTRO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5302",
+				"nombre": "AVALUACIONES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5102",
+				"nombre": "CATASTRO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP44",
+				"nombre": "ANALISIS MATEMATICO I (1ER.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP22",
+				"nombre": "ANALISIS MATEMATICO I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4705",
+		"nombre": "CARTOGRAFIA",
+		"pcurso": [
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5101",
+				"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4705",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5101",
+				"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5102",
+		"nombre": "CATASTRO",
+		"pcurso": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5102",
+				"nombre": "CATASTRO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4701",
+				"nombre": "GEODESIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B300",
+		"nombre": "COMPUTACION",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1408",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1408",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B315",
+		"nombre": "COMPUTACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B315",
+				"nombre": "COMPUTACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1221",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B301",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4402",
+		"nombre": "ELEMENTOS DE CONSTRUCCION",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4402",
+				"nombre": "ELEMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4403",
+		"nombre": "ELEMENTOS DE GEOLOGIA",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4403",
+				"nombre": "ELEMENTOS DE GEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1121",
+		"nombre": "FISICA GENERAL 2",
+		"pcurso": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4901",
+		"nombre": "FOTOGRAMETRIA",
+		"pcurso": [
+			{
+				"id": "4102",
+				"nombre": "MODULO:EXPRESION GRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4001",
+				"nombre": "OPTICA E INT. A LA OPTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5306",
+		"nombre": "FOTOGRAMETRIA AVANZADA",
+		"pcurso": [
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5306",
+				"nombre": "FOTOGRAMETRIA AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5304",
+		"nombre": "GEODESIA FISICA Y SATELITAL",
+		"pcurso": [
+			{
+				"id": "4703",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5304",
+				"nombre": "GEODESIA FISICA Y SATELITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4704",
+				"nombre": "GEOFISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4701",
+		"nombre": "GEODESIA I",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4301",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4302",
+				"nombre": "TEORIA DE OBSERVACIONES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4701",
+				"nombre": "GEODESIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4302",
+				"nombre": "TEORIA DE OBSERVACIONES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4702",
+		"nombre": "GEODESIA II",
+		"pcurso": [
+			{
+				"id": "4703",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1612E",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5307",
+		"nombre": "GEODESIA SATELITAL",
+		"pcurso": [
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4704",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5307",
+				"nombre": "GEODESIA SATELITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4704",
+		"nombre": "GEOFISICA",
+		"pcurso": [
+			{
+				"id": "4403",
+				"nombre": "ELEMENTOS DE GEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B301E",
+				"nombre": "ELECTROMAG. O FIS.GRAL.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4403",
+				"nombre": "ELEMENTOS DE GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4704",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5309",
+		"nombre": "GEOFISICA APLICADA",
+		"pcurso": [
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4704",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4704",
+				"nombre": "GEOFISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5309",
+				"nombre": "GEOFISICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R101",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R101",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4501",
+		"nombre": "INFORMACION Y ANALISIS RURAL",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4501",
+				"nombre": "INFORMACION Y ANALISIS RURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1125",
+		"nombre": "INT. A LA OPTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1125",
+				"nombre": "INT. A LA OPTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5308",
+		"nombre": "MECANICA CELESTE",
+		"pcurso": [
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4704",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5308",
+				"nombre": "MECANICA CELESTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R103",
+		"nombre": "MECANICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R103",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5305",
+		"nombre": "PERCEPCION REMOTA",
+		"pcurso": [
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5305",
+				"nombre": "PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5201",
+		"nombre": "PLANIFICACION",
+		"pcurso": [
+			{
+				"id": "4602",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4501",
+				"nombre": "INFORMACION Y ANALISIS RURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5201",
+				"nombre": "PLANIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B203",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5203",
+		"nombre": "PLANIFICACION",
+		"pcurso": [
+			{
+				"id": "4602",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4501",
+				"nombre": "INFORMACION Y ANALISIS RURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5203",
+				"nombre": "PLANIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B203",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1322",
+		"nombre": "PROGRAMACION 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5001",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "5102",
+				"nombre": "CATASTRO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4704",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5101",
+				"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5102",
+				"nombre": "CATASTRO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5001",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5101",
+		"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+		"pcurso": [
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4701",
+				"nombre": "GEODESIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5101",
+				"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4301",
+		"nombre": "TEORIA DE LAS OBSERVACIONES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4301",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4302",
+		"nombre": "TEORIA DE OBSERVACIONES II",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4301",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4301",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4302",
+				"nombre": "TEORIA DE OBSERVACIONES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4201",
+		"nombre": "TOPOGRAFIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4202",
+		"nombre": "TOPOGRAFIA II",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A103",
+				"nombre": "MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4301",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4301",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4203",
+		"nombre": "TOPOGRAFIA III",
+		"pcurso": [
+			{
+				"id": "4402",
+				"nombre": "ELEMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4301",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4302",
+				"nombre": "TEORIA DE OBSERVACIONES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4201",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4302",
+				"nombre": "TEORIA DE OBSERVACIONES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5303",
+		"nombre": "TOPOGRAFIA IV",
+		"pcurso": [
+			{
+				"id": "4602",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4202",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4702",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5303",
+				"nombre": "TOPOGRAFIA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5202",
+		"nombre": "URBANISMO",
+		"pcurso": [
+			{
+				"id": "4603",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4901",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4203",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4801",
+				"nombre": "AVALUACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5203",
+				"nombre": "PLANIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5202",
+				"nombre": "URBANISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

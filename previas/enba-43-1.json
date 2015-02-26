@@ -1,0 +1,255 @@
+[
+	{
+		"id": "AAI",
+		"nombre": "ANATOMIA ARTISTICA I",
+		"pcurso": [
+			{
+				"id": "2DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HAI",
+				"nombre": "HISTORIA DEL ARTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AAII",
+		"nombre": "ANATOMIA ARTISTICA II",
+		"pcurso": [
+			{
+				"id": "AAI",
+				"nombre": "ANATOMIA ARTISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HAII",
+				"nombre": "HISTORIA DEL ARTE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2DE",
+		"nombre": "DIBUJO Y ESCULTURA",
+		"pcurso": [
+			{
+				"id": "1DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3DE",
+		"nombre": "DIBUJO Y ESCULTURA",
+		"pcurso": [
+			{
+				"id": "2DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "4DE",
+		"nombre": "DIBUJO Y ESCULTURA",
+		"pcurso": [
+			{
+				"id": "3DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5DE",
+		"nombre": "DIBUJO Y ESCULTURA",
+		"pcurso": [
+			{
+				"id": "AAII",
+				"nombre": "ANATOMIA ARTISTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2DP",
+		"nombre": "DIBUJO Y PINTURA",
+		"pcurso": [
+			{
+				"id": "1DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3DP",
+		"nombre": "DIBUJO Y PINTURA",
+		"pcurso": [
+			{
+				"id": "2DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "4DP",
+		"nombre": "DIBUJO Y PINTURA",
+		"pcurso": [
+			{
+				"id": "3DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5DP",
+		"nombre": "DIBUJO Y PINTURA",
+		"pcurso": [
+			{
+				"id": "AAII",
+				"nombre": "ANATOMIA ARTISTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "HAI",
+		"nombre": "HISTORIA DEL ARTE I",
+		"pcurso": [
+			{
+				"id": "1DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "HAII",
+		"nombre": "HISTORIA DEL ARTE II",
+		"pcurso": [
+			{
+				"id": "2DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HAI",
+				"nombre": "HISTORIA DEL ARTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5P",
+		"nombre": "PEDAGOGIA",
+		"pcurso": [
+			{
+				"id": "AAII",
+				"nombre": "ANATOMIA ARTISTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4DE",
+				"nombre": "DIBUJO Y ESCULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4DP",
+				"nombre": "DIBUJO Y PINTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

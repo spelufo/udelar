@@ -1,0 +1,34 @@
+[
+	{
+		"id": "1.02",
+		"nombre": "SEMINARIO DE LAS ESTETICAS I",
+		"pcurso": [
+			{
+				"id": "1.01",
+				"nombre": "TALLER DE LOS FENOMENOS DE PERC. Y LENG.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1.03",
+		"nombre": "SEMINARIO DE LAS ESTETICAS II",
+		"pcurso": [
+			{
+				"id": "1.02",
+				"nombre": "SEMINARIO DE LAS ESTETICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1.01",
+				"nombre": "TALLER DE LOS FENOMENOS DE PERC. Y LENG.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

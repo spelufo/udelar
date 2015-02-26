@@ -1,0 +1,1281 @@
+[
+	{
+		"id": "MA02",
+		"nombre": "ALGEBRA LINEAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA04",
+		"nombre": "ALGEBRA LINEAL II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS031",
+		"nombre": "ASTROFISICA DEL SISTEMA SOLAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "AS031",
+				"nombre": "ASTROFISICA DEL SISTEMA SOLAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A0002",
+		"nombre": "ASTROFISICA ESTELAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A0002",
+				"nombre": "ASTROFISICA ESTELAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS005",
+		"nombre": "ASTROFISICA I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "27",
+				"nombre": "FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS005",
+				"nombre": "ASTROFISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "26",
+				"nombre": "ONDAS Y ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS008",
+		"nombre": "ASTROFISICA II",
+		"pcurso": [
+			{
+				"id": "AS005",
+				"nombre": "ASTROFISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "26",
+				"nombre": "ONDAS Y ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS005",
+				"nombre": "ASTROFISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS008",
+				"nombre": "ASTROFISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS002",
+		"nombre": "ASTRONOMIA ESFERICA",
+		"pcurso": [
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA01",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA03",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA07",
+		"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI10",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [
+			{
+				"id": "AS005",
+				"nombre": "ASTROFISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS004",
+				"nombre": "MECANICA CELESTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "26",
+				"nombre": "ONDAS Y ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A0004",
+				"nombre": "TECNICAS INSTRUMENTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS005",
+				"nombre": "ASTROFISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS004",
+				"nombre": "MECANICA CELESTE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A0004",
+				"nombre": "TECNICAS INSTRUMENTALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI01",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI08",
+		"nombre": "FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "27",
+				"nombre": "FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "26",
+				"nombre": "ONDAS Y ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA10",
+		"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA21",
+		"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA21",
+				"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA008",
+		"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA016",
+		"nombre": "INTRODUCCION A LOS METODOS NUMERICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA016",
+				"nombre": "INTRODUCCION A LOS METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI007",
+		"nombre": "MECANICA ANALITICA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "27",
+				"nombre": "FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS004",
+		"nombre": "MECANICA CELESTE I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "27",
+				"nombre": "FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS004",
+				"nombre": "MECANICA CELESTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS007",
+		"nombre": "MECANICA CELESTE II",
+		"pcurso": [
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS004",
+				"nombre": "MECANICA CELESTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "26",
+				"nombre": "ONDAS Y ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS004",
+				"nombre": "MECANICA CELESTE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS007",
+				"nombre": "MECANICA CELESTE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI012",
+		"nombre": "MECANICA CUANTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI012",
+				"nombre": "MECANICA CUANTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI002",
+		"nombre": "MECANICA I",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI002",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI05",
+		"nombre": "ONDAS",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI002",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "27",
+				"nombre": "FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS011",
+		"nombre": "SEMINARIO",
+		"pcurso": [
+			{
+				"id": "AS005",
+				"nombre": "ASTROFISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS004",
+				"nombre": "MECANICA CELESTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "26",
+				"nombre": "ONDAS Y ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A0004",
+				"nombre": "TECNICAS INSTRUMENTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS006",
+				"nombre": "TRABAJO ESPECIAL DE ASTRONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS011",
+				"nombre": "SEMINARIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A0004",
+		"nombre": "TECNICAS INSTRUMENTALES",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "27",
+				"nombre": "FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A0004",
+				"nombre": "TECNICAS INSTRUMENTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI04",
+		"nombre": "TERMODINAMICA",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS006",
+		"nombre": "TRABAJO ESPECIAL DE ASTRONOMIA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS001",
+				"nombre": "ASTRONOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "27",
+				"nombre": "FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A0004",
+				"nombre": "TECNICAS INSTRUMENTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS002",
+				"nombre": "ASTRONOMIA ESFERICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "26",
+				"nombre": "ONDAS Y ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A0004",
+				"nombre": "TECNICAS INSTRUMENTALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS006",
+				"nombre": "TRABAJO ESPECIAL DE ASTRONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,826 @@
+[
+	{
+		"id": "LB23",
+		"nombre": "ADMINISTRACIÓN GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB45",
+		"nombre": "ANTROPOLOGÍA SOCIAL Y CULTURAL",
+		"pcurso": [
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB45",
+				"nombre": "ANTROPOLOGÍA SOCIAL Y CULTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB43",
+		"nombre": "COMUNICACIÓN",
+		"pcurso": [
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB43",
+				"nombre": "COMUNICACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB54",
+		"nombre": "ECOLOGÍA Y MEDIO AMBIENTE",
+		"pcurso": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB21",
+				"nombre": "GEOGRAFÍA TURÍSTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB54",
+				"nombre": "ECOLOGÍA Y MEDIO AMBIENTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB21",
+				"nombre": "GEOGRAFÍA TURÍSTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB35",
+		"nombre": "ESTADÍSTICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB35",
+				"nombre": "ESTADÍSTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB02",
+		"nombre": "GEOGRAFÍA TURÍSTICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB02",
+				"nombre": "GEOGRAFÍA TURÍSTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB21",
+		"nombre": "GEOGRAFÍA TURÍSTICA II",
+		"pcurso": [
+			{
+				"id": "LB02",
+				"nombre": "GEOGRAFÍA TURÍSTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB02",
+				"nombre": "GEOGRAFÍA TURÍSTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB21",
+				"nombre": "GEOGRAFÍA TURÍSTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB34",
+		"nombre": "GESTIÓN DE COMERCIALIZACIÓN",
+		"pcurso": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB34",
+				"nombre": "GESTIÓN DE COMERCIALIZACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB03",
+		"nombre": "HISTORIA REGIONAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB03",
+				"nombre": "HISTORIA REGIONAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB22",
+		"nombre": "HISTORIA REGIONAL II",
+		"pcurso": [
+			{
+				"id": "LB03",
+				"nombre": "HISTORIA REGIONAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB03",
+				"nombre": "HISTORIA REGIONAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB05",
+		"nombre": "INGLÉS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB05",
+				"nombre": "INGLÉS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB25",
+		"nombre": "INGLÉS II",
+		"pcurso": [
+			{
+				"id": "LB05",
+				"nombre": "INGLÉS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB05",
+				"nombre": "INGLÉS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB36",
+		"nombre": "INGLÉS III",
+		"pcurso": [
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB36",
+				"nombre": "INGLÉS III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB04",
+		"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB01",
+		"nombre": "INTRODUCCIÓN AL TURISMO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB32",
+		"nombre": "LEGISLACIÓN TURÍSTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB32",
+				"nombre": "LEGISLACIÓN TURÍSTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB41",
+		"nombre": "MARKETING TURÍSTICO",
+		"pcurso": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB34",
+				"nombre": "GESTIÓN DE COMERCIALIZACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB34",
+				"nombre": "GESTIÓN DE COMERCIALIZACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB41",
+				"nombre": "MARKETING TURÍSTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB24",
+		"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TB44",
+		"nombre": "PASANTÍA",
+		"pcurso": [
+			{
+				"id": "LB35",
+				"nombre": "ESTADÍSTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB21",
+				"nombre": "GEOGRAFÍA TURÍSTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB34",
+				"nombre": "GESTIÓN DE COMERCIALIZACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB36",
+				"nombre": "INGLÉS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB32",
+				"nombre": "LEGISLACIÓN TURÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB33",
+				"nombre": "PLANIFICACIÓN TURÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB31",
+				"nombre": "PORTUGUÉS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LB51",
+		"nombre": "PATRIMONIO CULTURAL",
+		"pcurso": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB21",
+				"nombre": "GEOGRAFÍA TURÍSTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB21",
+				"nombre": "GEOGRAFÍA TURÍSTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB25",
+				"nombre": "INGLÉS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB24",
+				"nombre": "MET. DE LA INVESTIGACIÓN EN C.SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB51",
+				"nombre": "PATRIMONIO CULTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB33",
+		"nombre": "PLANIFICACIÓN TURÍSTICA",
+		"pcurso": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB23",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB04",
+				"nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB01",
+				"nombre": "INTRODUCCIÓN AL TURISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB33",
+				"nombre": "PLANIFICACIÓN TURÍSTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB31",
+		"nombre": "PORTUGUÉS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LB31",
+				"nombre": "PORTUGUÉS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB46",
+		"nombre": "PORTUGUÉS II",
+		"pcurso": [
+			{
+				"id": "LB31",
+				"nombre": "PORTUGUÉS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB31",
+				"nombre": "PORTUGUÉS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB46",
+				"nombre": "PORTUGUÉS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LB42",
+		"nombre": "SOCIOLOGÍA DEL TURISMO",
+		"pcurso": [
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LB22",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB42",
+				"nombre": "SOCIOLOGÍA DEL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TB52",
+		"nombre": "TALLER DE PROYECTOS",
+		"pcurso": [
+			{
+				"id": "LB45",
+				"nombre": "ANTROPOLOGÍA SOCIAL Y CULTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB43",
+				"nombre": "COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB35",
+				"nombre": "ESTADÍSTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB44",
+				"nombre": "ESTADÍSTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB21",
+				"nombre": "GEOGRAFÍA TURÍSTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB34",
+				"nombre": "GESTIÓN DE COMERCIALIZACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB36",
+				"nombre": "INGLÉS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB32",
+				"nombre": "LEGISLACIÓN TURÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB33",
+				"nombre": "PLANIFICACIÓN TURÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB46",
+				"nombre": "PORTUGUÉS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LB42",
+				"nombre": "SOCIOLOGÍA DEL TURISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

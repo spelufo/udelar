@@ -1,0 +1,1076 @@
+[
+	{
+		"id": "A20",
+		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+		"pcurso": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "312A",
+		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "G228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q312",
+		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "301",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "301",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "228",
+		"nombre": "ADMINISTRACIÓN II",
+		"pcurso": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "228A",
+		"nombre": "ADMINISTRACIÓN II",
+		"pcurso": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3261",
+		"nombre": "COMPORTAMIENTO  ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "Q312",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3283",
+				"nombre": "ELEMENTOS DE AUDITORIA",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q312",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3261A",
+		"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "G312",
+				"nombre": "ADMIN DE RECURSOS HUMANOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G312",
+				"nombre": "ADMIN DE RECURSOS HUMANOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "214A",
+		"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+		"pcurso": [
+			{
+				"id": "G126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q214",
+		"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+		"pcurso": [
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3282",
+		"nombre": "CONTABILIDAD DE LA HACIENDA PUBLICA",
+		"pcurso": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3281",
+				"nombre": "MARKETING II",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "128A",
+		"nombre": "CÁLCULO I/B",
+		"pcurso": [
+			{
+				"id": "G114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3283",
+		"nombre": "ELEMENTOS DE AUDITORIA",
+		"pcurso": [
+			{
+				"id": "3261",
+				"nombre": "COMPORTAMIENTO  ORGANIZACIONAL",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "Q214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3283A",
+		"nombre": "ELEMENTOS DE AUDITORÌA",
+		"pcurso": [
+			{
+				"id": "G214",
+				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G214",
+				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "227A",
+		"nombre": "ESTADÍSTICA APLICADA A LA ADMINISTRACIÓN",
+		"pcurso": [
+			{
+				"id": "G213",
+				"nombre": "INTR. A LA PROB. Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G213",
+				"nombre": "INTR. A LA PROB. Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3271",
+		"nombre": "FINANZAS DE EMPRESAS",
+		"pcurso": [
+			{
+				"id": "Q214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3284",
+				"nombre": "FINANZAS PUBLICAS",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3271A",
+		"nombre": "FINANZAS DE EMPRESAS",
+		"pcurso": [
+			{
+				"id": "G228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G214",
+				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G227",
+				"nombre": "ESTADISTICA APLICADA A LA ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G214",
+				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G227",
+				"nombre": "ESTADISTICA APLICADA A LA ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3284",
+		"nombre": "FINANZAS PUBLICAS",
+		"pcurso": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3271",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q114",
+				"nombre": "MÉTODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "212A",
+		"nombre": "INFORMATICA I",
+		"pcurso": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q212",
+		"nombre": "INFORMATICA I",
+		"pcurso": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q213",
+		"nombre": "INTROD. A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "213A",
+		"nombre": "INTROD. A LA PROBABILIDAD Y ESTADÍSTICA",
+		"pcurso": [
+			{
+				"id": "G128",
+				"nombre": "METODOS CUANTITATIVOS II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G128",
+				"nombre": "METODOS CUANTITATIVOS II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "311A",
+		"nombre": "MARKETING I",
+		"pcurso": [
+			{
+				"id": "G227",
+				"nombre": "ESTADISTICA APLICADA A LA ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G227",
+				"nombre": "ESTADISTICA APLICADA A LA ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q311",
+		"nombre": "MARKETING I",
+		"pcurso": [
+			{
+				"id": "227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3281",
+		"nombre": "MARKETING II",
+		"pcurso": [
+			{
+				"id": "3282",
+				"nombre": "CONTABILIDAD DE LA HACIENDA PUBLICA",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q311",
+				"nombre": "MARKETING I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3281A",
+		"nombre": "MARKETING II",
+		"pcurso": [
+			{
+				"id": "G311",
+				"nombre": "MARKETING I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G311",
+				"nombre": "MARKETING I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "211A",
+		"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+		"pcurso": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q211",
+		"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+		"pcurso": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "225A",
+		"nombre": "ORGANIZACIÓN Y SISTEMAS II",
+		"pcurso": [
+			{
+				"id": "G212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3131",
+		"nombre": "RELACIONES LABORALES PROPEDEUTICO",
+		"pcurso": [
+			{
+				"id": "3132",
+				"nombre": "SEGURIDAD SOCIAL - PROPEDEUTICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3131",
+				"nombre": "RELACIONES LABORALES PROPEDEUTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "226A",
+		"nombre": "SISTEMAS INFORMATICOS APLICADOS",
+		"pcurso": [
+			{
+				"id": "G212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

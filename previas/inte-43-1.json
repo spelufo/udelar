@@ -1,0 +1,558 @@
+[
+	{
+		"id": "DP61",
+		"nombre": "ARBORICULTURA",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP61",
+				"nombre": "ARBORICULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP21",
+		"nombre": "BOTÁNICA I",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP21",
+				"nombre": "BOTÁNICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP31",
+		"nombre": "BOTÁNICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP21",
+				"nombre": "BOTÁNICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP31",
+				"nombre": "BOTÁNICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP41",
+		"nombre": "BOTÁNICA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP31",
+				"nombre": "BOTÁNICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP41",
+				"nombre": "BOTÁNICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP72",
+		"nombre": "CLIMA Y CONFORT",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP72",
+				"nombre": "CLIMA Y CONFORT",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP33",
+		"nombre": "DISEÑO DEL PAISAJE II - ARTICARDI",
+		"pcurso": [
+			{
+				"id": "DP23",
+				"nombre": "DISEÑO DEL PAISAJE I - ARTICARDI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DP43",
+		"nombre": "DISEÑO DEL PAISAJE III - ARTICARDI",
+		"pcurso": [
+			{
+				"id": "DP33",
+				"nombre": "DISEÑO DEL PAISAJE II - ARTICARDI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP24",
+				"nombre": "REPRESENTACIÓN GRÁFICA DEL ESPACIO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP53",
+		"nombre": "DISEÑO DEL PAISAJE IV - ARTICARDI",
+		"pcurso": [
+			{
+				"id": "DP43",
+				"nombre": "DISEÑO DEL PAISAJE III - ARTICARDI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DP63",
+		"nombre": "DISEÑO DEL PAISAJE V - ARTICARDI",
+		"pcurso": [
+			{
+				"id": "DP53",
+				"nombre": "DISEÑO DEL PAISAJE IV - ARTICARDI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DP12",
+		"nombre": "ECOLOGÍA DEL PAISAJE",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP12",
+				"nombre": "ECOLOGÍA DEL PAISAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP81",
+		"nombre": "GESTIÓN Y ADMINISTRACIÓN ÁREAS VERDES",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP81",
+				"nombre": "GESTIÓN Y ADMINISTRACIÓN ÁREAS VERDES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP71",
+		"nombre": "HIDROLOGÍA Y  RIEGO",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP71",
+				"nombre": "HIDROLOGÍA Y  RIEGO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP34",
+		"nombre": "HISTORIA DEL PAISAJE I",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DP54",
+		"nombre": "HISTORIA DEL PAISAJE II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP34",
+				"nombre": "HISTORIA DEL PAISAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP51",
+		"nombre": "HORTICULTURA ORNAMENTAL",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP51",
+				"nombre": "HORTICULTURA ORNAMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP42",
+		"nombre": "INTERPRETACIÓN DEL PAISAJE I",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP42",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP52",
+		"nombre": "INTERPRETACIÓN DEL PAISAJE II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP42",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP52",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP62",
+		"nombre": "INTERPRETACIÓN DEL PAISAJE III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP52",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP62",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP83",
+		"nombre": "MET. DE INVESTIGACIÓN CIENCIAS SOCIALES",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP83",
+				"nombre": "MET. DE INVESTIGACIÓN CIENCIAS SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP14",
+		"nombre": "PERCEPCIÓN AMBIENTAL Y DEL ESPACIO",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP14",
+				"nombre": "PERCEPCIÓN AMBIENTAL Y DEL ESPACIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP73",
+		"nombre": "PROYECTO FINAL DE PAISAJE - ARTICARDI",
+		"pcurso": [
+			{
+				"id": "DP61",
+				"nombre": "ARBORICULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP43",
+				"nombre": "DISEÑO DEL PAISAJE III - ARTICARDI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP53",
+				"nombre": "DISEÑO DEL PAISAJE IV - ARTICARDI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP63",
+				"nombre": "DISEÑO DEL PAISAJE V - ARTICARDI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP54",
+				"nombre": "HISTORIA DEL PAISAJE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP51",
+				"nombre": "HORTICULTURA ORNAMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP52",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP62",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP64",
+				"nombre": "TEORÍA DEL PAISAJE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP41",
+				"nombre": "BOTÁNICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP12",
+				"nombre": "ECOLOGÍA DEL PAISAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP34",
+				"nombre": "HISTORIA DEL PAISAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP42",
+				"nombre": "INTERPRETACIÓN DEL PAISAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP14",
+				"nombre": "PERCEPCIÓN AMBIENTAL Y DEL ESPACIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP44",
+				"nombre": "TEORÍA DEL PAISAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP32",
+				"nombre": "TÉC. Y PROCEDIMIENTOS CONSTRUCTIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP13",
+		"nombre": "REPRESENTACIÓN GRÁFICA DEL ESPACIO I",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DP13",
+				"nombre": "REPRESENTACIÓN GRÁFICA DEL ESPACIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP24",
+		"nombre": "REPRESENTACIÓN GRÁFICA DEL ESPACIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP13",
+				"nombre": "REPRESENTACIÓN GRÁFICA DEL ESPACIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DP24",
+				"nombre": "REPRESENTACIÓN GRÁFICA DEL ESPACIO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP44",
+		"nombre": "TEORÍA DEL PAISAJE I",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DP64",
+		"nombre": "TEORÍA DEL PAISAJE II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP44",
+				"nombre": "TEORÍA DEL PAISAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DP22",
+		"nombre": "TÉC. Y PROCEDIMIENTOS CONSTRUCTIVOS I",
+		"pcurso": [
+			{
+				"id": "DP11",
+				"nombre": "TALLER TRANSVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DP32",
+		"nombre": "TÉC. Y PROCEDIMIENTOS CONSTRUCTIVOS II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "DP22",
+				"nombre": "TÉC. Y PROCEDIMIENTOS CONSTRUCTIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

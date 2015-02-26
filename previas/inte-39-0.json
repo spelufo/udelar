@@ -1,0 +1,41 @@
+[
+	{
+		"id": "TTR2",
+		"nombre": "MATEMATICA II",
+		"pcurso": [
+			{
+				"id": "TTR1",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TTR7",
+		"nombre": "MODULACION Y PROCESAMIENTO DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "TTR6",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TTR6",
+		"nombre": "PROGRAMACION I",
+		"pcurso": [
+			{
+				"id": "TTR1",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

@@ -1,0 +1,916 @@
+[
+	{
+		"id": "A20",
+		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+		"pcurso": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC71",
+		"nombre": "ANÁLISIS MULTIVARIADO I",
+		"pcurso": [
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E72",
+		"nombre": "CAMBIO Y DISEÑO DE INSTITUCIONES ECONOM.",
+		"pcurso": [
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CM128",
+		"nombre": "COMP.MÉTODOS CUANTITATIVOS II",
+		"pcurso": [
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I51",
+		"nombre": "COMPETENCIAS BÁSICAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			}
+		]
+	},
+	{
+		"id": "C20",
+		"nombre": "CONTABILIDAD GENERAL I",
+		"pcurso": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "128A",
+		"nombre": "CÁLCULO I/B",
+		"pcurso": [
+			{
+				"id": "G114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC31",
+		"nombre": "CÁLCULO II",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC43",
+		"nombre": "CÁLCULO III",
+		"pcurso": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S45",
+		"nombre": "DESIGUALDAD Y POBREZA",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E73",
+		"nombre": "ECON. AGROPEC.DE LOS RECURSOS NATURALES",
+		"pcurso": [
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E41",
+				"nombre": "MICROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E41",
+				"nombre": "MICROECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC61",
+		"nombre": "ECONOMETRÍA I",
+		"pcurso": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC20P",
+				"nombre": "ÁLGEBRA (PREV)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC20P",
+				"nombre": "ÁLGEBRA (PREV)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC70",
+		"nombre": "ECONOMETRÍA II",
+		"pcurso": [
+			{
+				"id": "MC70P",
+				"nombre": "ECONOMETRÍA II(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC70P",
+				"nombre": "ECONOMETRÍA II(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E74",
+		"nombre": "ECONOMIA Y GESTION BANCARIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		]
+	},
+	{
+		"id": "E51",
+		"nombre": "ECONOMÍA DE AMÉRICA LATINA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		]
+	},
+	{
+		"id": "E60",
+		"nombre": "ECONOMÍA DEL URUGUAY",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		]
+	},
+	{
+		"id": "E70",
+		"nombre": "ECONOMÍA INTERNACIONAL",
+		"pcurso": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E76",
+		"nombre": "ECONOMÍA LABORAL",
+		"pcurso": [
+			{
+				"id": "325P",
+				"nombre": "ECONOMÍA DEL URUGUAY(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "325P",
+				"nombre": "ECONOMÍA DEL URUGUAY(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E75",
+		"nombre": "ECONOMÍA PÚBLICA",
+		"pcurso": [
+			{
+				"id": "E41P",
+				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E41P",
+				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E77",
+		"nombre": "ECONOMÍA Y GÉNERO",
+		"pcurso": [
+			{
+				"id": "S20",
+				"nombre": "INT. A LAS ESC. DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "S20",
+				"nombre": "INT. A LAS ESC. DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E78",
+		"nombre": "ECONOMÍA Y POLÍTICA MONETARIA",
+		"pcurso": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC42",
+		"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC51",
+		"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A71",
+		"nombre": "FINANZAS CORPORATIVAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 180,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			},
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C63",
+				"nombre": "INTERPRET.Y ANÁLISIS DE INFORMACIÓN CONT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC30P",
+				"nombre": "MAT. FINANCIERA(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 180,
+				"texto": "Créditos en la Carrera 12 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			},
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C63",
+				"nombre": "INTERPRET.Y ANÁLISIS DE INFORMACIÓN CONT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC30P",
+				"nombre": "MAT. FINANCIERA(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S44",
+		"nombre": "HISTORIA ECONOMICA DEL URUGUAY",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
+			}
+		]
+	},
+	{
+		"id": "C63",
+		"nombre": "INTERPRET.Y ANÁLISIS DE INFORMACIÓN CONT",
+		"pcurso": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E30",
+		"nombre": "MACROECONOMÍA I",
+		"pcurso": [
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E40",
+		"nombre": "MACROECONOMÍA II",
+		"pcurso": [
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E50",
+		"nombre": "MACROECONOMÍA III",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E40G",
+				"nombre": "MACROEC.II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E40G",
+				"nombre": "MACROEC.II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A61",
+		"nombre": "MARKETING BÁSICO",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC30",
+		"nombre": "MATEMÁTICA FINANCIERA",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E31",
+		"nombre": "MICROECONOMÍA I",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E41",
+		"nombre": "MICROECONOMÍA II",
+		"pcurso": [
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E61",
+		"nombre": "MICROECONOMÍA III",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E31",
+				"nombre": "MICROECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E79",
+		"nombre": "POLÍTICA ECONÓMICA",
+		"pcurso": [
+			{
+				"id": "E41P",
+				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E41P",
+				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E33",
+		"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
+		"pcurso": [
+			{
+				"id": "116G",
+				"nombre": "ECONOMIA DESCRIPTIVA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116G",
+				"nombre": "ECONOMIA DESCRIPTIVA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E71",
+		"nombre": "TEORÍAS DEL DESARROLLO",
+		"pcurso": [
+			{
+				"id": "E50",
+				"nombre": "MACROECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E50",
+				"nombre": "MACROECONOMÍA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,496 @@
+[
+	{
+		"id": "FD5",
+		"nombre": "ANTROPOLOGIA FILOSOFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FD5",
+				"nombre": "ANTROPOLOGIA FILOSOFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FE1",
+		"nombre": "ESTETICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FE1",
+				"nombre": "ESTETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FE2",
+		"nombre": "ESTETICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FE2",
+				"nombre": "ESTETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FD1",
+		"nombre": "ETICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FD1",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FD2",
+		"nombre": "ETICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FD2",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FF5",
+		"nombre": "FILOSOFIA DE LA TECNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FF5",
+				"nombre": "FILOSOFIA DE LA TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FB3",
+		"nombre": "FILOSOFIA DE LAS CIENCIAS FORMALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FB3",
+				"nombre": "FILOSOFIA DE LAS CIENCIAS FORMALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FF4",
+		"nombre": "FILOSOFIA DE LAS CIENCIAS SOCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FF4",
+				"nombre": "FILOSOFIA DE LAS CIENCIAS SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FF6",
+		"nombre": "FILOSOFIA DE UNA CIENCIA PARTICULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FF6",
+				"nombre": "FILOSOFIA DE UNA CIENCIA PARTICULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FC3",
+		"nombre": "FILOSOFIA DEL CONOCIMIENTO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FC3",
+				"nombre": "FILOSOFIA DEL CONOCIMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FG1",
+		"nombre": "FILOSOFIA LATINOAMERICANA Y URUGUAYA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FG1",
+				"nombre": "FILOSOFIA LATINOAMERICANA Y URUGUAYA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FD3",
+		"nombre": "FILOSOFIA POLITICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FD3",
+				"nombre": "FILOSOFIA POLITICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FD4",
+		"nombre": "FILOSOFIA POLITICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FD4",
+				"nombre": "FILOSOFIA POLITICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FC1",
+		"nombre": "FILOSOFIA TEORICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FC1",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FC2",
+		"nombre": "FILOSOFIA TEORICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FC2",
+				"nombre": "FILOSOFIA TEORICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FA1",
+		"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FA1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FA4",
+		"nombre": "HISTORIA DE LA FILOSOFIA CONTEMPORANEA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FA4",
+				"nombre": "HISTORIA DE LA FILOSOFIA CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FA2",
+		"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FA2",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FA3",
+		"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FA3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FF1",
+		"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FF1",
+				"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FF2",
+		"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FF2",
+				"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FF3",
+		"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FF3",
+				"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FH1",
+		"nombre": "INTRODUCCION A LA FILOSOFIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FH1",
+				"nombre": "INTRODUCCION A LA FILOSOFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FB1",
+		"nombre": "LOGICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FB1",
+				"nombre": "LOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FB2",
+		"nombre": "LOGICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FB2",
+				"nombre": "LOGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FB4",
+		"nombre": "METODOLOGIA DE LA INVEST. FILOSOFICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FB4",
+				"nombre": "METODOLOGIA DE LA INVEST. FILOSOFICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FB5",
+		"nombre": "METODOLOGIA DE LA INVEST. FILOSOFICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FB5",
+				"nombre": "METODOLOGIA DE LA INVEST. FILOSOFICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FA5",
+		"nombre": "PROBLEMAS DE LA FILOSOFIA EN LA HISTORIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FA5",
+				"nombre": "PROBLEMAS DE LA FILOSOFIA EN LA HISTORIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FE3",
+		"nombre": "PSICOLOGIA DEL ARTE",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FE3",
+				"nombre": "PSICOLOGIA DEL ARTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI1",
+		"nombre": "REALIDAD UNIVERSITARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI1",
+				"nombre": "REALIDAD UNIVERSITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FST",
+		"nombre": "SEMINARIO DE TESINA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FST",
+				"nombre": "SEMINARIO DE TESINA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FE4",
+		"nombre": "SOCIOLOGIA DEL ARTE",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FE4",
+				"nombre": "SOCIOLOGIA DEL ARTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FTI",
+		"nombre": "TALLER INTEGRAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FTI",
+				"nombre": "TALLER INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSHFC",
+		"nombre": "TOPICOS ESP. HIST. Y FIL. DE LA CIENCIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FSHFC",
+				"nombre": "TOPICOS ESP. HIST. Y FIL. DE LA CIENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSEP",
+		"nombre": "TOPICOS ESPECIALES DE EPISTEMOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FSEP",
+				"nombre": "TOPICOS ESPECIALES DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSFT",
+		"nombre": "TOPICOS ESPECIALES DE FILOSOFIA TEORICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FSFT",
+				"nombre": "TOPICOS ESPECIALES DE FILOSOFIA TEORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSLOG",
+		"nombre": "TOPICOS ESPECIALES DE LOGICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FSLOG",
+				"nombre": "TOPICOS ESPECIALES DE LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSP",
+		"nombre": "TOPICOS ESPECIALES DE PRACTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FSP",
+				"nombre": "TOPICOS ESPECIALES DE PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

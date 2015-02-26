@@ -1,0 +1,266 @@
+[
+	{
+		"id": "A20TM",
+		"nombre": "ADM.Y GESTION DE LAS ORGANIZACIONES II",
+		"pcurso": [
+			{
+				"id": "A10TM",
+				"nombre": "ADM Y GESTIÓN DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10TM",
+				"nombre": "ADM Y GESTIÓN DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C51TM",
+		"nombre": "CONTABILIDAD DE GESTION",
+		"pcurso": [
+			{
+				"id": "C20TM",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C20TM",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C20TM",
+		"nombre": "CONTABILIDAD GENERAL I",
+		"pcurso": [
+			{
+				"id": "C10TM",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10TM",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C30TM",
+		"nombre": "CONTABILIDAD GENERAL II",
+		"pcurso": [
+			{
+				"id": "C20TM",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C20TM",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C40TM",
+		"nombre": "CONTABILIDAD GENERAL III",
+		"pcurso": [
+			{
+				"id": "C30TM",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C30TM",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "J30TM",
+		"nombre": "DERECHO COMERCIAL",
+		"pcurso": [
+			{
+				"id": "J20TM",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "J20TM",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A40TM",
+		"nombre": "GESTION DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "A20TM",
+				"nombre": "ADM.Y GESTION DE LAS ORGANIZACIONES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A20TM",
+				"nombre": "ADM.Y GESTION DE LAS ORGANIZACIONES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M30TM",
+		"nombre": "MATEMÁTICA FINANCIERA",
+		"pcurso": [
+			{
+				"id": "M10TM",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M10TM",
+				"nombre": "CÁLCULO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A30TM",
+		"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACION",
+		"pcurso": [
+			{
+				"id": "A10TM",
+				"nombre": "ADM Y GESTIÓN DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10TM",
+				"nombre": "ADM Y GESTIÓN DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "50TM",
+		"nombre": "RELACIONES LABORALES",
+		"pcurso": [
+			{
+				"id": "C10TM",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J20TM",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10TM",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J20TM",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C62TM",
+		"nombre": "TRIBUTARIA I",
+		"pcurso": [
+			{
+				"id": "C30TM",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J50TM",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C30TM",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J50TM",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C72TM",
+		"nombre": "TRIBUTARIA II",
+		"pcurso": [
+			{
+				"id": "C62TM",
+				"nombre": "TRIBUTARIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C62TM",
+				"nombre": "TRIBUTARIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

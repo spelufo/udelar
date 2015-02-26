@@ -1,0 +1,334 @@
+[
+	{
+		"id": "5001",
+		"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5002",
+		"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5003",
+		"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5004",
+		"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5004",
+				"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5004",
+				"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5005",
+		"nombre": "MOD.V: COMUNICACIÓN",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5004",
+				"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5005",
+				"nombre": "MOD.V: COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5005",
+				"nombre": "MOD.V: COMUNICACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5006",
+		"nombre": "ROT1 - ATENCIÓN AL PACIENTE AMBULATORIO",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5004",
+				"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5005",
+				"nombre": "MOD.V: COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5006",
+				"nombre": "ROT1 - ATENCIÓN AL PACIENTE AMBULATORIO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5007",
+		"nombre": "ROT2 - DOSIS UNIT.Y AT.AL PACIENTE INTE.",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5004",
+				"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5005",
+				"nombre": "MOD.V: COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5007",
+				"nombre": "ROT2 - DOSIS UNIT.Y AT.AL PACIENTE INTE.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5008",
+		"nombre": "ROT3 - PROVEEDU. RECEPCIN. SUMIN. ALMAC.",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5004",
+				"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5005",
+				"nombre": "MOD.V: COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5008",
+				"nombre": "ROT3 - PROVEEDU. RECEPCIN. SUMIN. ALMAC.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5009",
+		"nombre": "ROT4 - CÁLCULOS Y PREPARACIONES",
+		"pcurso": [
+			{
+				"id": "5001",
+				"nombre": "MOD. I: LA FARMACIA EN EL SIST. DE SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5002",
+				"nombre": "MOD. II: EL MEDICAMENTO Y EL PACIENTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5003",
+				"nombre": "MOD. III: NOCIONES DE FARMACOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5004",
+				"nombre": "MOD. IV: NOCIONES DE FARMACOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5005",
+				"nombre": "MOD.V: COMUNICACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5009",
+				"nombre": "ROT4 - CÁLCULOS Y PREPARACIONES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	}
+]

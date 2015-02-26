@@ -1,0 +1,305 @@
+[
+	{
+		"id": "P12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "711",
+		"nombre": "CURSO I",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "712",
+		"nombre": "CURSO II",
+		"pcurso": [
+			{
+				"id": "711",
+				"nombre": "CURSO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "713",
+		"nombre": "ROTACIONES PRACTICAS",
+		"pcurso": [
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "711",
+				"nombre": "CURSO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "712",
+				"nombre": "CURSO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "713",
+				"nombre": "ROTACIONES PRACTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

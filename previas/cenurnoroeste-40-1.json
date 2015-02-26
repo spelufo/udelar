@@ -1,0 +1,157 @@
+[
+	{
+		"id": "DI403",
+		"nombre": "ACONDICIONAMIENTO LUMÍNICO Y ACÚSTICO",
+		"pcurso": [
+			{
+				"id": "DI103",
+				"nombre": "CIENCIAS BÁSICAS - FÍSICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI303",
+		"nombre": "ACONDICIONAMIENTO TERMICO",
+		"pcurso": [
+			{
+				"id": "DI103",
+				"nombre": "CIENCIAS BÁSICAS - FÍSICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DI102",
+				"nombre": "TECNOLOGÍAS PARA EL DISEÑO INTEGRADO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI404",
+		"nombre": "CIENCIAS AMBIENTALES 2- GESTIÓN DEL AGUA",
+		"pcurso": [
+			{
+				"id": "DI202",
+				"nombre": "FUNDAMENTOS DE ECOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI203",
+		"nombre": "CIENCIAS BÁSICAS - FÍSICA 2",
+		"pcurso": [
+			{
+				"id": "DI103",
+				"nombre": "CIENCIAS BÁSICAS - FÍSICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI221",
+		"nombre": "ESTABILIDAD I",
+		"pcurso": [
+			{
+				"id": "DI104",
+				"nombre": "TALLER DE DISEÑO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI201",
+		"nombre": "HISTORIA REGIONAL",
+		"pcurso": [
+			{
+				"id": "DI101",
+				"nombre": "BASES TEÓRICO-CRÍTICAS DISEÑO INTEGRADO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI205",
+		"nombre": "TALLER DE DISEÑO 2",
+		"pcurso": [
+			{
+				"id": "DI104",
+				"nombre": "TALLER DE DISEÑO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI302",
+		"nombre": "TALLER DE DISEÑO 3",
+		"pcurso": [
+			{
+				"id": "DI205",
+				"nombre": "TALLER DE DISEÑO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI401",
+		"nombre": "TALLER DE DISEÑO 4",
+		"pcurso": [
+			{
+				"id": "DI302",
+				"nombre": "TALLER DE DISEÑO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI301",
+		"nombre": "TECNOLOGÍA PARA EL DISEÑO INTEGRADO 2",
+		"pcurso": [
+			{
+				"id": "DI103",
+				"nombre": "CIENCIAS BÁSICAS - FÍSICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DI102",
+				"nombre": "TECNOLOGÍAS PARA EL DISEÑO INTEGRADO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DI220",
+		"nombre": "TEORÍA DE LA ARQUITECTURA 1",
+		"pcurso": [
+			{
+				"id": "DI101",
+				"nombre": "BASES TEÓRICO-CRÍTICAS DISEÑO INTEGRADO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

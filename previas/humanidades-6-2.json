@@ -1,0 +1,4090 @@
+[
+	{
+		"id": "MCEIU",
+		"nombre": "1/2 CURSO CEIU",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MCEIU",
+				"nombre": "1/2 CURSO CEIU",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AD",
+		"nombre": "ANALISIS DEL DISCURSO",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AD",
+				"nombre": "ANALISIS DEL DISCURSO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "ANALISIS INST .UNIVERSIDAD",
+		"pcurso": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "ANALISIS INST .UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A4",
+		"nombre": "ANTROPOLOGIA BIOLOGICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A4",
+				"nombre": "ANTROPOLOGIA BIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A13",
+		"nombre": "ANTROPOLOGIA ECONOMICA Y POLITICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A13",
+				"nombre": "ANTROPOLOGIA ECONOMICA Y POLITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A6",
+		"nombre": "ANTROPOLOGIA SOCIAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A6",
+				"nombre": "ANTROPOLOGIA SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "12",
+		"nombre": "CCIAS.SOC.HUMANAS (TALLER OBLIGATORIO)",
+		"pcurso": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "CCIAS.SOC.HUMANAS (TALLER OBLIGATORIO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L15",
+		"nombre": "CIENCIAS AUXILIARES DE LA FILOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L15",
+				"nombre": "CIENCIAS AUXILIARES DE LA FILOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CPS",
+		"nombre": "CULTURAS POPULARES Y SUBALTERNIDAD",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CCEIL",
+		"nombre": "CURSO DEL CEIL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CCEIU",
+		"nombre": "CURSO DEL CEIU",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C1",
+		"nombre": "DESARROLLO COGNITIVO ADOLESC Y ADULTO",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C1",
+				"nombre": "DESARROLLO COGNITIVO ADOLESC Y ADULTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE1",
+		"nombre": "EDUCACION Y SOCIEDAD I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE1",
+				"nombre": "EDUCACION Y SOCIEDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ESP",
+		"nombre": "ENFOQUE SOBRE PRAGMATICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ESP",
+				"nombre": "ENFOQUE SOBRE PRAGMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F7",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI14",
+		"nombre": "ESPAÑOL II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LI14",
+				"nombre": "ESPAÑOL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI15",
+		"nombre": "ESPAÑOL III",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LI15",
+				"nombre": "ESPAÑOL III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F8",
+		"nombre": "ESTETICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A3",
+		"nombre": "ETNOLOGIA GRAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A3",
+				"nombre": "ETNOLOGIA GRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F5",
+		"nombre": "FILOSOFIA DE LA PRACTICA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F13",
+		"nombre": "FILOSOFIA DE LA PRACTICA II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F13",
+				"nombre": "FILOSOFIA DE LA PRACTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F4",
+		"nombre": "FILOSOFIA TEORICA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FG",
+		"nombre": "FORMALISMOS GRAMATICALES",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "L5",
+		"nombre": "GRIEGO I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L5",
+				"nombre": "GRIEGO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L9",
+		"nombre": "GRIEGO II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L9",
+				"nombre": "GRIEGO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5L",
+		"nombre": "GRIEGO III",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5L",
+				"nombre": "GRIEGO III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10L",
+		"nombre": "GRIEGO V",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "10L",
+				"nombre": "GRIEGO V",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H9",
+		"nombre": "HISTORIA AMERICANA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H9",
+				"nombre": "HISTORIA AMERICANA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H9EX",
+		"nombre": "HISTORIA AMERICANA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H9EX",
+				"nombre": "HISTORIA AMERICANA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H3",
+		"nombre": "HISTORIA ANTIGUA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H3",
+				"nombre": "HISTORIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H13",
+		"nombre": "HISTORIA CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H13",
+				"nombre": "HISTORIA CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE13",
+		"nombre": "HISTORIA DE LA EDUCACION EN EL URUGUAY",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE13",
+				"nombre": "HISTORIA DE LA EDUCACION EN EL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F1",
+		"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F9",
+		"nombre": "HISTORIA DE LA FILOSOFIA CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F9",
+				"nombre": "HISTORIA DE LA FILOSOFIA CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F3",
+		"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F6",
+		"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H18",
+		"nombre": "HISTORIA DEL ARTE",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H18",
+				"nombre": "HISTORIA DEL ARTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H18EX",
+		"nombre": "HISTORIA DEL ARTE",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H18EX",
+				"nombre": "HISTORIA DEL ARTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H11",
+		"nombre": "HISTORIA DEL URUGUAY I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H11",
+				"nombre": "HISTORIA DEL URUGUAY I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H6",
+		"nombre": "HISTORIA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H6",
+				"nombre": "HISTORIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "INST.EDUCACION SUPERIOR",
+		"pcurso": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "INST.EDUCACION SUPERIOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COE1",
+		"nombre": "INSTR. Y RECURSOS DEL CORRECTOR ESTILO",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "COE1",
+				"nombre": "INSTR. Y RECURSOS DEL CORRECTOR ESTILO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IPM",
+		"nombre": "INT. AL PROGRAMA MINIMALISTA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IPMED",
+		"nombre": "INT. PALEOGRAFIA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IPMED",
+				"nombre": "INT. PALEOGRAFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A1",
+		"nombre": "INTRODUCCION A LA ANTROPOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ANTROPOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H4",
+		"nombre": "INTRODUCCION A LA ECONOMIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H4",
+				"nombre": "INTRODUCCION A LA ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H1",
+		"nombre": "INTRODUCCION A LA SOCIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H1",
+				"nombre": "INTRODUCCION A LA SOCIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H2",
+		"nombre": "INTRODUCCION A LAS CIENCIAS POLITICAS",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H2",
+				"nombre": "INTRODUCCION A LAS CIENCIAS POLITICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7L",
+		"nombre": "LATIN 4",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7L",
+				"nombre": "LATIN 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L4",
+		"nombre": "LATIN I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "LATIN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L8",
+		"nombre": "LATIN II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L8",
+				"nombre": "LATIN II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4L",
+		"nombre": "LATIN III",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4L",
+				"nombre": "LATIN III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S7L",
+		"nombre": "LATIN IV (SEMINARIO)",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "S7L",
+				"nombre": "LATIN IV (SEMINARIO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9L",
+		"nombre": "LATIN V",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "9L",
+				"nombre": "LATIN V",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S9L",
+		"nombre": "LATIN V (SEMINARIO)",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "S9L",
+				"nombre": "LATIN V (SEMINARIO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S9L2",
+		"nombre": "LATIN V (SEMINARIO)",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "S9L2",
+				"nombre": "LATIN V (SEMINARIO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LGE",
+		"nombre": "LECTURAS GRAMATICA DEL ESPAÑOL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "L6",
+		"nombre": "LITERATURA ESPAÑOLA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L6",
+				"nombre": "LITERATURA ESPAÑOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "30L",
+		"nombre": "LITERATURA INGLESA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "30L",
+				"nombre": "LITERATURA INGLESA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LIT",
+		"nombre": "LITERATURA ITALIANA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LIT",
+				"nombre": "LITERATURA ITALIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LIT2E",
+		"nombre": "LITERATURA ITALIANA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LIT2E",
+				"nombre": "LITERATURA ITALIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LIT3E",
+		"nombre": "LITERATURA ITALIANA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LIT3E",
+				"nombre": "LITERATURA ITALIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LTLIT",
+		"nombre": "LITERATURA ITALIANA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LTLIT",
+				"nombre": "LITERATURA ITALIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L10",
+		"nombre": "LITERATURA LATINOAMERICANA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L10",
+				"nombre": "LITERATURA LATINOAMERICANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L2",
+		"nombre": "LITERATURA MODERNA Y CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L2",
+				"nombre": "LITERATURA MODERNA Y CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LNOR",
+		"nombre": "LITERATURA NORDICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LNOR",
+				"nombre": "LITERATURA NORDICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LPOR",
+		"nombre": "LITERATURA PORTUGUESA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LPOR",
+				"nombre": "LITERATURA PORTUGUESA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LPOR2",
+		"nombre": "LITERATURA PORTUGUESA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LPOR2",
+				"nombre": "LITERATURA PORTUGUESA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L11",
+		"nombre": "LITERATURA URUGUAYA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L11",
+				"nombre": "LITERATURA URUGUAYA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A11",
+		"nombre": "MATEMATICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A11",
+				"nombre": "MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A8",
+		"nombre": "METODOLOGIA ANTROPOLOGICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "METODOLOGIA ANTROPOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L7",
+		"nombre": "METODOLOGIA DE LA INVEST.LITERARIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L7",
+				"nombre": "METODOLOGIA DE LA INVEST.LITERARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CEB",
+		"nombre": "METODOLOGIA INVESTIGACION EDUCATIVA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CEB",
+				"nombre": "METODOLOGIA INVESTIGACION EDUCATIVA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "15P",
+		"nombre": "MORFOSINTAXIS DEL PORTUGUES",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "15P",
+				"nombre": "MORFOSINTAXIS DEL PORTUGUES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PALM",
+		"nombre": "PALEOGRAFIA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "PALM",
+				"nombre": "PALEOGRAFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE6",
+		"nombre": "PLANIFICACION EDUCATIVA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE6",
+				"nombre": "PLANIFICACION EDUCATIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3",
+		"nombre": "POL.EDUC.SUP.AM.LAT.URUGUAY",
+		"pcurso": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "POL.EDUC.SUP.AM.LAT.URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE9",
+		"nombre": "PROBLEMAS DE LA REALIDAD EDUCATIVA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE9",
+				"nombre": "PROBLEMAS DE LA REALIDAD EDUCATIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C9",
+		"nombre": "PROCESO GRUPAL Y APRENDIZAJE",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C9",
+				"nombre": "PROCESO GRUPAL Y APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE12",
+		"nombre": "PROSPECCION DE LA REALIDAD EDUCATIVA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE12",
+				"nombre": "PROSPECCION DE LA REALIDAD EDUCATIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE11",
+		"nombre": "PSICOLOGIA DE LA EDUCACION",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE11",
+				"nombre": "PSICOLOGIA DE LA EDUCACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE8",
+		"nombre": "PSICOLOGIA EVOLUTIVA II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE8",
+				"nombre": "PSICOLOGIA EVOLUTIVA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SLOG",
+		"nombre": "SEM. DE LOGICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SLOG",
+				"nombre": "SEM. DE LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SE1",
+		"nombre": "SEM. ESTETICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SE1",
+				"nombre": "SEM. ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFMC2",
+		"nombre": "SEM. FILOSOFIA MODERNA Y CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SFMC2",
+				"nombre": "SEM. FILOSOFIA MODERNA Y CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SHAR",
+		"nombre": "SEM. HISTORIA DEL ARTE",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "H18",
+				"nombre": "HISTORIA DEL ARTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SHAR",
+				"nombre": "SEM. HISTORIA DEL ARTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SHU",
+		"nombre": "SEM. HISTORIA DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SHU",
+				"nombre": "SEM. HISTORIA DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SHUN",
+		"nombre": "SEM. HISTORIA UNIVERSAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SHUN",
+				"nombre": "SEM. HISTORIA UNIVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SLEF",
+		"nombre": "SEM. LIT. ESPAÑOLA Y FRANCESA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SLEF",
+				"nombre": "SEM. LIT. ESPAÑOLA Y FRANCESA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S30L",
+		"nombre": "SEM. LITERATURA INGLESA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "S30L",
+				"nombre": "SEM. LITERATURA INGLESA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SLL",
+		"nombre": "SEM. LITERATURA LATINOAMERICANA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SLL",
+				"nombre": "SEM. LITERATURA LATINOAMERICANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SPALM",
+		"nombre": "SEMINARIO DE  PALEOGRAFIA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SPALM",
+				"nombre": "SEMINARIO DE  PALEOGRAFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "20",
+		"nombre": "SEMINARIO I (LINGUISTICA)",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "20",
+				"nombre": "SEMINARIO I (LINGUISTICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "23",
+		"nombre": "SEMINARIO I (LINGUISTICA)",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "23",
+				"nombre": "SEMINARIO I (LINGUISTICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "21",
+		"nombre": "SEMINARIO II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "21",
+				"nombre": "SEMINARIO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "22",
+		"nombre": "SEMINARIO II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "22",
+				"nombre": "SEMINARIO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A16",
+		"nombre": "SISTEMAS SOCIOCULTURALES",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A16",
+				"nombre": "SISTEMAS SOCIOCULTURALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI12",
+		"nombre": "TALLER METODOLOGICO I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LI12",
+				"nombre": "TALLER METODOLOGICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI13",
+		"nombre": "TALLER METODOLOGICO II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "LI13",
+				"nombre": "TALLER METODOLOGICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H5EX",
+		"nombre": "TECNICAS DE LA INVESTIGACION HISTORICAS",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H5EX",
+				"nombre": "TECNICAS DE LA INVESTIGACION HISTORICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A7",
+		"nombre": "TEORIA ANTROPOLOGICA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A7",
+				"nombre": "TEORIA ANTROPOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A10",
+		"nombre": "TEORIA ANTROPOLOGICA II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10",
+				"nombre": "TEORIA ANTROPOLOGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI11",
+		"nombre": "TEORIA LINGUISTICA IV",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LI11",
+				"nombre": "TEORIA LINGUISTICA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L3",
+		"nombre": "TEORIA LITERARIA I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L3",
+				"nombre": "TEORIA LITERARIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L12",
+		"nombre": "TEORIA LITERARIA II (S XX)",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L12",
+				"nombre": "TEORIA LITERARIA II (S XX)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L13",
+		"nombre": "TEORIA LITERARIA III",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L13",
+				"nombre": "TEORIA LITERARIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L14",
+		"nombre": "TEORIA LITERARIA IV",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L14",
+				"nombre": "TEORIA LITERARIA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H7",
+		"nombre": "TEORIA Y METODOLOGIA DE LA HISTORIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "H7",
+				"nombre": "TEORIA Y METODOLOGIA DE LA HISTORIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C14",
+		"nombre": "TEORIAS PEDAGOGICAS CONTEMPORANEAS",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C14",
+				"nombre": "TEORIAS PEDAGOGICAS CONTEMPORANEAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

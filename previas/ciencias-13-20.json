@@ -1,0 +1,460 @@
+[
+	{
+		"id": "BL636",
+		"nombre": "ADQUISICION Y ANALISIS DE DATOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL593",
+		"nombre": "ANALISIS DE DATOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL582",
+		"nombre": "BASES PARA LA EVAL.DE IMPACTO AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GF051",
+		"nombre": "BIOGEOGRAFIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF051",
+				"nombre": "BIOGEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL553",
+		"nombre": "BIOGEOGRAFIA AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL709",
+		"nombre": "BIOGEOQUIMICA AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ102",
+		"nombre": "BIOLOGIA Y FERTILIDAD DE SUELO",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GF032",
+		"nombre": "CLIMATOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL303",
+		"nombre": "ECOLOGIA DE COMUNIDADES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL508",
+		"nombre": "ECOLOGIA VEGETAL ACUATICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL596",
+		"nombre": "ECOSISTEMAS TERRESTES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GF039",
+		"nombre": "EDAFOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL944",
+		"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL944",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL137",
+		"nombre": "EVALUACION DE IMPACTO AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GF034",
+		"nombre": "FOTOINTERPRETACION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF034",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF006",
+		"nombre": "GEOMORFOLOGIA (1987 -",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF006",
+				"nombre": "GEOMORFOLOGIA (1987 -",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL567",
+		"nombre": "GESTION AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL567",
+				"nombre": "GESTION AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL047",
+		"nombre": "HISTORIA DE LA TIERRA Y DE LA VIDA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL566",
+		"nombre": "INDICADORES DE CALIDAD DE AGUA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ME002",
+		"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL632",
+		"nombre": "INTRODUCCION A LA ANTROPOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GL037",
+		"nombre": "INTRODUCCION A LA GEOLOGIA I",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL037",
+				"nombre": "INTRODUCCION A LA GEOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL058",
+		"nombre": "LIMNOLOGIA BASICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL058",
+				"nombre": "LIMNOLOGIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL525",
+		"nombre": "MEDIDAS DE PROD.PRIMARIA FITOPLANCTONICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL448",
+		"nombre": "METOD. DE CAMPO EN ECOLOGIA DE HUMEDALES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL542",
+		"nombre": "METOD.PARA LA EST.DE LA PROD.PRIM.EN EC.",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL095",
+		"nombre": "OCEANOGRAFIA BIOLOGICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL095",
+				"nombre": "OCEANOGRAFIA BIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL473",
+		"nombre": "PASANTIA EN SISTEMAS AMBIENTALES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL689",
+		"nombre": "PLANEACION AMBIENTAL Y CONSERVACION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL608",
+		"nombre": "TEORIA ECOLOGICA APLIC.A LA CONSERVACION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

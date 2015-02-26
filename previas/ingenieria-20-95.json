@@ -1,0 +1,904 @@
+[
+	{
+		"id": "1021",
+		"nombre": "ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R100",
+		"nombre": "ANALISIS MATEMATICO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R100",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B200",
+		"nombre": "ANALISIS MATEMATICO II (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B300",
+		"nombre": "COMPUTACION",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1408",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1408",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1411",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B315",
+		"nombre": "COMPUTACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B315",
+				"nombre": "COMPUTACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1221",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1128",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B301",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1805",
+		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "R100E",
+				"nombre": "ANAL.I O CALC.3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1151",
+		"nombre": "FISICA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R101",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R101",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "CP2",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP23",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1126",
+		"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1226",
+		"nombre": "MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1226",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B305",
+		"nombre": "MECANICA DE LOS FLUIDOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R103",
+		"nombre": "MECANICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R103",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B201",
+		"nombre": "MECANICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1122",
+		"nombre": "MECANICA NEWTONIANA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1620",
+		"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+		"pcurso": [
+			{
+				"id": "B307",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "B13",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1620",
+				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1322",
+		"nombre": "PROGRAMACION 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2368",
+		"nombre": "RESISTENCIA DE MATERIALES 1",
+		"pcurso": [
+			{
+				"id": "1022E",
+				"nombre": "CALCULO 2 - ANÁL.MAT. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031C",
+				"nombre": "GEOMETRIA 2 (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2365",
+				"nombre": "RESISTENCIA DE MATERIALES 1N",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022E",
+				"nombre": "CALCULO 2 - ANÁL.MAT. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1031",
+				"nombre": "GEOMETRIA 2 O RESISTENCIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C2368",
+				"nombre": "MECANICA NEW. O RESISTENCIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2365",
+				"nombre": "RESISTENCIA DE MATERIALES 1N",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2365",
+		"nombre": "RESISTENCIA DE MATERIALES 1N",
+		"pcurso": [
+			{
+				"id": "1022E",
+				"nombre": "CALCULO 2 - ANÁL.MAT. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031C",
+				"nombre": "GEOMETRIA 2 (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1122",
+				"nombre": "MEC. NEW. O MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MATERIALES 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2365",
+				"nombre": "RESISTENCIA DE MATERIALES 1N",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B306",
+		"nombre": "RESISTENCIA DE MATERIALES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B312",
+		"nombre": "TALLER LABORATORIO II (CIVIL)",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B204",
+				"nombre": "TALLER LABORATORIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B202",
+		"nombre": "TERMODINAMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

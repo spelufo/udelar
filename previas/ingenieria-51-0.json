@@ -1,0 +1,494 @@
+[
+	{
+		"id": "Q60",
+		"nombre": "BIOINGENIERIA",
+		"pcurso": [
+			{
+				"id": "Q52",
+				"nombre": "FUNDAMENTOS DE BIOINGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q60",
+				"nombre": "BIOINGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q52",
+				"nombre": "FUNDAMENTOS DE BIOINGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q55",
+				"nombre": "ING. DE LOS PROC. QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q50",
+				"nombre": "INGENIERIA DE LOS PROCESOS FISICOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q42",
+		"nombre": "ELECTROTECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q42",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q23",
+		"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q23",
+				"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q75",
+		"nombre": "FLUIDODINAMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q75",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q52",
+		"nombre": "FUNDAMENTOS DE BIOINGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q52",
+				"nombre": "FUNDAMENTOS DE BIOINGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q40",
+		"nombre": "FUNDAMENTOS DE ING. QUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q40",
+				"nombre": "FUNDAMENTOS DE ING. QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q51",
+		"nombre": "INDUSTRIAS DE PROCESAMIENTO",
+		"pcurso": [
+			{
+				"id": "Q40",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q43",
+				"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q51",
+				"nombre": "INDUSTRIAS DE PROCESAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q43",
+				"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q46",
+		"nombre": "ING. DE LOS PROCESOS FISICOS I (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROCESOS FISICOS I (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q55",
+		"nombre": "ING. DE LOS PROCESOS QUIMICOS (ANUAL)",
+		"pcurso": [
+			{
+				"id": "Q40",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q50",
+				"nombre": "ING. DE LOS PROC. FISICOS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q55",
+				"nombre": "ING. DE LOS PROCESOS QUIMICOS (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q69",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+		"pcurso": [
+			{
+				"id": "Q40",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q50",
+				"nombre": "ING. DE LOS PROC. FISICOS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q70",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+		"pcurso": [
+			{
+				"id": "Q40",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q50",
+				"nombre": "ING. DE LOS PROC. FISICOS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q70",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q41",
+		"nombre": "INGENIERIA DE LOS PROCESOS FISICOS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q41",
+				"nombre": "INGENIERIA DE LOS PROCESOS FISICOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q50",
+		"nombre": "INGENIERIA DE LOS PROCESOS FISICOS II",
+		"pcurso": [
+			{
+				"id": "Q40",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q50",
+				"nombre": "INGENIERIA DE LOS PROCESOS FISICOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q54",
+		"nombre": "INGENIERIA DE LOS PROCESOS QUIMICOS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q54",
+				"nombre": "INGENIERIA DE LOS PROCESOS QUIMICOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q61",
+		"nombre": "INGENIERIA DE LOS PROCESOS QUIMICOS II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q54",
+				"nombre": "INGENIERIA DE LOS PROCESOS QUIMICOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q54",
+				"nombre": "INGENIERIA DE LOS PROCESOS QUIMICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q43",
+		"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q43",
+				"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q62",
+		"nombre": "PROYECTO DE INVERSION",
+		"pcurso": [
+			{
+				"id": "Q51",
+				"nombre": "INDUSTRIAS DE PROCESAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q55",
+				"nombre": "ING. DE LOS PROC. QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q50",
+				"nombre": "INGENIERIA DE LOS PROCESOS FISICOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q63",
+		"nombre": "PROYECTO INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "Q51",
+				"nombre": "INDUSTRIAS DE PROCESAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q55",
+				"nombre": "ING. DE LOS PROC. QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q50",
+				"nombre": "INGENIERIA DE LOS PROCESOS FISICOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q71",
+		"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+		"pcurso": [
+			{
+				"id": "Q40",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q43",
+				"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q43",
+				"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q71",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q72",
+		"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 2",
+		"pcurso": [
+			{
+				"id": "Q40",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q43",
+				"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q46",
+				"nombre": "ING. DE LOS PROC. FIS. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q43",
+				"nombre": "MECANICA APLICADA A LA INDUSTRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q72",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q21",
+		"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q21",
+				"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q68",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q68",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,883 @@
+[
+	{
+		"id": "12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "234",
+		"nombre": "CLINICA NEUROLOGICA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "234",
+				"nombre": "CLINICA NEUROLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2313",
+		"nombre": "EEG CUANTITATIVA Y DIGITAL",
+		"pcurso": [
+			{
+				"id": "2310",
+				"nombre": "EEG EN EL NIÑO Y EN EL ADULTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2313",
+				"nombre": "EEG CUANTITATIVA Y DIGITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2310",
+				"nombre": "EEG EN EL NIÑO Y EN EL ADULTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2310",
+		"nombre": "EEG EN EL NIÑO Y EN EL ADULTO",
+		"pcurso": [
+			{
+				"id": "232",
+				"nombre": "INTRODUCCION A LAS TECNICAS DE REGISTROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "235",
+				"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2310",
+				"nombre": "EEG EN EL NIÑO Y EN EL ADULTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "232",
+				"nombre": "INTRODUCCION A LAS TECNICAS DE REGISTROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "235",
+				"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "13",
+		"nombre": "ENFERMERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2314",
+		"nombre": "ESTUDIOS DEL SISTEMA PERIFERICO",
+		"pcurso": [
+			{
+				"id": "232",
+				"nombre": "INTRODUCCION A LAS TECNICAS DE REGISTROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "235",
+				"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2314",
+				"nombre": "ESTUDIOS DEL SISTEMA PERIFERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "237",
+		"nombre": "FARMACOLOGIA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "237",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "233",
+		"nombre": "FISICA ELECTRONICA I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "233",
+				"nombre": "FISICA ELECTRONICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "236",
+		"nombre": "FISICA ELECTRONICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "236",
+				"nombre": "FISICA ELECTRONICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2312",
+		"nombre": "INFORMATICA EN NEUROFISIOLOGIA",
+		"pcurso": [
+			{
+				"id": "233",
+				"nombre": "FISICA ELECTRONICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "235",
+				"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2312",
+				"nombre": "INFORMATICA EN NEUROFISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "232",
+		"nombre": "INTRODUCCION A LAS TECNICAS DE REGISTROS",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "232",
+				"nombre": "INTRODUCCION A LAS TECNICAS DE REGISTROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2316",
+		"nombre": "MONOGRAFIA",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "234",
+				"nombre": "CLINICA NEUROLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2313",
+				"nombre": "EEG CUANTITATIVA Y DIGITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2310",
+				"nombre": "EEG EN EL NIÑO Y EN EL ADULTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2314",
+				"nombre": "ESTUDIOS DEL SISTEMA PERIFERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "237",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "233",
+				"nombre": "FISICA ELECTRONICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "FISICA ELECTRONICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2312",
+				"nombre": "INFORMATICA EN NEUROFISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "232",
+				"nombre": "INTRODUCCION A LAS TECNICAS DE REGISTROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "235",
+				"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "238",
+				"nombre": "NEUROFISIOLOGIA CLINICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "239",
+				"nombre": "NEUROFISIOLOGIA CLINICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "POLISOMNOGRAFIA EN EL NIÑO Y EL ADULTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2311",
+				"nombre": "POTENCIALES EVOCADOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "235",
+		"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "235",
+				"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "238",
+		"nombre": "NEUROFISIOLOGIA CLINICA I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "238",
+				"nombre": "NEUROFISIOLOGIA CLINICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "239",
+		"nombre": "NEUROFISIOLOGIA CLINICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "239",
+				"nombre": "NEUROFISIOLOGIA CLINICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2315",
+		"nombre": "POLISOMNOGRAFIA EN EL NIÑO Y EL ADULTO",
+		"pcurso": [
+			{
+				"id": "2310",
+				"nombre": "EEG EN EL NIÑO Y EN EL ADULTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2315",
+				"nombre": "POLISOMNOGRAFIA EN EL NIÑO Y EL ADULTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2311",
+		"nombre": "POTENCIALES EVOCADOS",
+		"pcurso": [
+			{
+				"id": "232",
+				"nombre": "INTRODUCCION A LAS TECNICAS DE REGISTROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "235",
+				"nombre": "NEUROFISIOLOGIA BASICA  Y EXPERIMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2311",
+				"nombre": "POTENCIALES EVOCADOS",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2311",
+				"nombre": "POTENCIALES EVOCADOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "231",
+		"nombre": "PROFUNDIZACION",
+		"pcurso": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "231",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,1148 @@
+[
+	{
+		"id": "610",
+		"nombre": "BIOQUÍMICA I (PLAN 1992)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "610",
+				"nombre": "BIOQUÍMICA I (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "605",
+		"nombre": "ECONOMÍA (PLAN 1992)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "605",
+				"nombre": "ECONOMÍA (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "282",
+		"nombre": "ESTADÍSTICA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "282",
+				"nombre": "ESTADÍSTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "607",
+		"nombre": "FENÓMENOS DE TRANSP. Y FLUIDODINÁMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "607",
+				"nombre": "FENÓMENOS DE TRANSP. Y FLUIDODINÁMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "613",
+		"nombre": "FENÓMENOS DE TRANSPORTE (PLAN 1992)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "613",
+				"nombre": "FENÓMENOS DE TRANSPORTE (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "511",
+		"nombre": "FENÓMENOS DE TRANSPORTE EN ING. DE PROC.",
+		"pcurso": [
+			{
+				"id": "G511",
+				"nombre": "FENÓMENOS DE TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "E205",
+				"nombre": "FISICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G406",
+				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E01",
+				"nombre": "MATEMÁTICA 01 (ANÁLISIS I)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E03",
+				"nombre": "MATEMÁTICA 03 (ALBEBRA)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E04",
+				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G07",
+				"nombre": "MATEMÁTICA 07 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E102",
+				"nombre": "QUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E202",
+				"nombre": "QUÍMICA GENERAL II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "511",
+				"nombre": "FENÓMENOS DE TRANSPORTE EN ING. DE PROC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "520",
+		"nombre": "FISICOQUÌMICA III (PLAN 2000)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "520",
+				"nombre": "FISICOQUÌMICA III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "406A",
+		"nombre": "FISICOQUÍMICA 101 (DESDE 2003)",
+		"pcurso": [
+			{
+				"id": "G406",
+				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G04",
+				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "406A",
+				"nombre": "FISICOQUÍMICA 101 (DESDE 2003)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "520A",
+		"nombre": "FISICOQUÍMICA 103 (DESDE 2003)",
+		"pcurso": [
+			{
+				"id": "G406",
+				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G520",
+				"nombre": "FISICOQUÍMICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "520A",
+				"nombre": "FISICOQUÍMICA 103 (DESDE 2003)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "289",
+		"nombre": "FISICOQUÍMICA I (1990)",
+		"pcurso": [
+			{
+				"id": "600",
+				"nombre": "QCA. GENERAL E INORGÁNICA (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "289",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "406",
+		"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "406",
+				"nombre": "FISICOQUÍMICA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "384",
+		"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "289",
+				"nombre": "FISICOQUÍMICA I (1990)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "508",
+		"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "508",
+				"nombre": "FISICOQUÍMICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "388",
+		"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "388",
+				"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "612",
+		"nombre": "FLUIDODINÁMICA (PLAN 1992)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "384",
+				"nombre": "FISICOQUÍMICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "612",
+				"nombre": "FLUIDODINÁMICA (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "525",
+		"nombre": "FLUIDODINÁMICA (PLAN 2003)",
+		"pcurso": [
+			{
+				"id": "G511",
+				"nombre": "FENÓMENOS DE TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E406",
+				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "525",
+				"nombre": "FLUIDODINÁMICA (PLAN 2003)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "E304",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G402",
+				"nombre": "QCA ANALÍTICA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "525",
+				"nombre": "FLUIDODINÁMICA (PLAN 2003)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "205",
+		"nombre": "FÍSICA 101 (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G205",
+				"nombre": "FISICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G185",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G01",
+				"nombre": "MATEMÁTICA 01 (ANÁLISIS I)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "205",
+				"nombre": "FÍSICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "304",
+		"nombre": "FÍSICA 102 (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G205",
+				"nombre": "FISICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G304",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "304",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "185",
+		"nombre": "FÍSICA I (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "185",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "281",
+		"nombre": "FÍSICA II (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "185",
+				"nombre": "FÍSICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "281",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "611",
+		"nombre": "INT. A LA COMPUTACIÓN",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "611",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "603A",
+		"nombre": "INT. A LA TECNOLOGÍA DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "G603",
+				"nombre": "INT. A LA TECNOLOGÍA DE ALIMEN",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "103A",
+		"nombre": "INT. A LAS C. BIOLÓGICAS I (DESDE 2002)",
+		"pcurso": [
+			{
+				"id": "G389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G103",
+				"nombre": "INT. A LAS CIEN. BIOLOGICAS I",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "103A",
+				"nombre": "INT. A LAS C. BIOLÓGICAS I (DESDE 2002)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "543",
+		"nombre": "LAB. AVANZADO DE ORGÁNICA (ORG 201)",
+		"pcurso": [
+			{
+				"id": "G543",
+				"nombre": "LAB. AVANZADO DE ORGÁNICA",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "601",
+		"nombre": "LABORATORIO GENERAL (PLAN 1992)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "601",
+				"nombre": "LABORATORIO GENERAL (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "01",
+		"nombre": "MAT. 01 (ANÁLISIS I)",
+		"pcurso": [
+			{
+				"id": "G01",
+				"nombre": "MATEMÁTICA 01 (ANÁLISIS I)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G187",
+				"nombre": "MATEMÁTICA ANUAL (PLAN 1980)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "01",
+				"nombre": "MAT. 01 (ANÁLISIS I)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "03",
+		"nombre": "MAT. 03 (ÁLGEBRA)",
+		"pcurso": [
+			{
+				"id": "G03",
+				"nombre": "MATEMATICA 03 (ALGEBRA)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G187",
+				"nombre": "MATEMÁTICA ANUAL (PLAN 1980)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "03",
+				"nombre": "MAT. 03 (ÁLGEBRA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "04",
+		"nombre": "MAT. 04 (ANÁLISIS II)",
+		"pcurso": [
+			{
+				"id": "G03",
+				"nombre": "MATEMATICA 03 (ALGEBRA)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G01",
+				"nombre": "MATEMÁTICA 01 (ANÁLISIS I)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G04",
+				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "04",
+				"nombre": "MAT. 04 (ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "05",
+		"nombre": "MAT. 05 (ESTADÍSTICA)",
+		"pcurso": [
+			{
+				"id": "G05",
+				"nombre": "MAT.05 (ESTADISTICA)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G04",
+				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "05",
+				"nombre": "MAT. 05 (ESTADÍSTICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "06",
+		"nombre": "MAT. 06 (CÁLCULO NUMÉRICO)",
+		"pcurso": [
+			{
+				"id": "G06",
+				"nombre": "MAT.06 (CALCULO NUMERICO)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G04",
+				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "06",
+				"nombre": "MAT. 06 (CÁLCULO NUMÉRICO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "07",
+		"nombre": "MAT. 07 (ECUACIONES DIF. ORDINARIAS)",
+		"pcurso": [
+			{
+				"id": "G04",
+				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G07",
+				"nombre": "MATEMÁTICA 07 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "07",
+				"nombre": "MAT. 07 (ECUACIONES DIF. ORDINARIAS)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "187",
+		"nombre": "MATEMÁTICA (ANUAL 1986)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "101",
+		"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "101",
+				"nombre": "MATEMÁTICA 101 (ANÁLISIS I)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "208",
+		"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "208",
+				"nombre": "MATEMÁTICA 104 (ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "407",
+		"nombre": "MATEMÁTICA 107 (CÁLCULO  NUM. Y COMP.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "407",
+				"nombre": "MATEMÁTICA 107 (CÁLCULO  NUM. Y COMP.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "209",
+		"nombre": "MATEMÁTICA 108 (ÁLGEBRA Y ANÁLISIS II)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "209",
+				"nombre": "MATEMÁTICA 108 (ÁLGEBRA Y ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "604",
+		"nombre": "MATEMÁTICAS III (PLAN 1992)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "187",
+				"nombre": "MATEMÁTICA (ANUAL 1986)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "604",
+				"nombre": "MATEMÁTICAS III (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "602",
+		"nombre": "QCA. ANALÍTICA CUANTITATIVA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "601",
+				"nombre": "LABORATORIO GENERAL (PLAN 1992)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "602",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "608",
+		"nombre": "QCA. ANALÍTICA CUANTITATIVA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "281",
+				"nombre": "FÍSICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "602",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "608",
+				"nombre": "QCA. ANALÍTICA CUANTITATIVA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "302",
+		"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G391",
+				"nombre": "QUÍMICA ANALÍTICA CUANTITATIVA",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G202",
+				"nombre": "QUÍMICA GENERAL II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "402",
+		"nombre": "QCA. ANALÍTICA II (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G402",
+				"nombre": "QCA ANALÍTICA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "402",
+				"nombre": "QCA. ANALÍTICA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "503",
+		"nombre": "QCA. ANALÍTICA III (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G402",
+				"nombre": "QCA ANALÍTICA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "503",
+				"nombre": "QCA. ANALÍTICA III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "600",
+		"nombre": "QCA. GENERAL E INORGÁNICA (PLAN 1992)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "600",
+				"nombre": "QCA. GENERAL E INORGÁNICA (PLAN 1992)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "102",
+		"nombre": "QCA. GENERAL I (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G189",
+				"nombre": "QUÍMICA ANALÍTICA CUALITATIVA",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G188",
+				"nombre": "QUÍMICA GENERAL (PLAN 1980)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G102",
+				"nombre": "QUÍMICA GENERAL I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "102",
+				"nombre": "QCA. GENERAL I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "301",
+		"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G301",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G202",
+				"nombre": "QUÍMICA GENERAL II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "301",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "401",
+		"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G401",
+				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G301",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "401",
+				"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "501",
+		"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+		"pcurso": [
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G302",
+				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G301",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "502",
+		"nombre": "QCA. ORGÁNICA 104 (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G401",
+				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G301",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "502",
+				"nombre": "QCA. ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "287",
+		"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "287",
+				"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "383",
+		"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "287",
+				"nombre": "QCA. ORGÁNICA I (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "383",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "609",
+		"nombre": "QCA. ORGÁNICA III APLICADA A ALIMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "383",
+				"nombre": "QCA. ORGÁNICA II (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "609",
+				"nombre": "QCA. ORGÁNICA III APLICADA A ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

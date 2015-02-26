@@ -1,0 +1,1259 @@
+[
+	{
+		"id": "A8",
+		"nombre": "ADMINISTRACION DE ARCHIVOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A10B",
+		"nombre": "ARCHIVOS  ADMINISTRATIVOS",
+		"pcurso": [
+			{
+				"id": "GA34C",
+				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GA23C",
+				"nombre": "ARCHIVOS  ADMINISTRATIVOS.-",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A12B",
+		"nombre": "ARCHIVOS  HISTORICOS",
+		"pcurso": [
+			{
+				"id": "GA32C",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A12",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "GA12C",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A10",
+		"nombre": "ARCHIVOS ADMINISTRATIVOS",
+		"pcurso": [
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A12",
+		"nombre": "ARCHIVOS HISTORICOS",
+		"pcurso": [
+			{
+				"id": "GA32C",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GA12C",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A7",
+		"nombre": "CLASIFICACION Y ORDENACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA7C",
+				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A71",
+		"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA7C",
+				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A4",
+		"nombre": "CONSERVACION Y RESTAURACION",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GAB2E",
+				"nombre": "ESTADÍSTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A4",
+				"nombre": "CONSERVACION Y RESTAURACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GAB2E",
+				"nombre": "ESTADÍSTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A9",
+		"nombre": "DESCRIPCION DOCUMENTAL Y SERV.ARCHIVISTI",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A9",
+				"nombre": "DESCRIPCION DOCUMENTAL Y SERV.ARCHIVISTI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A301",
+		"nombre": "DESCRIPCIÓN DOCUMENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA29E",
+				"nombre": "DESCRIP. Y SERV. DE EXT. ARCH.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A9B",
+		"nombre": "DESCRIPCIÓN DOCUMENTAL Y SERV. EXT.ARCH.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA29E",
+				"nombre": "DESCRIP. Y SERV. DE EXT. ARCH.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA9C",
+				"nombre": "DESCRIPCION DOCUMENTAL Y SERV.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB2",
+		"nombre": "ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A201",
+		"nombre": "GESTION DOCUMENTAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A302",
+		"nombre": "GESTIÓN DOCUMENTAL II",
+		"pcurso": [
+			{
+				"id": "GA34C",
+				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GA34C",
+				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A2",
+		"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA32C",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A2B",
+		"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA32C",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB1",
+		"nombre": "INGLES TECNICO",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GAB2E",
+				"nombre": "ESTADÍSTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GAB2E",
+				"nombre": "ESTADÍSTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I303",
+		"nombre": "INGLES TÉCNICO",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "DERECHOS HUMANOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "DERECHOS HUMANOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A1B",
+		"nombre": "INTRODUCCION  A  LA  ARCHIVOLOGÍA.-",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA34C",
+				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A1",
+		"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB4",
+		"nombre": "INTRODUCCION AL PROC. AUT. DATOS II",
+		"pcurso": [
+			{
+				"id": "GAB3E",
+				"nombre": "IPAD I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AB4",
+				"nombre": "INTRODUCCION AL PROC. AUT. DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GAB3E",
+				"nombre": "IPAD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I304",
+				"nombre": "IPAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB3",
+		"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I304",
+		"nombre": "IPAD II",
+		"pcurso": [
+			{
+				"id": "GAB3E",
+				"nombre": "IPAD I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GAB3E",
+				"nombre": "IPAD I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB6",
+		"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+		"pcurso": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "I202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "I202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "I202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A5",
+		"nombre": "MICROGRAFIA DOCUMENTAL",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A5",
+				"nombre": "MICROGRAFIA DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A6",
+		"nombre": "PRODUCCION DE DOCUMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA26C",
+				"nombre": "PRODUCCION DE DOCUMENTOS.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A6B",
+		"nombre": "PRODUCCIÓN  DE  DOCUMENTOS.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GA26C",
+				"nombre": "PRODUCCION DE DOCUMENTOS.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB5",
+		"nombre": "PROYECTO DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA23E",
+				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA23C",
+				"nombre": "ARCHIVOS  ADMINISTRATIVOS.-",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA23E",
+				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB5",
+				"nombre": "PROYECTO DE INVESTIGACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PIA",
+		"nombre": "PROYECTO DE INVESTIGACIÓN ARCHI",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA23E",
+				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA23C",
+				"nombre": "ARCHIVOS  ADMINISTRATIVOS.-",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA7C",
+				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34C",
+				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26C",
+				"nombre": "PRODUCCION DE DOCUMENTOS.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA23E",
+				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA32E",
+				"nombre": "HISTORIA INST. DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "AB3",
+				"nombre": "INTRODUCCION AL PROC. AUT. DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PIA",
+				"nombre": "PROYECTO DE INVESTIGACIÓN ARCHI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A11",
+		"nombre": "SELECCION DOCUMENTAL",
+		"pcurso": [
+			{
+				"id": "GA7C",
+				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA26C",
+				"nombre": "PRODUCCION DE DOCUMENTOS.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GA7",
+				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GA26E",
+				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

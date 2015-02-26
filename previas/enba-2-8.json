@@ -1,0 +1,34 @@
+[
+	{
+		"id": "2.02",
+		"nombre": "SEMINARIO DE LAS EST. III-NIVEL II",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.03",
+		"nombre": "SEMINARIO DE LAS EST. III-NIVEL III",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2.02",
+				"nombre": "SEMINARIO DE LAS EST. III-NIVEL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

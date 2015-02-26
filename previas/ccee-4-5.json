@@ -1,0 +1,799 @@
+[
+	{
+		"id": "A20",
+		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+		"pcurso": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A40",
+		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "A20G",
+				"nombre": "ADM.Y G.DE LAS ORG.II Y OTROS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A20G",
+				"nombre": "ADM.Y G.DE LAS ORG.II Y OTROS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "521",
+		"nombre": "CAMBIO ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EMP5A",
+		"nombre": "CCEEMPRENDE",
+		"pcurso": [
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "423",
+		"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "315",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "315",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "534",
+		"nombre": "CONT.PRESUPUESTAL Y PARA EL CONT.DE GES.",
+		"pcurso": [
+			{
+				"id": "429",
+				"nombre": "CONTROL INTERNO Y ORGANIZ.DE SIST.CONTAB",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "429",
+				"nombre": "CONTROL INTERNO Y ORGANIZ.DE SIST.CONTAB",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C20",
+		"nombre": "CONTABILIDAD GENERAL I",
+		"pcurso": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C30",
+		"nombre": "CONTABILIDAD GENERAL II",
+		"pcurso": [
+			{
+				"id": "C20B",
+				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C20B",
+				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C40",
+		"nombre": "CONTABILIDAD GENERAL III",
+		"pcurso": [
+			{
+				"id": "C30G",
+				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C30G",
+				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "317",
+		"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+		"pcurso": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C61",
+		"nombre": "CONTROL INTERNO",
+		"pcurso": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C31",
+		"nombre": "COSTOS PARA LA GESTIÓN",
+		"pcurso": [
+			{
+				"id": "C20B",
+				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C20B",
+				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC31",
+		"nombre": "CÁLCULO II",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC43",
+		"nombre": "CÁLCULO III",
+		"pcurso": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "J30",
+		"nombre": "DERECHO COMERCIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "113G",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "J40",
+		"nombre": "DERECHO SOCIETARIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "113G",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "440",
+		"nombre": "DIRECCION DE ORGANIZACIONES PUBLICAS",
+		"pcurso": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "440A",
+		"nombre": "DIRECCION DE ORGANIZACIONES PUBLICAS",
+		"pcurso": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "440PB",
+		"nombre": "DIRECCION DE ORGANIZACIONES PUBLICAS",
+		"pcurso": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "423",
+				"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "529",
+		"nombre": "ECONOMÍA Y GESTIÓN DE LA SALUD",
+		"pcurso": [
+			{
+				"id": "427",
+				"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "427",
+				"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC42",
+		"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC51",
+		"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "421",
+		"nombre": "FINANZAS DE EMPRESAS",
+		"pcurso": [
+			{
+				"id": "328G",
+				"nombre": "CONT. DE COSTOS (ADMIN)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "317",
+				"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "328G",
+				"nombre": "CONT. DE COSTOS (ADMIN)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "317",
+				"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "426",
+		"nombre": "GESTION FINANCIERA DEL ESTADO",
+		"pcurso": [
+			{
+				"id": "220G",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "220G",
+				"nombre": "DERECHO PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "217",
+		"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+		"pcurso": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "422",
+		"nombre": "LEGISLACION Y TECNICA TRIBUTARIA",
+		"pcurso": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "210G",
+				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E30",
+		"nombre": "MACROECONOMÍA I",
+		"pcurso": [
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E40",
+		"nombre": "MACROECONOMÍA II",
+		"pcurso": [
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC30",
+		"nombre": "MATEMÁTICA FINANCIERA",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I60",
+		"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN",
+		"pcurso": [
+			{
+				"id": "I60PA",
+				"nombre": "MET. INVESTIG.- AMIN.- PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I60PA",
+				"nombre": "MET. INVESTIG.- AMIN.- PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "424",
+		"nombre": "METODOS CUANT.APLIC.A LA ADM.",
+		"pcurso": [
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "314",
+				"nombre": "ADMINISTRACIÓN GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "441",
+		"nombre": "METODOS CUANT.AVANZADOS (OP.ESTADISTICA)",
+		"pcurso": [
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "320",
+		"nombre": "POLITICA ECONOMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "320A",
+		"nombre": "POLITICA ECONOMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A30",
+		"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
+		"pcurso": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "523",
+		"nombre": "PROYECTOS DE INVERSION",
+		"pcurso": [
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "421",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "313",
+		"nombre": "SISTEMAS COMPUTACIONALES",
+		"pcurso": [
+			{
+				"id": "217",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "217",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "531",
+		"nombre": "TRABAJO DE INVESTIGACION MONOGRAFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "542",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

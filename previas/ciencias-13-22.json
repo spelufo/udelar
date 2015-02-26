@@ -1,0 +1,229 @@
+[
+	{
+		"id": "BL175",
+		"nombre": "BIOESTADISTICA I (POSGRADO- VETERINARIA)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL052",
+		"nombre": "BIOLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ043",
+				"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL08",
+				"nombre": "QUINTO Y SEXTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL052",
+				"nombre": "BIOLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL163",
+		"nombre": "BOTANICA (FACULTAD DE AGRONOMIA)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL368",
+		"nombre": "CITOGENETICA Y EVOLUCION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL368",
+				"nombre": "CITOGENETICA Y EVOLUCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL442",
+		"nombre": "CULTIVO DE TEJIDOS VEGETALES IN VITRO",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ124",
+		"nombre": "ETNOLOGIA (ZOOTECNIA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL082",
+		"nombre": "FISIOLOGIA VEGETAL (AGRONOMIA)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL212",
+		"nombre": "FITOTECNIA (FACULTAD AGRONOMIA)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL147",
+		"nombre": "GENETICA DE POBLACIONES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL504",
+		"nombre": "GENETICA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL561",
+		"nombre": "METODOS CUANTITATIVOS II",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL523",
+		"nombre": "NUTRICION I",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL229",
+		"nombre": "PASANTIA EN GENETICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL625",
+		"nombre": "TAXONOMIA VEGETAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL337",
+		"nombre": "ZOOTECNIA GENERAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

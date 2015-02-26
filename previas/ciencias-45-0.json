@@ -1,0 +1,1275 @@
+[
+	{
+		"id": "MA02",
+		"nombre": "ALGEBRA LINEAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA15",
+		"nombre": "ALGEBRA LINEAL I (F)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA04",
+		"nombre": "ALGEBRA LINEAL II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA19",
+		"nombre": "ALGEBRA LINEAL II (F)",
+		"pcurso": [
+			{
+				"id": "F14",
+				"nombre": "ALGEBRA LINEAL I (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F15",
+				"nombre": "ALGEBRA LINEAL I (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME06",
+		"nombre": "ANALISIS DE DATOS CLIMATICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME06",
+				"nombre": "ANALISIS DE DATOS CLIMATICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI35",
+		"nombre": "ANALISIS ESTADISTICO DE DATOS CLIMATICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI35",
+				"nombre": "ANALISIS ESTADISTICO DE DATOS CLIMATICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA01",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA13",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA03",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA17",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+		"pcurso": [
+			{
+				"id": "F12",
+				"nombre": "CALCULO DIF. I (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F13",
+				"nombre": "CALCULO DIF.I (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA07",
+		"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+		"pcurso": [
+			{
+				"id": "F18",
+				"nombre": "ALGEBRA LINEAL II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F16",
+				"nombre": "CALCULO DIF.II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F19",
+				"nombre": "ALGEBRA LINEAL II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F17",
+				"nombre": "CALCULO DIF. II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME21",
+		"nombre": "CLIMATOLOGIA",
+		"pcurso": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME18",
+				"nombre": "TALLER DE INTR.A LAS CS.DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME21",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME03",
+		"nombre": "COMPLEMENTOS EN METEOROLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME03",
+				"nombre": "COMPLEMENTOS EN METEOROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI10",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI18",
+		"nombre": "FISICA COMPUTACIONAL",
+		"pcurso": [
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI18",
+				"nombre": "FISICA COMPUTACIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME13",
+		"nombre": "FISICA DE LA ATMOSFERA",
+		"pcurso": [
+			{
+				"id": "457",
+				"nombre": "CALCULO VECTORIAL (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "456",
+				"nombre": "TERMODINAMICA (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "459",
+				"nombre": "CALCULO VECTORIAL (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "ME13",
+				"nombre": "FISICA DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "458",
+				"nombre": "TERMODINAMICA (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI01",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI02",
+		"nombre": "FISICA II",
+		"pcurso": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI08",
+		"nombre": "FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "F18",
+				"nombre": "ALGEBRA LINEAL II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F16",
+				"nombre": "CALCULO DIF.II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F19",
+				"nombre": "ALGEBRA LINEAL II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F17",
+				"nombre": "CALCULO DIF. II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF01",
+		"nombre": "HIDROLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI07",
+		"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI07",
+				"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI06",
+		"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO II",
+		"pcurso": [
+			{
+				"id": "FI07",
+				"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI07",
+				"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI06",
+				"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA10",
+		"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "F18",
+				"nombre": "ALGEBRA LINEAL II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F16",
+				"nombre": "CALCULO DIF.II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F19",
+				"nombre": "ALGEBRA LINEAL II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F17",
+				"nombre": "CALCULO DIF. II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA21",
+		"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+		"pcurso": [
+			{
+				"id": "F18",
+				"nombre": "ALGEBRA LINEAL II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F16",
+				"nombre": "CALCULO DIF.II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F19",
+				"nombre": "ALGEBRA LINEAL II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F17",
+				"nombre": "CALCULO DIF. II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA21",
+				"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME14",
+		"nombre": "INTRO.A LA DINAMICA DE LA ATMOSFERA",
+		"pcurso": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME11",
+				"nombre": "ELEMENTOS DE METEOROLOGIA Y CLIMA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME14",
+				"nombre": "INTRO.A LA DINAMICA DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI03",
+		"nombre": "LABORATORIO I",
+		"pcurso": [
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI03",
+				"nombre": "LABORATORIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI32",
+		"nombre": "MECANICA CLASICA",
+		"pcurso": [
+			{
+				"id": "F18",
+				"nombre": "ALGEBRA LINEAL II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F16",
+				"nombre": "CALCULO DIF.II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F19",
+				"nombre": "ALGEBRA LINEAL II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F17",
+				"nombre": "CALCULO DIF. II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI20",
+		"nombre": "MECANICA ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI20",
+				"nombre": "MECANICA ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME07",
+		"nombre": "MODELACION NUMERICA DE LA ATMOSFERA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME07",
+				"nombre": "MODELACION NUMERICA DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL05",
+		"nombre": "OCEANOGRAFIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL05",
+				"nombre": "OCEANOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI05",
+		"nombre": "ONDAS",
+		"pcurso": [
+			{
+				"id": "F15",
+				"nombre": "ALGEBRA LINEAL I (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F13",
+				"nombre": "CALCULO DIF.I (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA21",
+				"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA21",
+				"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME15",
+		"nombre": "PRINCIPIOS DE MEDICIONES ATMOSFERICAS",
+		"pcurso": [
+			{
+				"id": "ME11",
+				"nombre": "ELEMENTOS DE METEOROLOGIA Y CLIMA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI11",
+		"nombre": "PROBABILIDAD Y ESTADISTICA APLICADA",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI11",
+				"nombre": "PROBABILIDAD Y ESTADISTICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME09",
+		"nombre": "QUIMICA DE LA ATMOSFERA Y POLUCION",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME09",
+				"nombre": "QUIMICA DE LA ATMOSFERA Y POLUCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME12",
+		"nombre": "QUIMICA GENERAL (2007 - 2013)",
+		"pcurso": [
+			{
+				"id": "F15",
+				"nombre": "ALGEBRA LINEAL I (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F13",
+				"nombre": "CALCULO DIF.I (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME12",
+				"nombre": "QUIMICA GENERAL (2007 - 2013)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG1",
+		"nombre": "QUIMICA I (2013-",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG1",
+				"nombre": "QUIMICA I (2013-",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF02",
+		"nombre": "SIST.DE INFORMACION GEOGRAFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF02",
+				"nombre": "SIST.DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME18",
+		"nombre": "TALLER DE INTR.A LAS CS.DE LA ATMOSFERA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME18",
+				"nombre": "TALLER DE INTR.A LAS CS.DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME05",
+		"nombre": "TALLER DE PRONOSTICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME05",
+				"nombre": "TALLER DE PRONOSTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI29",
+		"nombre": "TALLER I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI41",
+		"nombre": "TALLER II",
+		"pcurso": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME16",
+		"nombre": "TALLER INT.A LA METEOROLOGIA C2011-2013",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME16",
+				"nombre": "TALLER INT.A LA METEOROLOGIA C2011-2013",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME08",
+		"nombre": "TALLER INTR.A LA METEOROLOGIA(2007-2010)",
+		"pcurso": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME08",
+				"nombre": "TALLER INTR.A LA METEOROLOGIA(2007-2010)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI12",
+		"nombre": "TEORIA ELECTROMAGNETICA",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI12",
+				"nombre": "TEORIA ELECTROMAGNETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI04",
+		"nombre": "TERMODINAMICA",
+		"pcurso": [
+			{
+				"id": "F16",
+				"nombre": "CALCULO DIF.II (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F17",
+				"nombre": "CALCULO DIF. II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME20",
+		"nombre": "TRABAJO ESPECIAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 45 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 41,
+				"texto": " Créditos en la Carrera 45 - Ciclo 0. Área Temática: MEC.FLUIDOS Y DINAMICA ATMOSF."
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL02",
+		"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

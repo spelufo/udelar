@@ -1,0 +1,1636 @@
+[
+	{
+		"id": "12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "251",
+		"nombre": "AUDIOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "251",
+				"nombre": "AUDIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "257",
+		"nombre": "AUDIOLOGIA II",
+		"pcurso": [
+			{
+				"id": "251",
+				"nombre": "AUDIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "251",
+				"nombre": "AUDIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "257",
+				"nombre": "AUDIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2515",
+		"nombre": "AUDIOLOGIA III",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "257",
+				"nombre": "AUDIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "257",
+				"nombre": "AUDIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2515",
+				"nombre": "AUDIOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2516",
+		"nombre": "AUDIOLOGIA INFANTIL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2516",
+				"nombre": "AUDIOLOGIA INFANTIL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2523",
+		"nombre": "AUDIOLOGIA INFANTIL II",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2516",
+				"nombre": "AUDIOLOGIA INFANTIL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2516",
+				"nombre": "AUDIOLOGIA INFANTIL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2523",
+				"nombre": "AUDIOLOGIA INFANTIL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2522",
+		"nombre": "AUDIOLOGIA IV",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2515",
+				"nombre": "AUDIOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2515",
+				"nombre": "AUDIOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2522",
+				"nombre": "AUDIOLOGIA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "258",
+		"nombre": "AUDIOLOGIA PRACTICO II",
+		"pcurso": [
+			{
+				"id": "251",
+				"nombre": "AUDIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "251",
+				"nombre": "AUDIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "258",
+				"nombre": "AUDIOLOGIA PRACTICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "13",
+		"nombre": "ENFERMERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "256",
+		"nombre": "FISICA ACUSTICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "256",
+				"nombre": "FISICA ACUSTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2528",
+		"nombre": "FISICA ACUSTICA II",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "256",
+				"nombre": "FISICA ACUSTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "256",
+				"nombre": "FISICA ACUSTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2528",
+				"nombre": "FISICA ACUSTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "253",
+		"nombre": "FONOESTOMATOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "253",
+				"nombre": "FONOESTOMATOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2510",
+		"nombre": "FONOESTOMATOLOGIA II",
+		"pcurso": [
+			{
+				"id": "253",
+				"nombre": "FONOESTOMATOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "253",
+				"nombre": "FONOESTOMATOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2510",
+				"nombre": "FONOESTOMATOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2518",
+		"nombre": "FONOESTOMATOLOGIA III",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2510",
+				"nombre": "FONOESTOMATOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2510",
+				"nombre": "FONOESTOMATOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2518",
+				"nombre": "FONOESTOMATOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2525",
+		"nombre": "FONOESTOMATOLOGIA IV",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2518",
+				"nombre": "FONOESTOMATOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2518",
+				"nombre": "FONOESTOMATOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2525",
+				"nombre": "FONOESTOMATOLOGIA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "255",
+		"nombre": "LENGUAJE I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "255",
+				"nombre": "LENGUAJE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2514",
+		"nombre": "LENGUAJE II",
+		"pcurso": [
+			{
+				"id": "255",
+				"nombre": "LENGUAJE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "254",
+				"nombre": "LINGUISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "255",
+				"nombre": "LENGUAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2514",
+				"nombre": "LENGUAJE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "254",
+				"nombre": "LINGUISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2520",
+		"nombre": "LENGUAJE III",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2514",
+				"nombre": "LENGUAJE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2520",
+				"nombre": "LENGUAJE III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2526",
+		"nombre": "LENGUAJE IV",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2514",
+				"nombre": "LENGUAJE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2514",
+				"nombre": "LENGUAJE II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2526",
+				"nombre": "LENGUAJE IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "254",
+		"nombre": "LINGUISTICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "254",
+				"nombre": "LINGUISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2511",
+		"nombre": "LINGUISTICA II",
+		"pcurso": [
+			{
+				"id": "254",
+				"nombre": "LINGUISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "254",
+				"nombre": "LINGUISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2511",
+				"nombre": "LINGUISTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2529",
+		"nombre": "MONOGRAFIA",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "251",
+				"nombre": "AUDIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "257",
+				"nombre": "AUDIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2515",
+				"nombre": "AUDIOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2516",
+				"nombre": "AUDIOLOGIA INFANTIL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2523",
+				"nombre": "AUDIOLOGIA INFANTIL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2522",
+				"nombre": "AUDIOLOGIA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "258",
+				"nombre": "AUDIOLOGIA PRACTICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "256",
+				"nombre": "FISICA ACUSTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2528",
+				"nombre": "FISICA ACUSTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "253",
+				"nombre": "FONOESTOMATOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2510",
+				"nombre": "FONOESTOMATOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2518",
+				"nombre": "FONOESTOMATOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2525",
+				"nombre": "FONOESTOMATOLOGIA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "255",
+				"nombre": "LENGUAJE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2514",
+				"nombre": "LENGUAJE II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2520",
+				"nombre": "LENGUAJE III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2526",
+				"nombre": "LENGUAJE IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "254",
+				"nombre": "LINGUISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2511",
+				"nombre": "LINGUISTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2512",
+				"nombre": "NEUROPSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2519",
+				"nombre": "NEUROPSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2513",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2521",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2527",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "252",
+				"nombre": "VOZ I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "259",
+				"nombre": "VOZ II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2517",
+				"nombre": "VOZ III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2524",
+				"nombre": "VOZ IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2512",
+		"nombre": "NEUROPSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2512",
+				"nombre": "NEUROPSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2519",
+		"nombre": "NEUROPSICOLOGIA II",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2512",
+				"nombre": "NEUROPSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2512",
+				"nombre": "NEUROPSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2519",
+				"nombre": "NEUROPSICOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2513",
+		"nombre": "PEDAGOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2513",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7",
+		"nombre": "PROFUNDIZACION",
+		"pcurso": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2521",
+		"nombre": "PSICOLOGIA II",
+		"pcurso": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2521",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2527",
+		"nombre": "PSICOLOGIA III",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2521",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2521",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2527",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "252",
+		"nombre": "VOZ I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "252",
+				"nombre": "VOZ I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "259",
+		"nombre": "VOZ II",
+		"pcurso": [
+			{
+				"id": "252",
+				"nombre": "VOZ I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "252",
+				"nombre": "VOZ I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "259",
+				"nombre": "VOZ II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2517",
+		"nombre": "VOZ III",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "259",
+				"nombre": "VOZ II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "259",
+				"nombre": "VOZ II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2517",
+				"nombre": "VOZ III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2524",
+		"nombre": "VOZ IV",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2517",
+				"nombre": "VOZ III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2517",
+				"nombre": "VOZ III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2524",
+				"nombre": "VOZ IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

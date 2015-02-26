@@ -1,0 +1,1012 @@
+[
+	{
+		"id": "C312",
+		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "301",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "301",
+				"nombre": "ADMINISTRACIÓN DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C228",
+		"nombre": "ADMINISTRACIÓN II",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C3261",
+		"nombre": "COMPORTAMIENTO  ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "C312",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C3283",
+				"nombre": "ELEMENTOS DE AUDITORIA",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C312",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C214",
+		"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+		"pcurso": [
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C3282",
+		"nombre": "CONTABILIDAD DE LA HACIENDA PUBLICA",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C3281",
+				"nombre": "MARKETING II",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C126",
+		"nombre": "CONTABILIDAD II",
+		"pcurso": [
+			{
+				"id": "C112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C112",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C127",
+		"nombre": "DERECHO II",
+		"pcurso": [
+			{
+				"id": "C113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C113",
+				"nombre": "DERECHO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C3283",
+		"nombre": "ELEMENTOS DE AUDITORIA",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C3261",
+				"nombre": "COMPORTAMIENTO  ORGANIZACIONAL",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "C214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C227",
+		"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+		"pcurso": [
+			{
+				"id": "C213",
+				"nombre": "INT. A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C213",
+				"nombre": "INT. A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3271C",
+		"nombre": "FINANZAS DE EMPRESAS",
+		"pcurso": [
+			{
+				"id": "G228C",
+				"nombre": "ADMINISTRACIÓN II (COL)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G214C",
+				"nombre": "CONT. DE COSTOS Y PRESUP (COL)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G227C",
+				"nombre": "ESTAD APLIC. A LA ADM (COL)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G228C",
+				"nombre": "ADMINISTRACIÓN II (COL)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G214C",
+				"nombre": "CONT. DE COSTOS Y PRESUP (COL)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G227C",
+				"nombre": "ESTAD APLIC. A LA ADM (COL)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C3271",
+		"nombre": "FINANZAS DE EMPRESAS",
+		"pcurso": [
+			{
+				"id": "C228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3284",
+				"nombre": "FINANZAS PUBLICAS",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C228",
+				"nombre": "ADMINISTRACIÓN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C214",
+				"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C3284",
+		"nombre": "FINANZAS PUBLICAS",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3271",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Insc. paralela a una materia",
+				"obs": true
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C212",
+		"nombre": "INFORMATICA I",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C213",
+		"nombre": "INT. A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C311",
+		"nombre": "MARKETING I",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C227",
+				"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C128",
+		"nombre": "MÉTODOS CUANTITATIVOS II",
+		"pcurso": [
+			{
+				"id": "C114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C211",
+		"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C225",
+		"nombre": "ORGANIZACIÓN Y SISTEMAS II",
+		"pcurso": [
+			{
+				"id": "C212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C313",
+		"nombre": "RELACIONES LABORALES",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C226",
+		"nombre": "SISTEMAS INFORMATICOS APLICADOS",
+		"pcurso": [
+			{
+				"id": "C212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C325",
+		"nombre": "SOCIEDAD, ESTADO Y ECONOMIA DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C314",
+		"nombre": "TECNICA TRIBUTARIA",
+		"pcurso": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C125",
+				"nombre": "ADMINISTRACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C126",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C127",
+				"nombre": "DERECHO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C111",
+				"nombre": "ECONOMÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"id": "M954",
+		"nombre": "ENFERMERIA EN PACIENTE CRITICO",
+		"pcurso": [
+			{
+				"id": "M950",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M950",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

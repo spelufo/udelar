@@ -1,0 +1,954 @@
+[
+	{
+		"id": "MA013",
+		"nombre": "ALGEBRA I",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA013",
+				"nombre": "ALGEBRA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA015",
+		"nombre": "ALGEBRA II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA015",
+				"nombre": "ALGEBRA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA02",
+		"nombre": "ALGEBRA LINEAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA04",
+		"nombre": "ALGEBRA LINEAL II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA106",
+		"nombre": "ALGEBRAS DE OPERADORES",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ES034",
+		"nombre": "ANALISIS DE DATOS MULTIVARIADOS",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA031",
+		"nombre": "ANALISIS FUNCIONAL",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA011",
+				"nombre": "INTRODUCCION A LA TOPOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA031",
+				"nombre": "ANALISIS FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA011",
+				"nombre": "INTRODUCCION A LA TOPOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA101",
+		"nombre": "CADENAS  DE MARKOV EN ESPACIOS GENERALES",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA01",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA03",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA114",
+		"nombre": "CALCULO ESTOCASTICO",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA084",
+		"nombre": "CALCULO NUMERICO",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA07",
+		"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL014",
+		"nombre": "ECOLOGIA GENERAL",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA103",
+		"nombre": "ECONOMETRIA I",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA104",
+		"nombre": "ECONOMIA I Y II",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA030",
+		"nombre": "ECUACIONES DIF.EN DER.PARCIALES",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA030",
+				"nombre": "ECUACIONES DIF.EN DER.PARCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA077",
+		"nombre": "ELECTROMAGNETISMO I",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES008",
+		"nombre": "ESTADISTICA DE PROCESOS",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA09",
+				"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES006",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ES008",
+				"nombre": "ESTADISTICA DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES006",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI01",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES003",
+		"nombre": "INFERENCIA ESTADISTICA I",
+		"pcurso": [
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ES003",
+				"nombre": "INFERENCIA ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES005",
+		"nombre": "INFERENCIA ESTADISTICA II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES003",
+				"nombre": "INFERENCIA ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES003",
+				"nombre": "INFERENCIA ESTADISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES005",
+				"nombre": "INFERENCIA ESTADISTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES009",
+		"nombre": "INFERENCIA ESTADISTICA III",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES003",
+				"nombre": "INFERENCIA ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA09",
+				"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ES003",
+				"nombre": "INFERENCIA ESTADISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES009",
+				"nombre": "INFERENCIA ESTADISTICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA10",
+		"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA008",
+		"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA017",
+		"nombre": "INTRODUCCION  A LA GEOMETRIA DIFERENCIAL",
+		"pcurso": [
+			{
+				"id": "MA006",
+				"nombre": "CALCULO III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA006",
+				"nombre": "CALCULO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA017",
+				"nombre": "INTRODUCCION  A LA GEOMETRIA DIFERENCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL302",
+		"nombre": "INTRODUCCION A LA BIOMATEMATICA",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA09",
+		"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA09",
+				"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA011",
+		"nombre": "INTRODUCCION A LA TOPOLOGIA",
+		"pcurso": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA011",
+				"nombre": "INTRODUCCION A LA TOPOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA016",
+		"nombre": "INTRODUCCION A LOS METODOS NUMERICOS",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA016",
+				"nombre": "INTRODUCCION A LOS METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES001",
+		"nombre": "INTRODUCCION AL ALGEBRA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ES001",
+				"nombre": "INTRODUCCION AL ALGEBRA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA012",
+		"nombre": "INTRODUCCION AL ANALISIS REAL",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA012",
+				"nombre": "INTRODUCCION AL ANALISIS REAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA080",
+		"nombre": "LOGICA",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA080",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA100",
+		"nombre": "MATEMATICA DISCRETA 1 (FAC.ING.)",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA100",
+				"nombre": "MATEMATICA DISCRETA 1 (FAC.ING.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES002",
+		"nombre": "MEDIDA Y PROBABILIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ES002",
+				"nombre": "MEDIDA Y PROBABILIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA110",
+		"nombre": "OPTIMIZACION",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ES010",
+		"nombre": "PASANTIA EN LABORATORIO DE ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ES006",
+		"nombre": "PROBABILIDAD II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA012",
+				"nombre": "INTRODUCCION AL ANALISIS REAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA012",
+				"nombre": "INTRODUCCION AL ANALISIS REAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ES006",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL02",
+		"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

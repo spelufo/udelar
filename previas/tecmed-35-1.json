@@ -1,0 +1,594 @@
+[
+	{
+		"id": "12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "352",
+		"nombre": "ANATOMIA PATOLOGICA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "352",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "357",
+		"nombre": "CURSO PRACTICO DE RADIOTERAPIA",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "352",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "351",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "354",
+				"nombre": "FISICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "356",
+				"nombre": "PATOLOGIA ONCOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "355",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "358",
+				"nombre": "QUIMICA FOTOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "353",
+				"nombre": "RADIOBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "357",
+				"nombre": "CURSO PRACTICO DE RADIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "13",
+		"nombre": "ENFERMERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "354",
+		"nombre": "FISICA APLICADA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "351",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "354",
+				"nombre": "FISICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "14",
+		"nombre": "FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "356",
+		"nombre": "PATOLOGIA ONCOLOGICA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "356",
+				"nombre": "PATOLOGIA ONCOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "355",
+		"nombre": "PSICOLOGIA II",
+		"pcurso": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "355",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "358",
+		"nombre": "QUIMICA FOTOGRAFICA",
+		"pcurso": [
+			{
+				"id": "351",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "358",
+				"nombre": "QUIMICA FOTOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "353",
+		"nombre": "RADIOBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "351",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "353",
+				"nombre": "RADIOBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

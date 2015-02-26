@@ -1,0 +1,41 @@
+[
+	{
+		"id": "T29M",
+		"nombre": "COMPRENSION LECTORA INGLES II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T28M",
+				"nombre": "COMPRENSION LECTORA INGLES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T7M",
+		"nombre": "GEOGRAFIA TURISTICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T3M",
+				"nombre": "GEOGRAFIA TURISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T8M",
+		"nombre": "HISTORIA REGIONAL II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T4M",
+				"nombre": "HISTORIA REGIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

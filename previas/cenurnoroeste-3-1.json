@@ -1,0 +1,261 @@
+[
+	{
+		"id": "SRN02",
+		"nombre": "CÁLCULO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN09",
+		"nombre": "CÁLCULO II",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN19",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN04",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN19",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN04",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN04",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN11",
+		"nombre": "FÍSICA II",
+		"pcurso": [
+			{
+				"id": "SRN04",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN04",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN03",
+		"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN10",
+		"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+		"pcurso": [
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN07",
+		"nombre": "INTRODUCCIÓN A LA BIOLOGÍA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN07",
+				"nombre": "INTRODUCCIÓN A LA BIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN15",
+		"nombre": "INTRODUCCIÓN A LA BIOLOGÍA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN15",
+				"nombre": "INTRODUCCIÓN A LA BIOLOGÍA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN14",
+		"nombre": "MATEMÁTICA DISCRETA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN14",
+				"nombre": "MATEMÁTICA DISCRETA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN08",
+		"nombre": "PREVENCIÓN DE RIESGOS EN LABORATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN08",
+				"nombre": "PREVENCIÓN DE RIESGOS EN LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN17",
+		"nombre": "PROGRAMACIÓN I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN17",
+				"nombre": "PROGRAMACIÓN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN05",
+		"nombre": "QUÍMICA GENERAL I (F.QUÍMICA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN05",
+				"nombre": "QUÍMICA GENERAL I (F.QUÍMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SRN12",
+		"nombre": "QUÍMICA GENERAL II (F. QUÍMICA)",
+		"pcurso": [
+			{
+				"id": "SRN08",
+				"nombre": "PREVENCIÓN DE RIESGOS EN LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN05",
+				"nombre": "QUÍMICA GENERAL I (F.QUÍMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN05",
+				"nombre": "QUÍMICA GENERAL I (F.QUÍMICA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN12",
+				"nombre": "QUÍMICA GENERAL II (F. QUÍMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

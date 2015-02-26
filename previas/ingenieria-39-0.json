@@ -1,0 +1,358 @@
+[
+	{
+		"id": "TTR21",
+		"nombre": "COMPLEMENTO DE TERMODINAMICA Y FLUIDOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TTR3",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR5",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "TTR3",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TTR3",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR5",
+		"nombre": "FISICA II",
+		"pcurso": [
+			{
+				"id": "TTR21",
+				"nombre": "COMPLEMENTO DE TERMODINAMICA Y FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "TTR3",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR5",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR9",
+		"nombre": "GESTION DE ORGANIZACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TTR9",
+				"nombre": "GESTION DE ORGANIZACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR1",
+		"nombre": "MATEMATICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TTR1",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR2",
+		"nombre": "MATEMATICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TTR2",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR4",
+		"nombre": "MATEMATICA III",
+		"pcurso": [
+			{
+				"id": "TTR1",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR2",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR4",
+				"nombre": "MATEMATICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR7",
+		"nombre": "MODULACION Y PROCESAMIENTO DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "TTR2",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR4",
+				"nombre": "MATEMATICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR7",
+				"nombre": "MODULACION Y PROCESAMIENTO DE SEÑALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR6",
+		"nombre": "PROGRAMACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TTR6",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR12",
+		"nombre": "PROGRAMACION II",
+		"pcurso": [
+			{
+				"id": "TTR6",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR12",
+				"nombre": "PROGRAMACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR19",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 120,
+				"texto": "Créditos en la Carrera 39 - Ciclo 0"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR19",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR11",
+		"nombre": "REDES DE DATOS",
+		"pcurso": [
+			{
+				"id": "TTR6",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR11",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR16",
+		"nombre": "TALLER DE ADM.DE REDES Y SERV.DE COMUNIC",
+		"pcurso": [
+			{
+				"id": "TTR12",
+				"nombre": "PROGRAMACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR11",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TTR13",
+		"nombre": "TALLER DE GESTION DE REDES",
+		"pcurso": [
+			{
+				"id": "TTR11",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TTR15",
+		"nombre": "TALLER DE REDES INALAMBRICAS",
+		"pcurso": [
+			{
+				"id": "TTR11",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TTR14",
+		"nombre": "TALLER DE TELEMATICA",
+		"pcurso": [
+			{
+				"id": "TTR12",
+				"nombre": "PROGRAMACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR11",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TTR17",
+		"nombre": "TALLER DE TEMAS AVANZ.EN REDES DE TELEC",
+		"pcurso": [
+			{
+				"id": "TTR11",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TTR10",
+		"nombre": "TELEFONIA",
+		"pcurso": [
+			{
+				"id": "TTR7",
+				"nombre": "MODULACION Y PROCESAMIENTO DE SEÑALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR4",
+				"nombre": "MATEMATICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR10",
+				"nombre": "TELEFONIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TTR8",
+		"nombre": "TEORIA DE CIRCUITOS",
+		"pcurso": [
+			{
+				"id": "TTR5",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR2",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TTR4",
+				"nombre": "MATEMATICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TTR8",
+				"nombre": "TEORIA DE CIRCUITOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,536 @@
+[
+	{
+		"id": "RN107",
+		"nombre": "ACUICULTURA",
+		"pcurso": [
+			{
+				"id": "RN05",
+				"nombre": "CALIDAD AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RN107",
+				"nombre": "ACUICULTURA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN307",
+		"nombre": "AGUAS SUBTER.Y PROTEC.DE ACUIFEROS(2011)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN307",
+				"nombre": "AGUAS SUBTER.Y PROTEC.DE ACUIFEROS(2011)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN11",
+		"nombre": "BIOLOGIA GENERAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN11",
+				"nombre": "BIOLOGIA GENERAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN05",
+		"nombre": "CALIDAD AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN05",
+				"nombre": "CALIDAD AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN108",
+		"nombre": "COMPOSICION Y RECONOCIMIENTO DE FAUNA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN108",
+				"nombre": "COMPOSICION Y RECONOCIMIENTO DE FAUNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN109",
+		"nombre": "COMPOSICION Y RECONOCIMIENTO DE FLORA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN109",
+				"nombre": "COMPOSICION Y RECONOCIMIENTO DE FLORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN04",
+		"nombre": "CONCEPTOS DE ECONOMIA Y DESARROLLO LOCAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN04",
+				"nombre": "CONCEPTOS DE ECONOMIA Y DESARROLLO LOCAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN202",
+		"nombre": "DESARROLLO SUSTENTABLE",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN202",
+				"nombre": "DESARROLLO SUSTENTABLE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN01",
+		"nombre": "ECOLOGIA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN01",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN17",
+		"nombre": "ECONOMIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN17",
+				"nombre": "ECONOMIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN09",
+		"nombre": "ESPECIES ARBOREAS NATIVAS EN URUGUAY",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN09",
+				"nombre": "ESPECIES ARBOREAS NATIVAS EN URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN02",
+		"nombre": "ESTADISTICA E INFORMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN02",
+				"nombre": "ESTADISTICA E INFORMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN101",
+		"nombre": "EVALUACIÓN DE IMPACTO AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN101",
+				"nombre": "EVALUACIÓN DE IMPACTO AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN102",
+		"nombre": "EVALUACIÓN DE RECURSOS NATURALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN102",
+				"nombre": "EVALUACIÓN DE RECURSOS NATURALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN204",
+		"nombre": "EXPLOTACIONES NO TRADICIONALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN204",
+				"nombre": "EXPLOTACIONES NO TRADICIONALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN406",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN406",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN10",
+		"nombre": "FISICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN10",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN08",
+		"nombre": "GEOLOGIA Y RECURSOS NATURALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN08",
+				"nombre": "GEOLOGIA Y RECURSOS NATURALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN306",
+		"nombre": "INTRODUCCION A LA CARTOGRAFIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN306",
+				"nombre": "INTRODUCCION A LA CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN13",
+		"nombre": "MANEJO DE BOSQUE NATIVO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN13",
+				"nombre": "MANEJO DE BOSQUE NATIVO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN203",
+		"nombre": "MANEJO DE CUENCAS HIDROGRAFICAS",
+		"pcurso": [
+			{
+				"id": "RN106",
+				"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RN105",
+				"nombre": "SUELOS Y TIPOS DE EXPLOTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RN203",
+				"nombre": "MANEJO DE CUENCAS HIDROGRAFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RN106",
+				"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RN105",
+				"nombre": "SUELOS Y TIPOS DE EXPLOTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN201",
+		"nombre": "MANEJO DE FAUNA",
+		"pcurso": [
+			{
+				"id": "RN108",
+				"nombre": "COMPOSICION Y RECONOCIMIENTO DE FAUNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RN01",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RN201",
+				"nombre": "MANEJO DE FAUNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN03",
+		"nombre": "MARCO LEGAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN03",
+				"nombre": "MARCO LEGAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN404",
+		"nombre": "MATEMATICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN404",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN407",
+		"nombre": "MATEMATICA II",
+		"pcurso": [
+			{
+				"id": "RN404",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RN407",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN409",
+		"nombre": "MATEMATICA II - MODULO A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN409",
+				"nombre": "MATEMATICA II - MODULO A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN410",
+		"nombre": "MATEMATICA II - MODULO B",
+		"pcurso": [
+			{
+				"id": "RN409",
+				"nombre": "MATEMATICA II - MODULO A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RN410",
+				"nombre": "MATEMATICA II - MODULO B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN15",
+		"nombre": "METOD.DE LA INVESTIGACION:TECNICAS CUALI",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN15",
+				"nombre": "METOD.DE LA INVESTIGACION:TECNICAS CUALI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN12",
+		"nombre": "QUIMICA AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN02",
+				"nombre": "ESTADISTICA E INFORMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN06",
+		"nombre": "QUIMICA GENERAL (A)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN06",
+				"nombre": "QUIMICA GENERAL (A)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN07",
+		"nombre": "QUIMICA ORGANICA",
+		"pcurso": [
+			{
+				"id": "RN06",
+				"nombre": "QUIMICA GENERAL (A)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RN07",
+				"nombre": "QUIMICA ORGANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN106",
+		"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN106",
+				"nombre": "SISTEMA DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN105",
+		"nombre": "SUELOS Y TIPOS DE EXPLOTACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN105",
+				"nombre": "SUELOS Y TIPOS DE EXPLOTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN103",
+		"nombre": "T.DE MUESTREO Y MONITO.DEL MEDIO BIOTICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN103",
+				"nombre": "T.DE MUESTREO Y MONITO.DEL MEDIO BIOTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN14",
+		"nombre": "TELEDETECCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN14",
+				"nombre": "TELEDETECCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RN16",
+		"nombre": "UNIVERSIDAD Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RN16",
+				"nombre": "UNIVERSIDAD Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

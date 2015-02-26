@@ -1,0 +1,362 @@
+[
+	{
+		"id": "BL340",
+		"nombre": "AVANCES EN MICROANALISIS DE PROTEINAS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL534",
+		"nombre": "BASES MOL.DEL CONTROL BIOL.EN RIZOSFERA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL120",
+		"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL120",
+				"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL052",
+		"nombre": "BIOLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL052",
+				"nombre": "BIOLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG019",
+		"nombre": "BIOLOGIA PARASITARIA (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG019",
+				"nombre": "BIOLOGIA PARASITARIA (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ125",
+		"nombre": "BIOQUIMICA Y TECN.DE ANALISIS DE LIPIDOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL552",
+		"nombre": "BIOTECNOLOGIA- BIOPOLIMEROS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL368",
+		"nombre": "CITOGENETICA Y EVOLUCION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL368",
+				"nombre": "CITOGENETICA Y EVOLUCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL655",
+		"nombre": "EST GENOMICOS, POSTGENOMICOS Y SUS APLIC",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL841",
+		"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL841",
+				"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG018",
+		"nombre": "FISIOLOGIA VEGETAL (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG018",
+				"nombre": "FISIOLOGIA VEGETAL (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG013",
+		"nombre": "GENETICA HUMANA (LIC.BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG013",
+				"nombre": "GENETICA HUMANA (LIC.BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL567",
+		"nombre": "GESTION AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL567",
+				"nombre": "GESTION AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL087",
+		"nombre": "INMUNOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL087",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ100",
+		"nombre": "MANEJO DE RADIOTRAZ.PARA BIOQ.",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL264",
+		"nombre": "MICROBIOLOGIA (FAC.QUIMICA)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL264",
+				"nombre": "MICROBIOLOGIA (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL457",
+		"nombre": "PASANTIA EN BIOTECNOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL478",
+		"nombre": "RADIOACTIVIDAD APLICADA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL01",
+				"nombre": "EVOLUCION - BIOESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BG017",
+		"nombre": "VIROLOGIA (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG017",
+				"nombre": "VIROLOGIA (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,942 @@
+[
+	{
+		"id": "12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [
+			{
+				"id": "327",
+				"nombre": "NEUROPEDIATRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "329",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "328",
+				"nombre": "PSICOMOTRICIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3210",
+				"nombre": "PSIQUIATRIA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3212",
+		"nombre": "CLINICAS DE LACTANTES",
+		"pcurso": [
+			{
+				"id": "327",
+				"nombre": "NEUROPEDIATRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "329",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "328",
+				"nombre": "PSICOMOTRICIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3210",
+				"nombre": "PSIQUIATRIA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3212",
+				"nombre": "CLINICAS DE LACTANTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [
+			{
+				"id": "327",
+				"nombre": "NEUROPEDIATRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "329",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "328",
+				"nombre": "PSICOMOTRICIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3210",
+				"nombre": "PSIQUIATRIA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "323",
+		"nombre": "DESARROLLO PSICOMOTOR",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "322",
+				"nombre": "INTRODUCCION A LA PSICOMOTRICIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "323",
+				"nombre": "DESARROLLO PSICOMOTOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "13",
+		"nombre": "ENFERMERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "322",
+		"nombre": "INTRODUCCION A LA PSICOMOTRICIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "322",
+				"nombre": "INTRODUCCION A LA PSICOMOTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3214",
+		"nombre": "MONOGRAFIA",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3212",
+				"nombre": "CLINICAS DE LACTANTES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "323",
+				"nombre": "DESARROLLO PSICOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "322",
+				"nombre": "INTRODUCCION A LA PSICOMOTRICIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "327",
+				"nombre": "NEUROPEDIATRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "326",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "329",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3213",
+				"nombre": "PSICOLOGIA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "324",
+				"nombre": "PSICOMOTRICIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "328",
+				"nombre": "PSICOMOTRICIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3211",
+				"nombre": "PSICOMOTRICIDAD III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3210",
+				"nombre": "PSIQUIATRIA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "327",
+		"nombre": "NEUROPEDIATRIA",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "DESARROLLO PSICOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "326",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "324",
+				"nombre": "PSICOMOTRICIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "327",
+				"nombre": "NEUROPEDIATRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "326",
+		"nombre": "PEDAGOGIA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "322",
+				"nombre": "INTRODUCCION A LA PSICOMOTRICIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "326",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "321",
+		"nombre": "PROFUNDIZACION",
+		"pcurso": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "325",
+		"nombre": "PSICOLOGIA II",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "322",
+				"nombre": "INTRODUCCION A LA PSICOMOTRICIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "325",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "329",
+		"nombre": "PSICOLOGIA III",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "DESARROLLO PSICOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "326",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "324",
+				"nombre": "PSICOMOTRICIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "329",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3213",
+		"nombre": "PSICOLOGIA IV",
+		"pcurso": [
+			{
+				"id": "327",
+				"nombre": "NEUROPEDIATRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "329",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "328",
+				"nombre": "PSICOMOTRICIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3210",
+				"nombre": "PSIQUIATRIA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3213",
+				"nombre": "PSICOLOGIA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "324",
+		"nombre": "PSICOMOTRICIDAD I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "322",
+				"nombre": "INTRODUCCION A LA PSICOMOTRICIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "324",
+				"nombre": "PSICOMOTRICIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "328",
+		"nombre": "PSICOMOTRICIDAD II",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "DESARROLLO PSICOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "326",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "324",
+				"nombre": "PSICOMOTRICIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "328",
+				"nombre": "PSICOMOTRICIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3211",
+		"nombre": "PSICOMOTRICIDAD III",
+		"pcurso": [
+			{
+				"id": "327",
+				"nombre": "NEUROPEDIATRIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "329",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "328",
+				"nombre": "PSICOMOTRICIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3210",
+				"nombre": "PSIQUIATRIA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3211",
+				"nombre": "PSICOMOTRICIDAD III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3210",
+		"nombre": "PSIQUIATRIA INFANTIL",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "DESARROLLO PSICOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "326",
+				"nombre": "PEDAGOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "324",
+				"nombre": "PSICOMOTRICIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3210",
+				"nombre": "PSIQUIATRIA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

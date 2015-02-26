@@ -1,0 +1,718 @@
+[
+	{
+		"id": "E62",
+		"nombre": "ACONDICIONAMIENTO DE EDIFICIOS",
+		"pcurso": [
+			{
+				"id": "T42",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E62",
+				"nombre": "ACONDICIONAMIENTO DE EDIFICIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T45",
+				"nombre": "ELECTROTECNICA (CIVIL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T44",
+				"nombre": "MAQUINAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T53",
+		"nombre": "ADMINISTRACION EN INGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B15",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T65",
+		"nombre": "ANALISIS DE COSTOS",
+		"pcurso": [
+			{
+				"id": "B15",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T53",
+				"nombre": "ADMINISTRACION EN INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T65",
+				"nombre": "ANALISIS DE COSTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E63",
+		"nombre": "ARQUITECTURA DE LAS OBRAS DE ING.",
+		"pcurso": [
+			{
+				"id": "T43",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T42",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E63",
+				"nombre": "ARQUITECTURA DE LAS OBRAS DE ING.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T45",
+		"nombre": "ELECTROTECNICA (CIVIL)",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T52",
+		"nombre": "ENSAYO DE MATERIALES",
+		"pcurso": [
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T52",
+				"nombre": "ENSAYO DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E61",
+		"nombre": "ESTRUCTURAS ESPECIALES",
+		"pcurso": [
+			{
+				"id": "T43",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T42",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E54",
+				"nombre": "RESISTENCIA DE MATERIALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E60",
+		"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+		"pcurso": [
+			{
+				"id": "T42",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E60",
+				"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T46",
+		"nombre": "GEOLOGIA TECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B13",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T43",
+		"nombre": "HORMIGON ARMADO I",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T50",
+		"nombre": "HORMIGON ARMADO II",
+		"pcurso": [
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T43",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T64",
+		"nombre": "INGENIERIA LEGAL",
+		"pcurso": [
+			{
+				"id": "B15",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T53",
+				"nombre": "ADMINISTRACION EN INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T44",
+		"nombre": "MAQUINAS",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B13",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T42",
+		"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T51",
+		"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+		"pcurso": [
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T42",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E55",
+		"nombre": "PROYECTO 5TO. ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T43",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T42",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E55",
+				"nombre": "PROYECTO 5TO. ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E66",
+		"nombre": "PROYECTO 6TO. ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "T43",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T42",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E55",
+				"nombre": "PROYECTO 5TO. ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T50",
+				"nombre": "HORMIGON ARMADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T51",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E55",
+				"nombre": "PROYECTO 5TO. ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E66",
+				"nombre": "PROYECTO 6TO. ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E54",
+				"nombre": "RESISTENCIA DE MATERIALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T40",
+		"nombre": "RESISTENCIA DE MATERIALES II",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E54",
+		"nombre": "RESISTENCIA DE MATERIALES III",
+		"pcurso": [
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T41",
+		"nombre": "TOPOGRAFIA",
+		"pcurso": [
+			{
+				"id": "B10",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B11",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T41",
+				"nombre": "TOPOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

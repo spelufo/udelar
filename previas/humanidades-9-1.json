@@ -1,0 +1,216 @@
+[
+	{
+		"id": "L1",
+		"nombre": "ESPAÑOL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LI1",
+				"nombre": "INTRODUCCION A LA LINGUISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L1E",
+		"nombre": "ESPAÑOL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L1E",
+				"nombre": "ESPAÑOL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI14",
+		"nombre": "ESPAÑOL II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LI14",
+				"nombre": "ESPAÑOL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COE1",
+		"nombre": "INSTR. Y RECURSOS DEL CORRECTOR ESTILO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "COE1",
+				"nombre": "INSTR. Y RECURSOS DEL CORRECTOR ESTILO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COE1E",
+		"nombre": "INSTRUMENTOS DEL CORRECTOR DE ESTILO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "COE1E",
+				"nombre": "INSTRUMENTOS DEL CORRECTOR DE ESTILO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI1",
+		"nombre": "INTRODUCCION A LA LINGUISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LI1",
+				"nombre": "INTRODUCCION A LA LINGUISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L6",
+		"nombre": "LITERATURA ESPAÑOLA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L6",
+				"nombre": "LITERATURA ESPAÑOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L10",
+		"nombre": "LITERATURA LATINOAMERICANA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L10",
+				"nombre": "LITERATURA LATINOAMERICANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L11",
+		"nombre": "LITERATURA URUGUAYA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L11",
+				"nombre": "LITERATURA URUGUAYA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI5",
+		"nombre": "SINTAXIS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LI5",
+				"nombre": "SINTAXIS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI5E",
+		"nombre": "SINTAXIS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LI5E",
+				"nombre": "SINTAXIS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COE2",
+		"nombre": "TALLER I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "COE1",
+				"nombre": "INSTR. Y REC. DEL CORREC. EST.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "COE2",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COE3",
+		"nombre": "TALLER II",
+		"pcurso": [
+			{
+				"id": "COE1",
+				"nombre": "INSTR. Y REC. DEL CORREC. EST.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "COE2",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "COE3",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LI11",
+		"nombre": "TEORIA LINGUISTICA IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "LI11",
+				"nombre": "TEORIA LINGUISTICA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L3",
+		"nombre": "TEORIA LITERARIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L3",
+				"nombre": "TEORIA LITERARIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

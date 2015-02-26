@@ -1,0 +1,164 @@
+[
+	{
+		"id": "BL758",
+		"nombre": "BIOLOGIA DE SISTEMAS",
+		"pcurso": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA01",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA03",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL606",
+		"nombre": "CODIFICACION NERVIOSA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL303",
+		"nombre": "ECOLOGIA DE COMUNIDADES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL302",
+		"nombre": "INTRODUCCION A LA BIOMATEMATICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL533",
+		"nombre": "MODELOS NO LINEALES EN BIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BG014",
+		"nombre": "NEUROCIENCIAS I (LIC.BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG014",
+				"nombre": "NEUROCIENCIAS I (LIC.BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG015",
+		"nombre": "NEUROCIENCIAS II (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG015",
+				"nombre": "NEUROCIENCIAS II (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL565",
+		"nombre": "PASANTIA EN BIOMATEMATICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

@@ -1,0 +1,73 @@
+[
+	{
+		"id": "EED",
+		"nombre": "ENTRENAMIENTO ESPECÍFICO DE LA DISCIPLIN",
+		"pcurso": [
+			{
+				"id": "BGE",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EVED",
+		"nombre": "EVALUACIÓN ESPECIFICA DE LA DISCIPLINA",
+		"pcurso": [
+			{
+				"id": "BED",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "F2",
+		"nombre": "FISIOLOGÍA II",
+		"pcurso": [
+			{
+				"id": "F1",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IEP",
+		"nombre": "INTRODUCCIÓN ESPECÍFICA A LA PRÁCTICA",
+		"pcurso": [
+			{
+				"id": "IGP",
+				"nombre": "INTRODUCCIÓN GENERAL A LA PRÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PP",
+				"nombre": "PRÁCTICA PROFESIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PD",
+		"nombre": "PSICOLOGIA DEL DEPORTE",
+		"pcurso": [
+			{
+				"id": "PTA",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

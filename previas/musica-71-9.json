@@ -1,0 +1,352 @@
+[
+	{
+		"id": "GUIT2",
+		"nombre": "GUITARRA 2",
+		"pcurso": [
+			{
+				"id": "GUIT1",
+				"nombre": "GUITARRA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GUIT1",
+				"nombre": "GUITARRA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GUIT3",
+		"nombre": "GUITARRA 3",
+		"pcurso": [
+			{
+				"id": "GUIT1",
+				"nombre": "GUITARRA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GUIT2",
+				"nombre": "GUITARRA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GUIT4",
+		"nombre": "GUITARRA 4",
+		"pcurso": [
+			{
+				"id": "GUIT2",
+				"nombre": "GUITARRA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GUIT3",
+				"nombre": "GUITARRA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GUIT5",
+		"nombre": "GUITARRA 5",
+		"pcurso": [
+			{
+				"id": "G1",
+				"nombre": "GUITARRA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GUIT3",
+				"nombre": "GUITARRA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GUIT4",
+				"nombre": "GUITARRA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G1",
+				"nombre": "GUITARRA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GUIT6",
+		"nombre": "GUITARRA 6",
+		"pcurso": [
+			{
+				"id": "GUIT4",
+				"nombre": "GUITARRA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GUIT5",
+				"nombre": "GUITARRA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GUIT7",
+		"nombre": "GUITARRA 7",
+		"pcurso": [
+			{
+				"id": "GUIT5",
+				"nombre": "GUITARRA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GUIT6",
+				"nombre": "GUITARRA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GUIT8",
+		"nombre": "GUITARRA 8",
+		"pcurso": [
+			{
+				"id": "GUIT6",
+				"nombre": "GUITARRA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GUIT7",
+				"nombre": "GUITARRA 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EMPT2",
+		"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PDC4",
+		"nombre": "PRÁCTICA DE CONJUNTO 4",
+		"pcurso": [
+			{
+				"id": "G1",
+				"nombre": "GUITARRA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G1",
+				"nombre": "GUITARRA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SIN5",
+		"nombre": "SEMINARIO DE INTERPRETACIÓN 5",
+		"pcurso": [
+			{
+				"id": "G1",
+				"nombre": "GUITARRA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G1",
+				"nombre": "GUITARRA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

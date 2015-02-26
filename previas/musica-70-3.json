@@ -1,0 +1,455 @@
+[
+	{
+		"id": "ARRC",
+		"nombre": "ARREGLOS CORALES",
+		"pcurso": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DCOR2",
+		"nombre": "DIRECCIÓN DE CORO 2",
+		"pcurso": [
+			{
+				"id": "DCOR1",
+				"nombre": "DIRECCIÓN DE CORO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DCOR3",
+		"nombre": "DIRECCIÓN DE CORO 3",
+		"pcurso": [
+			{
+				"id": "DCOR1",
+				"nombre": "DIRECCIÓN DE CORO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DCOR2",
+				"nombre": "DIRECCIÓN DE CORO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DCOR4",
+		"nombre": "DIRECCIÓN DE CORO 4",
+		"pcurso": [
+			{
+				"id": "DCOR2",
+				"nombre": "DIRECCIÓN DE CORO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DCOR3",
+				"nombre": "DIRECCIÓN DE CORO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DCOR5",
+		"nombre": "DIRECCIÓN DE CORO 5",
+		"pcurso": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DCOR3",
+				"nombre": "DIRECCIÓN DE CORO 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DCOR4",
+				"nombre": "DIRECCIÓN DE CORO 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DCOR6",
+		"nombre": "DIRECCIÓN DE CORO 6",
+		"pcurso": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DCOR4",
+				"nombre": "DIRECCIÓN DE CORO 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DCOR5",
+				"nombre": "DIRECCIÓN DE CORO 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "DCOR7",
+		"nombre": "DIRECCIÓN DE CORO 7",
+		"pcurso": [
+			{
+				"id": "DCOR5",
+				"nombre": "DIRECCIÓN DE CORO 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DCOR6",
+				"nombre": "DIRECCIÓN DE CORO 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DCOR8",
+		"nombre": "DIRECCIÓN DE CORO 8",
+		"pcurso": [
+			{
+				"id": "DCOR6",
+				"nombre": "DIRECCIÓN DE CORO 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DCOR7",
+				"nombre": "DIRECCIÓN DE CORO 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DORQ1",
+		"nombre": "DIRECCIÓN DE ORQUESTA 1",
+		"pcurso": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EMPT2",
+		"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MYS",
+		"nombre": "MÚSICA Y SOCIEDAD",
+		"pcurso": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EMPT3",
+		"nombre": "MÚSICAS POP. Y TRADICIONALES 3 -ELECTIVA",
+		"pcurso": [
+			{
+				"id": "EMPT2",
+				"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EMPT2",
+				"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EMPT2",
+				"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PC4",
+		"nombre": "PRÁCTICA DE CORO 4",
+		"pcurso": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "DCO1",
+				"nombre": "DIRECCION DE CORO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TVOC2",
+		"nombre": "TÉCNICAS VOCALES 2",
+		"pcurso": [
+			{
+				"id": "TVOC1",
+				"nombre": "TÉCNICAS VOCALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TVOC3",
+		"nombre": "TÉCNICAS VOCALES 3",
+		"pcurso": [
+			{
+				"id": "TVOC1",
+				"nombre": "TÉCNICAS VOCALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TVOC2",
+				"nombre": "TÉCNICAS VOCALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TVOC4",
+		"nombre": "TÉCNICAS VOCALES 4",
+		"pcurso": [
+			{
+				"id": "TVOC2",
+				"nombre": "TÉCNICAS VOCALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TVOC3",
+				"nombre": "TÉCNICAS VOCALES 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

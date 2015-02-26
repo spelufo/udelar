@@ -1,0 +1,132 @@
+[
+	{
+		"id": "BL027",
+		"nombre": "AN.DE VARIAB.GENETICA EN MICROORGANISMOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL027",
+				"nombre": "AN.DE VARIAB.GENETICA EN MICROORGANISMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG020",
+		"nombre": "BIOLOGIA DEL DESARROLLO (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG020",
+				"nombre": "BIOLOGIA DEL DESARROLLO (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL841",
+		"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL841",
+				"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG013",
+		"nombre": "GENETICA HUMANA (LIC.BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG013",
+				"nombre": "GENETICA HUMANA (LIC.BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL087",
+		"nombre": "INMUNOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL087",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL20",
+		"nombre": "INTROD. A LA VIROLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BG017",
+				"nombre": "VIROLOGIA (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL20",
+				"nombre": "INTROD. A LA VIROLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BG017",
+				"nombre": "VIROLOGIA (LIC. BIOL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG017",
+		"nombre": "VIROLOGIA (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG017",
+				"nombre": "VIROLOGIA (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL142",
+		"nombre": "VIROLOGIA MOLECULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL142",
+				"nombre": "VIROLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

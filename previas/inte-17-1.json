@@ -1,0 +1,62 @@
+[
+	{
+		"id": "LGA12",
+		"nombre": "FÍSICA II",
+		"pcurso": [
+			{
+				"id": "LGA10",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LGA10",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LGA02",
+		"nombre": "INTRODUCCIÓN A LA ECOLOGÍA",
+		"pcurso": [
+			{
+				"id": "LGA01",
+				"nombre": "INTRODUCCIÓN A LA BIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LGA01",
+				"nombre": "INTRODUCCIÓN A LA BIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LGA13",
+		"nombre": "QUÍMICA II",
+		"pcurso": [
+			{
+				"id": "LGA11",
+				"nombre": "QUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LGA11",
+				"nombre": "QUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,146 @@
+[
+	{
+		"id": "CB182",
+		"nombre": "AUDICIONES PROGRAMADAS II",
+		"pcurso": [
+			{
+				"id": "CB161",
+				"nombre": "AUDICIONES PROGRAMADAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB161",
+				"nombre": "AUDICIONES PROGRAMADAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB179",
+		"nombre": "GUITARRA II",
+		"pcurso": [
+			{
+				"id": "CB158",
+				"nombre": "GUITARRA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB142",
+				"nombre": "LECTOESCRITURA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB158",
+				"nombre": "GUITARRA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB142",
+				"nombre": "LECTOESCRITURA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB201",
+		"nombre": "GUITARRA III",
+		"pcurso": [
+			{
+				"id": "CB179",
+				"nombre": "GUITARRA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB163",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB179",
+				"nombre": "GUITARRA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB163",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB163",
+		"nombre": "LECTOESCRITURA II",
+		"pcurso": [
+			{
+				"id": "CB142",
+				"nombre": "LECTOESCRITURA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB142",
+				"nombre": "LECTOESCRITURA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB185",
+		"nombre": "LECTOESCRITURA III",
+		"pcurso": [
+			{
+				"id": "CB163",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB163",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB183",
+		"nombre": "TALLER DE SONIDO II",
+		"pcurso": [
+			{
+				"id": "CB162",
+				"nombre": "TALLER DE SONIDO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB162",
+				"nombre": "TALLER DE SONIDO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

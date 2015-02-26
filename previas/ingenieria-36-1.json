@@ -1,0 +1,210 @@
+[
+	{
+		"id": "FIS1",
+		"nombre": "FISICA 1 (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FIS1",
+				"nombre": "FISICA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT1",
+				"nombre": "MATEMATICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FIS2",
+		"nombre": "FISICA 2 (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FIS2",
+				"nombre": "FISICA 2 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT2",
+				"nombre": "MATEMATICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IMF",
+		"nombre": "INT. A LA MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "MD3",
+				"nombre": "COMPORTAMIENTO MEC. DE LOS MAT.(TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FIS1",
+				"nombre": "FISICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT3",
+				"nombre": "MATEMATICA 3 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1",
+				"nombre": "TERMOD.Y MECANICA DE LOS FLUIDOS (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IMF",
+				"nombre": "INT. A LA MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT2",
+				"nombre": "MATEMATICA 2 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2",
+				"nombre": "METALURGIA FISICA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IT",
+		"nombre": "INT. A LA TERMODINAMICA",
+		"pcurso": [
+			{
+				"id": "MD3",
+				"nombre": "COMPORTAMIENTO MEC. DE LOS MAT.(TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FIS1",
+				"nombre": "FISICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT3",
+				"nombre": "MATEMATICA 3 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1",
+				"nombre": "TERMOD.Y MECANICA DE LOS FLUIDOS (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IT",
+				"nombre": "INT. A LA TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT2",
+				"nombre": "MATEMATICA 2 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2",
+				"nombre": "METALURGIA FISICA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MAT2",
+		"nombre": "MATEMATICA 2 (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MAT1",
+				"nombre": "MATEMATICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MAT3",
+		"nombre": "MATEMATICA 3 (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MAT1",
+				"nombre": "MATEMATICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT3",
+				"nombre": "MATEMATICA 3 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TMF1",
+		"nombre": "TERMOD.Y MECANICA DE LOS FLUIDOS (TEC.)",
+		"pcurso": [
+			{
+				"id": "MD3",
+				"nombre": "COMPORTAMIENTO MEC. DE LOS MAT.(TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT3",
+				"nombre": "MATEMATICA 3 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MAT2",
+				"nombre": "MATEMATICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MD2",
+				"nombre": "METALURGIA FISICA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1",
+				"nombre": "TERMOD.Y MECANICA DE LOS FLUIDOS (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

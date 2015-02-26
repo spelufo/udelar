@@ -1,0 +1,2831 @@
+[
+	{
+		"id": "1944",
+		"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 42 - Ciclo 0"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 42 - Ciclo 0"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1910",
+		"nombre": "AGRIMENSURA LEGAL 1",
+		"pcurso": [
+			{
+				"id": "CP282",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1910",
+				"nombre": "AGRIMENSURA LEGAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1222",
+				"nombre": "INT.DERECHO O ELEM DERECHO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1913",
+		"nombre": "AGRIMENSURA LEGAL 2",
+		"pcurso": [
+			{
+				"id": "CP283",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1910",
+				"nombre": "AGRIMENSURA LEGAL1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1222",
+				"nombre": "INT.DERECHO O ELEM DERECHO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1910E",
+				"nombre": "AGRIMENSURA LEGAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1913",
+				"nombre": "AGRIMENSURA LEGAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1817",
+		"nombre": "AGRIMENSURA LEGAL 3",
+		"pcurso": [
+			{
+				"id": "1910E",
+				"nombre": "AGRIMENSURA LEGAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1913",
+				"nombre": "AGRIMENSURA LEGAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP283",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1913E",
+				"nombre": "AGRIMENSURA LEGAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1817",
+				"nombre": "AGRIMENSURA LEGAL 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2014",
+		"nombre": "AGRIMENSURA LEGAL 4",
+		"pcurso": [
+			{
+				"id": "1913E",
+				"nombre": "AGRIMENSURA LEGAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1817",
+				"nombre": "AGRIMENSURA LEGAL 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1817E",
+				"nombre": "AGRIMENSURA LEGAL 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2014",
+				"nombre": "AGRIMENSURA LEGAL 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1612",
+		"nombre": "ASTRONOMIA GEODESICA",
+		"pcurso": [
+			{
+				"id": "CP289",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1125",
+				"nombre": "INT. A LA OPTICA O FISICA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1038",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1612",
+				"nombre": "ASTRONOMIA GEODESICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CALCA",
+				"nombre": "CALCULO 2 OANAL.MAT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GEOM",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1038E",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1614",
+		"nombre": "AVALUACIONES 1",
+		"pcurso": [
+			{
+				"id": "CP285",
+				"nombre": "AVALUACIONES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1614",
+				"nombre": "AVALUACIONES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1618",
+		"nombre": "AVALUACIONES 2",
+		"pcurso": [
+			{
+				"id": "CP285",
+				"nombre": "AVALUACIONES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1614",
+				"nombre": "AVALUACIONES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C1715",
+				"nombre": "INTRODUCCION A LA CONSTRUCCION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1611E",
+				"nombre": "INTRODUCCION AL ANALISIS RURAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1614E",
+				"nombre": "AVALUACIONES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1618",
+				"nombre": "AVALUACIONES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1616",
+				"nombre": "ELEMENTOS DE CONSTRUCCION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1611E",
+				"nombre": "INTRODUCCION AL ANALISIS RURAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2023",
+		"nombre": "AVALUACIONES 3",
+		"pcurso": [
+			{
+				"id": "1618",
+				"nombre": "AVALUACIONES 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1618E",
+				"nombre": "AVALUACIONES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2023",
+				"nombre": "AVALUACIONES 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP45",
+				"nombre": "ANALISIS MATEMATICO I (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP22",
+				"nombre": "ANALISIS MATEMATICO I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA51",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA9",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020E",
+				"nombre": "CALCULO 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1420",
+		"nombre": "CARTOGRAFIA MATEMATICA",
+		"pcurso": [
+			{
+				"id": "CP292",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1807",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1422",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1420",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1807E",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1422E",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1619",
+		"nombre": "CATASTRO",
+		"pcurso": [
+			{
+				"id": "1817",
+				"nombre": "AGRIMENSURA LEGAL 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP287",
+				"nombre": "CATASTRO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1807",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1509",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1913E",
+				"nombre": "AGRIMENSURA LEGAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1614E",
+				"nombre": "AVALUACIONES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1619",
+				"nombre": "CATASTRO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1228",
+		"nombre": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP18",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1529",
+		"nombre": "COMPLEM. TEORIA DE LAS OBSERVACIONES I",
+		"pcurso": [
+			{
+				"id": "CP219",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1528",
+		"nombre": "COMPLEM. TEORIA DE LAS OBSERVACIONES II",
+		"pcurso": [
+			{
+				"id": "CP281",
+				"nombre": "TEORIA DE OBSERVACIONES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1928",
+		"nombre": "COMPLEMENTARIA DE AGRIMENSURA LEGAL I",
+		"pcurso": [
+			{
+				"id": "CP282",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1622",
+		"nombre": "COMPLEMENTARIA DE CATASTRO",
+		"pcurso": [
+			{
+				"id": "CP287",
+				"nombre": "CATASTRO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2111",
+		"nombre": "COMPLEMENTARIA DE PROYECTO",
+		"pcurso": [
+			{
+				"id": "CP299",
+				"nombre": "PROYECTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1318",
+		"nombre": "COMPLEMENTARIA DE SIST. DE INF. GEOGR.",
+		"pcurso": [
+			{
+				"id": "CP295",
+				"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1530",
+		"nombre": "COMPLEMENTARIA DE TOPOGRAFIA I (PARTE 1)",
+		"pcurso": [
+			{
+				"id": "CP305",
+				"nombre": "TOPOGRAFIA I (1ERA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP279",
+				"nombre": "TOPOGRAFIA I (2DA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1408",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B315",
+				"nombre": "COMPUTACION I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1408",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1411",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B315",
+				"nombre": "COMPUTACION I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2025",
+		"nombre": "DISEÑO CATASTRAL",
+		"pcurso": [
+			{
+				"id": "1618",
+				"nombre": "AVALUACIONES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1619",
+				"nombre": "CATASTRO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1317",
+				"nombre": "SIST. DE INFOR. GEOGRAFICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1618E",
+				"nombre": "AVALUACIONES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1619E",
+				"nombre": "CATASTRO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2025",
+				"nombre": "DISEÑO CATASTRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1317E",
+				"nombre": "SISTEMAS DE INFOR.GEOGRAFICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [
+			{
+				"id": "CP20",
+				"nombre": "ECONOMIA POLITICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP48",
+				"nombre": "ANALISIS MATEMATICO II (1ER.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1074",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2214",
+		"nombre": "ELEM.DE GEOLOGIA PARA LA PLANIF.TERRIT.",
+		"pcurso": [
+			{
+				"id": "1806",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1417",
+				"nombre": "INT. A LA GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1616",
+		"nombre": "ELEMENTOS DE CONSTRUCCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP286",
+				"nombre": "ELEMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1151",
+		"nombre": "FISICA 1",
+		"pcurso": [
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1152",
+		"nombre": "FISICA 2",
+		"pcurso": [
+			{
+				"id": "1020C",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1C",
+				"nombre": "FISICA 1 O FISICA GRAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1153",
+		"nombre": "FISICA 3",
+		"pcurso": [
+			{
+				"id": "1020C",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FIS",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP3",
+				"nombre": "MECANICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP17",
+				"nombre": "MECANICA I (TRANSICION)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1121",
+		"nombre": "FISICA GENERAL 2",
+		"pcurso": [
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2027",
+		"nombre": "FOTOGRAMETRIA APLICADA",
+		"pcurso": [
+			{
+				"id": "2015",
+				"nombre": "FOTOGRAMETRIA AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2027",
+				"nombre": "FOTOGRAMETRIA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015",
+				"nombre": "FOTOGRAMETRIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2015",
+		"nombre": "FOTOGRAMETRIA AVANZADA",
+		"pcurso": [
+			{
+				"id": "1807",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2015",
+				"nombre": "FOTOGRAMETRIA AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1807E",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1807",
+		"nombre": "FOTOGRAMETRIA Y PERCEPCION REMOTA",
+		"pcurso": [
+			{
+				"id": "CP288",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1806",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1527",
+				"nombre": "TOPOGRAFIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1807",
+				"nombre": "FOTOGRAMETRIA Y PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1806E",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1806",
+		"nombre": "FOTOINTERPRETACION",
+		"pcurso": [
+			{
+				"id": "E1121",
+				"nombre": "FIS.GRAL 2 O ELECTROMAGNETISMO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP288",
+				"nombre": "FOTOGRAMETRIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1220C",
+				"nombre": "TALLER DE DISEÑO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1806",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1418",
+		"nombre": "GEODESIA 1",
+		"pcurso": [
+			{
+				"id": "1612",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP297",
+				"nombre": "GEODESIA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP304",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1509",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1612E",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1411C",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1418",
+				"nombre": "GEODESIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1509E",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1422",
+		"nombre": "GEODESIA 2",
+		"pcurso": [
+			{
+				"id": "1418",
+				"nombre": "GEODESIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP297",
+				"nombre": "GEODESIA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP304",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1524",
+				"nombre": "TOPOGRAFIA 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUT. 1 (E)  89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1422",
+				"nombre": "GEODESIA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1418E",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1524E",
+				"nombre": "TOPOGRAFIA 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1419",
+		"nombre": "GEODESIA 3",
+		"pcurso": [
+			{
+				"id": "1422",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP300",
+				"nombre": "GEODESIA SATELITAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1422E",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1419",
+				"nombre": "GEODESIA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1421",
+		"nombre": "GEOFISICA",
+		"pcurso": [
+			{
+				"id": "1151E",
+				"nombre": "FISICA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153E",
+				"nombre": "FISICA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1422",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP291",
+				"nombre": "GEOFISICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1422E",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1421",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [
+			{
+				"id": "1030C",
+				"nombre": "GEOM. 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1715",
+		"nombre": "INT. A LA CONSTRUCCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1715",
+				"nombre": "INT. A LA CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1526E",
+				"nombre": "TEORIA DE INSTRUMENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1417",
+		"nombre": "INT. A LA GEOLOGIA",
+		"pcurso": [
+			{
+				"id": "2214",
+				"nombre": "ELEM.DE GEOLOGIA PARA LA PLANIF.TERRIT.",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP290",
+				"nombre": "ELEMENTOS DE GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1806",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1417",
+				"nombre": "INT. A LA GEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1125",
+		"nombre": "INT. A LA OPTICA",
+		"pcurso": [
+			{
+				"id": "B301",
+				"nombre": "FIS.GRAL.2  ELECTROMAG.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP3",
+				"nombre": "MECANICA I O FIS.GRAL. 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP21",
+				"nombre": "OPTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1125",
+				"nombre": "INT. A LA OPTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1507",
+		"nombre": "INT. A LAS ORGANIZACIONES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 42 - Ciclo 0"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1507",
+				"nombre": "INT. A LAS ORGANIZACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1611",
+		"nombre": "INT. AL ANALISIS RURAL",
+		"pcurso": [
+			{
+				"id": "CP284",
+				"nombre": "INFORMACION Y ANALISIS RURAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1611",
+				"nombre": "INT. AL ANALISIS RURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1222",
+		"nombre": "INT. AL DERECHO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP19",
+				"nombre": "ELEMENTOS DEL DERECHO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1122",
+		"nombre": "MECANICA NEWTONIANA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1121",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP8",
+				"nombre": "MECANICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1930",
+		"nombre": "ORGANIZACIONES PARA INGENIEROS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2024",
+		"nombre": "PERCEPCION REMOTA",
+		"pcurso": [
+			{
+				"id": "1807",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1807E",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2029",
+		"nombre": "PERCEPCION REMOTA APLICADA",
+		"pcurso": [
+			{
+				"id": "2024",
+				"nombre": "PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2024",
+				"nombre": "PERCEPCION REMOTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2029",
+				"nombre": "PERCEPCION REMOTA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2242",
+		"nombre": "PLANIFICACION",
+		"pcurso": [
+			{
+				"id": "1910",
+				"nombre": "AGRIMENSURA LEGAL1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1806E",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1611",
+				"nombre": "INTRODUCCION AL ANALISIS RURAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP293",
+				"nombre": "PLANIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1910E",
+				"nombre": "AGRIMENSURA LEGAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1228",
+				"nombre": "CIENCIA,TEC. Y SOCIEDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1611E",
+				"nombre": "INTRODUCCION AL ANALISIS RURAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2242",
+				"nombre": "PLANIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1945",
+		"nombre": "PRACTICA DE ADMINIST. PARA INGENIEROS",
+		"pcurso": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP49",
+				"nombre": "ANALISIS MATEMATICO II (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA51",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2110",
+		"nombre": "PROYECTO (AGRIM.)",
+		"pcurso": [
+			{
+				"id": "1817E",
+				"nombre": "AGRIMENSURA LEGAL 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1618E",
+				"nombre": "AVALUACIONES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1419",
+				"nombre": "GEODESIA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP299",
+				"nombre": "PROYECTO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1317",
+				"nombre": "SIST. DE INFOR. GEOGRAFICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1420E",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1619E",
+				"nombre": "CATASTRO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1419E",
+				"nombre": "GEODESIA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1421E",
+				"nombre": "GEOFISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2242E",
+				"nombre": "PLANIFICACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2110",
+				"nombre": "PROYECTO (AGRIM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1317E",
+				"nombre": "SISTEMAS DE INFOR.GEOGRAFICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1525E",
+				"nombre": "TRAZADO DE CAMINOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2245E",
+				"nombre": "URBANISMO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1317",
+		"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
+		"pcurso": [
+			{
+				"id": "1619",
+				"nombre": "CATASTRO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1807",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP295",
+				"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1807E",
+				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1317",
+				"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1032",
+		"nombre": "SISTEMAS DE REFERENCIA",
+		"pcurso": [
+			{
+				"id": "CALCA",
+				"nombre": "CALCULO 2 OANAL.MAT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GEOM",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP2",
+				"nombre": "GEOMETRIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1032",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1038",
+		"nombre": "SISTEMAS DE REFERENCIA",
+		"pcurso": [
+			{
+				"id": "CALCA",
+				"nombre": "CALCULO 2 OANAL.MAT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GEOM",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP2",
+				"nombre": "GEOMETRIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1038",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1220",
+		"nombre": "TALLER DE DISEÑO, COM. Y REPRES. GRAFICA",
+		"pcurso": [
+			{
+				"id": "1220C",
+				"nombre": "TALLER DE DISEÑO",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "CP55",
+				"nombre": "TALLER LABORATORIO I (MODULO DE DIBUJO)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1521",
+		"nombre": "TEORIA DE ERRORES 1",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP2",
+				"nombre": "GEOMETRIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025C",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP219",
+				"nombre": "TEORIA DE LAS OBSERVACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CALCA",
+				"nombre": "CALCULO 2 OANAL.MAT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GEOM",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1522",
+		"nombre": "TEORIA DE ERRORES 2",
+		"pcurso": [
+			{
+				"id": "1521",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP281",
+				"nombre": "TEORIA DE OBSERVACIONES II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "PROBA",
+				"nombre": "PROB.Y ESTAD.Y ANAL.MATEM.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521E",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1522",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2026",
+		"nombre": "TEORIA DE ERRORES AVANZADA",
+		"pcurso": [
+			{
+				"id": "1522",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1522E",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2026",
+				"nombre": "TEORIA DE ERRORES AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1520",
+		"nombre": "TEORIA DE INSTRUMENTAL",
+		"pcurso": [
+			{
+				"id": "1004",
+				"nombre": "CALCULO 3 Y ANALISIS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1125",
+				"nombre": "INT. A LA OPTICA O FISICA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1038",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP305",
+				"nombre": "TOPOGRAFIA I (1ERA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP279",
+				"nombre": "TOPOGRAFIA I (2DA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA Y GEOMETRIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1125E",
+				"nombre": "OPTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1038E",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1520",
+				"nombre": "TEORIA DE INSTRUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1526",
+		"nombre": "TEORIA DE INSTRUMENTAL",
+		"pcurso": [
+			{
+				"id": "1004",
+				"nombre": "CALCULO 3 Y ANALISIS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1125",
+				"nombre": "INT. A LA OPTICA O FISICA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1038",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP305",
+				"nombre": "TOPOGRAFIA I (1ERA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP279",
+				"nombre": "TOPOGRAFIA I (2DA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA Y GEOMETRIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1125",
+				"nombre": "INT.A LA OPTICA O FIS.3 O FG 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1038E",
+				"nombre": "SISTEMAS DE REFERENCIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1526",
+				"nombre": "TEORIA DE INSTRUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1523",
+		"nombre": "TOPOGRAFIA 1",
+		"pcurso": [
+			{
+				"id": "1220C",
+				"nombre": "TALLER DE DISEÑO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1526",
+				"nombre": "TEORIA DE INSTRUMENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP305",
+				"nombre": "TOPOGRAFIA I (1ERA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP279",
+				"nombre": "TOPOGRAFIA I (2DA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521E",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1522",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1526E",
+				"nombre": "TEORIA DE INSTRUMENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1523",
+				"nombre": "TOPOGRAFIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1527",
+		"nombre": "TOPOGRAFIA 1",
+		"pcurso": [
+			{
+				"id": "1220C",
+				"nombre": "TALLER DE DISEÑO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1526",
+				"nombre": "TEORIA DE INSTRUMENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP305",
+				"nombre": "TOPOGRAFIA I (1ERA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP279",
+				"nombre": "TOPOGRAFIA I (2DA. PARTE)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1521E",
+				"nombre": "TEORIA DE ERRORES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1522",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1526E",
+				"nombre": "TEORIA DE INSTRUMENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1527",
+				"nombre": "TOPOGRAFIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1509",
+		"nombre": "TOPOGRAFIA 2",
+		"pcurso": [
+			{
+				"id": "1522",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1527",
+				"nombre": "TOPOGRAFIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP296",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1522E",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1527E",
+				"nombre": "TOPOGRAFIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1509",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1524",
+		"nombre": "TOPOGRAFIA 3",
+		"pcurso": [
+			{
+				"id": "1913",
+				"nombre": "AGRIMENSURA LEGAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1614",
+				"nombre": "AVALUACIONES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1509",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP296",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1612E",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1522E",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1509E",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1524",
+				"nombre": "TOPOGRAFIA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1525",
+				"nombre": "TRAZADO DE CAMINOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2016",
+		"nombre": "TOPOMETRIA",
+		"pcurso": [
+			{
+				"id": "1418",
+				"nombre": "GEODESIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1524",
+				"nombre": "TOPOGRAFIA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1525",
+				"nombre": "TRAZADO DE CAMINOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1418E",
+				"nombre": "GEODESIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1524E",
+				"nombre": "TOPOGRAFIA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TOPOMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1525E",
+				"nombre": "TRAZADO DE CAMINOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1525",
+		"nombre": "TRAZADO DE CAMINOS",
+		"pcurso": [
+			{
+				"id": "C1715",
+				"nombre": "INTRODUCCION A LA CONSTRUCCION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1522",
+				"nombre": "TEORIA DE ERRORES 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1509",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP298",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1509E",
+				"nombre": "TOPOGRAFIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1525",
+				"nombre": "TRAZADO DE CAMINOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2245",
+		"nombre": "URBANISMO",
+		"pcurso": [
+			{
+				"id": "1910",
+				"nombre": "AGRIMENSURA LEGAL1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1806E",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1611",
+				"nombre": "INTRODUCCION AL ANALISIS RURAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP294",
+				"nombre": "URBANISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1910E",
+				"nombre": "AGRIMENSURA LEGAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1611E",
+				"nombre": "INTRODUCCION AL ANALISIS RURAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2245",
+				"nombre": "URBANISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

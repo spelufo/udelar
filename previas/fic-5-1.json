@@ -1,0 +1,45 @@
+[
+	{
+		"id": "5002",
+		"nombre": "INGLÉS-LENGUA EXTR. MOD LENG Y MED 9CR",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 1,
+				"texto": " Créditos en la Carrera 5 - Ciclo 1. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5004",
+		"nombre": "PORTUGUÉS-LENGUA EXTR.MOD.LENG Y MED 9CR",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 1,
+				"texto": " Créditos en la Carrera 5 - Ciclo 1. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5012",
+		"nombre": "TRABAJO DE INTR.ACAD.PROFESIONAL (4 CR)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5007",
+				"nombre": "PRODUCCIÓN ACADÉMICO ESTUDIANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5009",
+				"nombre": "UNIVERSIDAD Y CAMPO PROFESIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

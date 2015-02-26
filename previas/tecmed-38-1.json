@@ -1,0 +1,1471 @@
+[
+	{
+		"id": "12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "381",
+		"nombre": "BIOMECANICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "381",
+				"nombre": "BIOMECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "388",
+		"nombre": "COMPUTACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "388",
+				"nombre": "COMPUTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3812",
+		"nombre": "COMPUTACION APLICADA",
+		"pcurso": [
+			{
+				"id": "388",
+				"nombre": "COMPUTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3812",
+				"nombre": "COMPUTACION APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "382",
+		"nombre": "DESARROLLO  CREATIVO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "382",
+				"nombre": "DESARROLLO  CREATIVO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "14",
+		"nombre": "FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3824",
+		"nombre": "INTERNADO",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "381",
+				"nombre": "BIOMECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "388",
+				"nombre": "COMPUTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3812",
+				"nombre": "COMPUTACION APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "382",
+				"nombre": "DESARROLLO  CREATIVO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3819",
+				"nombre": "LEGISLACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "389",
+				"nombre": "METODOLOGIA Y TECN. DEL TRABAJO INTELECT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3814",
+				"nombre": "MODULO 1 INTEGRADO PSICOLOGIA TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3816",
+				"nombre": "MODULO II INTEGRADO-PSIC.TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3818",
+				"nombre": "OPCIONALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3822",
+				"nombre": "OPCIONALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3821",
+				"nombre": "PASANTIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3813",
+				"nombre": "PATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "387",
+				"nombre": "PEDAGOGIA, DIDACTICA Y EVALUACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "385",
+				"nombre": "PSICOLOGIA DEL CICLO VITAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3811",
+				"nombre": "RECREACION, DEPORTES Y ANIMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "386",
+				"nombre": "TALLER (A.I.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "383",
+				"nombre": "TALLERES DE FORMACION PROFESIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "384",
+				"nombre": "TERAPIA OCUPACIONAL 1 INTRODUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3810",
+				"nombre": "TERAPIA OCUPACIONAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3815",
+				"nombre": "TERAPIA OCUPACIONAL 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3817",
+				"nombre": "TERAPIA OCUPACIONAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3820",
+				"nombre": "TERAPIA OCUPACIONAL V",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3823",
+				"nombre": "TERAPIA OCUPACIONAL VI",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3819",
+		"nombre": "LEGISLACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3819",
+				"nombre": "LEGISLACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "389",
+		"nombre": "METODOLOGIA Y TECN. DEL TRABAJO INTELECT",
+		"pcurso": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "389",
+				"nombre": "METODOLOGIA Y TECN. DEL TRABAJO INTELECT",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3814",
+		"nombre": "MODULO 1 INTEGRADO PSICOLOGIA TALLER",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3814",
+				"nombre": "MODULO 1 INTEGRADO PSICOLOGIA TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3816",
+		"nombre": "MODULO II INTEGRADO-PSIC.TALLER",
+		"pcurso": [
+			{
+				"id": "3814",
+				"nombre": "MODULO 1 INTEGRADO PSICOLOGIA TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3816",
+				"nombre": "MODULO II INTEGRADO-PSIC.TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3818",
+		"nombre": "OPCIONALES I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3818",
+				"nombre": "OPCIONALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3822",
+		"nombre": "OPCIONALES II",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3822",
+				"nombre": "OPCIONALES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3821",
+		"nombre": "PASANTIAS",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "381",
+				"nombre": "BIOMECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "388",
+				"nombre": "COMPUTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3812",
+				"nombre": "COMPUTACION APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3819",
+				"nombre": "LEGISLACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "389",
+				"nombre": "METODOLOGIA Y TECN. DEL TRABAJO INTELECT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3814",
+				"nombre": "MODULO 1 INTEGRADO PSICOLOGIA TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3816",
+				"nombre": "MODULO II INTEGRADO-PSIC.TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3818",
+				"nombre": "OPCIONALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3813",
+				"nombre": "PATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "387",
+				"nombre": "PEDAGOGIA, DIDACTICA Y EVALUACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "385",
+				"nombre": "PSICOLOGIA DEL CICLO VITAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3811",
+				"nombre": "RECREACION, DEPORTES Y ANIMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "386",
+				"nombre": "TALLER (A.I.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "384",
+				"nombre": "TERAPIA OCUPACIONAL 1 INTRODUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3810",
+				"nombre": "TERAPIA OCUPACIONAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3815",
+				"nombre": "TERAPIA OCUPACIONAL 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3817",
+				"nombre": "TERAPIA OCUPACIONAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3820",
+				"nombre": "TERAPIA OCUPACIONAL V",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "382",
+				"nombre": "DESARROLLO  CREATIVO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3821",
+				"nombre": "PASANTIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "383",
+				"nombre": "TALLERES DE FORMACION PROFESIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3813",
+		"nombre": "PATOLOGIA",
+		"pcurso": [
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3813",
+				"nombre": "PATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "387",
+		"nombre": "PEDAGOGIA, DIDACTICA Y EVALUACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "387",
+				"nombre": "PEDAGOGIA, DIDACTICA Y EVALUACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "321",
+		"nombre": "PROFUNDIZACION",
+		"pcurso": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3825",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "381",
+				"nombre": "BIOMECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "388",
+				"nombre": "COMPUTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3812",
+				"nombre": "COMPUTACION APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "382",
+				"nombre": "DESARROLLO  CREATIVO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3824",
+				"nombre": "INTERNADO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3819",
+				"nombre": "LEGISLACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "389",
+				"nombre": "METODOLOGIA Y TECN. DEL TRABAJO INTELECT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3814",
+				"nombre": "MODULO 1 INTEGRADO PSICOLOGIA TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3816",
+				"nombre": "MODULO II INTEGRADO-PSIC.TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3818",
+				"nombre": "OPCIONALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3822",
+				"nombre": "OPCIONALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3821",
+				"nombre": "PASANTIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3813",
+				"nombre": "PATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "387",
+				"nombre": "PEDAGOGIA, DIDACTICA Y EVALUACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "385",
+				"nombre": "PSICOLOGIA DEL CICLO VITAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3811",
+				"nombre": "RECREACION, DEPORTES Y ANIMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "386",
+				"nombre": "TALLER (A.I.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "383",
+				"nombre": "TALLERES DE FORMACION PROFESIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "384",
+				"nombre": "TERAPIA OCUPACIONAL 1 INTRODUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3810",
+				"nombre": "TERAPIA OCUPACIONAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3815",
+				"nombre": "TERAPIA OCUPACIONAL 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3817",
+				"nombre": "TERAPIA OCUPACIONAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3820",
+				"nombre": "TERAPIA OCUPACIONAL V",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3823",
+				"nombre": "TERAPIA OCUPACIONAL VI",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "385",
+		"nombre": "PSICOLOGIA DEL CICLO VITAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "385",
+				"nombre": "PSICOLOGIA DEL CICLO VITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3811",
+		"nombre": "RECREACION, DEPORTES Y ANIMACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3811",
+				"nombre": "RECREACION, DEPORTES Y ANIMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "386",
+		"nombre": "TALLER (A.I.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "386",
+				"nombre": "TALLER (A.I.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "383",
+		"nombre": "TALLERES DE FORMACION PROFESIONAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "383",
+				"nombre": "TALLERES DE FORMACION PROFESIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "384",
+		"nombre": "TERAPIA OCUPACIONAL 1 INTRODUCCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "384",
+				"nombre": "TERAPIA OCUPACIONAL 1 INTRODUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3810",
+		"nombre": "TERAPIA OCUPACIONAL 2",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "321",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "384",
+				"nombre": "TERAPIA OCUPACIONAL 1 INTRODUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3810",
+				"nombre": "TERAPIA OCUPACIONAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3815",
+		"nombre": "TERAPIA OCUPACIONAL 3",
+		"pcurso": [
+			{
+				"id": "3810",
+				"nombre": "TERAPIA OCUPACIONAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3815",
+				"nombre": "TERAPIA OCUPACIONAL 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3817",
+		"nombre": "TERAPIA OCUPACIONAL IV",
+		"pcurso": [
+			{
+				"id": "3815",
+				"nombre": "TERAPIA OCUPACIONAL 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3817",
+				"nombre": "TERAPIA OCUPACIONAL IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3820",
+		"nombre": "TERAPIA OCUPACIONAL V",
+		"pcurso": [
+			{
+				"id": "3817",
+				"nombre": "TERAPIA OCUPACIONAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3820",
+				"nombre": "TERAPIA OCUPACIONAL V",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3823",
+		"nombre": "TERAPIA OCUPACIONAL VI",
+		"pcurso": [
+			{
+				"id": "3820",
+				"nombre": "TERAPIA OCUPACIONAL V",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3823",
+				"nombre": "TERAPIA OCUPACIONAL VI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

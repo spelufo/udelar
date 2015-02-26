@@ -1,0 +1,565 @@
+[
+	{
+		"id": "N43",
+		"nombre": "CONSTRUCCION NAVAL I",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "N43",
+				"nombre": "CONSTRUCCION NAVAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "N54",
+		"nombre": "CONSTRUCCION NAVAL II",
+		"pcurso": [
+			{
+				"id": "N43",
+				"nombre": "CONSTRUCCION NAVAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N40",
+				"nombre": "TEORIA DEL BUQUE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "N43",
+				"nombre": "CONSTRUCCION NAVAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N54",
+				"nombre": "CONSTRUCCION NAVAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N40",
+				"nombre": "TEORIA DEL BUQUE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "404",
+		"nombre": "COSTOS Y ADMINISTRACION GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "404",
+				"nombre": "COSTOS Y ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B15",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M52",
+		"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS",
+		"pcurso": [
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M52",
+				"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M53",
+		"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS I",
+		"pcurso": [
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M53",
+				"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "N45",
+		"nombre": "MAQUINAS MARINAS I",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "N45",
+				"nombre": "MAQUINAS MARINAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B13",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "N55",
+		"nombre": "MAQUINAS MARINAS II",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "N45",
+				"nombre": "MAQUINAS MARINAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B13",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N45",
+				"nombre": "MAQUINAS MARINAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N55",
+				"nombre": "MAQUINAS MARINAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "M41",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M51",
+		"nombre": "METALURGIA",
+		"pcurso": [
+			{
+				"id": "B10",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B11",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M51",
+				"nombre": "METALURGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T40",
+		"nombre": "RESISTENCIA DE MATERIALES II",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "N40",
+		"nombre": "TEORIA DEL BUQUE I",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N40",
+				"nombre": "TEORIA DEL BUQUE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "N50",
+		"nombre": "TEORIA DEL BUQUE II",
+		"pcurso": [
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N40",
+				"nombre": "TEORIA DEL BUQUE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "N40",
+				"nombre": "TEORIA DEL BUQUE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "N50",
+				"nombre": "TEORIA DEL BUQUE II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M41",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

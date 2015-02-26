@@ -1,0 +1,473 @@
+[
+	{
+		"id": "2.4AH",
+		"nombre": "CUARTO PROF. ANHELO HERNANDEZ",
+		"pcurso": [
+			{
+				"id": "TLO3",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.4CS",
+		"nombre": "CUARTO PROF. CARLOS SEVESO",
+		"pcurso": [
+			{
+				"id": "TLO3",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.4HL",
+		"nombre": "CUARTO PROF. HECTOR LABORDE",
+		"pcurso": [
+			{
+				"id": "TLO3",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.4JA",
+		"nombre": "CUARTO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "TLO3",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.4JI",
+		"nombre": "CUARTO PROF. JOSE L. INVERNIZZI",
+		"pcurso": [
+			{
+				"id": "TLO3",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.04",
+		"nombre": "CUARTO SEMINARIO DE LAS ESTETICAS III",
+		"pcurso": [
+			{
+				"id": "2.03",
+				"nombre": "SEMINARIO DE LAS EST. III-NIVEL III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.1AH",
+		"nombre": "PRIMERO PROF. ANHELO HERNANDEZ",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.1CS",
+		"nombre": "PRIMERO PROF. CARLOS SEVESO",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.1EA",
+		"nombre": "PRIMERO PROF. ERNESTO AROZTEGUI",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.1HL",
+		"nombre": "PRIMERO PROF. HECTOR LABORDE",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.1JA",
+		"nombre": "PRIMERO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.1JI",
+		"nombre": "PRIMERO PROF. JOSE L. INVERNIZZI",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.1OA",
+		"nombre": "PRIMERO PROF. OSCAR AGUIRRE",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1.03R",
+		"nombre": "ROTACIONES",
+		"pcurso": [
+			{
+				"id": "1.03",
+				"nombre": "SEMINARIO DE LAS ESTETICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.2AH",
+		"nombre": "SEGUNDO PROF. ANHELO HERNANDEZ",
+		"pcurso": [
+			{
+				"id": "TLOEP",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.2CS",
+		"nombre": "SEGUNDO PROF. CARLOS SEVESO",
+		"pcurso": [
+			{
+				"id": "TLOEP",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.2EA",
+		"nombre": "SEGUNDO PROF. ERNESTO AROZTEGUI",
+		"pcurso": [
+			{
+				"id": "2.1EA",
+				"nombre": "PRIMERO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.2HL",
+		"nombre": "SEGUNDO PROF. HECTOR LABORDE",
+		"pcurso": [
+			{
+				"id": "TLOEP",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.2JA",
+		"nombre": "SEGUNDO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "TLOEP",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.2JI",
+		"nombre": "SEGUNDO PROF. JOSE L. INVERNIZZI",
+		"pcurso": [
+			{
+				"id": "TLOEP",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.2OA",
+		"nombre": "SEGUNDO PROF. OSCAR AGUIRRE",
+		"pcurso": [
+			{
+				"id": "1.03R",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.02",
+		"nombre": "SEMINARIO DE LAS EST. III-NIVEL II",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.03",
+		"nombre": "SEMINARIO DE LAS EST. III-NIVEL III",
+		"pcurso": [
+			{
+				"id": "2.02",
+				"nombre": "SEMINARIO DE LAS EST. III-NIVEL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1.02",
+		"nombre": "SEMINARIO DE LAS ESTETICAS I",
+		"pcurso": [
+			{
+				"id": "1.01",
+				"nombre": "TALLER DE LOS FENOMENOS DE PERC. Y LENG.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1.03",
+		"nombre": "SEMINARIO DE LAS ESTETICAS II",
+		"pcurso": [
+			{
+				"id": "1.02",
+				"nombre": "SEMINARIO DE LAS ESTETICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3AH",
+		"nombre": "TERCERO PROF. ANHELO HERNANDEZ",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TLO2",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3AL",
+		"nombre": "TERCERO PROF. AURELIO LEBRATO",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TLO2",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3CS",
+		"nombre": "TERCERO PROF. CARLOS SEVESO",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TLO2",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3EA",
+		"nombre": "TERCERO PROF. ERNESTO AROZTEGUI",
+		"pcurso": [
+			{
+				"id": "2.2EA",
+				"nombre": "SEGUNDO PROF. ERNESTO AROZTEGUI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3HL",
+		"nombre": "TERCERO PROF. HECTOR LABORDE",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TLO2",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3JA",
+		"nombre": "TERCERO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TLO2",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3JI",
+		"nombre": "TERCERO PROF. JOSE L. INVERNIZZI",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TLO2",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2.3SP",
+		"nombre": "TERCERO PROF. SILVESTRE PECIAR",
+		"pcurso": [
+			{
+				"id": "2.01",
+				"nombre": "SEMINARIO DE LAS EST. III -NIVEL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TLO2",
+				"nombre": "TALLER PARALELO DE L.O.E.P.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

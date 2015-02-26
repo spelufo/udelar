@@ -1,0 +1,718 @@
+[
+	{
+		"id": "MA02",
+		"nombre": "ALGEBRA LINEAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA04",
+		"nombre": "ALGEBRA LINEAL II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA01",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA03",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA07",
+		"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME008",
+		"nombre": "CLIMATOLOGIA I",
+		"pcurso": [
+			{
+				"id": "ME002",
+				"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME008",
+				"nombre": "CLIMATOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI10",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME003",
+		"nombre": "FISICA DE LA ATMOSFERA (CS.METEOR.)",
+		"pcurso": [
+			{
+				"id": "ME002",
+				"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME003",
+				"nombre": "FISICA DE LA ATMOSFERA (CS.METEOR.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI01",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME006",
+		"nombre": "INSTRUMENTOS I",
+		"pcurso": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME006",
+				"nombre": "INSTRUMENTOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME002",
+				"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA10",
+		"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME002",
+		"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME001",
+				"nombre": "METEOROLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME002",
+				"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME001",
+				"nombre": "METEOROLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA008",
+		"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS017",
+		"nombre": "INTRODUCCION A LA ASTROFISICA",
+		"pcurso": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS017",
+				"nombre": "INTRODUCCION A LA ASTROFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA09",
+		"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA09",
+				"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME009",
+		"nombre": "LABORATORIO SINOPTICO I",
+		"pcurso": [
+			{
+				"id": "ME003",
+				"nombre": "FISICA DE LA ATMOSFERA (CS.METEOR.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME005",
+				"nombre": "METEOROLOGIA DINAMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME009",
+				"nombre": "LABORATORIO SINOPTICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME007",
+				"nombre": "METEOROLOGIA SINOPTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME04",
+		"nombre": "MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME002",
+				"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME002",
+				"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME04",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI002",
+		"nombre": "MECANICA I",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI002",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME005",
+		"nombre": "METEOROLOGIA DINAMICA I",
+		"pcurso": [
+			{
+				"id": "ME04",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME005",
+				"nombre": "METEOROLOGIA DINAMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME001",
+		"nombre": "METEOROLOGIA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME001",
+				"nombre": "METEOROLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME007",
+		"nombre": "METEOROLOGIA SINOPTICA I",
+		"pcurso": [
+			{
+				"id": "ME003",
+				"nombre": "FISICA DE LA ATMOSFERA (CS.METEOR.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME005",
+				"nombre": "METEOROLOGIA DINAMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ME003",
+				"nombre": "FISICA DE LA ATMOSFERA (CS.METEOR.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ME007",
+				"nombre": "METEOROLOGIA SINOPTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI05",
+		"nombre": "ONDAS",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI002",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI002",
+				"nombre": "MECANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI29",
+		"nombre": "TALLER I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI41",
+		"nombre": "TALLER II",
+		"pcurso": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI04",
+		"nombre": "TERMODINAMICA",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

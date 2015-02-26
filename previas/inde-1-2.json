@@ -1,0 +1,203 @@
+[
+	{
+		"id": "405",
+		"nombre": "ADMINISTRACION DE LOS SERVICIOS DE ENF.",
+		"pcurso": [
+			{
+				"id": "406",
+				"nombre": "ENFERMERIA EN LA COMUNIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "401",
+		"nombre": "EDUCACION II",
+		"pcurso": [
+			{
+				"id": "203",
+				"nombre": "EDUCACION PARA LA SALUD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "302",
+		"nombre": "ENFE.MEDICO QUIRURGICA I A B Y C (ANUAL)",
+		"pcurso": [
+			{
+				"id": "206",
+				"nombre": "ENFERMERIA MATERNO INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "406",
+		"nombre": "ENFERMERIA EN LA COMUNIDAD",
+		"pcurso": [
+			{
+				"id": "404",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "206",
+		"nombre": "ENFERMERIA MATERNO INFANTIL",
+		"pcurso": [
+			{
+				"id": "112",
+				"nombre": "APRE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "EDUCACION PARA LA SALUD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "ESTRUCTURAS Y FUNCIONES NORMALES A,B Y C",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "HISTORIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "106",
+				"nombre": "HISTORIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "102",
+				"nombre": "METODOS CUANTITATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "109",
+				"nombre": "PSICOLOGIA EVOLUTIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "PSICOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "101",
+				"nombre": "SALUD AMBIENTAL Y MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "111",
+				"nombre": "SALUD PUBLICA Y ENFERMERIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "SALUD PUBLICA Y ENFERMERIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "SOCIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "404",
+		"nombre": "ENFERMERIA MEDICO QUIRURGICA II",
+		"pcurso": [
+			{
+				"id": "403",
+				"nombre": "ENFERMERIA PSIQUIATRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "403",
+		"nombre": "ENFERMERIA PSIQUIATRICA",
+		"pcurso": [
+			{
+				"id": "302",
+				"nombre": "ENFE.MEDICO QUIRURGICA I A B Y C (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "106",
+		"nombre": "HISTORIA II",
+		"pcurso": [
+			{
+				"id": "105",
+				"nombre": "HISTORIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "204",
+		"nombre": "SALUD PUBLICA Y ENFERMERIA II",
+		"pcurso": [
+			{
+				"id": "111",
+				"nombre": "SALUD PUBLICA Y ENFERMERIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

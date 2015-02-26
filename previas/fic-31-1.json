@@ -1,0 +1,853 @@
+[
+	{
+		"id": "A8",
+		"nombre": "ADMINISTRACION DE ARCHIVOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A10",
+		"nombre": "ARCHIVOS ADMINISTRATIVOS",
+		"pcurso": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A12",
+		"nombre": "ARCHIVOS HISTORICOS",
+		"pcurso": [
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A12",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A7",
+		"nombre": "CLASIFICACION Y ORDENACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A4",
+		"nombre": "CONSERVACION Y RESTAURACION",
+		"pcurso": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A4",
+				"nombre": "CONSERVACION Y RESTAURACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A14",
+		"nombre": "DERECHO Y LEGISLACION",
+		"pcurso": [
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A14",
+				"nombre": "DERECHO Y LEGISLACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A16",
+		"nombre": "DESCRIPCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A16",
+				"nombre": "DESCRIPCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB2",
+		"nombre": "ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A2",
+		"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB1",
+		"nombre": "INGLES TECNICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB7",
+		"nombre": "INTROD. AL PROCESAM. AUTOM. DE DATOS",
+		"pcurso": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB7",
+				"nombre": "INTROD. AL PROCESAM. AUTOM. DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A1",
+		"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB6",
+		"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+		"pcurso": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A6",
+		"nombre": "PRODUCCION DE DOCUMENTOS",
+		"pcurso": [
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB5",
+		"nombre": "PROYECTO DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A10",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB5",
+				"nombre": "PROYECTO DE INVESTIGACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A15",
+		"nombre": "REPROGRAFIA",
+		"pcurso": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A15",
+				"nombre": "REPROGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A11",
+		"nombre": "SELECCION DOCUMENTAL",
+		"pcurso": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A11",
+				"nombre": "SELECCION DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A17",
+		"nombre": "SERVICIOS Y EXTENSION ARCHIVISTICA",
+		"pcurso": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A12",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A16",
+				"nombre": "DESCRIPCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A8",
+				"nombre": "ADMINISTRACION DE ARCHIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A12",
+				"nombre": "ARCHIVOS HISTORICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "CLASIFICACION Y ORDENACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A16",
+				"nombre": "DESCRIPCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB1",
+				"nombre": "INGLES TECNICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A1",
+				"nombre": "INTRODUCCION A LA ARCHIVOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A6",
+				"nombre": "PRODUCCION DE DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A17",
+				"nombre": "SERVICIOS Y EXTENSION ARCHIVISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

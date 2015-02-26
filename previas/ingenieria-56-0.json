@@ -1,0 +1,2356 @@
+[
+	{
+		"id": "A91",
+		"nombre": "ANALISIS DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "CA1",
+				"nombre": "CREDITOS POR ANALISIS DE ALIMENTOS I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z401",
+				"nombre": "QUIMICA ORGANICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A91",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A103",
+		"nombre": "BIOTECNOLOGIA MARINA",
+		"pcurso": [
+			{
+				"id": "Z514E",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA15",
+				"nombre": "CREDITOS POR BIOTECNOLOGIA MARINA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A110",
+		"nombre": "CIENCIA Y TECNOLOGIA DE LA LECHE",
+		"pcurso": [
+			{
+				"id": "Z514E",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA16",
+				"nombre": "CREDITOS POR CIENCIA Y TEC. DE LA LECHE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CA31",
+				"nombre": "CREDITOS POR TECNOLOGIA DE LA LECHE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A93C",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A116",
+				"nombre": "TECNOLOGIA DE LA LECHE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A110",
+				"nombre": "CIENCIA Y TECNOLOGIA DE LA LECHE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A15",
+		"nombre": "CIENCIA Y TECNOLOGIA DEL ACEITE DE OLIVA",
+		"pcurso": [
+			{
+				"id": "A79",
+				"nombre": "EVALUACION SENSORIAL DE ALIMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A615",
+				"nombre": "TECNOLOGIA DE GRASAS Y ACEITES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A14",
+		"nombre": "CINETICA E INOC.MICROB.Y ANAL.DE RIESGOS",
+		"pcurso": [
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75E",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A69C",
+				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A93E",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75E",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68C",
+				"nombre": "TRANSF.DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1510",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 60,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: ING.PROCESOS PROD.Y PRES.ALIM."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MICROBIOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
+			},
+			{
+				"id": "CA10",
+				"nombre": "CREDITOS POR NORM.Y GEST.DE LA CALIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2104",
+		"nombre": "ELECTROTECNICA 1",
+		"pcurso": [
+			{
+				"id": "CQ33",
+				"nombre": "CREDITOS POR ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ34",
+				"nombre": "CREDITOS POR ELECTROTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z304",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z308",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z04",
+				"nombre": "MAT. 04 (ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2105",
+		"nombre": "ELECTROTECNICA 2",
+		"pcurso": [
+			{
+				"id": "CQ33",
+				"nombre": "CREDITOS POR ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ35",
+				"nombre": "CREDITOS POR ELECTROTECNICA 2",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2105",
+				"nombre": "ELECTROTECNICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2108",
+		"nombre": "ELECTROTECNICA I",
+		"pcurso": [
+			{
+				"id": "CQ33",
+				"nombre": "CREDITOS POR ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ34",
+				"nombre": "CREDITOS POR ELECTROTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z304",
+				"nombre": "FÍSICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z308",
+				"nombre": "FÍSICA 103 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z04",
+				"nombre": "MAT. 04 (ANÁLISIS II)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2108",
+				"nombre": "ELECTROTECNICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A98",
+		"nombre": "ENOLOGIA",
+		"pcurso": [
+			{
+				"id": "CA22",
+				"nombre": "CREDITOS POR ENOL.Y BIOTEC.DE LA FERMEN.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CA21",
+				"nombre": "CREDITOS POR ENOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A117",
+				"nombre": "ENOLOGIA Y BIOTECNOL. DE LA FERMENTACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A405C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A98",
+				"nombre": "ENOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A117",
+		"nombre": "ENOLOGIA Y BIOTECNOL. DE LA FERMENTACION",
+		"pcurso": [
+			{
+				"id": "CA22",
+				"nombre": "CREDITOS POR ENOL.Y BIOTEC.DE LA FERMEN.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CA21",
+				"nombre": "CREDITOS POR ENOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A98",
+				"nombre": "ENOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A117",
+				"nombre": "ENOLOGIA Y BIOTECNOL. DE LA FERMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A79",
+		"nombre": "EVALUACION SENSORIAL DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA23",
+				"nombre": "CREDITOS POR EVALUACION SENSORIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A79",
+				"nombre": "EVALUACION SENSORIAL DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A95",
+		"nombre": "EVALUACION SENSORIAL DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA23",
+				"nombre": "CREDITOS POR EVALUACION SENSORIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A95",
+				"nombre": "EVALUACION SENSORIAL DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A115",
+		"nombre": "EXTRUSION DE HARINAS Y ALMIDONES",
+		"pcurso": [
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q66",
+		"nombre": "FLUIDODINAMICA",
+		"pcurso": [
+			{
+				"id": "ZCP35",
+				"nombre": "CRÉDITOS POR FLUIDODINÁMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z304E",
+				"nombre": "FISICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z406E",
+				"nombre": "FISICOQUIMICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302C",
+				"nombre": "QUIMICA ANALITICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301C",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q66",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1921",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 56 - Ciclo 0"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: TECNOLOGIA DE ALIMENTOS"
+			},
+			{
+				"id": "A109C",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA12",
+				"nombre": "CREDITOS POR NORM.Y GEST.DE CALIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1940",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "A109C",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA12",
+				"nombre": "CREDITOS POR NORM.Y GEST.DE CALIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1906",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1940",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A65",
+		"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "520A",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z07E",
+				"nombre": "MATEMATICA 07",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z405E",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A65",
+				"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A86",
+		"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "520A",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z07E",
+				"nombre": "MATEMATICA 07",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z405E",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A86",
+				"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A74",
+		"nombre": "HIGIENE Y SEGURIDAD DE LOS ALIM.(2003)",
+		"pcurso": [
+			{
+				"id": "CA24",
+				"nombre": "CREDITOS POR HIGIENE DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "A93C",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A74",
+				"nombre": "HIGIENE Y SEGURIDAD DE LOS ALIM.(2003)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q81",
+		"nombre": "INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "Q69E",
+				"nombre": "ING.REAC.QUIM.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75E",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68E",
+				"nombre": "TRANSF.DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q81",
+				"nombre": "INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q69",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+		"pcurso": [
+			{
+				"id": "CA9",
+				"nombre": "CREDITOS POR CINETICA APLIC.Y REACTORES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z511G",
+				"nombre": "FEN.DE TRANSP.ING.PROC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z520",
+				"nombre": "FISICOQUIMICA III EXAMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z07E",
+				"nombre": "MATEMATICA 07",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z405E",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q70",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+		"pcurso": [
+			{
+				"id": "CA17",
+				"nombre": "CREDITOS POR CINETICA APL.Y REACTORES 2",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "A69C",
+				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q70",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A122",
+		"nombre": "LABORATORIO DE FITOQUIMICA",
+		"pcurso": [
+			{
+				"id": "505YC",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z502",
+				"nombre": "QCA. ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "121YC",
+				"nombre": "QUIMICA DE PRODUCTOS NATURALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A78",
+		"nombre": "LABORATORIO DE QUIMICA DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z514E",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A94",
+		"nombre": "LEGISLACION ALIMENTARIA",
+		"pcurso": [
+			{
+				"id": "CA34",
+				"nombre": "CREDITOS POR LEGISLACION ALIMENTARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A94",
+				"nombre": "LEGISLACION ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1402",
+		"nombre": "MECANICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1402",
+				"nombre": "MECANICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q73",
+		"nombre": "MECANICA APLICADA (ING.QUÍM)",
+		"pcurso": [
+			{
+				"id": "104Q",
+				"nombre": "CALCULO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CQ32",
+				"nombre": "CREDITOS POR MECANICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "102Q",
+				"nombre": "FIS102 Y 103 O FIS2 Y FIS.EXP1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q73",
+				"nombre": "MECANICA APLICADA (ING.QUÍM)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A93",
+		"nombre": "MICROBIOLOGIA ALIMENTARIA",
+		"pcurso": [
+			{
+				"id": "CA11",
+				"nombre": "CREDITOS POR MICROBIOLOGIA ALIMENTARIA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z103",
+				"nombre": "INT.A LAS CIENCIAS BIOLOGICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302E",
+				"nombre": "QUIMICA ANALITICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z102",
+				"nombre": "QUIMICA GENERAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z202",
+				"nombre": "QUIMICA GENERAL II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A93",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A85",
+		"nombre": "MICROBIOLOGIA DE LACTEOS- MODULO II",
+		"pcurso": [
+			{
+				"id": "A93C",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A116C",
+				"nombre": "TEC. DE LA LECHE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A75",
+		"nombre": "MICROBIOLOGIA GENERAL",
+		"pcurso": [
+			{
+				"id": "Z514",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA2",
+				"nombre": "CREDITOS POR MICROBIOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A75",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A109",
+		"nombre": "NUEVOS PROC. PARA ESTERILIZAR ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A97",
+		"nombre": "NUTRICION APL. A LA ING. DE LOS ALIMENT.",
+		"pcurso": [
+			{
+				"id": "CA26",
+				"nombre": "CREDITOS POR NUTRICION 1",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A97",
+				"nombre": "NUTRICION APL. A LA ING. DE LOS ALIMENT.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A88",
+		"nombre": "PASANTIA-TRABAJO PRACTICO DE GRADO,MOD.1",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: INFORMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 25,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CIENCIAS BIOLOGICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: FISICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 180,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CALIDAD DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: TECNOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 55,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: ING.PROCESOS PROD.Y PRES.ALIM."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 15,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MICROBIOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
+			},
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75E",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A65",
+				"nombre": "HIG.Y SERV.DE PLANTAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A69C",
+				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68C",
+				"nombre": "TRANSF.DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A76",
+		"nombre": "PASANTIA-TRABAJO PRACTICO DE GRADO,MOD.2",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: INFORMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 25,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CIENCIAS BIOLOGICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: FISICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 180,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CALIDAD DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: TECNOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 55,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: ING.PROCESOS PROD.Y PRES.ALIM."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 15,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MICROBIOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
+			},
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75E",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A86",
+				"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A69C",
+				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A88YC",
+				"nombre": "PASANT. TRAB. PRACT. GR. MOD.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68C",
+				"nombre": "TRANSF.DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A77",
+		"nombre": "PASANTIA-TRABAJO PRACTICO DE GRADO,MOD.3",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: INFORMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 25,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CIENCIAS BIOLOGICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: FISICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 180,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CALIDAD DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: TECNOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 55,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: ING.PROCESOS PROD.Y PRES.ALIM."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 15,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MICROBIOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
+			},
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75E",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A86",
+				"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A69C",
+				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A88YC",
+				"nombre": "PASANT. TRAB. PRACT. GR. MOD.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68C",
+				"nombre": "TRANSF.DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A66",
+		"nombre": "POSCOSECHA DE FRUTAS Y HORTALIZAS",
+		"pcurso": [
+			{
+				"id": "A93C",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A24",
+		"nombre": "PREP.DE MUESTRAS PARA EL ANAL. QUIMICO",
+		"pcurso": [
+			{
+				"id": "Z503",
+				"nombre": "QCA. ANALÍTICA III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A24",
+				"nombre": "PREP.DE MUESTRAS PARA EL ANAL. QUIMICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A87",
+		"nombre": "PROCESAMIENTO NO TERMICO DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q80",
+		"nombre": "PROYECTO INDUSTRIAL 1",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: INFORMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 25,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CIENCIAS BIOLOGICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: FISICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 180,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: CALIDAD DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: TECNOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 55,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: ING.PROCESOS PROD.Y PRES.ALIM."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 15,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: MICROBIOLOGIA DE ALIMENTOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 8,
+				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
+			},
+			{
+				"id": "CA13",
+				"nombre": "CREDITOS POR PROYECTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q75E",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A65",
+				"nombre": "HIG.Y SERV.DE PLANTAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A74",
+				"nombre": "HIGIENE Y SEGURIDAD DE LOS ALIM.(2003)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A69C",
+				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68C",
+				"nombre": "TRANSF.DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q57",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "CQ2",
+				"nombre": "CREDITOS POR PROYECTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q57",
+				"nombre": "PROYECTO INDUSTRIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q85",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A90",
+		"nombre": "QUIMICA DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "Z514",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA5",
+				"nombre": "CREDITOS POR QUIMICA DE ALIMENTOS I Y II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z302E",
+				"nombre": "QUIMICA ANALITICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z102",
+				"nombre": "QUIMICA GENERAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z202",
+				"nombre": "QUIMICA GENERAL II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A90",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A121",
+		"nombre": "QUIMICA DE PRODUCTOS NATURALES",
+		"pcurso": [
+			{
+				"id": "505YC",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA27",
+				"nombre": "CREDITOS POR PRODUCTOS NATURALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z502",
+				"nombre": "QCA. ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A121",
+				"nombre": "QUIMICA DE PRODUCTOS NATURALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A118",
+		"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.A",
+		"pcurso": [
+			{
+				"id": "CA29",
+				"nombre": "CREDITOS POR TEC. DE GRASAS  Y ACEITES",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "520A",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z401",
+				"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A118",
+				"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A119",
+		"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.B",
+		"pcurso": [
+			{
+				"id": "CA29",
+				"nombre": "CREDITOS POR TEC. DE GRASAS  Y ACEITES",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "520A",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z401",
+				"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A119",
+				"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A120",
+		"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.C",
+		"pcurso": [
+			{
+				"id": "A120",
+				"nombre": "QCA. TEC. GRASAS Y ACEITES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A92",
+		"nombre": "TECNOLOGIA DE CITRUS",
+		"pcurso": [
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A93C",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A104",
+		"nombre": "TECNOLOGIA DE FRUTAS Y HORTALIZAS",
+		"pcurso": [
+			{
+				"id": "Z514E",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA28",
+				"nombre": "CREDITOS POR TEC. DE FRUTAS Y HORTALIZAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A93C",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A104",
+				"nombre": "TECNOLOGIA DE FRUTAS Y HORTALIZAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A67",
+		"nombre": "TECNOLOGIA DE HARINAS Y ALMIDONES",
+		"pcurso": [
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A106C",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A107",
+		"nombre": "TECNOLOGIA DE LA CARNE",
+		"pcurso": [
+			{
+				"id": "Z514E",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A93S",
+				"nombre": "M. ALIMENTARIA (CURSO O INSC.)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A107",
+				"nombre": "TECNOLOGIA DE LA CARNE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A116",
+		"nombre": "TECNOLOGIA DE LA LECHE",
+		"pcurso": [
+			{
+				"id": "Z514E",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A110",
+				"nombre": "CIENCIA Y TECNOLOGIA DE LA LECHE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CA16",
+				"nombre": "CREDITOS POR CIENCIA Y TEC. DE LA LECHE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CA31",
+				"nombre": "CREDITOS POR TECNOLOGIA DE LA LECHE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A93C",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A116",
+				"nombre": "TECNOLOGIA DE LA LECHE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A96",
+		"nombre": "TECNOLOGIA DE PRODUCTOS PESQUEROS",
+		"pcurso": [
+			{
+				"id": "CA32",
+				"nombre": "CREDITOS POR TEC. DE PROD. PESQUEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A93S",
+				"nombre": "M. ALIMENTARIA (CURSO O INSC.)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90C",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A96",
+				"nombre": "TECNOLOGIA DE PRODUCTOS PESQUEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A99",
+		"nombre": "TOXICOLOGIA ALIMENTARIA",
+		"pcurso": [
+			{
+				"id": "GA91C",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA33",
+				"nombre": "CREDITOS POR TOXIC. E HIG.  ALIMENTARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "A75YC",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A99",
+				"nombre": "TOXICOLOGIA ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q67",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q67",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q74",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [
+			{
+				"id": "CQ38",
+				"nombre": "CREDITOS POR TRANSF. DE CALOR Y MASA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ39",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE CALOR",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z304E",
+				"nombre": "FISICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z406E",
+				"nombre": "FISICOQUIMICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302C",
+				"nombre": "QUIMICA ANALITICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301C",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q67",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q23E",
+				"nombre": "FENOMENOS DE TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q68",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+		"pcurso": [
+			{
+				"id": "CQ38",
+				"nombre": "CREDITOS POR TRANSF. DE CALOR Y MASA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ39",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE CALOR",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z520",
+				"nombre": "FISICOQUIMICA III EXAMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z07E",
+				"nombre": "MATEMATICA 07",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z405E",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A67C",
+				"nombre": "TRANSF.DE CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

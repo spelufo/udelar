@@ -1,0 +1,1102 @@
+[
+	{
+		"id": "3202",
+		"nombre": "ADMINISTRACION (2DO MODULO)",
+		"pcurso": [
+			{
+				"id": "2105",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2305",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3102",
+				"nombre": "ADMINISTRACION III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES EN ESTADO CRITICO (1M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2105",
+		"nombre": "ADMINISTRACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2105",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2305",
+		"nombre": "ADMINISTRACION II",
+		"pcurso": [
+			{
+				"id": "2105",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2305",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3102",
+		"nombre": "ADMINISTRACION III",
+		"pcurso": [
+			{
+				"id": "2105",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3102",
+				"nombre": "ADMINISTRACION III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2100",
+		"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+		"pcurso": [
+			{
+				"id": "1301",
+				"nombre": "DIAG. DE SALUD INDIVIDUAL Y COLECTIVA 3M",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11005",
+				"nombre": "ES. FU. NO. CARDIOVASCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11006",
+				"nombre": "ES. FU. NO. DIGESTIVO RENAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11004",
+				"nombre": "ES. FU. NO. LOCOMOTOR Y ESPLANICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11002",
+				"nombre": "ES. FU. NO. NEURO BIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11003",
+				"nombre": "ES. FU. NO. SISTEMA REPRODUCTOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11001",
+				"nombre": "ES. FU. NO. UTI: BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO MOD.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2301",
+		"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER M)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO MODULO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3101",
+		"nombre": "ATENCION DE PTES EN ESTADO CRITICO (1M)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES EN ESTADO CRITICO (1M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2201",
+		"nombre": "ATENCION MATERNO INFANTIL (2DO MODULO)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO MODULO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1205",
+		"nombre": "BIOESTADISTICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1205",
+				"nombre": "BIOESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3203",
+		"nombre": "BIOESTADISTICA II",
+		"pcurso": [
+			{
+				"id": "1205",
+				"nombre": "BIOESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3203",
+				"nombre": "BIOESTADISTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2102",
+		"nombre": "BIOETICA Y ASPECTOS LEGALES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2102",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2203",
+		"nombre": "BIOETICA Y ASPECTOS LEGALES II",
+		"pcurso": [
+			{
+				"id": "2102",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2203",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2303",
+		"nombre": "BIOETICA Y ASPECTOS LEGALES III",
+		"pcurso": [
+			{
+				"id": "2203",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2303",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1301",
+		"nombre": "DIAG. DE SALUD INDIVIDUAL Y COLECTIVA 3M",
+		"pcurso": [
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO MOD.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1301",
+				"nombre": "DIAG. DE SALUD INDIVIDUAL Y COLECTIVA 3M",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1103",
+		"nombre": "EDUCACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1103",
+				"nombre": "EDUCACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2103",
+		"nombre": "EDUCACION PARA LA SALUD II",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "EDUCACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2103",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3201",
+		"nombre": "ENFERMERIA COMUNITARIA (2DO MODULO)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES EN ESTADO CRITICO (1M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO MODULO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3201",
+				"nombre": "ENFERMERIA COMUNITARIA (2DO MODULO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2108",
+		"nombre": "EPIDEMIOLOGIA (1ER MODULO)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2108",
+				"nombre": "EPIDEMIOLOGIA (1ER MODULO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1101",
+		"nombre": "EPISTEMOLOGIA DE ENFERMERIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1101",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2306",
+		"nombre": "EPISTEMOLOGIA DE ENFERMERIA II",
+		"pcurso": [
+			{
+				"id": "1101",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2306",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3104",
+		"nombre": "EPISTEMOLOGIA DE ENFERMERIA III",
+		"pcurso": [
+			{
+				"id": "2306",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3104",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3204",
+		"nombre": "EPISTEMOLOGIA DE ENFERMERIA IV",
+		"pcurso": [
+			{
+				"id": "3104",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3204",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11005",
+		"nombre": "ES. FU. NO. CARDIOVASCULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11005",
+				"nombre": "ES. FU. NO. CARDIOVASCULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11006",
+		"nombre": "ES. FU. NO. DIGESTIVO RENAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11006",
+				"nombre": "ES. FU. NO. DIGESTIVO RENAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11004",
+		"nombre": "ES. FU. NO. LOCOMOTOR Y ESPLANICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11004",
+				"nombre": "ES. FU. NO. LOCOMOTOR Y ESPLANICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11002",
+		"nombre": "ES. FU. NO. NEURO BIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11002",
+				"nombre": "ES. FU. NO. NEURO BIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11003",
+		"nombre": "ES. FU. NO. SISTEMA REPRODUCTOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11003",
+				"nombre": "ES. FU. NO. SISTEMA REPRODUCTOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11001",
+		"nombre": "ES. FU. NO. UTI: BIOLOGIA CELULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "11001",
+				"nombre": "ES. FU. NO. UTI: BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4101",
+		"nombre": "INTERNADO (1ER MODULO)",
+		"pcurso": [
+			{
+				"id": "3202",
+				"nombre": "ADMINISTRACION (2DO MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2105",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2305",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3102",
+				"nombre": "ADMINISTRACION III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES EN ESTADO CRITICO (1M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1205",
+				"nombre": "BIOESTADISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3203",
+				"nombre": "BIOESTADISTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2102",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2203",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2303",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1103",
+				"nombre": "EDUCACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2103",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3201",
+				"nombre": "ENFERMERIA COMUNITARIA (2DO MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2108",
+				"nombre": "EPIDEMIOLOGIA (1ER MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1101",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2306",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3104",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3204",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1102",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2109",
+				"nombre": "METODOLOGIA CIENTIFICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2204",
+				"nombre": "METODOLOGIA CIENTIFICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2304",
+				"nombre": "METODOLOGIA CIENTIFICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3103",
+				"nombre": "METODOLOGIA CIENTIFICA V",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1203",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2110",
+				"nombre": "MICROBIOLOGIA Y PARASITOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1202",
+				"nombre": "NUTRICION (2DO. MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2107",
+				"nombre": "SALUD LABORAL (1ER MODULO)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1204",
+				"nombre": "SALUD MENTAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2302",
+				"nombre": "SALUD MENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1104",
+				"nombre": "SOCIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2104",
+				"nombre": "SOCIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2202",
+				"nombre": "SOCIOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1102",
+		"nombre": "METODOLOGIA CIENTIFICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1102",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2109",
+		"nombre": "METODOLOGIA CIENTIFICA II",
+		"pcurso": [
+			{
+				"id": "1102",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2109",
+				"nombre": "METODOLOGIA CIENTIFICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2204",
+		"nombre": "METODOLOGIA CIENTIFICA III",
+		"pcurso": [
+			{
+				"id": "2109",
+				"nombre": "METODOLOGIA CIENTIFICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2204",
+				"nombre": "METODOLOGIA CIENTIFICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2304",
+		"nombre": "METODOLOGIA CIENTIFICA IV",
+		"pcurso": [
+			{
+				"id": "2204",
+				"nombre": "METODOLOGIA CIENTIFICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2304",
+				"nombre": "METODOLOGIA CIENTIFICA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3103",
+		"nombre": "METODOLOGIA CIENTIFICA V",
+		"pcurso": [
+			{
+				"id": "2304",
+				"nombre": "METODOLOGIA CIENTIFICA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3103",
+				"nombre": "METODOLOGIA CIENTIFICA V",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1203",
+		"nombre": "MICROBIOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1203",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2110",
+		"nombre": "MICROBIOLOGIA Y PARASITOLOGIA II",
+		"pcurso": [
+			{
+				"id": "1203",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2110",
+				"nombre": "MICROBIOLOGIA Y PARASITOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1202",
+		"nombre": "NUTRICION (2DO. MODULO)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1202",
+				"nombre": "NUTRICION (2DO. MODULO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1201",
+		"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO MOD.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO MOD.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2107",
+		"nombre": "SALUD LABORAL (1ER MODULO)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2107",
+				"nombre": "SALUD LABORAL (1ER MODULO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1204",
+		"nombre": "SALUD MENTAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1204",
+				"nombre": "SALUD MENTAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2302",
+		"nombre": "SALUD MENTAL II",
+		"pcurso": [
+			{
+				"id": "1301",
+				"nombre": "DIAG. DE SALUD INDIVIDUAL Y COLECTIVA 3M",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO MOD.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2302",
+				"nombre": "SALUD MENTAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1104",
+		"nombre": "SOCIOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1104",
+				"nombre": "SOCIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2104",
+		"nombre": "SOCIOLOGIA II",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "SOCIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "SOCIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2202",
+		"nombre": "SOCIOLOGIA III",
+		"pcurso": [
+			{
+				"id": "2104",
+				"nombre": "SOCIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2202",
+				"nombre": "SOCIOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4102",
+		"nombre": "TRABAJO DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "2305",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2303",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2306",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2304",
+				"nombre": "METODOLOGIA CIENTIFICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2302",
+				"nombre": "SALUD MENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

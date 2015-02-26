@@ -1,0 +1,498 @@
+[
+	{
+		"id": "ANA1",
+		"nombre": "ANÁLISIS 1",
+		"pcurso": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM4",
+				"nombre": "ARMONÍA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ANA2",
+		"nombre": "ANÁLISIS 2",
+		"pcurso": [
+			{
+				"id": "ANA1",
+				"nombre": "ANÁLISIS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM4",
+				"nombre": "ARMONÍA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ANA3",
+		"nombre": "ANÁLISIS 3",
+		"pcurso": [
+			{
+				"id": "ANA1",
+				"nombre": "ANÁLISIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ANA2",
+				"nombre": "ANÁLISIS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ANA4",
+		"nombre": "ANÁLISIS 4",
+		"pcurso": [
+			{
+				"id": "ANA2",
+				"nombre": "ANÁLISIS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ANA3",
+				"nombre": "ANÁLISIS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ANA2",
+				"nombre": "ANÁLISIS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ARM2",
+		"nombre": "ARMONÍA 2",
+		"pcurso": [
+			{
+				"id": "ARM1",
+				"nombre": "ARMONÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARM3",
+		"nombre": "ARMONÍA 3",
+		"pcurso": [
+			{
+				"id": "ARM1",
+				"nombre": "ARMONÍA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM2",
+				"nombre": "ARMONÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARM4",
+		"nombre": "ARMONÍA 4",
+		"pcurso": [
+			{
+				"id": "ARM2",
+				"nombre": "ARMONÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CPT1",
+		"nombre": "CONTRAPUNTO 1",
+		"pcurso": [
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CPT2",
+		"nombre": "CONTRAPUNTO 2",
+		"pcurso": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "HMUS2",
+		"nombre": "HISTORIA DE LA MÚSICA 2",
+		"pcurso": [
+			{
+				"id": "HMUS1",
+				"nombre": "HISTORIA DE LA MÚSICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HMUS1",
+				"nombre": "HISTORIA DE LA MÚSICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HMUS1",
+				"nombre": "HISTORIA DE LA MÚSICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "HMUS3",
+		"nombre": "HISTORIA DE LA MÚSICA 3",
+		"pcurso": [
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "HMUS4",
+		"nombre": "HISTORIA DE LA MÚSICA 4",
+		"pcurso": [
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "HMUS5",
+		"nombre": "HISTORIA DE LA MÚSICA 5",
+		"pcurso": [
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "HMUS2",
+				"nombre": "HISTORIA DE LA MÚSICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LECT2",
+		"nombre": "LECTOESCRITURA 2",
+		"pcurso": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LECT3",
+		"nombre": "LECTOESCRITURA 3",
+		"pcurso": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LECT4",
+		"nombre": "LECTOESCRITURA 4",
+		"pcurso": [
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LECT5",
+		"nombre": "LECTOESCRITURA 5",
+		"pcurso": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LECT6",
+		"nombre": "LECTOESCRITURA 6",
+		"pcurso": [
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LST2",
+		"nombre": "LECTURA SOBRE EL TECLADO 2",
+		"pcurso": [
+			{
+				"id": "LST1",
+				"nombre": "LECTURA SOBRE EL TECLADO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LST1",
+				"nombre": "LECTURA SOBRE EL TECLADO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LST3",
+		"nombre": "LECTURA SOBRE EL TECLADO 3",
+		"pcurso": [
+			{
+				"id": "LST1",
+				"nombre": "LECTURA SOBRE EL TECLADO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LST2",
+				"nombre": "LECTURA SOBRE EL TECLADO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

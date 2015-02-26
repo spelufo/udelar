@@ -1,0 +1,956 @@
+[
+	{
+		"id": "P12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "722",
+		"nombre": "BIOMECANICA Y KINESIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "722",
+				"nombre": "BIOMECANICA Y KINESIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7214",
+		"nombre": "CICLO INTERNADO",
+		"pcurso": [
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "722",
+				"nombre": "BIOMECANICA Y KINESIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "721",
+				"nombre": "FISICA MEDICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "724",
+				"nombre": "FISICA MEDICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "729",
+				"nombre": "FISICA MEDICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "725",
+				"nombre": "GIMNASIA TERAPEUTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7210",
+				"nombre": "GIMNASIA TERAPEUTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7213",
+				"nombre": "GIMNASIA TERAPEUTICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "723",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "728",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7212",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "727",
+				"nombre": "NEUROPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7216",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "726",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7211",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "P11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P13",
+		"nombre": "ENFERMERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "721",
+		"nombre": "FISICA MEDICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "721",
+				"nombre": "FISICA MEDICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "724",
+		"nombre": "FISICA MEDICA II",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "721",
+				"nombre": "FISICA MEDICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7216",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "724",
+				"nombre": "FISICA MEDICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "729",
+		"nombre": "FISICA MEDICA III",
+		"pcurso": [
+			{
+				"id": "724",
+				"nombre": "FISICA MEDICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "729",
+				"nombre": "FISICA MEDICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P14",
+		"nombre": "FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7216",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "725",
+		"nombre": "GIMNASIA TERAPEUTICA I",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "722",
+				"nombre": "BIOMECANICA Y KINESIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7216",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "725",
+				"nombre": "GIMNASIA TERAPEUTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7210",
+		"nombre": "GIMNASIA TERAPEUTICA II",
+		"pcurso": [
+			{
+				"id": "725",
+				"nombre": "GIMNASIA TERAPEUTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7210",
+				"nombre": "GIMNASIA TERAPEUTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7213",
+		"nombre": "GIMNASIA TERAPEUTICA III",
+		"pcurso": [
+			{
+				"id": "7210",
+				"nombre": "GIMNASIA TERAPEUTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7213",
+				"nombre": "GIMNASIA TERAPEUTICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "723",
+		"nombre": "KINESIOLOGIA Y KINESITERAPIA I",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "722",
+				"nombre": "BIOMECANICA Y KINESIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7216",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "723",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "728",
+		"nombre": "KINESIOLOGIA Y KINESITERAPIA II",
+		"pcurso": [
+			{
+				"id": "723",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "728",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7212",
+		"nombre": "KINESIOLOGIA Y KINESITERAPIA III",
+		"pcurso": [
+			{
+				"id": "728",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7212",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7215",
+		"nombre": "MONOGRAFIA",
+		"pcurso": [
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "722",
+				"nombre": "BIOMECANICA Y KINESIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7214",
+				"nombre": "CICLO INTERNADO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "721",
+				"nombre": "FISICA MEDICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "724",
+				"nombre": "FISICA MEDICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "729",
+				"nombre": "FISICA MEDICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "725",
+				"nombre": "GIMNASIA TERAPEUTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7210",
+				"nombre": "GIMNASIA TERAPEUTICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7213",
+				"nombre": "GIMNASIA TERAPEUTICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "723",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "728",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7212",
+				"nombre": "KINESIOLOGIA Y KINESITERAPIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "727",
+				"nombre": "NEUROPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7216",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "726",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7211",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "P3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "727",
+		"nombre": "NEUROPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "P14",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "727",
+				"nombre": "NEUROPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7216",
+		"nombre": "PROFUNDIZACION",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7216",
+				"nombre": "PROFUNDIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "726",
+		"nombre": "PSICOLOGIA II",
+		"pcurso": [
+			{
+				"id": "P8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "726",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7211",
+		"nombre": "PSICOLOGIA III",
+		"pcurso": [
+			{
+				"id": "726",
+				"nombre": "PSICOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7211",
+				"nombre": "PSICOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

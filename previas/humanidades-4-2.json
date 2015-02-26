@@ -1,0 +1,4016 @@
+[
+	{
+		"id": "FD2",
+		"nombre": "ETICA II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FD2",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F13",
+		"nombre": "FILOSOFIA DE LA PRACTICA II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F13",
+				"nombre": "FILOSOFIA DE LA PRACTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F12",
+		"nombre": "FILOSOFIA TEORICA II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F12",
+				"nombre": "FILOSOFIA TEORICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FC2",
+		"nombre": "FILOSOFIA TEORICA II",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FC2",
+				"nombre": "FILOSOFIA TEORICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "F14",
+		"nombre": "METODOLOGIA DEL ESTUDIO FILOSOFICO",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F14",
+				"nombre": "METODOLOGIA DEL ESTUDIO FILOSOFICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SEP",
+		"nombre": "SEM. DE EPISTEMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEP",
+				"nombre": "SEM. DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SEP2",
+		"nombre": "SEM. DE EPISTEMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEP2",
+				"nombre": "SEM. DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SEP3",
+		"nombre": "SEM. DE EPISTEMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEP3",
+				"nombre": "SEM. DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SEP4",
+		"nombre": "SEM. DE EPISTEMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEP4",
+				"nombre": "SEM. DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SEP5",
+		"nombre": "SEM. DE EPISTEMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEP5",
+				"nombre": "SEM. DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SEP6",
+		"nombre": "SEM. DE EPISTEMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEP6",
+				"nombre": "SEM. DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFT",
+		"nombre": "SEM. DE FILOSOFIA TEORICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SFT",
+				"nombre": "SEM. DE FILOSOFIA TEORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFT2",
+		"nombre": "SEM. DE FILOSOFIA TEORICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SFT2",
+				"nombre": "SEM. DE FILOSOFIA TEORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFT3",
+		"nombre": "SEM. DE FILOSOFIA TEORICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SFT3",
+				"nombre": "SEM. DE FILOSOFIA TEORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SLOG",
+		"nombre": "SEM. DE LOGICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SLOG",
+				"nombre": "SEM. DE LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SLOG2",
+		"nombre": "SEM. DE LOGICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SLOG2",
+				"nombre": "SEM. DE LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SLOG3",
+		"nombre": "SEM. DE LOGICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SLOG3",
+				"nombre": "SEM. DE LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SP",
+		"nombre": "SEM. DE PRACTICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SP",
+				"nombre": "SEM. DE PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SP2",
+		"nombre": "SEM. DE PRACTICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SP2",
+				"nombre": "SEM. DE PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SP3",
+		"nombre": "SEM. DE PRACTICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SP3",
+				"nombre": "SEM. DE PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SP4",
+		"nombre": "SEM. DE PRACTICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SP4",
+				"nombre": "SEM. DE PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SPB",
+		"nombre": "SEM. DE PRACTICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SPB",
+				"nombre": "SEM. DE PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SE1",
+		"nombre": "SEM. ESTETICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE1",
+				"nombre": "SEM. ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SE2",
+		"nombre": "SEM. ESTETICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE2",
+				"nombre": "SEM. ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SE3",
+		"nombre": "SEM. ESTETICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE3",
+				"nombre": "SEM. ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SE4",
+		"nombre": "SEM. ESTETICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SE4",
+				"nombre": "SEM. ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFC",
+		"nombre": "SEM. FILOSOFIA CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SFC",
+				"nombre": "SEM. FILOSOFIA CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFC2",
+		"nombre": "SEM. FILOSOFIA CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SFC2",
+				"nombre": "SEM. FILOSOFIA CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFC3",
+		"nombre": "SEM. FILOSOFIA CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SFC3",
+				"nombre": "SEM. FILOSOFIA CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFMC",
+		"nombre": "SEM. FILOSOFIA MODERNA Y CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SFMC",
+				"nombre": "SEM. FILOSOFIA MODERNA Y CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SFMC2",
+		"nombre": "SEM. FILOSOFIA MODERNA Y CONTEMPORANEA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SFMC2",
+				"nombre": "SEM. FILOSOFIA MODERNA Y CONTEMPORANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SEM1",
+		"nombre": "SEMINARIO I",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SEM1",
+				"nombre": "SEMINARIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSHFC",
+		"nombre": "TOPICOS ESP. HIST. Y FIL. DE LA CIENCIA",
+		"pcurso": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FSHFC",
+				"nombre": "TOPICOS ESP. HIST. Y FIL. DE LA CIENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSEP",
+		"nombre": "TOPICOS ESPECIALES DE EPISTEMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET.Y TEC.DEL TRABAJO INTELECTUAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FSEP",
+				"nombre": "TOPICOS ESPECIALES DE EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSFP",
+		"nombre": "TOPICOS ESPECIALES DE FILOSOFIA POLITICA",
+		"pcurso": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HIST. DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HIST. DE LA FILOSOFIA MODERNA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HIST. DE LA ILOSOFIA ANTIGUA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FSFP",
+				"nombre": "TOPICOS ESPECIALES DE FILOSOFIA POLITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSFT",
+		"nombre": "TOPICOS ESPECIALES DE FILOSOFIA TEORICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HIST. DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HIST. DE LA FILOSOFIA MODERNA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HIST. DE LA ILOSOFIA ANTIGUA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FSFT",
+				"nombre": "TOPICOS ESPECIALES DE FILOSOFIA TEORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSFT2",
+		"nombre": "TOPICOS ESPECIALES DE FILOSOFIA TEORICA",
+		"pcurso": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FSFT2",
+				"nombre": "TOPICOS ESPECIALES DE FILOSOFIA TEORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSLOG",
+		"nombre": "TOPICOS ESPECIALES DE LOGICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HIST. DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HIST. DE LA FILOSOFIA MODERNA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HIST. DE LA ILOSOFIA ANTIGUA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FSLOG",
+				"nombre": "TOPICOS ESPECIALES DE LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FSP",
+		"nombre": "TOPICOS ESPECIALES DE PRACTICA",
+		"pcurso": [
+			{
+				"id": "BAS1",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F8",
+				"nombre": "ESTETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F5",
+				"nombre": "FILOSOFIA DE LA PRACTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F4",
+				"nombre": "FILOSOFIA TEORICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F1",
+				"nombre": "HISTORIA DE LA FILOSOFIA ANTIGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F3",
+				"nombre": "HISTORIA DE LA FILOSOFIA MEDIEVAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F6",
+				"nombre": "HISTORIA DE LA FILOSOFIA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "IDIOMA EXTRANJERO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BAS2",
+				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F2",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BAS3",
+				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FSP",
+				"nombre": "TOPICOS ESPECIALES DE PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

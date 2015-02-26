@@ -1,0 +1,466 @@
+[
+	{
+		"id": "3617",
+		"nombre": "ADMINISTRACION",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3611",
+				"nombre": "ESTADISTICA ASISTENCIAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3612",
+				"nombre": "INFORMATICA EN REG. MEDICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3610",
+				"nombre": "REGISTROS MEDICOS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3617",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3614",
+		"nombre": "INFORMATICA MEDICA",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3611",
+				"nombre": "ESTADISTICA ASISTENCIAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3612",
+				"nombre": "INFORMATICA EN REG. MEDICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3610",
+				"nombre": "REGISTROS MEDICOS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3614",
+				"nombre": "INFORMATICA MEDICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3615",
+		"nombre": "INTERNADO",
+		"pcurso": [
+			{
+				"id": "3617",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "361",
+				"nombre": "CIENCIAS MEDICAS Y TERMINOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "368",
+				"nombre": "ESTADISTICA ASISTENCIAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3611",
+				"nombre": "ESTADISTICA ASISTENCIAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "363",
+				"nombre": "INFORMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "366",
+				"nombre": "INFORMATICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3612",
+				"nombre": "INFORMATICA EN REG. MEDICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3614",
+				"nombre": "INFORMATICA MEDICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "364",
+				"nombre": "INTRODUCCION A LOS REGISTROS MEDICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3613",
+				"nombre": "PLANIF. Y ORGANIZ. DE DPTO. DE REG. MED.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "362",
+				"nombre": "PROCESAMIENTO DE IMAGEN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "365",
+				"nombre": "REGISTROS MEDICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "369",
+				"nombre": "REGISTROS MEDICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3610",
+				"nombre": "REGISTROS MEDICOS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "367",
+				"nombre": "TECNICAS DE OFICINA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3616",
+		"nombre": "MONOGRAFIA",
+		"pcurso": [
+			{
+				"id": "3617",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "361",
+				"nombre": "CIENCIAS MEDICAS Y TERMINOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "368",
+				"nombre": "ESTADISTICA ASISTENCIAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3611",
+				"nombre": "ESTADISTICA ASISTENCIAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "363",
+				"nombre": "INFORMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "366",
+				"nombre": "INFORMATICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3612",
+				"nombre": "INFORMATICA EN REG. MEDICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3614",
+				"nombre": "INFORMATICA MEDICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3615",
+				"nombre": "INTERNADO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "364",
+				"nombre": "INTRODUCCION A LOS REGISTROS MEDICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3613",
+				"nombre": "PLANIF. Y ORGANIZ. DE DPTO. DE REG. MED.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "362",
+				"nombre": "PROCESAMIENTO DE IMAGEN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "365",
+				"nombre": "REGISTROS MEDICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "369",
+				"nombre": "REGISTROS MEDICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3610",
+				"nombre": "REGISTROS MEDICOS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "367",
+				"nombre": "TECNICAS DE OFICINA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3613",
+		"nombre": "PLANIF. Y ORGANIZ. DE DPTO. DE REG. MED.",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3611",
+				"nombre": "ESTADISTICA ASISTENCIAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3612",
+				"nombre": "INFORMATICA EN REG. MEDICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3610",
+				"nombre": "REGISTROS MEDICOS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3613",
+				"nombre": "PLANIF. Y ORGANIZ. DE DPTO. DE REG. MED.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

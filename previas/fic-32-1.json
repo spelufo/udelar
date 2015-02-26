@@ -1,0 +1,423 @@
+[
+	{
+		"id": "A18",
+		"nombre": "ADMINISTRACION DE ARCHIVOS II",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A20",
+		"nombre": "ARCHIVOS ADMINISTRATIVOS ETC.",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A22",
+		"nombre": "ARCHIVOS HISTORICOS Y ESPECIALES",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B4",
+		"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+		"pcurso": [
+			{
+				"id": "A4",
+				"nombre": "CONSERVACION Y RESTAURACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A4",
+				"nombre": "CONSERVACION Y RESTAURACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B1",
+		"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+		"pcurso": [
+			{
+				"id": "A18",
+				"nombre": "ADMINISTRACION DE ARCHIVOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A18",
+				"nombre": "ADMINISTRACION DE ARCHIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A4",
+		"nombre": "CONSERVACION Y RESTAURACION",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B2",
+		"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+		"pcurso": [
+			{
+				"id": "A19",
+				"nombre": "TECNICAS DE ORDENACION Y DESCRIP.DOCUM.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A19",
+				"nombre": "TECNICAS DE ORDENACION Y DESCRIP.DOCUM.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B6",
+		"nombre": "INGLES TECNICO I",
+		"pcurso": [
+			{
+				"id": "A21",
+				"nombre": "MICROGRAFIA DOCUMENTADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A21",
+				"nombre": "MICROGRAFIA DOCUMENTADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B5",
+		"nombre": "LOS GRANDES LIBROS I",
+		"pcurso": [
+			{
+				"id": "A22",
+				"nombre": "ARCHIVOS HISTORICOS Y ESPECIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A22",
+				"nombre": "ARCHIVOS HISTORICOS Y ESPECIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A21",
+		"nombre": "MICROGRAFIA DOCUMENTADA",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B3",
+		"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+		"pcurso": [
+			{
+				"id": "A20",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS ETC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A20",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS ETC.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A19",
+		"nombre": "TECNICAS DE ORDENACION Y DESCRIP.DOCUM.",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AB8",
+		"nombre": "TRABAJO MONOGRAFICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A18",
+				"nombre": "ADMINISTRACION DE ARCHIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A20",
+				"nombre": "ARCHIVOS ADMINISTRATIVOS ETC.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A22",
+				"nombre": "ARCHIVOS HISTORICOS Y ESPECIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A4",
+				"nombre": "CONSERVACION Y RESTAURACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A21",
+				"nombre": "MICROGRAFIA DOCUMENTADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A19",
+				"nombre": "TECNICAS DE ORDENACION Y DESCRIP.DOCUM.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

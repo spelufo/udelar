@@ -1,0 +1,227 @@
+[
+	{
+		"id": "A40",
+		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CM128",
+		"nombre": "COMP.MÉTODOS CUANTITATIVOS II",
+		"pcurso": [
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "128",
+				"nombre": "MÉTODOS CUANTITATIVOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A70",
+		"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "A40",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A40",
+				"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C30",
+		"nombre": "CONTABILIDAD GENERAL II",
+		"pcurso": [
+			{
+				"id": "G126P",
+				"nombre": "G CONT II/CONT.GRAL I P/PREVIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G126P",
+				"nombre": "G CONT II/CONT.GRAL I P/PREVIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C40",
+		"nombre": "CONTABILIDAD GENERAL III",
+		"pcurso": [
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C30",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "128A",
+		"nombre": "CÁLCULO I/B",
+		"pcurso": [
+			{
+				"id": "G114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G114",
+				"nombre": "METODOS CUANTITATIVOS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "J30",
+		"nombre": "DERECHO COMERCIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A32",
+		"nombre": "DISEÑO ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A20",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC40",
+		"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C41",
+		"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
+		"pcurso": [
+			{
+				"id": "G112B",
+				"nombre": "CONT I/CON CONT/INTR A LA CONT",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G112B",
+				"nombre": "CONT I/CON CONT/INTR A LA CONT",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "J20",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC30",
+		"nombre": "MATEMÁTICA FINANCIERA",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

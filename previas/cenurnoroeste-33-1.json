@@ -1,0 +1,229 @@
+[
+	{
+		"id": "CIM10",
+		"nombre": "CÁLCULO VECTORIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIM24",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIM26",
+		"nombre": "FÍSICA TÉRMICA",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIM28",
+		"nombre": "MECÁNICA CLÁSICA",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIM20",
+		"nombre": "MÉTODOS NUMÉRICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CH201",
+		"nombre": "PROBABILIDAD Y ESTADÍSTICA",
+		"pcurso": [
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIM22",
+		"nombre": "TOPOLOGÍA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIM11",
+		"nombre": "ÁLGEBRA ABSTRACTA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,219 @@
+[
+	{
+		"id": "ALF",
+		"nombre": "ALFABETIZACIÓN EN INFORMACIÓN",
+		"pcurso": [
+			{
+				"id": "B101",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "INTR. VIDA UNIVERSITARIA Y ALF. ACADEM.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INTRODUCIÓN AL INGLÉS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "IPAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B207",
+				"nombre": "METODOLOGÍA DEL TRABAJO BIBLIOGRÁFICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B208",
+				"nombre": "REFERENCIA Y SERVICIOS AL USUARIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B101",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "INTR. VIDA UNIVERSITARIA Y ALF. ACADEM.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INTRODUCIÓN AL INGLÉS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "IPAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B207",
+				"nombre": "METODOLOGÍA DEL TRABAJO BIBLIOGRÁFICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B208",
+				"nombre": "REFERENCIA Y SERVICIOS AL USUARIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B101",
+		"nombre": "HISTORIA DE LOS DOCUMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL35E",
+				"nombre": "HISTORIA  DE LOS  DOCUMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B102",
+		"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL32C",
+				"nombre": "INTROD. A  LA  BIBLIOTECOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B207",
+		"nombre": "METODOLOGÍA DEL TRABAJO BIBLIOGRÁFICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B207",
+				"nombre": "METODOLOGÍA DEL TRABAJO BIBLIOGRÁFICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B208",
+		"nombre": "REFERENCIA Y SERVICIOS AL USUARIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B208",
+				"nombre": "REFERENCIA Y SERVICIOS AL USUARIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "STOCB",
+		"nombre": "SEM. TALLER: ORG DEL CONOC EN BIBLIOTECA",
+		"pcurso": [
+			{
+				"id": "B302",
+				"nombre": "ORGANIZACIÓN DEL CONOCIMIENTO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B302",
+				"nombre": "ORGANIZACIÓN DEL CONOCIMIENTO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "502",
+				"nombre": "ORGANIZACIÓN DEL CONOCIMIENTO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "502",
+				"nombre": "ORGANIZACIÓN DEL CONOCIMIENTO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

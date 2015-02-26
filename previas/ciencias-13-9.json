@@ -1,0 +1,928 @@
+[
+	{
+		"id": "BL06",
+		"nombre": "ACTIVIDADES CIENCIA Y COMUNIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL06",
+				"nombre": "ACTIVIDADES CIENCIA Y COMUNIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL063",
+		"nombre": "BIOESTADISTICA",
+		"pcurso": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL063",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL003",
+		"nombre": "BIOFISICA",
+		"pcurso": [
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL042",
+		"nombre": "BIOLOGIA ANIMAL",
+		"pcurso": [
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL005",
+		"nombre": "BIOLOGIA CELULAR",
+		"pcurso": [
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL043",
+		"nombre": "BIOLOGIA VEGETAL",
+		"pcurso": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL043",
+				"nombre": "BIOLOGIA VEGETAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL000",
+		"nombre": "BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL000",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL014",
+		"nombre": "ECOLOGIA GENERAL",
+		"pcurso": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL043",
+				"nombre": "BIOLOGIA VEGETAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL04",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL043",
+				"nombre": "BIOLOGIA VEGETAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL016",
+		"nombre": "EVOLUCION",
+		"pcurso": [
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL038",
+				"nombre": "INTRODUCCION A LA BIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI001",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI050",
+		"nombre": "FISICA II",
+		"pcurso": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL011",
+		"nombre": "FISIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL000",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL04",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL000",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL011",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL028",
+		"nombre": "GENETICA GENERAL",
+		"pcurso": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL000",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL000",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ043",
+		"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BQ043",
+				"nombre": "HISTORIA Y FILOSOFIA DE LA CIENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA300",
+		"nombre": "INTROD.AL CALCULO DIFERENCIAL E INTEGRAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA300",
+				"nombre": "INTROD.AL CALCULO DIFERENCIAL E INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL039",
+		"nombre": "INTRODUCCION A LA BIOLOGIA (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL039",
+				"nombre": "INTRODUCCION A LA BIOLOGIA (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL037",
+		"nombre": "INTRODUCCION A LA BIOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL038",
+		"nombre": "INTRODUCCION A LA BIOLOGIA II",
+		"pcurso": [
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL038",
+				"nombre": "INTRODUCCION A LA BIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA920",
+		"nombre": "MATEMATICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA930",
+		"nombre": "MATEMATICA II",
+		"pcurso": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL007",
+		"nombre": "MICROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL04",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL013",
+		"nombre": "PALEONTOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL043",
+				"nombre": "BIOLOGIA VEGETAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL037",
+				"nombre": "INTRODUCCION A LA BIOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL043",
+				"nombre": "BIOLOGIA VEGETAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL12",
+		"nombre": "PALEONTOLOGIA  (A)",
+		"pcurso": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL038",
+				"nombre": "INTRODUCCION A LA BIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL12",
+				"nombre": "PALEONTOLOGIA  (A)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL14",
+		"nombre": "PALEONTOLOGIA (B)",
+		"pcurso": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL038",
+				"nombre": "INTRODUCCION A LA BIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL14",
+				"nombre": "PALEONTOLOGIA (B)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL04",
+		"nombre": "QUIMICA I (1992 - 2012)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL04",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG1",
+		"nombre": "QUIMICA I (2013-",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG1",
+				"nombre": "QUIMICA I (2013-",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL003",
+		"nombre": "QUIMICA II",
+		"pcurso": [
+			{
+				"id": "QUIM1",
+				"nombre": "QUIMICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BG1",
+				"nombre": "QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL003",
+				"nombre": "QUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL02",
+		"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,846 @@
+[
+	{
+		"id": "3202",
+		"nombre": "ADMINISTRACION (2DO. MODULO)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES.EN ESTADO CRITICO (1M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3201",
+				"nombre": "ENFERMERIA COMUNITARIA (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES.EN ESTADO CRITICO (1M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3201",
+				"nombre": "ENFERMERIA COMUNITARIA (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2100",
+		"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+		"pcurso": [
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11004",
+				"nombre": "ES.FU.NO. UTI: LOCOMOTOR Y ESPLACNICA",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11002",
+				"nombre": "ES.FU.NO. UTI: NEUROBIOLOGIA",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11003",
+				"nombre": "ES.FU.NO. UTI: REPRODUCTOR Y DESARROLLO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11005",
+				"nombre": "ESFUNO UTI CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11006",
+				"nombre": "ESFUNO UTI DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11001",
+				"nombre": "ESFUNO UTI: BIOL. CELULAR Y TISULAR",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11004",
+				"nombre": "ES.FU.NO. UTI: LOCOMOTOR Y ESPLACNICA",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11002",
+				"nombre": "ES.FU.NO. UTI: NEUROBIOLOGIA",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11003",
+				"nombre": "ES.FU.NO. UTI: REPRODUCTOR Y DESARROLLO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11005",
+				"nombre": "ESFUNO UTI CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11006",
+				"nombre": "ESFUNO UTI DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11001",
+				"nombre": "ESFUNO UTI: BIOL. CELULAR Y TISULAR",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2301",
+		"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3101",
+		"nombre": "ATENCION DE PTES.EN ESTADO CRITICO (1M)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2201",
+		"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1301",
+		"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+		"pcurso": [
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3201",
+		"nombre": "ENFERMERIA COMUNITARIA (2DO. MODULO)",
+		"pcurso": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES.EN ESTADO CRITICO (1M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES.EN ESTADO CRITICO (1M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4101",
+		"nombre": "INTERNADO (1ER. MODULO)",
+		"pcurso": [
+			{
+				"id": "3102",
+				"nombre": "ADMINISTRACION (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2105",
+				"nombre": "ADMINISTRACION (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3202",
+				"nombre": "ADMINISTRACION (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2305",
+				"nombre": "ADMINISTRACION (3ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2301",
+				"nombre": "ATENCION DE NIÑOS Y ADOLESCENTES (3ER.M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3101",
+				"nombre": "ATENCION DE PTES.EN ESTADO CRITICO (1M)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3203",
+				"nombre": "BIOESTADISTICA  (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1205",
+				"nombre": "BIOESTADISTICA (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2102",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2203",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2303",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES (3ER. MODULO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "DIAG.DE SALUD INDIVIDUAL Y COLECTIVA (3M",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1103",
+				"nombre": "EDUCACION (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2103",
+				"nombre": "EDUCACION PARA LA SALUD ((1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3201",
+				"nombre": "ENFERMERIA COMUNITARIA (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2108",
+				"nombre": "EPIDEMIOLOGIA (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1101",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3104",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3204",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA (2DO. MODULO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2306",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA (3ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3103",
+				"nombre": "METODOLOGIA CIENTIFICA (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1102",
+				"nombre": "METODOLOGIA CIENTIFICA (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2109",
+				"nombre": "METODOLOGIA CIENTIFICA (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2204",
+				"nombre": "METODOLOGIA CIENTIFICA (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2304",
+				"nombre": "METODOLOGIA CIENTIFICA (3ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1203",
+				"nombre": "MICROBIOLOGIA (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2110",
+				"nombre": "MICROBIOLOGIA Y PARASITOLOGIA (1ER.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1202",
+				"nombre": "NUTRICION (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2104",
+				"nombre": "S0CIOLOGIA ((1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1201",
+				"nombre": "SALUD INDIVIDUAL Y COLECTIVA (2DO.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2107",
+				"nombre": "SALUD LABORAL (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1204",
+				"nombre": "SALUD MENTAL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2302",
+				"nombre": "SALUD MENTAL (3ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1104",
+				"nombre": "SOCIOLOGIA (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2202",
+				"nombre": "SOCIOLOGIA (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "11000",
+				"nombre": "UTIS DE ES.FU.NO.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4102",
+		"nombre": "TRABAJO DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "2105",
+				"nombre": "ADMINISTRACION (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2100",
+				"nombre": "ATENCION DE ENF. EN ADULTO Y ANCIANO",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2201",
+				"nombre": "ATENCION MATERNO INFANTIL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1205",
+				"nombre": "BIOESTADISTICA (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2102",
+				"nombre": "BIOETICA Y ASPECTOS LEGALES (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2103",
+				"nombre": "EDUCACION PARA LA SALUD ((1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2108",
+				"nombre": "EPIDEMIOLOGIA (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1101",
+				"nombre": "EPISTEMOLOGIA DE ENFERMERIA (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2109",
+				"nombre": "METODOLOGIA CIENTIFICA (1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2110",
+				"nombre": "MICROBIOLOGIA Y PARASITOLOGIA (1ER.MOD.)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1202",
+				"nombre": "NUTRICION (2DO. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2104",
+				"nombre": "S0CIOLOGIA ((1ER.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2107",
+				"nombre": "SALUD LABORAL (1ER. MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1204",
+				"nombre": "SALUD MENTAL (2DO.MODULO)",
+				"actividad": "Curso o Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

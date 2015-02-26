@@ -1,0 +1,73 @@
+[
+	{
+		"id": "EEDA",
+		"nombre": "ENTRENAM.ESPECIF.DE LA DISCIPLINA ACUTIC",
+		"pcurso": [
+			{
+				"id": "BGEA",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO ACUATI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EVEDA",
+		"nombre": "EVALUAC. ESPECIF. DE LA DISCIPLINA ACUAT",
+		"pcurso": [
+			{
+				"id": "BEDA",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA ACUATIC",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "F2A",
+		"nombre": "FISIOLOGIA II - ACUATICAS",
+		"pcurso": [
+			{
+				"id": "F1A",
+				"nombre": "FISIOLOGIA  I - ACUATICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IEPA",
+		"nombre": "INTROD. ESPECIFICA A LA PRACTICA ACUATIC",
+		"pcurso": [
+			{
+				"id": "IGPA",
+				"nombre": "INTROD.GRAL. A LA PRACTICA ACUATICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PPA",
+				"nombre": "PRÁCTICA PROFESIONAL - ACUATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PDA",
+		"nombre": "PSICOLOGÍA DEL DEPORTE - ACUATICA",
+		"pcurso": [
+			{
+				"id": "PTAA",
+				"nombre": "PSICOLOGÍA Y TEORIAS DEL APRENDIZAJE- AC",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

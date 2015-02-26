@@ -1,0 +1,5160 @@
+[
+	{
+		"id": "5512",
+		"nombre": "ACONDICIONAMIENTO LUMINICO",
+		"pcurso": [
+			{
+				"id": "5507C",
+				"nombre": "INST.ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1914",
+		"nombre": "ADMINISTRACION UNIX",
+		"pcurso": [
+			{
+				"id": "CP9",
+				"nombre": "PROGRAMACION 1 (P97 Ù 87)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1914",
+				"nombre": "ADMINISTRACION UNIX",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP9E",
+				"nombre": "PROGRAM.1 (E) P. 97 U 87",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1021",
+		"nombre": "ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1051",
+		"nombre": "ANALISIS FUNCIONAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1024",
+				"nombre": "CALCUL.3 Ó ANAL.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R100",
+		"nombre": "ANALISIS MATEMATICO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R100",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B200",
+		"nombre": "ANALISIS MATEMATICO II (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5913",
+		"nombre": "ANALISIS Y CONTROL DE SIST. NO LINEALES",
+		"pcurso": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5803",
+		"nombre": "ANTENAS Y PROPAGACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5803",
+				"nombre": "ANTENAS Y PROPAGACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1407E",
+				"nombre": "SIST.LINEALES 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5817",
+		"nombre": "ANTENAS Y PROPAGACION",
+		"pcurso": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1036C",
+				"nombre": "FUNC. DE VARIABLE.COMLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5808C",
+				"nombre": "SIST.COMUNICACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5817",
+				"nombre": "ANTENAS Y PROPAGACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C351",
+		"nombre": "BASES DE DATOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0522",
+		"nombre": "BOMBAS E INSTALACIONES HIDRAULICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B202",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C400",
+		"nombre": "CALCULO NUMERICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B203",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B202",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C400",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3201",
+		"nombre": "CAOS Y AZAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3201",
+				"nombre": "CAOS Y AZAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5819",
+		"nombre": "CIRCUITOS AMPLIFIC. DE RADIOFRECUENCIA",
+		"pcurso": [
+			{
+				"id": "5817",
+				"nombre": "ANTENAS Y PROPAGACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5701E",
+				"nombre": "ELECTRÓNICA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5808",
+				"nombre": "SIST.DE COMUNICACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5812",
+		"nombre": "CODIFICACION DE IMAGENES Y VIDEO",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025E",
+				"nombre": "PROB.YEST.-ANAL.MAT.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3107",
+		"nombre": "CODIFICACION SOBRE CANALES CON RUIDO",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1302",
+		"nombre": "COMPLEJIDAD ESTOCASTICA",
+		"pcurso": [
+			{
+				"id": "1301",
+				"nombre": "INT. A LA TEORIA DEL CONTROL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5515",
+		"nombre": "COMPLEM. TEMAS DE SUBEST.EN MEDIA TENS.",
+		"pcurso": [
+			{
+				"id": "5502C",
+				"nombre": "REDES ELÉCTRICAS2 P91,97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5510",
+				"nombre": "TEMAS DE SUBESTACIONES DE MEDIA TENSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3113",
+		"nombre": "COMPRESION DE VIDEO DIGITAL (MPEG)",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B300",
+		"nombre": "COMPUTACION",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1427",
+		"nombre": "COMPUTACION CUANTICA",
+		"pcurso": [
+			{
+				"id": "1024",
+				"nombre": "CALCUL.3 Ó ANAL.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031E",
+				"nombre": "GEOM.Y ALG.LINEAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PROBA",
+				"nombre": "PROB.Y ESTAD.Y ANAL.MATEM.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5829",
+		"nombre": "COMUNICACIONES OPTICAS Y REDES WDM",
+		"pcurso": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1510",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 80,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1901",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1901",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E611",
+		"nombre": "CONTROL II",
+		"pcurso": [
+			{
+				"id": "1301",
+				"nombre": "INT. A LA TEORIA DEL CONTROL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E611",
+				"nombre": "CONTROL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1301",
+				"nombre": "INT. A LA TEORIA DEL CONTROL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E619",
+		"nombre": "CONTROL II",
+		"pcurso": [
+			{
+				"id": "1301C",
+				"nombre": "INT. A LA TEORIA DEL CONTROL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E619",
+				"nombre": "CONTROL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5903",
+		"nombre": "CONTROL ROBUSTO",
+		"pcurso": [
+			{
+				"id": "5900",
+				"nombre": "INTR.A LA TEORIA DE CONT(91-97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5903",
+				"nombre": "CONTROL ROBUSTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3002",
+		"nombre": "CONVERSION ELECTROMECANICA",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "501",
+				"nombre": "MAQUINAS ELECTRICAS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3007",
+		"nombre": "CONVERSION ELECTROMECANICA",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3007",
+				"nombre": "CONVERSION ELECTROMECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1922",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 130,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1922",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1923",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B206",
+				"nombre": "ANALISIS COMPLEJO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G200",
+				"nombre": "CALCULO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA POLITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B301",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B311",
+				"nombre": "ELECTROMAGNETISMO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B204",
+				"nombre": "TALLER LABORATORIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B314",
+				"nombre": "TALLER LABORATORIO II (ELECTRICA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B203",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B202",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1206",
+		"nombre": "DESARROLLO DE SISTEMAS DE TIEMPO REAL",
+		"pcurso": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1206",
+				"nombre": "DESARROLLO DE SISTEMAS DE TIEMPO REAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1326",
+		"nombre": "DESARROLLO DE SOFTWARE PARA ING.ELECT.",
+		"pcurso": [
+			{
+				"id": "B300C",
+				"nombre": "COMPUTACION O PROG. I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1106",
+		"nombre": "DIFUSION SEGUN LA GEOM.Y TRAT. DE IMAGEN",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1004",
+		"nombre": "DIS. CIRC.DIG.UTIL.DISP.LOG.PROG.",
+		"pcurso": [
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1003",
+		"nombre": "DIS. DE SIST.BAS.EN PROCESA.DIG.DE SEÑAL",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1517",
+		"nombre": "DISEÑO CON MICROPROCESADORES",
+		"pcurso": [
+			{
+				"id": "1407",
+				"nombre": " SIST.LIN. O SIST.LIN. 2 (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1512E",
+				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5701C",
+				"nombre": "ELECTRONICA 1 O ELECT. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP9E",
+				"nombre": "PROGRAM.1 (E) P. 97 U 87",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5704",
+		"nombre": "DISEÑO DE CIRCUITOS INTEGRADOS DIGITALES",
+		"pcurso": [
+			{
+				"id": "1513",
+				"nombre": "DISEÑO LOGICO (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1 O ELECTRONICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5704",
+				"nombre": "DISEÑO DE CIRCUITOS INTEGRADOS DIGITALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3003",
+		"nombre": "DISEÑO DE TRANSFORMADORES",
+		"pcurso": [
+			{
+				"id": "E612C",
+				"nombre": "CONVER.ELECTROM. O MAQ.ELE.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1512",
+		"nombre": "DISEÑO LOGICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1512",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B304",
+		"nombre": "DISEÑO LOGICO",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1516",
+		"nombre": "DISEÑO LOGICO 2",
+		"pcurso": [
+			{
+				"id": "1513",
+				"nombre": "DISEÑO LOGICO (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1534",
+		"nombre": "DISEÑO LOGICO 2",
+		"pcurso": [
+			{
+				"id": "1513",
+				"nombre": "DISEÑO LOGICO (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1516",
+				"nombre": "DISEÑO LOGICO 2",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "5701C",
+				"nombre": "ELECTRONICA 1 O ELECT. II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5506",
+		"nombre": "DISTRIBUCION DE ENERGIA ELECTRICA",
+		"pcurso": [
+			{
+				"id": "5507C",
+				"nombre": "INST.ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5506",
+				"nombre": "DISTRIBUCION DE ENERGIA ELECTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5507",
+				"nombre": "INST.ELECT.(74,87.91,97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5502",
+				"nombre": "REDES ELEC.1 Y 2  (89 - 97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E618",
+		"nombre": "DISTRIBUCION DE ENERGIA ELECTRICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "E618",
+				"nombre": "DISTRIBUCION DE ENERGIA ELECTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E507",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E623",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1221",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3004",
+		"nombre": "ELEC.DE POT.APLI.A SIST.DE COM.Y C.M.ELE",
+		"pcurso": [
+			{
+				"id": "3002",
+				"nombre": "CONVERSION ELECTROMECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E503",
+				"nombre": "ELECTRONICA DE POTENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E612",
+				"nombre": "MAQUINAS ELECTRICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1128",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "1009",
+				"nombre": "ALGEBRA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "CALCULO 3 Y ANALISIS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1010C",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B301",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B311",
+		"nombre": "ELECTROMAGNETISMO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B301",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5701",
+		"nombre": "ELECTRONICA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303E",
+				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5702",
+		"nombre": "ELECTRONICA 2",
+		"pcurso": [
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1410C",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B206",
+				"nombre": "ANALISIS COMPLEJO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5702",
+				"nombre": "ELECTRONICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303E",
+				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5609",
+		"nombre": "ELECTRONICA DE POTENCIA",
+		"pcurso": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1 O ELECTRONICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029E",
+				"nombre": "FUNC.DE VARIABLE COMPLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1423",
+				"nombre": "SIST.LINEALES 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50C",
+				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5609",
+				"nombre": "ELECTRONICA DE POTENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5607",
+		"nombre": "ELECTRONICA DE POTENCIA 1",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5607",
+				"nombre": "ELECTRONICA DE POTENCIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "R310",
+				"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E503",
+		"nombre": "ELECTRONICA DE POTENCIA I",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E503",
+				"nombre": "ELECTRONICA DE POTENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "R310",
+				"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E617",
+		"nombre": "ELECTRONICA DE POTENCIA II",
+		"pcurso": [
+			{
+				"id": "E503",
+				"nombre": "ELECTRONICA DE POTENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E503",
+				"nombre": "ELECTRONICA DE POTENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E617",
+				"nombre": "ELECTRONICA DE POTENCIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1001",
+		"nombre": "ELECTRONICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1001",
+				"nombre": "ELECTRONICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "R310",
+				"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1805",
+		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "1024E",
+				"nombre": "CAL.3 O ANAL.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201E",
+				"nombre": "MEC.II O MEC.NEWTONIANA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3118",
+		"nombre": "ENCRIPTADO Y SEGURIDAD",
+		"pcurso": [
+			{
+				"id": "E607",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1809",
+		"nombre": "ENERGIA 1",
+		"pcurso": [
+			{
+				"id": "B202",
+				"nombre": "TERMOD.Y FIS.TERMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1809",
+				"nombre": "ENERGIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1601",
+		"nombre": "ENERGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1601",
+				"nombre": "ENERGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B202",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2314",
+		"nombre": "ESTABILIDAD DE LOS SIST.ELEC.DE POTENCIA",
+		"pcurso": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5601C",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5502C",
+				"nombre": "REDES ELÉCTRICAS2 P91,97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5818",
+		"nombre": "EVALUACION DE PERF.EN REDES DE TELECOM.",
+		"pcurso": [
+			{
+				"id": "1025E",
+				"nombre": "PROB.YEST.-ANAL.MAT.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R310",
+		"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B301",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "R310",
+				"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5950",
+		"nombre": "FUND. DE BIOLOG. PARA ING.,FISICOS Y MAT",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			},
+			{
+				"id": "1022E",
+				"nombre": "CALCULO 2 - ANÁL.MAT. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1010",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3102",
+		"nombre": "FUND.DE LOS SIST. TELEF.MOVILES TERREST.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1911",
+		"nombre": "FUNDAMENTOS DE BASES DE DATOS",
+		"pcurso": [
+			{
+				"id": "1512C",
+				"nombre": "DISEÑO LOGICO 91E-97C",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1911",
+				"nombre": "FUNDAMENTOS DE BASES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1604",
+		"nombre": "GENERADORES DE VAPOR",
+		"pcurso": [
+			{
+				"id": "1601",
+				"nombre": "ENERGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1601",
+				"nombre": "ENERGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1604",
+				"nombre": "GENERADORES DE VAPOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B309",
+				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R101",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R101",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "CP2",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP23",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1920",
+		"nombre": "GESTION DE MANTENIMIENTO",
+		"pcurso": [
+			{
+				"id": "1510C",
+				"nombre": "CONTROL DE CALIDAD(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1920",
+				"nombre": "GESTION DE MANTENIMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1905",
+		"nombre": "GESTION DEL MANTENIMIENTO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1903",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1905",
+				"nombre": "GESTION DEL MANTENIMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5815",
+		"nombre": "GESTION INTEG. DE REDES Y SERV.DE TELEC.",
+		"pcurso": [
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3005",
+		"nombre": "GUIAS CARGA PARA TRANS. POT.SUMER.ACEIT",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1907",
+		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1907",
+				"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2243",
+		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2243",
+				"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2009",
+		"nombre": "INGENIERIA BIOMEDICA",
+		"pcurso": [
+			{
+				"id": "1102",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2010",
+		"nombre": "INGENIERIA BIOMEDICA",
+		"pcurso": [
+			{
+				"id": "1102",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5703",
+		"nombre": "INGENIERIA BIOMEDICA",
+		"pcurso": [
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1 O ELECTRONICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1102E",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1423",
+				"nombre": "SIST.LINEALES 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5703",
+				"nombre": "INGENIERIA BIOMEDICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5814",
+		"nombre": "INGENIERIA DE SISTEMAS CDMA",
+		"pcurso": [
+			{
+				"id": "5803",
+				"nombre": "ANTENAS Y PROPAGACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5801C",
+				"nombre": "SIST.DE COM. O INT.A LA MOD.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1205",
+		"nombre": "INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5503",
+		"nombre": "INSTALACIONES ELECTRICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5503",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1407E",
+				"nombre": "SIST.LINEALES 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5507",
+		"nombre": "INSTALACIONES ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5601C",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1410C",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5507",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1407E",
+				"nombre": "SIST.LINEALES 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E507",
+		"nombre": "INSTALACIONES ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1519",
+		"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1344",
+		"nombre": "INT. A LA ARQUITECTURA DEL PC",
+		"pcurso": [
+			{
+				"id": "1513",
+				"nombre": "DISEÑO LOGICO (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1322E",
+				"nombre": "PROGRAM. 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3001",
+		"nombre": "INT. A LA ELECTROTECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E501",
+				"nombre": "MAQUINAS ELECTRICAS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5601",
+		"nombre": "INT. A LA ELECTROTECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5601",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B303E",
+				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5608",
+		"nombre": "INT. A LA ELECTROTECNICA",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "5601",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1407C",
+				"nombre": "SIST.LINEAL.2  Ó SIST.LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029E",
+				"nombre": "FUNC.DE VARIABLE COMPLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5608",
+				"nombre": "INT.A LA ELECT. O SIST.DE COM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1045",
+		"nombre": "INT. A LA GEOMETRÍA DIFERENCIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1024",
+				"nombre": "CALCUL.3 Ó ANAL.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1610",
+		"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1610",
+				"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1104",
+		"nombre": "INT. A LA MODULACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROCESAMIENTO DIGITAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5900",
+		"nombre": "INT. A LA TEORIA DE CONTROL",
+		"pcurso": [
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122E",
+				"nombre": "MECANICA NEWT.O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1409C",
+				"nombre": "MUESTREO Y PROC.DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50C",
+				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1123E",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029E",
+				"nombre": "FUNC.DE VARIABLE COMPLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5900",
+				"nombre": "INT. A LA TEORIA DE CONTROL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1407E",
+				"nombre": "SIST.LINEALES 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3202",
+		"nombre": "INT. A LA TEORIA DE LA MEDIDA Y DISTRIB.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1301",
+		"nombre": "INT. A LA TEORIA DEL CONTROL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1301",
+				"nombre": "INT. A LA TEORIA DEL CONTROL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1507",
+		"nombre": "INT. A LAS ORGANIZACIONES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 350,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1513",
+		"nombre": "INT. A LOS MICROPROCESADORES",
+		"pcurso": [
+			{
+				"id": "1512",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1512E",
+				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1513",
+				"nombre": "INT. A LOS MICROPROCESADORES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5910",
+		"nombre": "INT. A LOS PLC",
+		"pcurso": [
+			{
+				"id": "1512E",
+				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1410E",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5910",
+				"nombre": "INT. A LOS PLC",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1044",
+		"nombre": "INT. A LOS PROCESOS ESTOCASTICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025E",
+				"nombre": "PROB.YEST.-ANAL.MAT.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5909",
+		"nombre": "INT. A LOS SIST.MOVILES CELULARES",
+		"pcurso": [
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5805E",
+				"nombre": "REDE DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5808",
+				"nombre": "SIST.DE COMUNICACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1006",
+		"nombre": "INT. A LOS SISTEMAS ELECTROOPTICOS",
+		"pcurso": [
+			{
+				"id": "1001",
+				"nombre": "ELECTRONICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3117",
+		"nombre": "INT. A LOS SISTEMAS MOVILES CELULARES",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "INT. A LA MODULACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1303",
+		"nombre": "INT. AL CONTROL BORROSO",
+		"pcurso": [
+			{
+				"id": "1301",
+				"nombre": "INT. A LA TEORIA DEL CONTROL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1007",
+		"nombre": "INT. AL DISEÑO DE CIRC. INTEGRADOS CMOS",
+		"pcurso": [
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "ELECTRONICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5509",
+		"nombre": "INT. AL SECTOR ELÉCT.COMPETITIVO",
+		"pcurso": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5508E",
+				"nombre": "REDES ELÉCTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C450",
+		"nombre": "INVESTIGACION OPERATIVA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1141",
+		"nombre": "LABORATORIO DE FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "1138",
+				"nombre": "INT.A LA FÍSICA MODERNA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B314",
+				"nombre": "TALLER LAB.II O LAB.2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5602",
+		"nombre": "MAQUINAS ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "3001C",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1128E",
+				"nombre": "ELECTROMAG. Y FIS.GRAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5602",
+				"nombre": "MAQUINAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303E",
+				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E501",
+		"nombre": "MAQUINAS ELECTRICAS I (P. 87)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B311",
+				"nombre": "ELECTROMAGNETISMO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E501",
+				"nombre": "MAQUINAS ELECTRICAS I (P. 87)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E612",
+		"nombre": "MAQUINAS ELECTRICAS II",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B311",
+				"nombre": "ELECTROMAGNETISMO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E612",
+				"nombre": "MAQUINAS ELECTRICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E614",
+		"nombre": "MAQUINAS ELECTRICAS III",
+		"pcurso": [
+			{
+				"id": "3002",
+				"nombre": "CONVERSION ELECTROMECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3002",
+				"nombre": "CONVERSION ELECTROMECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E614",
+				"nombre": "MAQUINAS ELECTRICAS III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1810",
+		"nombre": "MAQUINAS PARA FLUIDOS 1",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP128",
+				"nombre": "FLUIDO MAQUINAS I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQUINAS PARA FLUIDOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E627",
+		"nombre": "MATEMATICA APLICADA:ECUAC.EN DERIV.PARC.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E627",
+				"nombre": "MATEMATICA APLICADA:ECUAC.EN DERIV.PARC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E626",
+		"nombre": "MATEMATICA APLICADA:OPTIMIZACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E626",
+				"nombre": "MATEMATICA APLICADA:OPTIMIZACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E628",
+		"nombre": "MATEMATICA APLICADA:OPTIMIZACION MATEM.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E628",
+				"nombre": "MATEMATICA APLICADA:OPTIMIZACION MATEM.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1126",
+		"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1027",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1402",
+		"nombre": "MECANICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1402",
+				"nombre": "MECANICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R103",
+		"nombre": "MECANICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R103",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B201",
+		"nombre": "MECANICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1122",
+		"nombre": "MECANICA NEWTONIANA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1121",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E616",
+		"nombre": "MED.Y PROT.EN SIST.ELECT.DE POTENCIA",
+		"pcurso": [
+			{
+				"id": "1102",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E616",
+				"nombre": "MED.Y PROT.EN SIST.ELECT.DE POTENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1102",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E623",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1102",
+		"nombre": "MEDIDAS ELECTRICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1102",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1410",
+		"nombre": "MEDIDAS ELECTRICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1410",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303E",
+				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5505",
+		"nombre": "MEDIDAS Y PROTECCIONES EN SEP.",
+		"pcurso": [
+			{
+				"id": "5602C",
+				"nombre": "MAQ.ELEC.P97 MAQ.ELEC II P91",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1410E",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5501E",
+				"nombre": "REDES ELÉCTRICAS 1 P91 P.97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5502C",
+				"nombre": "REDES ELÉCTRICAS2 P91,97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5505",
+				"nombre": "MEDIDAS Y PROTECCIONES EN SEP.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1008",
+		"nombre": "MICROPROCESADORES I",
+		"pcurso": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "ELECTRONICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3112",
+		"nombre": "MODO DE TRANSFERENCIA ASINCRONO (ATM)",
+		"pcurso": [
+			{
+				"id": "E607",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3006",
+		"nombre": "MONOGR. DE GUIAS DE CARGA TRANS.P.S.ACE",
+		"pcurso": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5820",
+		"nombre": "MONOGR. EN CODIFIC.DE IMAGENES Y VIDEO",
+		"pcurso": [
+			{
+				"id": "5812",
+				"nombre": "CODIFICACION DE IMAGENES Y VIDEO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3108",
+		"nombre": "MONOGRAFIA DE CODIF.DE CANALES CON RUIDO",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1413",
+		"nombre": "MONOGRAFIA EN MEDIDAS ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "1410",
+				"nombre": "MEDIDAS ELECT. (91 Ó 97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3119",
+		"nombre": "MONOGRAFIA EN SIST. DE TRANS. EN TELEC.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1104",
+				"nombre": "INT. A LA MODULACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1607",
+		"nombre": "MOTORES DE COMB.INT.Y TURBINAS DE GAS",
+		"pcurso": [
+			{
+				"id": "1601",
+				"nombre": "ENERGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1601",
+				"nombre": "ENERGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1607",
+				"nombre": "MOTORES DE COMB.INT.Y TURBINAS DE GAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1103",
+		"nombre": "MUESTREO Y PROCESAMIENTO DIGITAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1409",
+		"nombre": "MUESTREO Y PROCESAMIENTO DIGITAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1409",
+				"nombre": "MUESTREO Y PROCESAMIENTO DIGITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1231",
+		"nombre": "NEUROCIENCIAS 1",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1231",
+				"nombre": "NEUROCIENCIAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1129",
+		"nombre": "OPTICA",
+		"pcurso": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1129",
+				"nombre": "OPTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E629",
+		"nombre": "OPTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B311",
+				"nombre": "ELECTROMAGNETISMO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E629",
+				"nombre": "OPTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1056",
+		"nombre": "OPTIMIZ. CON APLIC. A LA PLANIF.C/ INCER",
+		"pcurso": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1514",
+		"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 350,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1514",
+				"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3106",
+		"nombre": "PLANIF. DE REDES ISDN DE BANDA ESTRECHA",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5822",
+		"nombre": "PRINCIPIOS DE LA TECNICA SDH",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1515",
+		"nombre": "PROCESADORES DIGITALES DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1515",
+				"nombre": "PROCESADORES DIGITALES DE SEÑALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1105",
+		"nombre": "PROCESAMIENTO DIG.DE INF.PARA SIST.ELECT",
+		"pcurso": [
+			{
+				"id": "E616",
+				"nombre": "MED.Y PROT.EN SIST.ELECT.DE POTENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3109",
+		"nombre": "PROGR.DE APLIC. DE COMUNICACION DE DATOS",
+		"pcurso": [
+			{
+				"id": "E607",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1322",
+		"nombre": "PROGRAMACION 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1324",
+		"nombre": "PROGRAMACION 4",
+		"pcurso": [
+			{
+				"id": "B300C",
+				"nombre": "COMPUTACION O PROG. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1513C",
+				"nombre": "DISEÑO LOGICO 91 E - 97 C",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1513",
+				"nombre": "DISEÑO LOGICO (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1324",
+				"nombre": "PROGRAMACION 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1203",
+		"nombre": "PROGRAMACION ORIENTADA A OBJETOS EN C++",
+		"pcurso": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1002",
+		"nombre": "PROPIEDADES FISICAS DE LOS SOLIDOS",
+		"pcurso": [
+			{
+				"id": "B301",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B311",
+				"nombre": "ELECTROMAGNETISMO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "R310",
+				"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "E600",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 400,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E600",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2013",
+		"nombre": "PROYECTO (ING.ELEC.)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 280,
+				"texto": "Créditos en la Carrera 20 - Ciclo 8"
+			},
+			{
+				"id": "1512C",
+				"nombre": "DISEÑO LOGICO 91E-97C",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1410C",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1409C",
+				"nombre": "MUESTREO Y PROC.DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1401",
+				"nombre": "SIST.LI.1 O SIST.LIN (P.97Y89)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50C",
+				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2013",
+				"nombre": "PROYECTO (ING.ELEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2902",
+		"nombre": "PROYECTO DE INSTALACIONES ELECTRICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "E507",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2902",
+				"nombre": "PROYECTO DE INSTALACIONES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5504",
+		"nombre": "PROYECTO DE INSTALACIONES ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "5507",
+				"nombre": "INST.ELECT.(74,87.91,97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5805",
+		"nombre": "REDES DE DATOS",
+		"pcurso": [
+			{
+				"id": "5508C",
+				"nombre": "REDES EL.2 O SIST.COMUN.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E607",
+		"nombre": "REDES DE DATOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5508",
+		"nombre": "REDES ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "C1407",
+				"nombre": "SIST. LINEALES 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029E",
+				"nombre": "FUNC.DE VARIABLE COMPLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5508",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E623",
+		"nombre": "REDES ELECTRICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5501",
+		"nombre": "REDES ELECTRICAS 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029E",
+				"nombre": "FUNC.DE VARIABLE COMPLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5501",
+				"nombre": "REDES ELECTRICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5502",
+		"nombre": "REDES ELECTRICAS 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5502",
+				"nombre": "REDES ELECTRICAS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1407E",
+				"nombre": "SIST.LINEALES 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2904",
+		"nombre": "REDES ELECTRICAS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3001",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2905",
+		"nombre": "REDES ELECTRICAS II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2904",
+				"nombre": "REDES ELECTRICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1606",
+		"nombre": "REFRIGERACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1606",
+				"nombre": "REFRIGERACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B309",
+				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2365",
+		"nombre": "RESISTENCIA DE MATERIALES 1N",
+		"pcurso": [
+			{
+				"id": "1022E",
+				"nombre": "CALCULO 2 - ANÁL.MAT. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031C",
+				"nombre": "GEOMETRIA 2 (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1122",
+				"nombre": "MEC. NEW. O MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MATERIALES 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2365",
+				"nombre": "RESISTENCIA DE MATERIALES 1N",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5816",
+		"nombre": "RUTEO IP Y TECNOLOGIAS DE TRANSPORTES",
+		"pcurso": [
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2006",
+		"nombre": "SEMINARIO DE INGENIERIA BIOMEDICA",
+		"pcurso": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5705",
+		"nombre": "SEMINARIO DE INGENIERIA BIOMEDICA",
+		"pcurso": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B303E",
+				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2903",
+		"nombre": "SISTEMA  DE TRANSM. DE ENERGIA ELECTRICA",
+		"pcurso": [
+			{
+				"id": "E612",
+				"nombre": "MAQUINAS ELECTRICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E612",
+				"nombre": "MAQUINAS ELECTRICAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E623",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2903",
+				"nombre": "SISTEMA  DE TRANSM. DE ENERGIA ELECTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3204",
+		"nombre": "SISTEMA  DE TRANSM.EN TELECOMUNICACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3111",
+		"nombre": "SISTEMA DE TRANS. EN TELECOMUNICACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1102",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3111",
+				"nombre": "SISTEMA DE TRANS. EN TELECOMUNICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5801",
+		"nombre": "SISTEMAS DE COMUNICACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029E",
+				"nombre": "FUNC.DE VARIABLE COMPLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5808",
+		"nombre": "SISTEMAS DE COMUNICACION",
+		"pcurso": [
+			{
+				"id": "1409C",
+				"nombre": "MUESTREO Y PROC.DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50C",
+				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029E",
+				"nombre": "FUNC.DE VARIABLE COMPLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1204",
+		"nombre": "SISTEMAS DE TIEMPO REAL",
+		"pcurso": [
+			{
+				"id": "1008",
+				"nombre": "MICROPROCESADORES I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "E609",
+		"nombre": "SISTEMAS DIGITALES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "ELECTRONICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E609",
+				"nombre": "SISTEMAS DIGITALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B303",
+		"nombre": "SISTEMAS LINEALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B206",
+				"nombre": "ANALISIS COMPLEJO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1401",
+		"nombre": "SISTEMAS LINEALES 1",
+		"pcurso": [
+			{
+				"id": "1028C",
+				"nombre": "ANAL.II O ECUAC.DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B206",
+				"nombre": "ANALISIS COMPLEJO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1423",
+		"nombre": "SISTEMAS LINEALES 1",
+		"pcurso": [
+			{
+				"id": "1028C",
+				"nombre": "ANAL.II O ECUAC.DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B206",
+				"nombre": "ANALISIS COMPLEJO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1407",
+		"nombre": "SISTEMAS LINEALES 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1036C",
+				"nombre": "FUNC. DE VARIABLE.COMLEJA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1407",
+				"nombre": "SISTEMAS LINEALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5912",
+		"nombre": "SISTEMAS NEURO FUZZY",
+		"pcurso": [
+			{
+				"id": "5900",
+				"nombre": "INTR.A LA TEORIA DE CONT(91-97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1407E",
+				"nombre": "SIST.LINEALES 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1511",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "B300C",
+				"nombre": "COMPUTACION O PROG. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1513C",
+				"nombre": "DISEÑO LOGICO 91 E - 97 C",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1512C",
+				"nombre": "DISEÑO LOGICO 91E-97C",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1511",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C350",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B300",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5514",
+		"nombre": "SUBESTACIONES EN MEDIA TENSION",
+		"pcurso": [
+			{
+				"id": "5507C",
+				"nombre": "INST.ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5601C",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5508",
+				"nombre": "REDES ELECT. O RED.1 Y 2 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5507",
+				"nombre": "INST.ELECT.(74,87.91,97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5601E",
+				"nombre": "INTROD.A LA ELECTRO P91,97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5508E",
+				"nombre": "REDES ELÉCTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5514",
+				"nombre": "SUBESTACIONES EN MEDIA TENSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3101",
+		"nombre": "TALLER DE COMUNICACIONES",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3103",
+		"nombre": "TALLER DE FILTROS DIGITALES",
+		"pcurso": [
+			{
+				"id": "B303C",
+				"nombre": "SIST.LINEALES Y SIST.LIN. 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1110",
+		"nombre": "TALLER DE INTRODUCCION A LA MODULACION",
+		"pcurso": [
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5603",
+		"nombre": "TALLER DE MAQUINAS ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "3001E",
+				"nombre": "INTROD.A LA ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5516",
+		"nombre": "TALLER DE MATLAB.Y S.AP. AL ANAL.Y S.SEP",
+		"pcurso": [
+			{
+				"id": "5513",
+				"nombre": "TRANSPORTE DE ENERGIA ELECTRICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5802",
+		"nombre": "TALLER DE TELECOMUNICACIONES",
+		"pcurso": [
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5801C",
+				"nombre": "SIST.DE COM. O INT.A LA MOD.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5802",
+				"nombre": "TALLER DE TELECOMUNICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5823",
+		"nombre": "TALLER DE TELEMATICA",
+		"pcurso": [
+			{
+				"id": "1326",
+				"nombre": "DES.SOFT.ING.ELECT/ PROG.ORIEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C303",
+		"nombre": "TALLER III (ANUAL)",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5610",
+		"nombre": "TALLER LABORAT. DE ELECTRON.DE POTENCIA",
+		"pcurso": [
+			{
+				"id": "5609",
+				"nombre": "ELECTRONICA DE POTENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5607",
+				"nombre": "ELECTRONICA DE POTENCIA 1",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B314",
+		"nombre": "TALLER LABORATORIO II (ELECTRICA)",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B204",
+				"nombre": "TALLER LABORATORIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5825",
+		"nombre": "TEC. DE ACCESO RADIO DE SIST. 3G",
+		"pcurso": [
+			{
+				"id": "5817",
+				"nombre": "ANTENAS Y PROPAGACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5809",
+				"nombre": "REDES CORPORAT. DE ALTA VELOCIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5808",
+				"nombre": "SIST.DE COMUNICACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5806E",
+				"nombre": "TELEFONIA DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3114",
+		"nombre": "TEC. DE MULTIRRESOLUCION Y APLICACIONES",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "E606",
+		"nombre": "TELEFONIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1101",
+				"nombre": "TRATAMIENTO DE SEÑALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3104",
+		"nombre": "TELEFONIA DIGITAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5806",
+		"nombre": "TELEFONIA DIGITAL",
+		"pcurso": [
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5801C",
+				"nombre": "SIST.DE COM. O INT.A LA MOD.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5810",
+		"nombre": "TELEVIS.,RADIODIF. Y TEC.DE CONVERG.",
+		"pcurso": [
+			{
+				"id": "1407",
+				"nombre": " SIST.LIN. O SIST.LIN. 2 (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5801C",
+				"nombre": "SIST.DE COM. O INT.A LA MOD.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5810",
+				"nombre": "TELEVIS.,RADIODIF. Y TEC.DE CONVERG.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E608",
+		"nombre": "TELEVISION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E608",
+				"nombre": "TELEVISION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5510",
+		"nombre": "TEMAS DE SUBESTACIONES DE MEDIA TENSION",
+		"pcurso": [
+			{
+				"id": "5507C",
+				"nombre": "INST.ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5508",
+				"nombre": "REDES ELECT. O RED.1 Y 2 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3105",
+		"nombre": "TEORIA DE LA INFORMACION",
+		"pcurso": [
+			{
+				"id": "1104",
+				"nombre": "INTRODUC. A LA MODULACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1136",
+		"nombre": "TEORIA ELECTROMAGNETICA",
+		"pcurso": [
+			{
+				"id": "1024C",
+				"nombre": "CALCULO 3 Ó ANAL.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAG. P.89-97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1136",
+				"nombre": "TEORIA ELECTROMAGNETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B202",
+		"nombre": "TERMODINAMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B309",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1024",
+				"nombre": "CALCUL.3 Ó ANAL.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201E",
+				"nombre": "MEC.II O MEC.NEWTONIANA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B202",
+				"nombre": "TERMOD.Y FIS.TERMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E624",
+		"nombre": "TRANSMISION DE ENERGIA ELECTRICA",
+		"pcurso": [
+			{
+				"id": "E612",
+				"nombre": "MAQUINAS ELECTRICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E612",
+				"nombre": "MAQUINAS ELECTRICAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E623",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E624",
+				"nombre": "TRANSMISION DE ENERGIA ELECTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2906",
+		"nombre": "TRANSMISION DE ENERGIA ELECTRICA (S)",
+		"pcurso": [
+			{
+				"id": "E612C",
+				"nombre": "CONVER.ELECTROM. O MAQ.ELE.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2905",
+				"nombre": "REDES ELECT. O RED.ELECT.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E612",
+				"nombre": "CONVER.ELECT. O MAQ.ELECT.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2905E",
+				"nombre": "REDES ELECT. O REDES ELEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2906",
+				"nombre": "TRANSMISION DE ENERGIA ELECTRICA (S)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5513",
+		"nombre": "TRANSPORTE DE ENERGIA ELECTRICA",
+		"pcurso": [
+			{
+				"id": "5508",
+				"nombre": "REDES ELECT. O RED.1 Y 2 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP50",
+				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5513",
+				"nombre": "TRANSPORTE DE ENERGIA ELECTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5804",
+		"nombre": "TRATAMIENTO  ESTADISTICO DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "1103",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5804",
+				"nombre": "TRATAMIENTO  ESTADISTICO DE SEÑALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5811",
+		"nombre": "TRATAMIENTO DE IMAGENES POR COMPUTADORA",
+		"pcurso": [
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5801C",
+				"nombre": "SIST.DE COM. O INT.A LA MOD.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5828",
+		"nombre": "TRATAMIENTO DE IMAGENES POR COMPUTADORA",
+		"pcurso": [
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5801C",
+				"nombre": "SIST.DE COM. O INT.A LA MOD.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1101",
+		"nombre": "TRATAMIENTO DE SENALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B303",
+				"nombre": "SISTEMAS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5840",
+		"nombre": "TRATAMIENTO ESTADISTICO DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "1409E",
+				"nombre": "MUESTREO Y PROC. DIGITAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

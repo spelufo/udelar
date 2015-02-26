@@ -1,0 +1,441 @@
+[
+	{
+		"id": "0503",
+		"nombre": "ADMINISTRACION",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "0608",
+		"nombre": "COSTOS",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1508C",
+				"nombre": "MAT Y ENSAYOS (P.97 Y P. 91)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0608",
+				"nombre": "COSTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2204E",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I O 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2240",
+		"nombre": "COSTOS",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2240",
+				"nombre": "COSTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0402",
+		"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2204",
+		"nombre": "GEOTECNICA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2204",
+				"nombre": "GEOTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0404",
+		"nombre": "GEOTECNICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0502",
+		"nombre": "GEOTECNICA II",
+		"pcurso": [
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0406",
+		"nombre": "HIDRAULICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0408",
+		"nombre": "HIDROLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0408",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0407",
+		"nombre": "HIDROLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2350",
+		"nombre": "HORMIGON 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0403",
+		"nombre": "HORMIGON ARMADO I",
+		"pcurso": [
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T64",
+		"nombre": "INGENIERIA LEGAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1715",
+		"nombre": "INT. A LA CONSTRUCCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1715",
+				"nombre": "INT. A LA CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0405",
+		"nombre": "MATERIALES Y ENSAYOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B307",
+				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1508",
+		"nombre": "MATERIALES Y ENSAYOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B307",
+				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0616",
+		"nombre": "PLANIFICACION",
+		"pcurso": [
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0503",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0616",
+				"nombre": "PLANIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0624",
+		"nombre": "PLANIFICACION",
+		"pcurso": [
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0503",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0624",
+				"nombre": "PLANIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0401",
+		"nombre": "RESISTENCIA DE MATERIALES II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B306",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

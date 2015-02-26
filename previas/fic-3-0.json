@@ -1,0 +1,215 @@
+[
+	{
+		"id": "50",
+		"nombre": "ECONOMÍA Y POL. (EQUIV-ECON COM)",
+		"pcurso": [
+			{
+				"id": "025",
+				"nombre": "ECONOMIA Y COMUNICACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "4207",
+		"nombre": "ECONOMÍA Y POLÍTICA-EQUIV.CIEN.POL.",
+		"pcurso": [
+			{
+				"id": "024",
+				"nombre": "CIENCIA POLITICA Y COMUNICACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "036",
+		"nombre": "EPISTEMOLOGIA DE LAS CIENCIAS DE LA COM.",
+		"pcurso": [
+			{
+				"id": "GTEC",
+				"nombre": "INTR A LAS TÉCNICAS INV. COM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRIE",
+				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GTEOR",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GTEC",
+				"nombre": "INTR A LAS TÉCNICAS INV. COM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRIE",
+				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GTEOR",
+				"nombre": "TEORÍA DE LA COMUNICACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4201",
+		"nombre": "IMAGEN I - C.PROF. LENG Y MED",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4201",
+				"nombre": "IMAGEN I - C.PROF. LENG Y MED",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "030",
+		"nombre": "LENGUAJE AUDIOVISUAL",
+		"pcurso": [
+			{
+				"id": "020",
+				"nombre": "LENGUAJE Y ESTETICA DE LA IMAGEN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "021",
+				"nombre": "LENGUAJE Y ESTETICA DEL SONIDO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "020",
+				"nombre": "LENGUAJE Y ESTETICA DE LA IMAGEN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "021",
+				"nombre": "LENGUAJE Y ESTETICA DEL SONIDO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1032",
+		"nombre": "MEDIOS, POLÍT Y DEMOCR. URUGUAY 8 CR/SCP",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1032",
+				"nombre": "MEDIOS, POLÍT Y DEMOCR. URUGUAY 8 CR/SCP",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "031",
+		"nombre": "SEMIOTICA Y TEORIA DE LA INTERPRETACION",
+		"pcurso": [
+			{
+				"id": "005",
+				"nombre": "INTROD. AL ESTUDIO DE LA COMUNICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "022",
+				"nombre": "TEORIA DE LA COMUNICACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "005",
+				"nombre": "INTROD. AL ESTUDIO DE LA COMUNICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "022",
+				"nombre": "TEORIA DE LA COMUNICACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4200",
+		"nombre": "SOCIOLOGÍA DE LA COMUNICACIÓN P.2012-5CR",
+		"pcurso": [
+			{
+				"id": "GRSOC",
+				"nombre": "SOCIOLOGÍA",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "022",
+		"nombre": "TEORIA DE LA COMUNICACION SOCIAL",
+		"pcurso": [
+			{
+				"id": "GRIE",
+				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GRIE",
+				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4205",
+		"nombre": "TEORÍA DE LA COMUNICACIÓN II C.PROF-TEOR",
+		"pcurso": [
+			{
+				"id": "GRIE",
+				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GRIE",
+				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

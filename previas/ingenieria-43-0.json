@@ -1,0 +1,585 @@
+[
+	{
+		"id": "TCI19",
+		"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCI19",
+				"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI13",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCI13",
+		"nombre": "CARTOGRAFIA MATEMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCI13",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT1",
+				"nombre": "MATEMATICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1228",
+		"nombre": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCY13",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "TCY14",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1411",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "HUM8",
+		"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1228",
+				"nombre": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2214",
+		"nombre": "ELEM.DE GEOLOGIA PARA LA PLANIF.TERRIT.",
+		"pcurso": [
+			{
+				"id": "TCI19",
+				"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI18",
+				"nombre": "TALLER DE SIST.DE INFOR.GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCY12",
+				"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TCI14",
+		"nombre": "ESTADISTICA Y GEOESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCI14",
+				"nombre": "ESTADISTICA Y GEOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCY24",
+		"nombre": "EVALUACION DE RECUR.NATUR.E IMPACTO AMB.",
+		"pcurso": [
+			{
+				"id": "TCI19",
+				"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI18",
+				"nombre": "TALLER DE SIST.DE INFOR.GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCY12",
+				"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCI19",
+				"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCY24",
+				"nombre": "EVALUACION DE RECUR.NATUR.E IMPACTO AMB.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCY12",
+				"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCY13",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [
+			{
+				"id": "1228",
+				"nombre": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "TCY14",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCY13",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCY16",
+		"nombre": "HIDROLOGIA",
+		"pcurso": [
+			{
+				"id": "TCY12",
+				"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCY16",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1611",
+		"nombre": "INT. AL ANALISIS RURAL",
+		"pcurso": [
+			{
+				"id": "CP284",
+				"nombre": "INFORMACION Y ANALISIS RURAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1611",
+				"nombre": "INT. AL ANALISIS RURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCI25",
+		"nombre": "INT.A LA EVAL.DE LA CAL.DE LA INF.GEOGR.",
+		"pcurso": [
+			{
+				"id": "TCI13",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI14",
+				"nombre": "ESTADISTICA Y GEOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI17",
+				"nombre": "INT.A LOS SIST.DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCI14",
+				"nombre": "ESTADISTICA Y GEOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI25",
+				"nombre": "INT.A LA EVAL.DE LA CAL.DE LA INF.GEOGR.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCI17",
+		"nombre": "INT.A LOS SIST.DE INFORMACION GEOGRAFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCI13",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI17",
+				"nombre": "INT.A LOS SIST.DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCI22",
+		"nombre": "LEGISLACION TERRITORIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCI22",
+				"nombre": "LEGISLACION TERRITORIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCY15",
+		"nombre": "MATEMATICA 1 (FAC. DE CIENCIAS)",
+		"pcurso": [
+			{
+				"id": "MAT1",
+				"nombre": "MATEMATICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCY15",
+				"nombre": "MATEMATICA 1 (FAC. DE CIENCIAS)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MAT1",
+		"nombre": "MATEMATICA 1 (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCY15",
+				"nombre": "MATEMATICA 1 (FAC. DE CIENCIAS)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "MAT2",
+		"nombre": "MATEMATICA 2 (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MAT1",
+				"nombre": "MATEMATICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCI21",
+		"nombre": "PASANTIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 90,
+				"texto": "Créditos en la Carrera 43 - Ciclo 0"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TCI23",
+		"nombre": "PRODUCCION CARTOGRAFICA",
+		"pcurso": [
+			{
+				"id": "TCI19",
+				"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI14",
+				"nombre": "ESTADISTICA Y GEOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI18",
+				"nombre": "TALLER DE SIST.DE INFOR.GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCI14",
+				"nombre": "ESTADISTICA Y GEOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI17",
+				"nombre": "INT.A LOS SIST.DE INFORMACION GEOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI23",
+				"nombre": "PRODUCCION CARTOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCI26",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "TCI19",
+				"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI13",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI14",
+				"nombre": "ESTADISTICA Y GEOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI17",
+				"nombre": "INT.A LOS SIST.DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCY12",
+				"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCI19",
+				"nombre": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI13",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI14",
+				"nombre": "ESTADISTICA Y GEOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI17",
+				"nombre": "INT.A LOS SIST.DE INFORMACION GEOGRAFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI26",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCY12",
+				"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCI20",
+		"nombre": "TALLER DE CARTOGRAFIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCI13",
+				"nombre": "CARTOGRAFIA MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI11",
+				"nombre": "INT. A LA GEODESIA Y SIST. DE POS. DIG.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCI20",
+				"nombre": "TALLER DE CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCY12",
+		"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TCY12",
+				"nombre": "TERRITORIO:DIM.FIS.SOC. Y SU REPR.ESPAC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCY14",
+		"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+		"pcurso": [
+			{
+				"id": "1228",
+				"nombre": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "TCY13",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCY14",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

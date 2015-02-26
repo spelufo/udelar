@@ -1,0 +1,451 @@
+[
+	{
+		"id": "018",
+		"nombre": "ANATOMIA CLINICA",
+		"pcurso": [
+			{
+				"id": "017",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "018",
+				"nombre": "ANATOMIA CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "017",
+		"nombre": "BIOLOGIA DEL DESARROLLO",
+		"pcurso": [
+			{
+				"id": "003",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "017",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "009",
+		"nombre": "C.E.F.A.",
+		"pcurso": [
+			{
+				"id": "015",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "005",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "002",
+				"nombre": "ESFUNO-BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "003",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "006",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "004",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "007",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "008",
+				"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "009",
+				"nombre": "C.E.F.A.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "010",
+		"nombre": "C.I.M.I.",
+		"pcurso": [
+			{
+				"id": "009",
+				"nombre": "C.E.F.A.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "010",
+				"nombre": "C.I.M.I.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "011",
+		"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+		"pcurso": [
+			{
+				"id": "009",
+				"nombre": "C.E.F.A.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "010",
+				"nombre": "C.I.M.I.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "011",
+				"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "012",
+		"nombre": "CICLIPA II - MEDICO QUIRURGICO",
+		"pcurso": [
+			{
+				"id": "011",
+				"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "009",
+				"nombre": "C.E.F.A.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "012",
+				"nombre": "CICLIPA II - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "016",
+		"nombre": "CICLO BÁSICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "016",
+				"nombre": "CICLO BÁSICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "014",
+		"nombre": "CICLO DE INTERNADO OBLIGATORIO",
+		"pcurso": [
+			{
+				"id": "013",
+				"nombre": "CICLO MATERNO INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "013",
+		"nombre": "CICLO MATERNO INFANTIL",
+		"pcurso": [
+			{
+				"id": "012",
+				"nombre": "CICLIPA II - MEDICO QUIRURGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "013",
+				"nombre": "CICLO MATERNO INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "019",
+		"nombre": "DIGESTIVO, RENAL Y ENDOCRINO Y REPRODUCT",
+		"pcurso": [
+			{
+				"id": "006",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "019",
+				"nombre": "DIGESTIVO, RENAL Y ENDOCRINO Y REPRODUCT",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "015",
+		"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+		"pcurso": [
+			{
+				"id": "005",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "003",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "004",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GR015",
+				"nombre": "GRUPO DE PREVIAS PARA 015",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "015",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "005",
+		"nombre": "ESFUNO-APARATO LOCOMOTOR",
+		"pcurso": [
+			{
+				"id": "004",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "005",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "002",
+		"nombre": "ESFUNO-BIOLOGIA CELULAR",
+		"pcurso": [
+			{
+				"id": "001",
+				"nombre": "CICLO BÁSICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "002",
+				"nombre": "ESFUNO-BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "003",
+		"nombre": "ESFUNO-BIOLOGIA TISULAR",
+		"pcurso": [
+			{
+				"id": "002",
+				"nombre": "ESFUNO-BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "003",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "006",
+		"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+		"pcurso": [
+			{
+				"id": "GRC",
+				"nombre": "GRUPO PARA CARDIOVASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "006",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "004",
+		"nombre": "ESFUNO-NEUROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "003",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "004",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "007",
+		"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+		"pcurso": [
+			{
+				"id": "006",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "007",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "008",
+		"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+		"pcurso": [
+			{
+				"id": "007",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "008",
+				"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "020",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "018",
+				"nombre": "ANATOMIA CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "017",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G003",
+				"nombre": "GRUPO BIOLOGIA TISULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO5",
+				"nombre": "GRUPO PARA LOCOMOTOR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

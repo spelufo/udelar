@@ -1,0 +1,1462 @@
+[
+	{
+		"id": "PS04",
+		"nombre": "ARTICULACION DE SABERES I",
+		"pcurso": [
+			{
+				"id": "110",
+				"nombre": "SOCIOLOGIA E HISTORIA SOCIAL D",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS10",
+		"nombre": "ARTICULACION DE SABERES II",
+		"pcurso": [
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS24",
+		"nombre": "ARTICULACION DE SABERES IV",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS385",
+		"nombre": "ASPECTOS COG.DE LA COMUNICACIÓN HUMANA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS633",
+		"nombre": "BARRERAS PSI.SOC.CUL. INTERV. FMLR (PAY)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS18P",
+		"nombre": "CONSTRUCCIÓN DE ITINERARIOS (PAYSANDÚ)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS297",
+		"nombre": "DIFICUL.ESPECÍFICAS DE APRENDIZAJE-SALTO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS23",
+		"nombre": "DISEÑO DE PROYECTOS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS387",
+		"nombre": "EL TRABAJO DEL PSICO ACTIV.FÍSICA (PAY)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS310",
+		"nombre": "ESTRATEGIAS DE TRABAJO EN APS (PAY)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS15",
+		"nombre": "ETICA Y DEONTOLOGIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PS22",
+		"nombre": "HERRAMIENTAS TEC EVALUAC DIAG INTERV PSI",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS298",
+		"nombre": "INTERV. PSICOSOC-PS GPAL E INST. (SALTO)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS309",
+		"nombre": "INTERVENCIONES FAMILIAR DESDE PSC (PAY)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS445",
+		"nombre": "MET.Y TEC. DE INTEV.PSI.SOC COMUNI-SALTO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS14",
+		"nombre": "METODOS Y TECNICAS CUANTITATIVAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PS14",
+				"nombre": "METODOS Y TECNICAS CUANTITATIVAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PS21",
+		"nombre": "MÉTODOS Y TÉCNICAS CUALITATIVAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CIMAS",
+				"nombre": "CICLO INICIAL MOD ART SABERES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMM",
+				"nombre": "CICLO INICIAL MOD METODOLOGICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIMP",
+				"nombre": "CICLO INICIAL MOD PSICOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIREF",
+				"nombre": "CICLO INICIAL MOD REFERENCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CIT",
+				"nombre": "TODO CICLO INICIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PS21M",
+		"nombre": "MÉTODOS Y TÉCNICAS CUALITATIVAS (MTVEO)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS324",
+		"nombre": "OPTATIVA - TUTORES ENTRE PARES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS29",
+		"nombre": "OPTATIVA I MODULO PSICOLOGIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS631",
+		"nombre": "OPTATIVA POR DISPOSICIÓN TRANSITORIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS32",
+		"nombre": "OPTATIVA V MOD METODOLOGICO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS321",
+		"nombre": "OPTATIVA VI MOD METODOLOGICO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS31",
+		"nombre": "OPTATIVA VI MOD PSICOLOGIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS322",
+		"nombre": "OPTATIVA VII MOD METODOLOGICO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS311",
+		"nombre": "OPTATIVA VII MOD PSICOLOGIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS323",
+		"nombre": "OPTATIVA VIII MOD METODOLOGICO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS33",
+		"nombre": "OPTATIVA VIII MOD PSICOLOGIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS384",
+		"nombre": "PASANTIA SALUD FAMILIAR",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS383",
+		"nombre": "PASANTÍA ANUAL RURAL (MG)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS38",
+		"nombre": "PRACTICA II-REHABIL/ESTIMULA. COGNITIVA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS381",
+		"nombre": "PRACTICA II-SALUD FAMILIAR Y COMUNITARIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS388",
+		"nombre": "PROYECTO INCULUSIÓN SOCIAL (SALTO)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS382",
+		"nombre": "PRÁCTICA INAU",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS261",
+		"nombre": "PS CLINICA I: FUND PSICOANALITIC CLINICA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS262",
+		"nombre": "PS CLINICA II: INTERVENCIONES CLINICAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS312",
+		"nombre": "PS. COMUNITARIA Y PRIMERA INFANCIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS13",
+		"nombre": "PSICO SUJETO Y APREND-  FORMATO TEORICO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "PS13",
+				"nombre": "PSICO SUJETO Y APREND-  FORMATO TEORICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PS299",
+		"nombre": "PSICO. COMUNITARIA Y DISCAPACIDAD (PAY)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS635",
+		"nombre": "PSICO. JURÍDICA Y COMUNIDAD (PAYSANÚ)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS12",
+		"nombre": "PSICOLOGIA SOCIAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "PS12",
+				"nombre": "PSICOLOGIA SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PS20",
+		"nombre": "PSICOLOGIA Y SALUD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS296",
+		"nombre": "PSICOLOGÍA COMUNITARIA (SALTO)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS386",
+		"nombre": "PSICOLOGÍA Y EDUCACIÓN (SALTO)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS308",
+		"nombre": "SALUD OCUPACIONAL (PAYSANDÚ)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS634",
+		"nombre": "SISTEMA, FAMILIA, CALIDAD DE VIDA(SALTO)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS34",
+		"nombre": "TRABAJO FINAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 160,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 80,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE GRADUACIÓN"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS35",
+		"nombre": "TUTORIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 140,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS327",
+		"nombre": "TUTORÍA ENTRE PARES (SALTO)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS325",
+		"nombre": "TÉCNICAS PSICOMÉTRICAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 82,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO DE FORMACIÓN INTEGRAL"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PS326",
+		"nombre": "UNIV.COMO COMUNIDAD SALUDABLE (PAY)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO REFERENCIAL"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO ARTICULACIÓN DE SABERES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 10,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO METODOLÓGICO"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: MÓDULO PSICOLOGÍA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 5,
+				"texto": " Créditos en la Carrera 6 - Ciclo 0. Área Temática: CICLO INICIAL"
+			}
+		],
+		"pexamen": []
+	}
+]

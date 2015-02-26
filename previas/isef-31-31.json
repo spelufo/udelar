@@ -1,0 +1,102 @@
+[
+	{
+		"id": "ENEDB",
+		"nombre": "ENTREN.ESPECÍFICO DE LA DISCIPLINA",
+		"pcurso": [
+			{
+				"id": "BGE1",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BGE1",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EVEDB",
+		"nombre": "EVALUACIÓN ESPECÍFICA DE LA DISCIPLINA",
+		"pcurso": [
+			{
+				"id": "BED2",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BED2",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IEPB",
+		"nombre": "INTRODUCCIÓN ESPECÍFICA A LA PRÁCTICA",
+		"pcurso": [
+			{
+				"id": "IGP1",
+				"nombre": "INTRODUCCIÓN GRAL.A LA PRÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IGP1",
+				"nombre": "INTRODUCCIÓN GRAL.A LA PRÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PD2",
+		"nombre": "PSICOLOGÍA DEL DEPORTE",
+		"pcurso": [
+			{
+				"id": "CE103",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE103",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TD2B",
+		"nombre": "TÉCNICA DEL DEPORTE II",
+		"pcurso": [
+			{
+				"id": "TD1B",
+				"nombre": "TÉCNICA DEL DEPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TD1B",
+				"nombre": "TÉCNICA DEL DEPORTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

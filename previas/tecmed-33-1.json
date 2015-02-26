@@ -1,0 +1,1768 @@
+[
+	{
+		"id": "12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "338",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "335",
+		"nombre": "ANATOMIA RADIOLOGICA I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "337",
+		"nombre": "ANATOMIA RADIOLOGICA II",
+		"pcurso": [
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3310",
+		"nombre": "ANATOMIA RADIOLOGICA III",
+		"pcurso": [
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3310",
+				"nombre": "ANATOMIA RADIOLOGICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "338",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "13",
+		"nombre": "ENFERMERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3317",
+		"nombre": "FISICA BASICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "332",
+		"nombre": "FISICA RADIOLOGICA",
+		"pcurso": [
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "331",
+		"nombre": "FISIOPATOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3312",
+		"nombre": "IMAGENOLOGIA ESPECIALIZADA I",
+		"pcurso": [
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3312",
+				"nombre": "IMAGENOLOGIA ESPECIALIZADA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "338",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3314",
+		"nombre": "IMAGENOLOGIA ESPECIALIZADA II",
+		"pcurso": [
+			{
+				"id": "3312",
+				"nombre": "IMAGENOLOGIA ESPECIALIZADA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3310",
+				"nombre": "ANATOMIA RADIOLOGICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3312",
+				"nombre": "IMAGENOLOGIA ESPECIALIZADA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3314",
+				"nombre": "IMAGENOLOGIA ESPECIALIZADA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3311",
+				"nombre": "TECNICAS RADIOLOGICAS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3315",
+		"nombre": "INTERNADO",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3310",
+				"nombre": "ANATOMIA RADIOLOGICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3312",
+				"nombre": "IMAGENOLOGIA ESPECIALIZADA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3313",
+				"nombre": "INTRODUCCION AL TRABAJO CIENTIFICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3311",
+				"nombre": "TECNICAS RADIOLOGICAS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3313",
+		"nombre": "INTRODUCCION AL TRABAJO CIENTIFICO",
+		"pcurso": [
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3313",
+				"nombre": "INTRODUCCION AL TRABAJO CIENTIFICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3316",
+		"nombre": "MONOGRAFIA",
+		"pcurso": [
+			{
+				"id": "12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3310",
+				"nombre": "ANATOMIA RADIOLOGICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3312",
+				"nombre": "IMAGENOLOGIA ESPECIALIZADA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3314",
+				"nombre": "IMAGENOLOGIA ESPECIALIZADA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3315",
+				"nombre": "INTERNADO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3313",
+				"nombre": "INTRODUCCION AL TRABAJO CIENTIFICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "338",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3311",
+				"nombre": "TECNICAS RADIOLOGICAS III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "334",
+		"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "336",
+		"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "338",
+		"nombre": "SISTEMA DE PROCESAM. DE IMAGEN II",
+		"pcurso": [
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "338",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "333",
+		"nombre": "TECNICAS RADIOLOGICAS I",
+		"pcurso": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "339",
+		"nombre": "TECNICAS RADIOLOGICAS II",
+		"pcurso": [
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "13",
+				"nombre": "ENFERMERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3317",
+				"nombre": "FISICA BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "FISICA RADIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3311",
+		"nombre": "TECNICAS RADIOLOGICAS III",
+		"pcurso": [
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "335",
+				"nombre": "ANATOMIA RADIOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "337",
+				"nombre": "ANATOMIA RADIOLOGICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "PROTEC. RADIOLOGICA Y CONT. CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "336",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "338",
+				"nombre": "SISTEMA DE PROCESAM. DE IMAGEN II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "TECNICAS RADIOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "339",
+				"nombre": "TECNICAS RADIOLOGICAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3311",
+				"nombre": "TECNICAS RADIOLOGICAS III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

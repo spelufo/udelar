@@ -1,0 +1,298 @@
+[
+	{
+		"id": "300",
+		"nombre": "COSTOS",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "431",
+		"nombre": "ECONOMETRÍA",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "CONTABILIDAD NACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "308",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "ORG.Y ADMINISTRACION EMPRESAS ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "CONTABILIDAD NACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "308",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "ORG.Y ADMINISTRACION EMPRESAS ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "454",
+		"nombre": "ECONOMETRÍA I",
+		"pcurso": [
+			{
+				"id": "308",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "308",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "526",
+		"nombre": "ECONOMETRÍA II",
+		"pcurso": [
+			{
+				"id": "454",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "454",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "310",
+		"nombre": "ECONOMÍA III",
+		"pcurso": [
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "413",
+		"nombre": "ECONOMÍA INTERNACIONAL Y POL. ECON. INT.",
+		"pcurso": [
+			{
+				"id": "310",
+				"nombre": "ECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "310",
+				"nombre": "ECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "308",
+		"nombre": "ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "311",
+		"nombre": "ESTRUCTURA ECONOMICA NACIONAL",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "CONTABILIDAD NACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "204",
+				"nombre": "CONTABILIDAD NACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "410",
+		"nombre": "FINANZAS PUBLICAS Y POLITICA FISCAL",
+		"pcurso": [
+			{
+				"id": "303",
+				"nombre": "TEORIA DE LAS FINANZAS PUBLICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "303",
+				"nombre": "TEORIA DE LAS FINANZAS PUBLICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "303",
+		"nombre": "TEORIA DE LAS FINANZAS PUBLICAS",
+		"pcurso": [
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

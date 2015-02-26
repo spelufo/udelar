@@ -1,0 +1,336 @@
+[
+	{
+		"id": "A20T",
+		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+		"pcurso": [
+			{
+				"id": "A10T",
+				"nombre": "ADMIN. Y GESTION DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10T",
+				"nombre": "ADMIN. Y GESTION DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C51T",
+		"nombre": "CONTABILIDAD DE GESTIÓN",
+		"pcurso": [
+			{
+				"id": "C20T",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C20T",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C20T",
+		"nombre": "CONTABILIDAD GENERAL I",
+		"pcurso": [
+			{
+				"id": "C10T",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10T",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C30T",
+		"nombre": "CONTABILIDAD GENERAL II",
+		"pcurso": [
+			{
+				"id": "C20T",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C20T",
+				"nombre": "CONTABILIDAD GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C40T",
+		"nombre": "CONTABILIDAD GENERAL III",
+		"pcurso": [
+			{
+				"id": "C30T",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C30T",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "128T",
+		"nombre": "CÁLCULO I /B",
+		"pcurso": [
+			{
+				"id": "114T",
+				"nombre": "CÁLCULO I /A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "114T",
+				"nombre": "CÁLCULO I /A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "J30T",
+		"nombre": "DERECHO COMERCIAL",
+		"pcurso": [
+			{
+				"id": "J20T",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "J20T",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "J31T",
+		"nombre": "DERECHO COMERCIAL",
+		"pcurso": [
+			{
+				"id": "J21T",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "J21T",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A40T",
+		"nombre": "GESTIÓN DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "A20T",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A20T",
+				"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A50T",
+		"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
+		"pcurso": [
+			{
+				"id": "C10T",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J20T",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10T",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J20T",
+				"nombre": "DERECHO CIVIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC30T",
+		"nombre": "MATEMÁTICA FINANCIERA",
+		"pcurso": [
+			{
+				"id": "M1Y2",
+				"nombre": "MET.I Y II - TAC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "M1Y2",
+				"nombre": "MET.I Y II - TAC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A30T",
+		"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
+		"pcurso": [
+			{
+				"id": "A10T",
+				"nombre": "ADMIN. Y GESTION DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A10T",
+				"nombre": "ADMIN. Y GESTION DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I50T",
+		"nombre": "PROYECTO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 160,
+				"texto": "Créditos en la Carrera 6 - Ciclo 6"
+			},
+			{
+				"id": "TI40T",
+				"nombre": "TALLER",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI40T",
+		"nombre": "TALLER",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 90,
+				"texto": "Créditos en la Carrera 6 - Ciclo 6"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C62T",
+		"nombre": "TRIBUTARIA I",
+		"pcurso": [
+			{
+				"id": "C30T",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J50T",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C30T",
+				"nombre": "CONTABILIDAD GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "J50T",
+				"nombre": "DERECHO TRIBUTARIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C72T",
+		"nombre": "TRIBUTARIA II",
+		"pcurso": [
+			{
+				"id": "C62T",
+				"nombre": "TRIBUTARIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C62T",
+				"nombre": "TRIBUTARIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

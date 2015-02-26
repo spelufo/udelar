@@ -1,0 +1,432 @@
+[
+	{
+		"id": "1900",
+		"nombre": "C Y D EN EQ DE ALTA PERF PARA DISC PROY",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1900",
+				"nombre": "C Y D EN EQ DE ALTA PERF PARA DISC PROY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2090P",
+		"nombre": "COMUNICACION",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "UNIDAD DE PROYECTO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2090P",
+				"nombre": "COMUNICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2100P",
+		"nombre": "DISEÑO DE ENVASES",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "UNIDAD DE PROYECTO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2005P",
+		"nombre": "DISEÑO II",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "UNIDAD DE PROYECTO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1908",
+		"nombre": "DISEÑO PARA TODOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1908",
+				"nombre": "DISEÑO PARA TODOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2085P",
+		"nombre": "ERGONOMIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2085P",
+				"nombre": "ERGONOMIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1909",
+		"nombre": "ESTUDIO DE TENDENCIAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1909",
+				"nombre": "ESTUDIO DE TENDENCIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1035",
+		"nombre": "FISICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1035",
+				"nombre": "FISICA",
+				"actividad": "Curso hecho",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2080P",
+		"nombre": "HISTORIA DEL DISEÑO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2080P",
+				"nombre": "HISTORIA DEL DISEÑO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1912",
+		"nombre": "INTR  PRACT  LECT Y ESCR HIST  DISEÑO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1912",
+				"nombre": "INTR  PRACT  LECT Y ESCR HIST  DISEÑO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1045",
+		"nombre": "INTRODUCCIÓN AL PENSAMIENTO DE DISEÑO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1045",
+				"nombre": "INTRODUCCIÓN AL PENSAMIENTO DE DISEÑO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1046",
+		"nombre": "INTRODUCCIÓN AL PENSAMIENTO DE DISEÑO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1046",
+				"nombre": "INTRODUCCIÓN AL PENSAMIENTO DE DISEÑO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1901",
+		"nombre": "LAB DE FUN UNIVERSITARIAS INTEGRADAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1901",
+				"nombre": "LAB DE FUN UNIVERSITARIAS INTEGRADAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1050",
+		"nombre": "LABORATORIO IPD (INTR PENS DEL DISEÑO)",
+		"pcurso": [
+			{
+				"id": "1005",
+				"nombre": "DISEÑO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1010",
+				"nombre": "IDENTIDAD VISUAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1015",
+				"nombre": "MEDIOS DE EXPRESION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1040",
+				"nombre": "SEMIOTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1050",
+				"nombre": "LABORATORIO IPD (INTR PENS DEL DISEÑO)",
+				"actividad": "Curso hecho",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "MATEMATICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "MATEMATICAS",
+				"actividad": "Curso hecho",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1015",
+		"nombre": "MEDIOS DE EXPRESION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1015",
+				"nombre": "MEDIOS DE EXPRESION I",
+				"actividad": "Curso hecho",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2015P",
+		"nombre": "MEDIOS DE EXPRESION II",
+		"pcurso": [
+			{
+				"id": "1015",
+				"nombre": "MEDIOS DE EXPRESION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1910",
+		"nombre": "PRACTICAS ARTISTICAS Y DISEÑO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1910",
+				"nombre": "PRACTICAS ARTISTICAS Y DISEÑO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1911",
+		"nombre": "PROSPECTIVA Y DISEÑO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1911",
+				"nombre": "PROSPECTIVA Y DISEÑO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1040",
+		"nombre": "SEMIOTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1040",
+				"nombre": "SEMIOTICA",
+				"actividad": "Curso hecho",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2075P",
+		"nombre": "TECNOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2075P",
+				"nombre": "TECNOLOGIA I",
+				"actividad": "Curso hecho",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"nombre": "UNIDAD DE PROYECTO I",
+		"pcurso": [
+			{
+				"id": "1005",
+				"nombre": "DISEÑO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1010",
+				"nombre": "IDENTIDAD VISUAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1015",
+				"nombre": "MEDIOS DE EXPRESION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1040",
+				"nombre": "SEMIOTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "UNIDAD DE PROYECTO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1021",
+		"nombre": "UNIDAD DE PROYECTO I",
+		"pcurso": [
+			{
+				"id": "1005",
+				"nombre": "DISEÑO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1010",
+				"nombre": "IDENTIDAD VISUAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1046",
+				"nombre": "INTRODUCCIÓN AL PENSAMIENTO DE DISEÑO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1015",
+				"nombre": "MEDIOS DE EXPRESION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1040",
+				"nombre": "SEMIOTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2020P",
+		"nombre": "UNIDAD DE PROYECTO II",
+		"pcurso": [
+			{
+				"id": "2005P",
+				"nombre": "DISEÑO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015P",
+				"nombre": "MEDIOS DE EXPRESION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2075P",
+				"nombre": "TECNOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1021",
+				"nombre": "UNIDAD DE PROYECTO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1020",
+				"nombre": "UNIDAD DE PROYECTO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1913",
+		"nombre": "¿PARA QUE SIRVEN LAS ARTES?",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1913",
+				"nombre": "¿PARA QUE SIRVEN LAS ARTES?",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

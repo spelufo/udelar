@@ -1,0 +1,2568 @@
+[
+	{
+		"id": "BL06",
+		"nombre": "ACTIVIDADES CIENCIA Y COMUNIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL06",
+				"nombre": "ACTIVIDADES CIENCIA Y COMUNIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI023",
+		"nombre": "ACUSTICA FISICA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI109",
+		"nombre": "ACUSTO-OPTICA",
+		"pcurso": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI109",
+				"nombre": "ACUSTO-OPTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA013",
+		"nombre": "ALGEBRA I",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA013",
+				"nombre": "ALGEBRA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA02",
+		"nombre": "ALGEBRA LINEAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA15",
+		"nombre": "ALGEBRA LINEAL I (F)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA04",
+		"nombre": "ALGEBRA LINEAL II",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA19",
+		"nombre": "ALGEBRA LINEAL II (F)",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI091",
+		"nombre": "APLICACIONES DE RELATIVIDAD GENERAL",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A0002",
+		"nombre": "ASTROFISICA ESTELAR",
+		"pcurso": [
+			{
+				"id": "AS017",
+				"nombre": "INTRODUCCION A LA ASTROFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A0002",
+				"nombre": "ASTROFISICA ESTELAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS017",
+				"nombre": "INTRODUCCION A LA ASTROFISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A0001",
+		"nombre": "ASTRONOMIA FUNDAMENTAL Y SISTEMA SOLAR",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A0001",
+				"nombre": "ASTRONOMIA FUNDAMENTAL Y SISTEMA SOLAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI127",
+		"nombre": "ASTROPARTICULAS",
+		"pcurso": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI072",
+				"nombre": "INTR.A LA FISICA DE PARTICULAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI127",
+				"nombre": "ASTROPARTICULAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI072",
+				"nombre": "INTR.A LA FISICA DE PARTICULAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL662",
+		"nombre": "BIOFISICA (LIC.MAT. Y FISICA)",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL662",
+				"nombre": "BIOFISICA (LIC.MAT. Y FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL746",
+		"nombre": "BIOLOGIA CELULAR (LIC.FISICA)",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL746",
+				"nombre": "BIOLOGIA CELULAR (LIC.FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA01",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA03",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA17",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA07",
+		"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI078",
+		"nombre": "CAMPOS Y CORRIENTES ELECT.EN..",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI701",
+		"nombre": "CAOS Y AZAR",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI085",
+		"nombre": "CAOS Y TURBULENCIA",
+		"pcurso": [
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI085",
+				"nombre": "CAOS Y TURBULENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI102",
+		"nombre": "COMPONENTES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI115",
+		"nombre": "COMPUTACION CUANTICA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA105",
+		"nombre": "CONEXIONES EN FIBRADOS",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI103",
+		"nombre": "CONTROL I",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI095",
+		"nombre": "CUANTIZACION DE SISTEMA GAUGE",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI083",
+		"nombre": "DINAMICA DE CRISTALES LIQUIDOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI082",
+		"nombre": "DINAMICA DE ESTRUCTURAS-ESP.TEM",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI110",
+		"nombre": "DINAMICA DEL SISTEMA SOLAR",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI093",
+		"nombre": "DISEÑO LOGICO",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA074",
+		"nombre": "ECUACIONES DIFERENCIALES II",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI10",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI052",
+		"nombre": "ELECTRONICA I",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ME11",
+		"nombre": "ELEMENTOS DE METEOROLOGIA Y CLIMA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI098",
+		"nombre": "EXPERIMENTOS CON LASERES DE DIODO",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI18",
+		"nombre": "FISICA COMPUTACIONAL",
+		"pcurso": [
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI047",
+		"nombre": "FISICA DE LA MATERIA I",
+		"pcurso": [
+			{
+				"id": "FI046",
+				"nombre": "MECANICA ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI047",
+				"nombre": "FISICA DE LA MATERIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI046",
+				"nombre": "MECANICA ESTADISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI14",
+		"nombre": "FISICA DE LA MATERIA II",
+		"pcurso": [
+			{
+				"id": "FI046",
+				"nombre": "MECANICA ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI14",
+				"nombre": "FISICA DE LA MATERIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI046",
+				"nombre": "MECANICA ESTADISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI104",
+		"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+		"pcurso": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI104",
+				"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI099",
+		"nombre": "FISICA DE SEMICONDUCTORES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI01",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI02",
+		"nombre": "FISICA II",
+		"pcurso": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI08",
+		"nombre": "FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI13",
+		"nombre": "FISICA NO LINEAL",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI120",
+		"nombre": "FISICA NO LINEAL DE SIST. CAOTICOS, ESTO",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI107",
+		"nombre": "FISICA NO LINEAL Y CAOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL694",
+		"nombre": "FUNDAMENTOS DE BIOLOGIA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI15",
+		"nombre": "INESTABILIDADES EN FLUIDOS",
+		"pcurso": [
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI03",
+				"nombre": "LABORATORIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI15",
+				"nombre": "INESTABILIDADES EN FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES003",
+		"nombre": "INFERENCIA ESTADISTICA I",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ES003",
+				"nombre": "INFERENCIA ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI034",
+		"nombre": "INT. SUPERCONDUCTIVIDAD Y SUPERFLUIDEZ",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI087",
+		"nombre": "INT.A LA FISICA NO LINEAL DE LOS LASERES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI07",
+		"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI07",
+				"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI06",
+		"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI06",
+				"nombre": "INT.CIENCIA DE LA TIERRA Y EL ESPACIO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA10",
+		"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI072",
+		"nombre": "INTR.A LA FISICA DE PARTICULAS",
+		"pcurso": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI072",
+				"nombre": "INTR.A LA FISICA DE PARTICULAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME002",
+		"nombre": "INTROD.A LA METEOROLOGIA TEORICA (ANUAL)",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA008",
+		"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI070",
+		"nombre": "INTRODUCC. A LA GEOMETRIA DEL ESPACIO",
+		"pcurso": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI070",
+				"nombre": "INTRODUCC. A LA GEOMETRIA DEL ESPACIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA017",
+		"nombre": "INTRODUCCION  A LA GEOMETRIA DIFERENCIAL",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA017",
+				"nombre": "INTRODUCCION  A LA GEOMETRIA DIFERENCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI088",
+		"nombre": "INTRODUCCION  AL TRATAMIENTO DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AS017",
+		"nombre": "INTRODUCCION A LA ASTROFISICA",
+		"pcurso": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AS017",
+				"nombre": "INTRODUCCION A LA ASTROFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA09",
+		"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA09",
+				"nombre": "INTRODUCCION A LA COMPUTACION (MATEM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI42",
+		"nombre": "INTRODUCCION A LA TOPOLOGIA (LIC.FISICA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI42",
+				"nombre": "INTRODUCCION A LA TOPOLOGIA (LIC.FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA016",
+		"nombre": "INTRODUCCION A LOS METODOS NUMERICOS",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA016",
+				"nombre": "INTRODUCCION A LOS METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA014",
+		"nombre": "INTRODUCCION AL ANALISIS COMPLEJO",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA014",
+				"nombre": "INTRODUCCION AL ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA012",
+		"nombre": "INTRODUCCION AL ANALISIS REAL",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA012",
+				"nombre": "INTRODUCCION AL ANALISIS REAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI03",
+		"nombre": "LABORATORIO I",
+		"pcurso": [
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI03",
+				"nombre": "LABORATORIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI043",
+		"nombre": "LABORATORIO II",
+		"pcurso": [
+			{
+				"id": "FI03",
+				"nombre": "LABORATORIO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI03",
+				"nombre": "LABORATORIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI043",
+				"nombre": "LABORATORIO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI044",
+		"nombre": "LABORATORIO III A",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI043",
+				"nombre": "LABORATORIO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI043",
+				"nombre": "LABORATORIO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI044",
+				"nombre": "LABORATORIO III A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI045",
+		"nombre": "LABORATORIO III B",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI044",
+				"nombre": "LABORATORIO III A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI044",
+				"nombre": "LABORATORIO III A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI045",
+				"nombre": "LABORATORIO III B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI056",
+		"nombre": "MEC.DE LOS FLUIDOS E HIDRAULICA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI007",
+		"nombre": "MECANICA ANALITICA",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AS013",
+		"nombre": "MECANICA CELESTE",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AS013",
+				"nombre": "MECANICA CELESTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI32",
+		"nombre": "MECANICA CLASICA",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI067",
+		"nombre": "MECANICA CUANTICA APLICADA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI042",
+		"nombre": "MECANICA CUANTICA I",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI042",
+				"nombre": "MECANICA CUANTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI086",
+		"nombre": "MECANICA CUANTICA RELATIVISTA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI046",
+		"nombre": "MECANICA ESTADISTICA I",
+		"pcurso": [
+			{
+				"id": "MA04",
+				"nombre": "ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI007",
+				"nombre": "MECANICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI046",
+				"nombre": "MECANICA ESTADISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ES002",
+		"nombre": "MEDIDA Y PROBABILIDAD",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI094",
+		"nombre": "MEDIDAS ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI16",
+		"nombre": "MET.EXP.PARA ESTUDIO DE FLUIDOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ME001",
+		"nombre": "METEOROLOGIA GENERAL",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI106",
+		"nombre": "METODOS DE SIMULACION COMPUTACIONAL",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI057",
+		"nombre": "METODOS EXPERIM. EN FISICA DE SOLIDOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI064",
+		"nombre": "MUEST.Y PROC.DIGITAL DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI05",
+		"nombre": "ONDAS",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI05",
+				"nombre": "ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI036",
+		"nombre": "OPTICA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI068",
+		"nombre": "OPTICA DE FOURIER",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AS018",
+		"nombre": "ORIGEN DEL SISTEMA SOLAR",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI054",
+		"nombre": "PLANETOLOGIA  Y EXOBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI065",
+		"nombre": "PROGRAMACION I",
+		"pcurso": [
+			{
+				"id": "MA00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI066",
+		"nombre": "PROGRAMACION II",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI062",
+		"nombre": "PROPIEDADES BIOLOG.Y MEC.DE TEJIDOS BIOL",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GF058",
+		"nombre": "QUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL436",
+		"nombre": "REDES NEURONALES Y MEMORIAS DISTRIBUIDAS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI076",
+		"nombre": "RELAJ.ANELASTICA DE SOLIDOS CRI",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI108",
+		"nombre": "RELATIVIDAD  GENERAL Y COSMOLOGIA",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI061",
+		"nombre": "RELATIVIDAD Y GRAVITACION",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI105",
+		"nombre": "SEÑALES Y SISTEMAS LINEALES II",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI119",
+		"nombre": "SIS.COMPLEJOS EN C.NATURALES Y  SOCIALES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI096",
+		"nombre": "SIST. DE MEDIDAS Y ADQUISICION DE DATOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI084",
+		"nombre": "SISTEMAS LINEALES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA123",
+		"nombre": "SISTEMAS LINEALES I",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI29",
+		"nombre": "TALLER I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI41",
+		"nombre": "TALLER II",
+		"pcurso": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI077",
+		"nombre": "TALLER III A",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA118",
+		"nombre": "TEORIA AXIOMATICA DE CONJUNTOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI030",
+		"nombre": "TEORIA CUANTICA DE CAMPOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI12",
+		"nombre": "TEORIA ELECTROMAGNETICA",
+		"pcurso": [
+			{
+				"id": "MA02",
+				"nombre": "ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI12",
+				"nombre": "TEORIA ELECTROMAGNETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI04",
+		"nombre": "TERMODINAMICA",
+		"pcurso": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI121",
+		"nombre": "TRANSICIONES DE FASE Y FENOMEN. CRITICOS",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI17",
+		"nombre": "TRATAMIENTO DE SEÑALES",
+		"pcurso": [
+			{
+				"id": "FI00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL02",
+		"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

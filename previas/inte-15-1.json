@@ -1,0 +1,526 @@
+[
+	{
+		"id": "LEF16",
+		"nombre": "ACOND.FÍSICO BÁSICO I",
+		"pcurso": [
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF35",
+		"nombre": "ACOND.FÍSICO BÁSICO II",
+		"pcurso": [
+			{
+				"id": "LEF16",
+				"nombre": "ACOND.FÍSICO BÁSICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF15",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF16",
+				"nombre": "ACOND.FÍSICO BÁSICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF15",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF45",
+		"nombre": "EDUCACIÓN FÍSICA ADAPTADA",
+		"pcurso": [
+			{
+				"id": "LEF35",
+				"nombre": "ACOND.FÍSICO BÁSICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF20",
+				"nombre": "CINESIOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF35",
+				"nombre": "ACOND.FÍSICO BÁSICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF20",
+				"nombre": "CINESIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF22",
+		"nombre": "EVALUACIÓN(CUANTITATIVA-CUALITATIVA)",
+		"pcurso": [
+			{
+				"id": "LEF09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF15",
+		"nombre": "FISIOLOGÍA II",
+		"pcurso": [
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF28",
+		"nombre": "FITNESS",
+		"pcurso": [
+			{
+				"id": "LEF16",
+				"nombre": "ACOND.FÍSICO BÁSICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF18",
+				"nombre": "GIMNASIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LEF19",
+		"nombre": "MOTRICIDAD Y APRENDIZAJE",
+		"pcurso": [
+			{
+				"id": "LEF03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF06",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF06",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF24",
+		"nombre": "PEDAGOGÍA DE LA EDUCACIÓN FÍSICA",
+		"pcurso": [
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF14",
+		"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+		"pcurso": [
+			{
+				"id": "LEF09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF25",
+		"nombre": "PRIMEROS AUXILIOS",
+		"pcurso": [
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF32",
+		"nombre": "PRÁCTICA DOCENTE I",
+		"pcurso": [
+			{
+				"id": "LEF17",
+				"nombre": "ATLETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF05",
+				"nombre": "EDUCACIÓN RÍTMICO MUSICAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF22",
+				"nombre": "EVALUACIÓN(CUANTITATIVA-CUALITATIVA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF15",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF21",
+				"nombre": "FÚTBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF18",
+				"nombre": "GIMNASIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF47",
+				"nombre": "HANDBALL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF04",
+				"nombre": "JUEGO Y RECREACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF19",
+				"nombre": "MOTRICIDAD Y APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF24",
+				"nombre": "PEDAGOGÍA DE LA EDUCACIÓN FÍSICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF14",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF06",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF05",
+				"nombre": "EDUCACIÓN RÍTMICO MUSICAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF04",
+				"nombre": "JUEGO Y RECREACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF06",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF38",
+		"nombre": "PRÁCTICA DOCENTE II",
+		"pcurso": [
+			{
+				"id": "LEF30",
+				"nombre": "BASQUETBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF27",
+				"nombre": "NATACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF32",
+				"nombre": "PRÁCTICA DOCENTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LEF29",
+				"nombre": "VOLEIBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LEF43",
+		"nombre": "SEMINARIO PROYECTO TESINA",
+		"pcurso": [
+			{
+				"id": "LEF31",
+				"nombre": "INVESTIGACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF31",
+				"nombre": "INVESTIGACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "LEF46",
+		"nombre": "TEORÍA DEL CURRÍCULO",
+		"pcurso": [
+			{
+				"id": "LEF14",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "LEF14",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

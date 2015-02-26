@@ -1,0 +1,1379 @@
+[
+	{
+		"id": "TI17M",
+		"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "TI17M",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI08M",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI17M",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM17",
+		"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI05M",
+		"nombre": "ARQUITECTURA DE COMPUTADORAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TI05M",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM05",
+		"nombre": "ARQUITECTURA DE COMPUTADORAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI09M",
+		"nombre": "BASE DE DATOS I",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI01M",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI13M",
+		"nombre": "BASE DE DATOS II",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM09",
+		"nombre": "BASES DE DATOS I",
+		"pcurso": [
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM13",
+		"nombre": "BASES DE DATOS II",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI28M",
+		"nombre": "CALIDAD DE DATOS",
+		"pcurso": [
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM28",
+		"nombre": "CALIDAD DE DATOS",
+		"pcurso": [
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM15",
+		"nombre": "COMUNICACION ORAL Y ESCR. (ACT. COMPL.3)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM15",
+				"nombre": "COMUNICACION ORAL Y ESCR. (ACT. COMPL.3)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI15M",
+		"nombre": "COMUNICACION ORAL Y ESCRITA (ACT.COMP.3)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TI15M",
+				"nombre": "COMUNICACION ORAL Y ESCRITA (ACT.COMP.3)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM14",
+		"nombre": "CONTABILIDAD (ACT. COMPL.4)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM14",
+				"nombre": "CONTABILIDAD (ACT. COMPL.4)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI14M",
+		"nombre": "CONTABILIDAD 8ACT COMPL.4)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TI14M",
+				"nombre": "CONTABILIDAD 8ACT COMPL.4)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI22M",
+		"nombre": "DESARR. DE APLIC. BASAD. EN",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI12M",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM22",
+		"nombre": "DESARR.T APLIC.PASAD ED TECNOL GENEXUS",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI23M",
+		"nombre": "DESARROLLO DE SITIOS WEB CON PHP",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI12M",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI11M",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM23",
+		"nombre": "DESARROLLO DE SITIOS WEB CON PHP",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM06",
+		"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+		"pcurso": [
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI06M",
+		"nombre": "ESTRUCTURA DE DATOS Y LOGARITMOS",
+		"pcurso": [
+			{
+				"id": "TI02M",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI01M",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI06M",
+				"nombre": "ESTRUCTURA DE DATOS Y LOGARITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM18",
+		"nombre": "INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI06M",
+				"nombre": "ESTRUCTURA DE DATOS Y LOGARITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI12M",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI18M",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI10M",
+		"nombre": "INGLES CONVERSACIONAL (ACT COMPL.2)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TI10M",
+				"nombre": "INGLES CONVERSACIONAL (ACT COMPL.2)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM10",
+		"nombre": "INGLES CONVERSACIONAL (ACT.COMPL. 2)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM10",
+				"nombre": "INGLES CONVERSACIONAL (ACT.COMPL. 2)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM04",
+		"nombre": "INGLES TECNICO 1 (ACT.COMPL.1)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM04",
+				"nombre": "INGLES TECNICO 1 (ACT.COMPL.1)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI04M",
+		"nombre": "INGLES TECNICO I (ACT.COMPL.1)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TI04M",
+				"nombre": "INGLES TECNICO I (ACT.COMPL.1)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM03",
+		"nombre": "MATEMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM03",
+				"nombre": "MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM07",
+		"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+		"pcurso": [
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM02",
+		"nombre": "MATEMATICA DISCRETA Y LOGICA1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI21M",
+		"nombre": "PASANTIA LABORAL",
+		"pcurso": [
+			{
+				"id": "TI05M",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI06M",
+				"nombre": "ESTRUCTURA DE DATOS Y LOGARITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI01M",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI12M",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI11M",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI08M",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM21",
+		"nombre": "PASANTIA LABORAL",
+		"pcurso": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI01M",
+		"nombre": "PRINCIPIOS DE PROGRAMACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TI01M",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM01",
+		"nombre": "PRINCIPIOS DE PROGRAMACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI19M",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "TI02M",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI07M",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI19M",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM19",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "TIM07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM19",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI12M",
+		"nombre": "PROGRAMACION AVANZADA",
+		"pcurso": [
+			{
+				"id": "TI06M",
+				"nombre": "ESTRUCTURA DE DATOS Y LOGARITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI12M",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM12",
+		"nombre": "PROGRAMACION AVANZADA.",
+		"pcurso": [
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI16M",
+		"nombre": "PROGRAMACION DE APLICACIONES",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI06M",
+				"nombre": "ESTRUCTURA DE DATOS Y LOGARITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI12M",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM16",
+		"nombre": "PROGRAMACION DE APLICACIONES",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI27M",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "TIM17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI05M",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI06M",
+				"nombre": "ESTRUCTURA DE DATOS Y LOGARITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI18M",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI03M",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI02M",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI07M",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI01M",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI19M",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI12M",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI11M",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI08M",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM27",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "TIM17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM18",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM03",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM19",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI11M",
+		"nombre": "REDES DE COMPUTADORAS",
+		"pcurso": [
+			{
+				"id": "TI05M",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI11M",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM11",
+		"nombre": "REDES DE COMPUTADORAS",
+		"pcurso": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI20M",
+		"nombre": "RELACIONES PERSONALES Y LABORALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TI20M",
+				"nombre": "RELACIONES PERSONALES Y LABORALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM20",
+		"nombre": "RELACIONES PERSONALES Y LABORALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM20",
+				"nombre": "RELACIONES PERSONALES Y LABORALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TI08M",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "TI05M",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TI08M",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM08",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM25",
+		"nombre": "TALLER DE APLCACIONES DE INTERNET RICAS",
+		"pcurso": [
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI25M",
+		"nombre": "TALLER DE APLICACIONES DE INTERNET RICAS",
+		"pcurso": [
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM30",
+		"nombre": "TALLER DE DESAR.DE APLIC.WEB CON PHP",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI30M",
+		"nombre": "TALLER DE DESARR.DE AOLIC.WEB CON PHP",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI29M",
+		"nombre": "TALLER DE SIST.DE INF. GEOGRAFICA",
+		"pcurso": [
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI18M",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI24M",
+		"nombre": "TALLER DE SISTEMAS DE INFORMAC. JAVA EE",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM26",
+		"nombre": "TALLER DE SISTEMAS DE INFORMACION NET",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI26M",
+		"nombre": "TALLER DE SISTEMAS DE INFORMACION.NET",
+		"pcurso": [
+			{
+				"id": "TI09M",
+				"nombre": "BASE DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI13M",
+				"nombre": "BASE DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI16M",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM24",
+		"nombre": "TALLER DE SISTEMS DE INFOR.JAVA EE",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM29",
+		"nombre": "TALLER SIST DE INF. GEOGRAFICA",
+		"pcurso": [
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM18",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

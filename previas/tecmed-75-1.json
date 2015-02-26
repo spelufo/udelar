@@ -1,0 +1,1123 @@
+[
+	{
+		"id": "7511",
+		"nombre": "ADMINISTRACION EN BLOCK QUIRURGICO",
+		"pcurso": [
+			{
+				"id": "754",
+				"nombre": "ANESTESIOLOGIA Y SERV. AUXILIARES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "756",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "755",
+				"nombre": "INSTRUMENTAL I Y II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "757",
+				"nombre": "PATOLOGIA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "753",
+				"nombre": "PRACTICA INSTRUMENTACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "758",
+				"nombre": "PRACTICA INSTRUMENTACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7511",
+				"nombre": "ADMINISTRACION EN BLOCK QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P12",
+		"nombre": "ADMINISTRACION HOSPITALARIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P1",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "754",
+		"nombre": "ANESTESIOLOGIA Y SERV. AUXILIARES",
+		"pcurso": [
+			{
+				"id": "751",
+				"nombre": "INTRODUCCION AL AREA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "754",
+				"nombre": "ANESTESIOLOGIA Y SERV. AUXILIARES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "751",
+				"nombre": "INTRODUCCION AL AREA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P2",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7513",
+		"nombre": "BIOSEGURIDAD",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7513",
+				"nombre": "BIOSEGURIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P4",
+		"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P11",
+		"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P5",
+		"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7512",
+		"nombre": "ECONOMATO",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7512",
+				"nombre": "ECONOMATO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "756",
+		"nombre": "FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "756",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "755",
+		"nombre": "INSTRUMENTAL I Y II",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "751",
+				"nombre": "INTRODUCCION AL AREA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "755",
+				"nombre": "INSTRUMENTAL I Y II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7516",
+		"nombre": "INTERNADO",
+		"pcurso": [
+			{
+				"id": "7511",
+				"nombre": "ADMINISTRACION EN BLOCK QUIRURGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "754",
+				"nombre": "ANESTESIOLOGIA Y SERV. AUXILIARES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7513",
+				"nombre": "BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7512",
+				"nombre": "ECONOMATO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "756",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "755",
+				"nombre": "INSTRUMENTAL I Y II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "751",
+				"nombre": "INTRODUCCION AL AREA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "752",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "757",
+				"nombre": "PATOLOGIA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "753",
+				"nombre": "PRACTICA INSTRUMENTACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "758",
+				"nombre": "PRACTICA INSTRUMENTACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "759",
+				"nombre": "PRACTICA INSTRUMENTACION III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7514",
+				"nombre": "PRACTICA INSTRUMENTACION IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7515",
+				"nombre": "TECNICAS ESPECIALES DE CIRUGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7510",
+				"nombre": "TECNICAS GRALES. DE CIRUGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "751",
+		"nombre": "INTRODUCCION AL AREA QUIRURGICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "751",
+				"nombre": "INTRODUCCION AL AREA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P9",
+		"nombre": "METODOLOGIA CIENTIFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "752",
+		"nombre": "MICROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "752",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7517",
+		"nombre": "MONOGRAFIA",
+		"pcurso": [
+			{
+				"id": "7511",
+				"nombre": "ADMINISTRACION EN BLOCK QUIRURGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "754",
+				"nombre": "ANESTESIOLOGIA Y SERV. AUXILIARES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7513",
+				"nombre": "BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7512",
+				"nombre": "ECONOMATO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "756",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "755",
+				"nombre": "INSTRUMENTAL I Y II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7516",
+				"nombre": "INTERNADO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "751",
+				"nombre": "INTRODUCCION AL AREA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P9",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "752",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "757",
+				"nombre": "PATOLOGIA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "753",
+				"nombre": "PRACTICA INSTRUMENTACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "758",
+				"nombre": "PRACTICA INSTRUMENTACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "759",
+				"nombre": "PRACTICA INSTRUMENTACION III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7514",
+				"nombre": "PRACTICA INSTRUMENTACION IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7515",
+				"nombre": "TECNICAS ESPECIALES DE CIRUGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7510",
+				"nombre": "TECNICAS GRALES. DE CIRUGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "P3",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "757",
+		"nombre": "PATOLOGIA QUIRURGICA",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "757",
+				"nombre": "PATOLOGIA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "753",
+		"nombre": "PRACTICA INSTRUMENTACION I",
+		"pcurso": [
+			{
+				"id": "P1",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P2",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P4",
+				"nombre": "CARDIO VASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P5",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P3",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "755",
+				"nombre": "INSTRUMENTAL I Y II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "753",
+				"nombre": "PRACTICA INSTRUMENTACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "758",
+		"nombre": "PRACTICA INSTRUMENTACION II",
+		"pcurso": [
+			{
+				"id": "753",
+				"nombre": "PRACTICA INSTRUMENTACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "753",
+				"nombre": "PRACTICA INSTRUMENTACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "758",
+				"nombre": "PRACTICA INSTRUMENTACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "759",
+		"nombre": "PRACTICA INSTRUMENTACION III",
+		"pcurso": [
+			{
+				"id": "758",
+				"nombre": "PRACTICA INSTRUMENTACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "758",
+				"nombre": "PRACTICA INSTRUMENTACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "759",
+				"nombre": "PRACTICA INSTRUMENTACION III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7514",
+		"nombre": "PRACTICA INSTRUMENTACION IV",
+		"pcurso": [
+			{
+				"id": "759",
+				"nombre": "PRACTICA INSTRUMENTACION III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "7510",
+				"nombre": "TECNICAS GRALES. DE CIRUGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "759",
+				"nombre": "PRACTICA INSTRUMENTACION III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7514",
+				"nombre": "PRACTICA INSTRUMENTACION IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "7510",
+				"nombre": "TECNICAS GRALES. DE CIRUGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P8",
+		"nombre": "PSICOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P8",
+				"nombre": "PSICOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P6",
+		"nombre": "REPRODUCCION Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P6",
+				"nombre": "REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P10",
+		"nombre": "SALUD PUBLICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P10",
+				"nombre": "SALUD PUBLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7515",
+		"nombre": "TECNICAS ESPECIALES DE CIRUGIA",
+		"pcurso": [
+			{
+				"id": "7511",
+				"nombre": "ADMINISTRACION EN BLOCK QUIRURGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P12",
+				"nombre": "ADMINISTRACION HOSPITALARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7513",
+				"nombre": "BIOSEGURIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P11",
+				"nombre": "DEONTOLOGIA Y LEGISLACION LABORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7512",
+				"nombre": "ECONOMATO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "759",
+				"nombre": "PRACTICA INSTRUMENTACION III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "7510",
+				"nombre": "TECNICAS GRALES. DE CIRUGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7515",
+				"nombre": "TECNICAS ESPECIALES DE CIRUGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "7510",
+		"nombre": "TECNICAS GRALES. DE CIRUGIA",
+		"pcurso": [
+			{
+				"id": "754",
+				"nombre": "ANESTESIOLOGIA Y SERV. AUXILIARES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "756",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "755",
+				"nombre": "INSTRUMENTAL I Y II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "757",
+				"nombre": "PATOLOGIA QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "753",
+				"nombre": "PRACTICA INSTRUMENTACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "758",
+				"nombre": "PRACTICA INSTRUMENTACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "7510",
+				"nombre": "TECNICAS GRALES. DE CIRUGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

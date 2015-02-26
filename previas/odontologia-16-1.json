@@ -1,0 +1,2196 @@
+[
+	{
+		"id": "1021",
+		"nombre": "BASES BIOLÓGICAS 1",
+		"pcurso": [
+			{
+				"id": "IO",
+				"nombre": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "BASES BIOLÓGICAS 2",
+		"pcurso": [
+			{
+				"id": "IO",
+				"nombre": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2023",
+		"nombre": "BASES BIOLÓGICAS 3",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2024",
+		"nombre": "BASES BIOLÓGICAS 4",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3024",
+		"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4019",
+		"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 2",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1060",
+				"nombre": "CURSO BÁSICO DE INFORMÁTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2050",
+				"nombre": "LECTURA COMPRENSIVA DE INGLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015",
+				"nombre": "MATERIALES DENTALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2017",
+				"nombre": "OCLUSIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2022",
+				"nombre": "OCLUSIÓN Y PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2021",
+				"nombre": "PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4019",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5028",
+		"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 3",
+		"pcurso": [
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4019",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5028",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2018",
+		"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+		"pcurso": [
+			{
+				"id": "2000",
+				"nombre": "INTROD. A LA PROST. Y OCLUSIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5026",
+		"nombre": "CLÍNICA ORTODONCIA",
+		"pcurso": [
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4023",
+				"nombre": "CLÍNICA TERAPÉUTICA ENDODONTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4024",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5026",
+				"nombre": "CLÍNICA ORTODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3021",
+		"nombre": "CLÍNICA PATOLOGÍA 3",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3022A",
+		"nombre": "CLÍNICA PATOLOGÍA 4A",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3022B",
+		"nombre": "CLÍNICA PATOLOGÍA 4B",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5025",
+		"nombre": "CLÍNICA PEDIÁTRICA",
+		"pcurso": [
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4023",
+				"nombre": "CLÍNICA TERAPÉUTICA ENDODONTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4024",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5025",
+				"nombre": "CLÍNICA PEDIÁTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4023",
+		"nombre": "CLÍNICA TERAPÉUTICA ENDODONTICA",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1060",
+				"nombre": "CURSO BÁSICO DE INFORMÁTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2050",
+				"nombre": "LECTURA COMPRENSIVA DE INGLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015",
+				"nombre": "MATERIALES DENTALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2017",
+				"nombre": "OCLUSIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2022",
+				"nombre": "OCLUSIÓN Y PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2021",
+				"nombre": "PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4023",
+				"nombre": "CLÍNICA TERAPÉUTICA ENDODONTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4022",
+		"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1060",
+				"nombre": "CURSO BÁSICO DE INFORMÁTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2050",
+				"nombre": "LECTURA COMPRENSIVA DE INGLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015",
+				"nombre": "MATERIALES DENTALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2017",
+				"nombre": "OCLUSIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2022",
+				"nombre": "OCLUSIÓN Y PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2021",
+				"nombre": "PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3025",
+		"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2000",
+				"nombre": "INTROD. A LA PROST. Y OCLUSIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015",
+				"nombre": "MATERIALES DENTALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4024",
+		"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 2",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1060",
+				"nombre": "CURSO BÁSICO DE INFORMÁTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2050",
+				"nombre": "LECTURA COMPRENSIVA DE INGLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015",
+				"nombre": "MATERIALES DENTALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2017",
+				"nombre": "OCLUSIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2022",
+				"nombre": "OCLUSIÓN Y PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2021",
+				"nombre": "PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4024",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5027",
+		"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 3",
+		"pcurso": [
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4023",
+				"nombre": "CLÍNICA TERAPÉUTICA ENDODONTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4024",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5027",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1060",
+		"nombre": "CURSO BÁSICO DE INFORMÁTICA",
+		"pcurso": [
+			{
+				"id": "IO",
+				"nombre": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3026",
+		"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+		"pcurso": [
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1600",
+		"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+		"pcurso": [
+			{
+				"id": "IO",
+				"nombre": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2050",
+		"nombre": "LECTURA COMPRENSIVA DE INGLES",
+		"pcurso": [
+			{
+				"id": "IO",
+				"nombre": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1014",
+		"nombre": "MATERIALES DENTALES 1",
+		"pcurso": [
+			{
+				"id": "IO",
+				"nombre": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2015",
+		"nombre": "MATERIALES DENTALES 2",
+		"pcurso": [
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2015",
+				"nombre": "MATERIALES DENTALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2017",
+		"nombre": "OCLUSIÓN",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2017",
+				"nombre": "OCLUSIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2022",
+		"nombre": "OCLUSIÓN Y PROSTODONCIA",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2022",
+				"nombre": "OCLUSIÓN Y PROSTODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4021",
+		"nombre": "ODONTOLOGÍA RESTAURADORA",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1060",
+				"nombre": "CURSO BÁSICO DE INFORMÁTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2050",
+				"nombre": "LECTURA COMPRENSIVA DE INGLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2015",
+				"nombre": "MATERIALES DENTALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2017",
+				"nombre": "OCLUSIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2022",
+				"nombre": "OCLUSIÓN Y PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2021",
+				"nombre": "PROSTODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3041",
+		"nombre": "PASANTÍA 1",
+		"pcurso": [
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5070",
+		"nombre": "PASANTÍA 2",
+		"pcurso": [
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4019",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3021",
+				"nombre": "CLÍNICA PATOLOGÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022A",
+				"nombre": "CLÍNICA PATOLOGÍA 4A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3022B",
+				"nombre": "CLÍNICA PATOLOGÍA 4B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5025",
+				"nombre": "CLÍNICA PEDIÁTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5025",
+				"nombre": "CLÍNICA PEDIÁTRICA",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "4023",
+				"nombre": "CLÍNICA TERAPÉUTICA ENDODONTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3025",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4024",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3026",
+				"nombre": "FARMACOLOGÍA Y TERAPÉUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5071",
+		"nombre": "PASANTÍA 3",
+		"pcurso": [
+			{
+				"id": "4019",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5028",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5026",
+				"nombre": "CLÍNICA ORTODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5025",
+				"nombre": "CLÍNICA PEDIÁTRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4023",
+				"nombre": "CLÍNICA TERAPÉUTICA ENDODONTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4022",
+				"nombre": "CLÍNICA TERAPÉUTICA PERIODONTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4024",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5027",
+				"nombre": "CLÍNICA TRATAMIENTO EDENTACIÓN 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4021",
+				"nombre": "ODONTOLOGÍA RESTAURADORA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5070",
+				"nombre": "PASANTÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5131",
+				"nombre": "SALUD COLECTIVA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2019",
+		"nombre": "PATOLOGÍA 1",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2020",
+		"nombre": "PATOLOGÍA 2",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2021",
+		"nombre": "PROSTODONCIA",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2021",
+				"nombre": "PROSTODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3131",
+		"nombre": "SALUD COLECTIVA 1",
+		"pcurso": [
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5131",
+		"nombre": "SALUD COLECTIVA 2",
+		"pcurso": [
+			{
+				"id": "3041",
+				"nombre": "PASANTÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3131",
+				"nombre": "SALUD COLECTIVA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5131",
+				"nombre": "SALUD COLECTIVA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1131",
+		"nombre": "SALUD Y PREVENCIÓN",
+		"pcurso": [
+			{
+				"id": "IO",
+				"nombre": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2016",
+		"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+		"pcurso": [
+			{
+				"id": "1021",
+				"nombre": "BASES BIOLÓGICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "BASES BIOLÓGICAS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3023",
+		"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+		"pcurso": [
+			{
+				"id": "2023",
+				"nombre": "BASES BIOLÓGICAS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2024",
+				"nombre": "BASES BIOLÓGICAS 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3024",
+				"nombre": "CLÍNICA CIRUGÍA BUCO MAXILO FACIAL 1",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "2018",
+				"nombre": "CLÍNICA INTEGRADA DE ADULTOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1600",
+				"nombre": "INICIACIÓN A LA INVESTIGACIÓN CIENTÍFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2000",
+				"nombre": "INTROD. A LA PROST. Y OCLUSIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1014",
+				"nombre": "MATERIALES DENTALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2019",
+				"nombre": "PATOLOGÍA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2020",
+				"nombre": "PATOLOGÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1131",
+				"nombre": "SALUD Y PREVENCIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2016",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3023",
+				"nombre": "TRAT.DE LAS ENFER.MAS PREVALENTES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

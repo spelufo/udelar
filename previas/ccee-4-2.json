@@ -1,0 +1,1604 @@
+[
+	{
+		"id": "MC71",
+		"nombre": "ANÁLISIS MULTIVARIADO I",
+		"pcurso": [
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "312G",
+				"nombre": "ESTADÍSTICA II (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E72",
+		"nombre": "CAMBIO Y DISEÑO DE INSTITUCIONES ECONOM.",
+		"pcurso": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EMP2",
+		"nombre": "CCEEMPRENDE",
+		"pcurso": [
+			{
+				"id": "445P",
+				"nombre": "PREP.Y EVAL DE PROYECTOS PREV",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "445P",
+				"nombre": "PREP.Y EVAL DE PROYECTOS PREV",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EMP2A",
+		"nombre": "CCEEMPRENDE",
+		"pcurso": [
+			{
+				"id": "445P",
+				"nombre": "PREP.Y EVAL DE PROYECTOS PREV",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "445P",
+				"nombre": "PREP.Y EVAL DE PROYECTOS PREV",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "425",
+		"nombre": "COMERCIALIZACION",
+		"pcurso": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "425A",
+		"nombre": "COMERCIALIZACION",
+		"pcurso": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I51",
+		"nombre": "COMPETENCIAS BÁSICAS",
+		"pcurso": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C20",
+		"nombre": "CONTABILIDAD GENERAL I",
+		"pcurso": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "323",
+		"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E40G",
+				"nombre": "MACROEC.II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E40G",
+				"nombre": "MACROEC.II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC31",
+		"nombre": "CÁLCULO II",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC43",
+		"nombre": "CÁLCULO III",
+		"pcurso": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S45",
+		"nombre": "DESIGUALDAD Y POBREZA",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E73",
+		"nombre": "ECON. AGROPEC.DE LOS RECURSOS NATURALES",
+		"pcurso": [
+			{
+				"id": "E41P",
+				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E41P",
+				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC61",
+		"nombre": "ECONOMETRÍA I",
+		"pcurso": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC20P",
+				"nombre": "ÁLGEBRA (PREV)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC20P",
+				"nombre": "ÁLGEBRA (PREV)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "526",
+		"nombre": "ECONOMETRÍA II",
+		"pcurso": [
+			{
+				"id": "454",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "454",
+				"nombre": "ECONOMETRÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC70",
+		"nombre": "ECONOMETRÍA II",
+		"pcurso": [
+			{
+				"id": "MC70P",
+				"nombre": "ECONOMETRÍA II(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC70P",
+				"nombre": "ECONOMETRÍA II(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E74",
+		"nombre": "ECONOMIA Y GESTION BANCARIA",
+		"pcurso": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "443",
+		"nombre": "ECONOMÍA AGROPECUARIA",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "443A",
+		"nombre": "ECONOMÍA AGROPECUARIA",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E51",
+		"nombre": "ECONOMÍA DE AMÉRICA LATINA",
+		"pcurso": [
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4341",
+		"nombre": "ECONOMÍA DEL SECTOR PÚBLICO",
+		"pcurso": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E60",
+		"nombre": "ECONOMÍA DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "442",
+		"nombre": "ECONOMÍA INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "442A",
+		"nombre": "ECONOMÍA INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "323",
+				"nombre": "CRECIMIENTO Y DESARROLLO ECONOMICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E70",
+		"nombre": "ECONOMÍA INTERNACIONAL",
+		"pcurso": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "444",
+		"nombre": "ECONOMÍA LABORAL",
+		"pcurso": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "444A",
+		"nombre": "ECONOMÍA LABORAL",
+		"pcurso": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E76",
+		"nombre": "ECONOMÍA LABORAL",
+		"pcurso": [
+			{
+				"id": "325P",
+				"nombre": "ECONOMÍA DEL URUGUAY(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "325P",
+				"nombre": "ECONOMÍA DEL URUGUAY(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "326",
+		"nombre": "ECONOMÍA MATEMÁTICA",
+		"pcurso": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "222G",
+				"nombre": "ESTADISTICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211G",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "222G",
+				"nombre": "ESTADISTICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211G",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "433",
+		"nombre": "ECONOMÍA MONETARIA",
+		"pcurso": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "434",
+		"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
+		"pcurso": [
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "327",
+				"nombre": "MICROECONOMIA AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E77",
+		"nombre": "ECONOMÍA Y GÉNERO",
+		"pcurso": [
+			{
+				"id": "S20P",
+				"nombre": "INT.A LAS ESC.DEL PENSAM.-PREV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "S20P",
+				"nombre": "INT.A LAS ESC.DEL PENSAM.-PREV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "327P",
+				"nombre": "MICROEC. AV. (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E78",
+		"nombre": "ECONOMÍA Y POLÍTICA MONETARIA",
+		"pcurso": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC42",
+		"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC51",
+		"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A71",
+		"nombre": "FINANZAS CORPORATIVAS",
+		"pcurso": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC40P",
+				"nombre": "INT.A LA ESTAD.(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C63",
+				"nombre": "INTERPRET.Y ANÁLISIS DE INFORMACIÓN CONT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "100EC",
+				"nombre": "100 CRÉD.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC40P",
+				"nombre": "INT.A LA ESTAD.(PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C63",
+				"nombre": "INTERPRET.Y ANÁLISIS DE INFORMACIÓN CONT",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "419",
+		"nombre": "GLOBALIZACION,TRANS.,COM.INTERN.E INTEG.",
+		"pcurso": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "325",
+				"nombre": "ECONOMÍA DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S44",
+		"nombre": "HISTORIA ECONOMICA DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "30EC",
+				"nombre": "30 CRED.LIC.EC.P90",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C63",
+		"nombre": "INTERPRET.Y ANÁLISIS DE INFORMACIÓN CONT",
+		"pcurso": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C10G",
+				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "217",
+		"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+		"pcurso": [
+			{
+				"id": "218G",
+				"nombre": "ESTADISTICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "218G",
+				"nombre": "ESTADISTICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "514",
+		"nombre": "MACROECONOMIA AVANZADA",
+		"pcurso": [
+			{
+				"id": "432P",
+				"nombre": "ECONOMIA INTERNACIONAL -PREVIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "433",
+				"nombre": "ECONOMÍA MONETARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "432P",
+				"nombre": "ECONOMIA INTERNACIONAL -PREVIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "433",
+				"nombre": "ECONOMÍA MONETARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4342",
+		"nombre": "MACROECONOMIA Y FINANZAS PUBLICAS",
+		"pcurso": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E30",
+		"nombre": "MACROECONOMÍA I",
+		"pcurso": [
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E40",
+		"nombre": "MACROECONOMÍA II",
+		"pcurso": [
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E30G",
+				"nombre": "MACROEC. I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E50",
+		"nombre": "MACROECONOMÍA III",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E40G",
+				"nombre": "MACROEC.II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E40G",
+				"nombre": "MACROEC.II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A61",
+		"nombre": "MARKETING BÁSICO",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC30",
+		"nombre": "MATEMÁTICA FINANCIERA",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "515",
+		"nombre": "METODOLOGIA DE LA INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "PREV",
+				"nombre": "PREVIAS DE METOD. DE LA INVEST",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "PREV",
+				"nombre": "PREVIAS DE METOD. DE LA INVEST",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "453",
+		"nombre": "METODOS CUANT.AVANZADOS (OP.ECONOMETRIA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "431P",
+				"nombre": "ECONOMETRIA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "453A",
+		"nombre": "METODOS CUANT.AVANZADOS (OP.ECONOMETRIA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "431P",
+				"nombre": "ECONOMETRIA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "441",
+		"nombre": "METODOS CUANT.AVANZADOS (OP.ESTADISTICA)",
+		"pcurso": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "441A",
+		"nombre": "METODOS CUANT.AVANZADOS (OP.ESTADISTICA)",
+		"pcurso": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321G",
+				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E31",
+		"nombre": "MICROECONOMÍA I",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E41",
+		"nombre": "MICROECONOMÍA II",
+		"pcurso": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E61",
+		"nombre": "MICROECONOMÍA III",
+		"pcurso": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC42G",
+				"nombre": "ESTAD.I Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "518",
+		"nombre": "POLITICA Y PLANIFICACION ECONOMICAS",
+		"pcurso": [
+			{
+				"id": "434P",
+				"nombre": "ECON. Y FIN. PCAS. PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "432P",
+				"nombre": "ECONOMIA INTERNACIONAL -PREVIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "433",
+				"nombre": "ECONOMÍA MONETARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "419",
+				"nombre": "GLOBALIZACION,TRANS.,COM.INTERN.E INTEG.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "434P",
+				"nombre": "ECON. Y FIN. PCAS. PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "432P",
+				"nombre": "ECONOMIA INTERNACIONAL -PREVIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "433",
+				"nombre": "ECONOMÍA MONETARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "419",
+				"nombre": "GLOBALIZACION,TRANS.,COM.INTERN.E INTEG.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E79",
+		"nombre": "POLÍTICA ECONÓMICA",
+		"pcurso": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "212G",
+				"nombre": "ECONOMIA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "445",
+		"nombre": "PREPARACION Y EVAL. DE PROYECTOS",
+		"pcurso": [
+			{
+				"id": "321",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "445A",
+		"nombre": "PREPARACION Y EVAL. DE PROYECTOS",
+		"pcurso": [
+			{
+				"id": "321",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "321",
+				"nombre": "ESTADISTICA II (INFERENCIA Y MODELOS)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E31P",
+				"nombre": "MICROEC.AVANZADA/MICRO I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E33",
+		"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
+		"pcurso": [
+			{
+				"id": "116G",
+				"nombre": "ECONOMIA DESCRIPTIVA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116G",
+				"nombre": "ECONOMIA DESCRIPTIVA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E10P",
+				"nombre": "INT A LA EC (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E71",
+		"nombre": "TEORÍAS DEL DESARROLLO",
+		"pcurso": [
+			{
+				"id": "E50",
+				"nombre": "MACROECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E50",
+				"nombre": "MACROECONOMÍA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

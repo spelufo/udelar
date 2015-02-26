@@ -1,0 +1,1717 @@
+[
+	{
+		"id": "101",
+		"nombre": "ANATOMIA BUCO DENTAL",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Actividad Inscripción",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "100",
+		"nombre": "ANATOMIA GENERAL",
+		"pcurso": [
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Actividad Inscripción",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "204",
+		"nombre": "ANATOMIA PATOLOGICA",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C104",
+				"nombre": "BIOQUIMICA Y BIOFISICA(CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "HISTOLOGIA (CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "104",
+		"nombre": "BIOQUIMICA Y BIOFISICA",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "BIOQUIMICA Y BIOFISICA",
+				"actividad": "Actividad Inscripción",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "104",
+				"nombre": "BIOQUIMICA Y BIOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "401",
+		"nombre": "CLINICA DE ENDODONCIA",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200",
+				"nombre": "TECNICA DE PROTESIS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "401",
+				"nombre": "CLINICA DE ENDODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "505",
+		"nombre": "CLINICA DE ODONTOPEDIATRIA",
+		"pcurso": [
+			{
+				"id": "401",
+				"nombre": "CLINICA DE ENDODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "403",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "408",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "400",
+				"nombre": "PARADENTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "401",
+				"nombre": "CLINICA DE ENDODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "505",
+				"nombre": "CLINICA DE ODONTOPEDIATRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "403",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "400",
+				"nombre": "PARADENTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "304",
+		"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "403",
+		"nombre": "CLINICA DE OPERATORIA DENTAL 2",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200",
+				"nombre": "TECNICA DE PROTESIS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "403",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "504",
+		"nombre": "CLINICA DE ORTOPEDIA DEN MAX FACIAL 2",
+		"pcurso": [
+			{
+				"id": "401",
+				"nombre": "CLINICA DE ENDODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C403",
+				"nombre": "CLINICA OP 2 (CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "407",
+				"nombre": "ORTOPEDIA DENTO MAXILO FACIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "504",
+				"nombre": "CLINICA DE ORTOPEDIA DEN MAX FACIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "305",
+		"nombre": "CLINICA DE PROTESIS 1",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "200",
+				"nombre": "TECNICA DE PROTESIS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "405",
+		"nombre": "CLINICA DE PROTESIS 2",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "CLINICA DE PROTESIS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "503",
+		"nombre": "CLINICA DE PROTESIS 3",
+		"pcurso": [
+			{
+				"id": "401",
+				"nombre": "CLINICA DE ENDODONCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "403",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "CLINICA DE PROTESIS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "400",
+				"nombre": "PARADENTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "401",
+				"nombre": "CLINICA DE ENDODONCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "403",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "CLINICA DE PROTESIS 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "503",
+				"nombre": "CLINICA DE PROTESIS 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "400",
+				"nombre": "PARADENTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "501",
+		"nombre": "CLINICA QUIRURGICA BUCO MAXILA 3",
+		"pcurso": [
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "408",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "501",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "303",
+		"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 1",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "408",
+		"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 2",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200",
+				"nombre": "TECNICA DE PROTESIS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "500",
+		"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 3",
+		"pcurso": [
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "408",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "502",
+		"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 3",
+		"pcurso": [
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "305",
+				"nombre": "CLINICA DE PROTESIS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "408",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "502",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "302",
+		"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "202",
+		"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C104",
+				"nombre": "BIOQUIMICA Y BIOFISICA(CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "HISTOLOGIA (CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "BIOQUIMICA Y BIOFISICA        ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "102",
+				"nombre": "HISTOLOGIA                    ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "203",
+		"nombre": "FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C104",
+				"nombre": "BIOQUIMICA Y BIOFISICA(CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "HISTOLOGIA (CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "102",
+		"nombre": "HISTOLOGIA",
+		"pcurso": [
+			{
+				"id": "102",
+				"nombre": "HISTOLOGIA",
+				"actividad": "Actividad Inscripción",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "102",
+				"nombre": "HISTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "105",
+		"nombre": "MATERIALES DENTALES",
+		"pcurso": [
+			{
+				"id": "105",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Actividad Inscripción",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "105",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "205",
+		"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C104",
+				"nombre": "BIOQUIMICA Y BIOFISICA(CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "HISTOLOGIA (CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "111",
+		"nombre": "ODONTOLOGIA SOCIAL 1",
+		"pcurso": [
+			{
+				"id": "111",
+				"nombre": "ODONTOLOGIA SOCIAL 1",
+				"actividad": "Actividad Inscripción",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "209",
+		"nombre": "ODONTOLOGIA SOCIAL 2",
+		"pcurso": [
+			{
+				"id": "111",
+				"nombre": "ODONTOLOGIA SOCIAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "309",
+		"nombre": "ODONTOLOGIA SOCIAL 3",
+		"pcurso": [
+			{
+				"id": "209",
+				"nombre": "ODONTOLOGIA SOCIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "410",
+		"nombre": "ODONTOLOGIA SOCIAL 4",
+		"pcurso": [
+			{
+				"id": "309",
+				"nombre": "ODONTOLOGIA SOCIAL 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "508",
+		"nombre": "ODONTOLOGIA SOCIAL 5",
+		"pcurso": [
+			{
+				"id": "410",
+				"nombre": "ODONTOLOGIA SOCIAL 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "406",
+		"nombre": "ORTOPEDIA DENTO MAXILO FACIAL 1",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200",
+				"nombre": "TECNICA DE PROTESIS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "400",
+		"nombre": "PARADENTOLOGIA",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "CLINICA DE OPERATORIA DENTAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "CLINICA QUIRURGICA BUCO MAXILAR 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200",
+				"nombre": "TECNICA DE PROTESIS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "302",
+				"nombre": "FARMACOLOGIA Y TERAPEUTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "400",
+				"nombre": "PARADENTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "300",
+		"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "PATOLOGIA Y SEMIOLOGIA BUCO MAXILAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "306",
+		"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "FISIOLOGIA GENERAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "204",
+				"nombre": "ANATOMIA PATOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "FISIOPATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "MICROBIOLOGIA GRAL Y BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "306",
+				"nombre": "RADIOLOGIA Y FISIOTERAPIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "201",
+		"nombre": "TECNICA DE OPERATORIA DENTAL",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C104",
+				"nombre": "BIOQUIMICA Y BIOFISICA(CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "HISTOLOGIA (CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "102",
+				"nombre": "HISTOLOGIA                    ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "TECNICA DE OPERATORIA DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "200",
+		"nombre": "TECNICA DE PROTESIS",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C104",
+				"nombre": "BIOQUIMICA Y BIOFISICA(CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "HISTOLOGIA (CURSOS)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "101",
+				"nombre": "ANATOMIA BUCO DENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "ANATOMIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "102",
+				"nombre": "HISTOLOGIA                    ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200",
+				"nombre": "TECNICA DE PROTESIS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

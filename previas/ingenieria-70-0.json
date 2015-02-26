@@ -1,0 +1,6079 @@
+[
+	{
+		"id": "1744",
+		"nombre": "ADMINISTRACION Y SEGURIDAD DE SISTEMAS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1918",
+		"nombre": "ADMINISTRACION Y SEGURIDAD DE SISTEMAS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5914",
+		"nombre": "ALGEBRA LINEAL NUMERICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C400",
+				"nombre": "CAL.NUM.- MET.NUM.Y COMPL.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1628",
+		"nombre": "ALGORITMOS EVOLUTIVOS",
+		"pcurso": [
+			{
+				"id": "1625",
+				"nombre": "ALGORITMOS GENETICOS",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B206",
+		"nombre": "ANALISIS COMPLEJO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1334",
+		"nombre": "ANALISIS DE ALGORITMOS",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C250",
+				"nombre": "PROGRAMACION II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1054",
+		"nombre": "ANALISIS DE FOURIER PARA TRATAM.DE IMAGE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP2",
+				"nombre": "GRUPO 2 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1033E",
+				"nombre": "MET.NUMERICOS O CAL. NUM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R100",
+		"nombre": "ANALISIS MATEMATICO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R100",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B200",
+		"nombre": "ANALISIS MATEMATICO II (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1820",
+		"nombre": "APRENDIZAJE AUTOMATICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1827",
+		"nombre": "APRENDIZAJE AUTOMATICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1424",
+		"nombre": "ARQUITECTURA DE COMPUTADORES 1",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C150",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1424",
+				"nombre": "ARQUITECTURA DE COMPUTADORES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1425",
+		"nombre": "ARQUITECTURA DE COMPUTADORES 2",
+		"pcurso": [
+			{
+				"id": "1424",
+				"nombre": "ARQ.DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1532C",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1425",
+				"nombre": "ARQUITECTURA DE COMPUTADORES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1445",
+				"nombre": "TALLER DE ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "C300",
+		"nombre": "ARQUITECTURA DE SISTEMAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1732",
+		"nombre": "ARQUITECTURA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1743",
+		"nombre": "ARQUITECTURA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C351",
+		"nombre": "BASES DE DATOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1343",
+		"nombre": "BIO-COMPUTACION PARALELA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C400",
+		"nombre": "CALCULO NUMERICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C201",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C250",
+				"nombre": "PROGRAMACION II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C400",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1935",
+		"nombre": "CALIDAD DE DATOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1447",
+		"nombre": "COMPUT.DE PR.GRAL.EN UNID.DE PROC.GRAF.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1415",
+		"nombre": "COMPUTACION DE ALTA PERFORMANCE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1430",
+		"nombre": "COMPUTACION DE ALTA PERFORMANCE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1434",
+		"nombre": "COMPUTACION DE ALTA PERFORMANCE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1415",
+				"nombre": "COMPUTACION DE ALTA PERFORMANCE",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "1430",
+				"nombre": "COMPUTACION DE ALTA PERFORMANCE",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1511E",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1349",
+		"nombre": "COMPUTACION GRAFICA AVANZADA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1316",
+				"nombre": "INT. A LA COMPUTACION GRAFICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1342",
+				"nombre": "TALLER DE COMPUTACION GRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C405",
+		"nombre": "COMUNICACION DE DATOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1230",
+		"nombre": "COMUNICACION ORAL Y ESCRITA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1832",
+		"nombre": "CONST.DE MOD.PROB.DEL LENGUAJE NATURAL",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C401",
+				"nombre": "TEORIA DE LA PROGRAMACION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1337",
+		"nombre": "CONST.FORMAL DE PROGR.EN TEORIA DE TIPOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1328",
+				"nombre": "INT. A LA PROGRAMACION FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1337",
+				"nombre": "CONST.FORMAL DE PROGR.EN TEORIA DE TIPOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1347",
+		"nombre": "CONST.FORMAL DE PROGR.EN TEORIA DE TIPOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1510",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1903",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1903",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1923",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1746",
+		"nombre": "CRIPT. SEG.EN REDES DE COMUN, COM.ELECT.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1206",
+		"nombre": "DESARROLLO DE SISTEMAS DE TIEMPO REAL",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1916",
+		"nombre": "DESCUBRIMIENTO DE INF.EN BASES DE DATOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1331",
+		"nombre": "DISEÑO DE COMPILADORES",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C401",
+				"nombre": "TEORIA DE LA PROGRAMACION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1512C",
+		"nombre": "DISEÑO LOGICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1512C",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B304",
+		"nombre": "DISEÑO LOGICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1429",
+		"nombre": "DISEÑO TOPOLOGICO DE REDES",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1435",
+		"nombre": "DISEÑO TOPOLOGICO DE REDES",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1939",
+		"nombre": "DISEÑO Y CONSTRUCCION DE DATA WAREHOUSE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1621",
+		"nombre": "EXTENS. DE PROG. LINEAL Y PROG. ENTERA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1436",
+		"nombre": "FUND.PARA LA INVEST.EN REDES DE COMPUTAD",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C405",
+				"nombre": "COMUNICACION DE DATOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1911",
+		"nombre": "FUNDAMENTOS DE BASES DE DATOS",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1911",
+				"nombre": "FUNDAMENTOS DE BASES DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1942",
+		"nombre": "FUNDAMENTOS DE LA WEB SEMANTICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5915",
+		"nombre": "FUNDAMENTOS DE SEGURIDAD INFORMATICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5916",
+		"nombre": "FUNDAMENTOS DE SEGURIDAD INFORMATICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R101",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R101",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Insc. a curso",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1921",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1940",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1906",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1940",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C460",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C460",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1747",
+		"nombre": "GESTION DE PROYECTOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1737",
+		"nombre": "GESTION DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1716",
+				"nombre": "TALLER IV  O  PROY E ING.SOFT",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1835",
+		"nombre": "GRAMATICAS FORMALES PARA EL LENG.NATURAL",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C401",
+				"nombre": "TEORIA DE LA PROGRAMACION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1829",
+		"nombre": "I.A. Y ROBOTICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1519",
+		"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1403",
+		"nombre": "INT. A LA ARQUITECTURA DE COMPUTADORES",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C150",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1403",
+				"nombre": "INT. A LA ARQUITECTURA DE COMPUTADORES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1315",
+		"nombre": "INT. A LA COMPUTACION GRAFICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1315",
+				"nombre": "INT. A LA COMPUTACION GRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1316",
+		"nombre": "INT. A LA COMPUTACION GRAFICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1416",
+		"nombre": "INT. A LA CRIPTOGRAFIA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1716",
+		"nombre": "INT. A LA INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1716",
+				"nombre": "INT. A LA INGENIERIA DE SOFTWARE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1736",
+		"nombre": "INT. A LA INTERAC. PERSONA COMPUTADORA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1610",
+		"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1610",
+				"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1629",
+		"nombre": "INT. A LA OPTIMIZ.Y A LA PROG. CON RESTR",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1332",
+		"nombre": "INT. A LA PROGR.PARA DISEÑO GRAFICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1328",
+		"nombre": "INT. A LA PROGRAMACION FUNCIONAL",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C408",
+				"nombre": "PROGRAMACION FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1333",
+		"nombre": "INT. A LA PROGRAMACION GENERICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1328",
+				"nombre": "INT. A LA PROGRAMACION FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1329",
+		"nombre": "INT. A LA PROGRAMACION LOGICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1340",
+				"nombre": "PROGRAMACION LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1431",
+		"nombre": "INT. A LA TEORIA DE LA INFORMACION",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1432",
+		"nombre": "INT. A LA TEORIA DE LA INFORMACION",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1450",
+		"nombre": "INT. A LA TEORIA DE LA INFORMACION",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1513C",
+		"nombre": "INT. A LOS MICROPROCESADORES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1512E",
+				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1513C",
+				"nombre": "INT. A LOS MICROPROCESADORES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1926",
+		"nombre": "INT. A LOS SIST. DE INFOR. GEOGRAFICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1936",
+		"nombre": "INT. AL MIDDLEWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1828",
+		"nombre": "INT. AL PROCESAMIENTO DE LENG. NATURAL",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C401",
+				"nombre": "TEORIA DE LA PROGRAMACION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1749",
+		"nombre": "INTERACCION PERSONA COMPUTADORA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1736",
+				"nombre": "INT. A LA INTERAC. PERSONA COMPUTADORA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1919",
+		"nombre": "INTEROPERABILIDAD",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1931",
+				"nombre": "SISTEMAS MULTIFUENTES",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1934",
+		"nombre": "INTEROPERABILIDAD SEMANTICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1919",
+				"nombre": "INTEROP. O SIST. MULTIF.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1932",
+				"nombre": "METADATA EN SISTEMAS DE INFORMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1623",
+		"nombre": "INVEST. DE OPER. EN COMERCIO ELECTRONICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1630",
+		"nombre": "INVESTIGACION DE OPER.Y GEST. DE RIESGOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C450",
+		"nombre": "INVESTIGACION OPERATIVA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C201",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1027",
+		"nombre": "LOGICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1027",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R102",
+		"nombre": "LOGICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R102",
+				"nombre": "LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1330",
+		"nombre": "LOGICA DE LA PROGRAMACION IMPERATIVA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1341",
+		"nombre": "LOGICA DE LA PROGRAMACION IMPERATIVA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1023",
+		"nombre": "MATEMATICA DISCRETA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1023",
+				"nombre": "MATEMATICA DISCRETA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R103",
+		"nombre": "MECANICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R103",
+				"nombre": "MECANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1041",
+		"nombre": "MET. NUM. PARA LA RESOL. DE ECUAC. DIF.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1932",
+		"nombre": "METADATA EN SISTEMAS DE INFORMACION",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1613",
+		"nombre": "METAHEURISTICAS Y OPTIMIZ.SOBRE REDES",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1834",
+		"nombre": "METODOS DE APRENDIZAJE AUTOMATICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1055",
+		"nombre": "METODOS DE MONTE CARLO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C400C",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1057",
+		"nombre": "METODOS MONTECARLO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C400C",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1033",
+		"nombre": "METODOS NUMERICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1624",
+		"nombre": "MODELADO Y OPTIMIZACION",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1626",
+		"nombre": "OPTIMIZACION BAJO INCERTIDUMBRE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C301",
+		"nombre": "ORGANIZACION DE LENG. DE PROGRAMACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1731",
+		"nombre": "PASANTIA (COMPUTACION)",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1769",
+		"nombre": "PROFESION EN INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1716",
+				"nombre": "TALLER IV  O  PROY E ING.SOFT",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1324",
+		"nombre": "PROGRAMACION 4",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1350",
+		"nombre": "PROGRAMACION FUNCIONAL AVANZADA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C201",
+		"nombre": "PROGRAMACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C201",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R250",
+		"nombre": "PROGRAMACION II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R250",
+				"nombre": "PROGRAMACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C302",
+		"nombre": "PROGRAMACION III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1340",
+		"nombre": "PROGRAMACION LOGICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1329",
+				"nombre": "INT. A LA PROGRAMACION LOGICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C401",
+				"nombre": "TEORIA DE PROGRAMACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1730",
+		"nombre": "PROYECTO DE GRADO",
+		"pcurso": [
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP2",
+				"nombre": "GRUPO 2 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1721",
+		"nombre": "PROYECTO DE INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1938",
+		"nombre": "RECUP.DE INF.Y RECOMEND.EN LA WEB (WIR)",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1728",
+		"nombre": "RELAC.PERS.EN ING.DE SOFT.Y GER.DE PROY.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1716",
+				"nombre": "TALLER IV  O  PROY E ING.SOFT",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1758",
+		"nombre": "RELAC.PERS.EN ING.DE SOFT.Y GER.DE PROY.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1716C",
+				"nombre": "INT.ING.SOFT.O TALLER IV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1848",
+		"nombre": "ROBOTICA BASADA EN COMPORTAMIENTOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1829",
+				"nombre": "I.A. Y ROBOTICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1442",
+		"nombre": "ROBOTICA EMBEBIDA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1748",
+		"nombre": "SEMINARIO DE PROCESAM. PARALELO APLICADO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C400",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1943",
+		"nombre": "SEMINARIO RECUP.DE INF.Y REC.EN LA WEB",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1627",
+		"nombre": "SEMINARIO:ELEMENTOS DE METAHEURISTICAS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C450",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1617",
+		"nombre": "SIMULACION A EVENTOS DISCRETOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1937",
+		"nombre": "SISTEMAS DE INFORMACION EN SALUD",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1745",
+		"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1414",
+		"nombre": "SISTEMAS DISTRIBUIDOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "B303",
+		"nombre": "SISTEMAS LINEALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B206",
+				"nombre": "ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP2",
+				"nombre": "GRUPO 2 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C250",
+				"nombre": "PROGRAMACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1931",
+		"nombre": "SISTEMAS MULTIFUENTES",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1919",
+				"nombre": "INTEROPERABILIDAD",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1511",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1511",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1518",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1518",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1532",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1532",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1537",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1511",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1518",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1532",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1537",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C350",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1445",
+		"nombre": "TALLER DE ARQUITECTURA DE COMPUTADORAS",
+		"pcurso": [
+			{
+				"id": "1425",
+				"nombre": "ARQUITECTURA DE COMPUTADORES 2",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C300",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1403",
+				"nombre": "INT. A LA ARQUITECTURA DE COMPUTADORES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1750",
+		"nombre": "TALLER DE ARQUITECTURA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1716",
+				"nombre": "TALLER IV  O  PROY E ING.SOFT",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1342",
+		"nombre": "TALLER DE COMPUTACION GRAFICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1349",
+				"nombre": "COMPUTACION GRAFICA AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1733",
+		"nombre": "TALLER DE DESARROLLO CLIENTE/SERVIDOR",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1428",
+		"nombre": "TALLER DE FIRMWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1511",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1739",
+		"nombre": "TALLER DE GESTION DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1768",
+		"nombre": "TALLER DE INTERACCION PERSONA COMPUTAD.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1749",
+				"nombre": "INTERACCION PERSONA COMPUTADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1314",
+		"nombre": "TALLER DE PRODUCCION DE PROG.SIN FALLAS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1327",
+		"nombre": "TALLER DE PROGRAMACION",
+		"pcurso": [
+			{
+				"id": "1324",
+				"nombre": "PROGRAMACION 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1925",
+		"nombre": "TALLER DE PROGRAMACION Y ARTE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1437",
+		"nombre": "TALLER DE SEGURIDAD INFORMATICA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C405",
+				"nombre": "COMUNICACION DE DATOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C306",
+				"nombre": "ELECTIVA EN ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C301",
+				"nombre": "ORGANIZACION DE LENG. DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1759",
+		"nombre": "TALLER DE SIST. DE INF.GEOGRAF.EMPRESAR.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1751",
+		"nombre": "TALLER DE SISTEMAS DE INFORMACION 1",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1740",
+		"nombre": "TALLER DE SISTEMAS DE INFORMACION 3",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1741",
+		"nombre": "TALLER DE SISTEMAS DE INFORMACION 4",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C402",
+				"nombre": "TALLER IV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1734",
+				"nombre": "TALLER SIST.DE INF. 1 O 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1535",
+		"nombre": "TALLER DE SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1511E",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1542",
+		"nombre": "TALLER DE SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1511E",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1535",
+				"nombre": "TALLER DE SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1742",
+		"nombre": "TALLER DE VERIFICACION DEL SOFTWARE",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C402",
+				"nombre": "TALLER IV",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C303",
+		"nombre": "TALLER III (ANUAL)",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C402",
+		"nombre": "TALLER IV (ANUAL)",
+		"pcurso": [
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1734",
+		"nombre": "TALLER SISTEMAS DE INFORMACION 1",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1735",
+		"nombre": "TALLER SISTEMAS DE INFORMACION 2",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C500",
+		"nombre": "TALLER V",
+		"pcurso": [
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP2",
+				"nombre": "GRUPO 2 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1917",
+		"nombre": "TEC.AVANZ.PARA LA GEST.DE SIST.DE INF.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C405",
+				"nombre": "COMUNICACION DE DATOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1933",
+		"nombre": "TEC.AVANZ.PARA LA GEST.DE SIST.DE INF.",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C405",
+				"nombre": "COMUNICACION DE DATOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1304",
+		"nombre": "TECNOLOGIAS INTERACTIVAS Y VIDEOJUEGOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1749",
+				"nombre": "INT.COMP.GRAF. O PERSONA COMP.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1048",
+		"nombre": "TEORIA COMPUTACIONAL DE LA GESTALT",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1403",
+				"nombre": "ARQUITECTURA DE SISTEMAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C351",
+				"nombre": "BASES DE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C400",
+				"nombre": "CAL.NUM.- MET.NUM.Y COMPL.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP2",
+				"nombre": "GRUPO 2 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C350",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1046",
+		"nombre": "TEORIA DE CODIGOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1042",
+				"nombre": "TEORIA DE COD.ALGEBR.PARA CORREC.DE ERR",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1037",
+		"nombre": "TEORIA DE JUEGOS Y PROG. FUNCIONAL",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1336",
+		"nombre": "TEORIA DE LA COMPUTACION",
+		"pcurso": [
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1325",
+		"nombre": "TEORIA DE LENGUAJES",
+		"pcurso": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C102",
+				"nombre": "LOGICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C302",
+				"nombre": "PROG.  3    O    PROG.  III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1325",
+				"nombre": "TEORIA DE LENGUAJES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C401",
+		"nombre": "TEORIA DE PROGRAMACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C451",
+		"nombre": "TEORIA DE PROGRAMACION II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1335",
+		"nombre": "TRANSDUCTORES DE ESTADO FINITO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C401",
+				"nombre": "TEORIA DE PROGRAMACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1346",
+		"nombre": "VERIFICACION DE MODELOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C202",
+				"nombre": "TALLER II (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1929",
+		"nombre": "WEB Y BASE DE DATOS",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C209",
+				"nombre": "ELECTIVA EN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GRUP1",
+				"nombre": "GRUPO 1 ELECT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C303",
+				"nombre": "TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

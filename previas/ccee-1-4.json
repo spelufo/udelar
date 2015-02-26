@@ -1,0 +1,167 @@
+[
+	{
+		"id": "524",
+		"nombre": "ADMINISTRACIÓN DE LA PRODUCCIÓN",
+		"pcurso": [
+			{
+				"id": "407",
+				"nombre": "METODOS CUANT.APLIC.A LA EMPRESA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "407",
+				"nombre": "METODOS CUANT.APLIC.A LA EMPRESA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "307B",
+		"nombre": "CONT.Y CAMBIO DE PRECIOS   (PLAN 90)",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "300",
+		"nombre": "COSTOS",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "308",
+		"nombre": "ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "309",
+		"nombre": "INSTITUCIONES DE DERECHO PRIVADO III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "203",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "407",
+		"nombre": "METODOS CUANT.APLIC.A LA EMPRESA",
+		"pcurso": [
+			{
+				"id": "308",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "308",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "307A",
+		"nombre": "TEORIA CONTABLE SUPERIOR   (PLAN 90)",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "502",
+		"nombre": "TEORIA DE LAS ORGANIZACIONES",
+		"pcurso": [
+			{
+				"id": "409",
+				"nombre": "ADM.DE PERSONAL Y RELACIONES HUMANAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "409",
+				"nombre": "ADM.DE PERSONAL Y RELACIONES HUMANAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

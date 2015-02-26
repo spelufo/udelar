@@ -1,0 +1,2095 @@
+[
+	{
+		"id": "H54",
+		"nombre": "ABASTECIMIENTO DE AGUA POTABLE",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H54",
+				"nombre": "ABASTECIMIENTO DE AGUA POTABLE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E62",
+		"nombre": "ACONDICIONAMIENTO DE EDIFICIOS",
+		"pcurso": [
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E62",
+				"nombre": "ACONDICIONAMIENTO DE EDIFICIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B301",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B202",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0613",
+		"nombre": "AEROPUERTOS",
+		"pcurso": [
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0613",
+				"nombre": "AEROPUERTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2204E",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0525",
+		"nombre": "ANALISIS DINAMICO DE ESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0525",
+				"nombre": "ANALISIS DINAMICO DE ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0516",
+		"nombre": "ANALISIS EXPERIMENTAL DE ESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0516",
+				"nombre": "ANALISIS EXPERIMENTAL DE ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0611",
+		"nombre": "ANALISIS MATRICIAL Y ELEMENTOS FINITOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0509",
+				"nombre": "RESISTENCIA DE MATERIALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0515",
+		"nombre": "ANALISIS NO LINEAL DE ESTRUCTURAS I",
+		"pcurso": [
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0515",
+				"nombre": "ANALISIS NO LINEAL DE ESTRUCTURAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E63",
+		"nombre": "ARQUITECTURA DE LAS OBRAS DE ING.",
+		"pcurso": [
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E63",
+				"nombre": "ARQUITECTURA DE LAS OBRAS DE ING.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0522",
+		"nombre": "BOMBAS E INSTALACIONES HIDRAULICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C400",
+		"nombre": "CALCULO NUMERICO",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C400",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0505",
+		"nombre": "CAMINOS Y CALLES",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0620",
+		"nombre": "COMPLEMENTOS DE GEOTECNICA",
+		"pcurso": [
+			{
+				"id": "2205C",
+				"nombre": "CURSO- GEOTECNIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0620",
+				"nombre": "COMPLEMENTOS DE GEOTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2205",
+				"nombre": "GEOTECNICA 2 (PLAN 91-97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0508",
+		"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0508",
+				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0504",
+		"nombre": "CONSTRUCCION PARA TRANSPORTE",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0504",
+				"nombre": "CONSTRUCCION PARA TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1901",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1901",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1923",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B315",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO 89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B103",
+				"nombre": "MECANICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B201",
+				"nombre": "MECANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B307",
+				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B204",
+				"nombre": "TALLER LABORATORIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B203",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B202",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2363",
+		"nombre": "CURSO COMPLEM. DE ESTR. METAL. Y DE MAD.",
+		"pcurso": [
+			{
+				"id": "0508",
+				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2363",
+				"nombre": "CURSO COMPLEM. DE ESTR. METAL. Y DE MAD.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2101",
+		"nombre": "ELECTROTECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0627",
+		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+		"pcurso": [
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2230",
+		"nombre": "ELEMENTOS DE TOPOGRAFIA",
+		"pcurso": [
+			{
+				"id": "B312",
+				"nombre": "T.LAB. II (MECANICA O CIVIL)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "0523",
+		"nombre": "EST.BAS.Y DIS.DE INST.DE ABAST.DE A.POT.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H54",
+				"nombre": "ABASTECIMIENTO DE AGUA POTABLE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0523",
+				"nombre": "EST.BAS.Y DIS.DE INST.DE ABAST.DE A.POT.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0604",
+		"nombre": "EST.BAS.Y DISEÑ0 DE UNA INST. DE RIEGO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0604",
+				"nombre": "EST.BAS.Y DISEÑ0 DE UNA INST. DE RIEGO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0521",
+				"nombre": "OBRAS HIDRAULICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E61",
+		"nombre": "ESTRUCTURAS ESPECIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0510",
+				"nombre": "HORMIGON ARMADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0509",
+				"nombre": "RESISTENCIA DE MATERIALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2354",
+		"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+		"pcurso": [
+			{
+				"id": "0508",
+				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E60",
+				"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2354",
+				"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E60",
+		"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+		"pcurso": [
+			{
+				"id": "0508",
+				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E60",
+				"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0618",
+		"nombre": "ESTUDIOS GEOTECNICOS",
+		"pcurso": [
+			{
+				"id": "2205C",
+				"nombre": "CURSO- GEOTECNIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0618",
+				"nombre": "ESTUDIOS GEOTECNICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0614",
+		"nombre": "FERROCARRILES",
+		"pcurso": [
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0614",
+				"nombre": "FERROCARRILES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0513",
+		"nombre": "FUNDAMENTOS DE INGENIERIA AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0513",
+				"nombre": "FUNDAMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B307",
+				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2260",
+		"nombre": "HIDROLOGIA ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "0408C",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025C",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2260",
+				"nombre": "HIDROLOGIA ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0517",
+		"nombre": "HIDROLOGIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0408",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0517",
+				"nombre": "HIDROLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0526",
+		"nombre": "HIDROLOGIA SUBTERRANEA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0408",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1226",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0606",
+		"nombre": "HIGIENE INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0513",
+				"nombre": "FUNDAMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0606",
+				"nombre": "HIGIENE INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2353",
+		"nombre": "HORMIGON 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2350",
+				"nombre": "HORMIGON 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0510",
+		"nombre": "HORMIGON ARMADO II",
+		"pcurso": [
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0601",
+		"nombre": "INGENIERIA AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0513",
+				"nombre": "FUNDAMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0601",
+				"nombre": "INGENIERIA AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2307",
+		"nombre": "INSTALACIONES SANITARIAS INTERNAS",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2307",
+				"nombre": "INSTALACIONES SANITARIAS INTERNAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0629",
+		"nombre": "INT. A LA MAMPOSTERIA ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0629",
+				"nombre": "INT. A LA MAMPOSTERIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0619",
+		"nombre": "INT. AL METODO DE ELEMENTOS DE CONTORNO",
+		"pcurso": [
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0619",
+				"nombre": "INT. AL METODO DE ELEMENTOS DE CONTORNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0509",
+				"nombre": "RESISTENCIA DE MATERIALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2356",
+		"nombre": "MAMPOSTERIA ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2356",
+				"nombre": "MAMPOSTERIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1810",
+		"nombre": "MAQUINAS PARA FLUIDOS 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1810",
+				"nombre": "MAQUINAS PARA FLUIDOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B202",
+				"nombre": "TERMOD.Y FIS.TERMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0617",
+		"nombre": "MAQUINAS Y EQUIPOS",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0617",
+				"nombre": "MAQUINAS Y EQUIPOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0609",
+		"nombre": "MATERIALES NATURALES DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0609",
+				"nombre": "MATERIALES NATURALES DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0524",
+		"nombre": "MECANICA DE ROCAS",
+		"pcurso": [
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0524",
+				"nombre": "MECANICA DE ROCAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2357",
+		"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUC.",
+		"pcurso": [
+			{
+				"id": "0626",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUCT.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2357",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0626",
+		"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUCT.",
+		"pcurso": [
+			{
+				"id": "B306",
+				"nombre": "RESIST.I/MEC DE MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0626",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUCT.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESIST.II/MEC.DE MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2503",
+		"nombre": "METODOLOGIA DE LOS EST. GEOTECNICOS",
+		"pcurso": [
+			{
+				"id": "2205C",
+				"nombre": "CURSO- GEOTECNIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2503",
+				"nombre": "METODOLOGIA DE LOS EST. GEOTECNICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1134",
+		"nombre": "MODULO DE AIRE HUMEDO",
+		"pcurso": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1135",
+		"nombre": "MODULO DE CICLOS TERMODINAMICOS",
+		"pcurso": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1132",
+		"nombre": "MODULO DE TRANSFERENCIA DE CALOR",
+		"pcurso": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "0521",
+		"nombre": "OBRAS HIDRAULICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2204E",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0406",
+				"nombre": "HIDRAULICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0408",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0501",
+		"nombre": "OBRAS HIDRAULICAS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0406",
+				"nombre": "HIDRAULICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0625",
+		"nombre": "OPTIMIZACION",
+		"pcurso": [
+			{
+				"id": "C200",
+				"nombre": "ANAL II Y PLAN 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B100",
+				"nombre": "ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B101",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "0514",
+		"nombre": "PASANTIA (HIDRAULICA-AMBIENTAL)",
+		"pcurso": [
+			{
+				"id": "B305",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "0621",
+		"nombre": "PASANTIA A",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "0622",
+		"nombre": "PASANTIA B",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "0623",
+		"nombre": "PASANTIA C",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1700",
+		"nombre": "PROCEDIMIENTOS CONST.PARA ESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1700",
+				"nombre": "PROCEDIMIENTOS CONST.PARA ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0628",
+		"nombre": "PROYECTO DE RIEGO",
+		"pcurso": [
+			{
+				"id": "0521",
+				"nombre": "OBRAS HIDRAULICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0521",
+				"nombre": "OBRAS HIDRAULICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0628",
+				"nombre": "PROYECTO DE RIEGO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0507",
+		"nombre": "PROYECTO DE TRANSPORTE I",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B312",
+				"nombre": "TALLER LABORATORIO II (CIVIL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0507",
+				"nombre": "PROYECTO DE TRANSPORTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0610",
+		"nombre": "PROYECTO DE TRANSPORTE II",
+		"pcurso": [
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA 2- CURSO P91 O P97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0507",
+				"nombre": "PROYECTO DE TRANSPORTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0503",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2205",
+				"nombre": "GEOTECNICA 2 (PLAN 91-97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0507",
+				"nombre": "PROYECTO DE TRANSPORTE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0511",
+		"nombre": "PROYECTO ESTRUCTURAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0511",
+				"nombre": "PROYECTO ESTRUCTURAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0615",
+		"nombre": "PROYECTO ESTRUCTURAL II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0510",
+				"nombre": "HORMIGON ARMADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0511",
+				"nombre": "PROYECTO ESTRUCTURAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0615",
+				"nombre": "PROYECTO ESTRUCTURAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0509",
+				"nombre": "RESISTENCIA DE MATERIALES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0603",
+		"nombre": "PROYECTO HIDR.Y AMBIENTAL II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0523",
+				"nombre": "EST.BAS.Y DIS.DE INST.DE ABAST.DE A.POT.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0603",
+				"nombre": "PROYECTO HIDR.Y AMBIENTAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2403",
+		"nombre": "PROYECTO TRANSPORTE 2",
+		"pcurso": [
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA 2- CURSO P91 O P97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0507",
+				"nombre": "PROYECTO DE TRANSPORTE I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0506C",
+				"nombre": "TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0503",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0505",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0502",
+				"nombre": "GEOTECNICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0507",
+				"nombre": "PROYECTO DE TRANSPORTE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2403",
+				"nombre": "PROYECTO TRANSPORTE 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0607",
+		"nombre": "PUENTES",
+		"pcurso": [
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0508",
+				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0510",
+				"nombre": "HORMIGON ARMADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0607",
+				"nombre": "PUENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2359",
+		"nombre": "PUENTES",
+		"pcurso": [
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0508",
+				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0510",
+				"nombre": "HORMIGON ARMADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2359",
+				"nombre": "PUENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0612",
+		"nombre": "PUERTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0402E",
+				"nombre": "FUND. DE CONST.O INT.A LA CONS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2204E",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0605",
+		"nombre": "RESIDUOS INDUSTRIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H54",
+				"nombre": "ABASTECIMIENTO DE AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0513",
+				"nombre": "FUNDAMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0605",
+				"nombre": "RESIDUOS INDUSTRIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0602",
+				"nombre": "RESIDUOS LIQUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0602",
+		"nombre": "RESIDUOS LIQUIDOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H54",
+				"nombre": "ABASTECIMIENTO DE AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0602",
+				"nombre": "RESIDUOS LIQUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0509",
+		"nombre": "RESISTENCIA DE MATERIALES III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0401",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0518",
+		"nombre": "SALUD AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B307",
+				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0518",
+				"nombre": "SALUD AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B203",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0520",
+		"nombre": "SANEAMIENTO BASICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0520",
+				"nombre": "SANEAMIENTO BASICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2351",
+		"nombre": "TECNOLOGIA DE HORMIGON",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0405",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2351",
+				"nombre": "TECNOLOGIA DE HORMIGON",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T41",
+		"nombre": "TOPOGRAFIA",
+		"pcurso": [
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B312",
+				"nombre": "T.LAB. II (MECANICA O CIVIL)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T41",
+				"nombre": "TOPOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0506",
+		"nombre": "TRANSPORTE",
+		"pcurso": [
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0506",
+				"nombre": "TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

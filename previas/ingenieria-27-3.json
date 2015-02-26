@@ -1,0 +1,476 @@
+[
+	{
+		"id": "M58",
+		"nombre": "ACONDICIONAMIENTO INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M58",
+				"nombre": "ACONDICIONAMIENTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M62",
+		"nombre": "ACONDICIONAMIENTO INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M62",
+				"nombre": "ACONDICIONAMIENTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "504",
+		"nombre": "ADM.DE MAT.Y CONTROL DE CALIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "504",
+				"nombre": "ADM.DE MAT.Y CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "507",
+		"nombre": "ADMINISTRACION DE PERSONAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "507",
+				"nombre": "ADMINISTRACION DE PERSONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "404",
+				"nombre": "COSTOS Y ADMINISTRACION GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "505",
+		"nombre": "COMERCIALIZACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "505",
+				"nombre": "COMERCIALIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "404",
+				"nombre": "COSTOS Y ADMINISTRACION GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "404",
+		"nombre": "COSTOS Y ADMINISTRACION GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "404",
+				"nombre": "COSTOS Y ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B15",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M52",
+		"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M52",
+				"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M53",
+		"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M53",
+				"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M68",
+		"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M53",
+				"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M68",
+				"nombre": "DISEÑO Y CONSTRUCCION DE MAQUINAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M43",
+		"nombre": "ELECTROTECNICA (MEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M43",
+				"nombre": "ELECTROTECNICA (MEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "605",
+		"nombre": "GESTION EMPRESARIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "605",
+				"nombre": "GESTION EMPRESARIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M61",
+		"nombre": "HIDRAULICA INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M61",
+				"nombre": "HIDRAULICA INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "406",
+		"nombre": "INVESTIGACION OPERATIVA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "406",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "506",
+		"nombre": "INVESTIGACION OPERATIVA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "506",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "604",
+		"nombre": "MANTENIMIENTO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "604",
+				"nombre": "MANTENIMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M40",
+		"nombre": "MAQUINAS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M40",
+				"nombre": "MAQUINAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M50",
+		"nombre": "MAQUINAS II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M40",
+				"nombre": "MAQUINAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M50",
+				"nombre": "MAQUINAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B13",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M41",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M60",
+		"nombre": "MAQUINAS III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M50",
+				"nombre": "MAQUINAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M60",
+				"nombre": "MAQUINAS III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "M46",
+				"nombre": "QUIMICA FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M51",
+		"nombre": "METALURGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M51",
+				"nombre": "METALURGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "T40",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M63",
+		"nombre": "PROYECTO (MECANICA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "M43",
+				"nombre": "ELECTROTECNICA (MEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M50",
+				"nombre": "MAQUINAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M63",
+				"nombre": "PROYECTO (MECANICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "606",
+		"nombre": "PROYECTO DE INVERSION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "504",
+				"nombre": "ADM.DE MAT.Y CONTROL DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "507",
+				"nombre": "ADMINISTRACION DE PERSONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "505",
+				"nombre": "COMERCIALIZACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "M47",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "606",
+				"nombre": "PROYECTO DE INVERSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M46",
+		"nombre": "QUIMICA FISICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T40",
+		"nombre": "RESISTENCIA DE MATERIALES II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B33",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "M41",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

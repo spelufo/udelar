@@ -1,0 +1,1094 @@
+[
+	{
+		"id": "MA15",
+		"nombre": "ALGEBRA LINEAL I (F)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA19",
+		"nombre": "ALGEBRA LINEAL II (F)",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI11",
+		"nombre": "ANATOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BI11",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI10",
+		"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2011)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BI10",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2011)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI18",
+		"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2012 -",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BI18",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2012 -",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FM01",
+		"nombre": "CALCULO 1 (FAC. INGENIERIA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FM01",
+				"nombre": "CALCULO 1 (FAC. INGENIERIA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA13",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA17",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+		"pcurso": [
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA07",
+		"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+		"pcurso": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI10",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI17",
+		"nombre": "ETICA MEDICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BI17",
+				"nombre": "ETICA MEDICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FM03",
+		"nombre": "FISICA 1 (FAC.INGENIERIA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FM03",
+				"nombre": "FISICA 1 (FAC.INGENIERIA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI071",
+		"nombre": "FISICA DE LAS IMAGENES MEDICAS",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI46",
+				"nombre": "FISICA DE RADIACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI44",
+				"nombre": "TALLER III ELECTRONICA E INSTRUMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI071",
+				"nombre": "FISICA DE LAS IMAGENES MEDICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI44",
+				"nombre": "TALLER III ELECTRONICA E INSTRUMENTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI46",
+		"nombre": "FISICA DE RADIACIONES I",
+		"pcurso": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI46",
+				"nombre": "FISICA DE RADIACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI47",
+		"nombre": "FISICA DE RADIACIONES II",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI46",
+				"nombre": "FISICA DE RADIACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI46",
+				"nombre": "FISICA DE RADIACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI47",
+				"nombre": "FISICA DE RADIACIONES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI01",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI02",
+		"nombre": "FISICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI08",
+		"nombre": "FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI12",
+		"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA I",
+		"pcurso": [
+			{
+				"id": "BI10",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2011)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BI10",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2011)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI12",
+				"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI14",
+		"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA II",
+		"pcurso": [
+			{
+				"id": "BI12",
+				"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BI12",
+				"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI14",
+				"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FM02",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (FAC.ING.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FM02",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (FAC.ING.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA21",
+		"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+		"pcurso": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA21",
+				"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI19",
+		"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI48",
+		"nombre": "LABORATORIO DE RADIACIONES",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI44",
+				"nombre": "TALLER III ELECTRONICA E INSTRUMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI48",
+				"nombre": "LABORATORIO DE RADIACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI44",
+				"nombre": "TALLER III ELECTRONICA E INSTRUMENTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI32",
+		"nombre": "MECANICA CLASICA",
+		"pcurso": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI13",
+		"nombre": "ONCOLOGIA BASICA",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI11",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI10",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2011)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BI11",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI13",
+				"nombre": "ONCOLOGIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BP21",
+		"nombre": "PASANTIA ESPECIFICA I",
+		"pcurso": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI10",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2011)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BP20",
+		"nombre": "PASANTIA ROTATORIA",
+		"pcurso": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI10",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR (2011)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI11",
+		"nombre": "PROBABILIDAD Y ESTADISTICA APLICADA",
+		"pcurso": [
+			{
+				"id": "MA15",
+				"nombre": "ALGEBRA LINEAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA13",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI11",
+				"nombre": "PROBABILIDAD Y ESTADISTICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BI15",
+		"nombre": "RADIOLOGIA Y RADIOPROTECCION",
+		"pcurso": [
+			{
+				"id": "BI11",
+				"nombre": "ANATOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI14",
+				"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BI11",
+				"nombre": "ANATOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI14",
+				"nombre": "FISIOLOGIA, BIOFISICA Y BIOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BI15",
+				"nombre": "RADIOLOGIA Y RADIOPROTECCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI29",
+		"nombre": "TALLER I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI41",
+		"nombre": "TALLER II",
+		"pcurso": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI29",
+				"nombre": "TALLER I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI44",
+		"nombre": "TALLER III ELECTRONICA E INSTRUMENTACION",
+		"pcurso": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA19",
+				"nombre": "ALGEBRA LINEAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI19",
+				"nombre": "INTRODUCCION A LA COMPUTACION (FISICA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI41",
+				"nombre": "TALLER II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI44",
+				"nombre": "TALLER III ELECTRONICA E INSTRUMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI04",
+		"nombre": "TERMODINAMICA",
+		"pcurso": [
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI02",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,407 @@
+[
+	{
+		"id": "T24R2",
+		"nombre": "ACUSTICA MUSICAL II",
+		"pcurso": [
+			{
+				"id": "T24R1",
+				"nombre": "ACUSTICA MUSICAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T24R1",
+				"nombre": "ACUSTICA MUSICAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T15",
+		"nombre": "ARMONIA COMPLEMENTARIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T08",
+				"nombre": "ARMONIA COMPLEMENTARIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T02GR",
+				"nombre": "GRUPO SOLFEOI (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T16",
+		"nombre": "CONTRAPUNTO COMPLEMENTARIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T09",
+				"nombre": "CONTRAPUNTO COMPLEMENTARIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T02R",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T16R",
+		"nombre": "CONTRAPUNTO COMPLEMENTARIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T09G",
+				"nombre": "CONTRAPUNTO COMPLEMENTARIO I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "T02GR",
+				"nombre": "GRUPO SOLFEOI (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ROMA",
+		"nombre": "HIST.DE LA MUSICA PERIODO ROMANTICO",
+		"pcurso": [
+			{
+				"id": "MO4G",
+				"nombre": "HIST.III PARA PREVIAS MUSIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "M21",
+				"nombre": "HISTORIA DE LA MUSICA IV",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO4G",
+				"nombre": "HIST.III PARA PREVIAS MUSIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "M21",
+				"nombre": "HISTORIA DE LA MUSICA IV",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "REN",
+		"nombre": "HIST.DE LA MUSICA RENACIMIENTO",
+		"pcurso": [
+			{
+				"id": "MO7",
+				"nombre": "HISTORIA DE LA MUSICA II",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO7",
+				"nombre": "HISTORIA DE LA MUSICA II",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BAR",
+		"nombre": "HISTORIA DE LA MUSICA BARROCO",
+		"pcurso": [
+			{
+				"id": "MO7",
+				"nombre": "HISTORIA DE LA MUSICA II",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO7",
+				"nombre": "HISTORIA DE LA MUSICA II",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CLAS",
+		"nombre": "HISTORIA DE LA MUSICA CLASICA",
+		"pcurso": [
+			{
+				"id": "T14",
+				"nombre": "HISTORIA DE LA MUSICA III",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T14",
+				"nombre": "HISTORIA DE LA MUSICA III",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MO7",
+		"nombre": "HISTORIA DE LA MUSICA II",
+		"pcurso": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "T14",
+		"nombre": "HISTORIA DE LA MUSICA III",
+		"pcurso": [
+			{
+				"id": "MO7",
+				"nombre": "HISTORIA DE LA MUSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "M21",
+		"nombre": "HISTORIA DE LA MUSICA IV",
+		"pcurso": [
+			{
+				"id": "T14",
+				"nombre": "HISTORIA DE LA MUSICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MED",
+		"nombre": "HISTORIA DE LA MUSICA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "VEIN",
+		"nombre": "HISTORIA DE LA MUSICA SIGLO XX",
+		"pcurso": [
+			{
+				"id": "MO4G",
+				"nombre": "HIST.III PARA PREVIAS MUSIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "M21",
+				"nombre": "HISTORIA DE LA MUSICA IV",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO4G",
+				"nombre": "HIST.III PARA PREVIAS MUSIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "M21",
+				"nombre": "HISTORIA DE LA MUSICA IV",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "HO1",
+		"nombre": "HISTORIA OCCIDENTAL I",
+		"pcurso": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "HO2",
+		"nombre": "HISTORIA OCCIDENTAL II",
+		"pcurso": [
+			{
+				"id": "MO3G",
+				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "M21",
+				"nombre": "HISTORIA DE LA MUSICA IV",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO3G",
+				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "M21",
+				"nombre": "HISTORIA DE LA MUSICA IV",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "T10",
+		"nombre": "PIANO COMPLEMENTARIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T04",
+				"nombre": "PIANO COMPLEMENTARIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T12R",
+		"nombre": "SOLFEO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T02R",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T20R",
+		"nombre": "SOLFEO III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T12R",
+				"nombre": "SOLFEO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TEO",
+				"nombre": "TEORIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

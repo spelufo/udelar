@@ -1,0 +1,653 @@
+[
+	{
+		"id": "RA8",
+		"nombre": "ADMINISTRACIÓN DE LA CLÍNICA ODONT.",
+		"pcurso": [
+			{
+				"id": "RAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH89",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RA8",
+				"nombre": "ADMINISTRACIÓN DE LA CLÍNICA ODONT.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH5B",
+		"nombre": "BIOMATERIALES DE PREVENCION",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH7",
+		"nombre": "EDUCACIÓN PARA LA SALUD",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH5D",
+		"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH5A",
+		"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH4",
+		"nombre": "LA ATENCION DE LA SALUD",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RA14",
+		"nombre": "LA CLINICA ODONTOLÓGICA PARA ASISTENTES",
+		"pcurso": [
+			{
+				"id": "RAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH89",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RA14",
+				"nombre": "LA CLINICA ODONTOLÓGICA PARA ASISTENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH6",
+		"nombre": "LA CLÍNICA ODONTOLÓGICA",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RE1",
+		"nombre": "LA SALUD",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RE2",
+		"nombre": "LA UNIVERSIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH5C",
+		"nombre": "MAT.  PARA IMPRESIONES Y DE TALLER",
+		"pcurso": [
+			{
+				"id": "RAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH5C",
+				"nombre": "MAT.  PARA IMPRESIONES Y DE TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RA13",
+		"nombre": "MATERIALES DENTALES PARA ASISTENTES",
+		"pcurso": [
+			{
+				"id": "RAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH89",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RA13",
+				"nombre": "MATERIALES DENTALES PARA ASISTENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RAH3",
+		"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RH8A9",
+		"nombre": "PROCED.TECNICOS DE BIOSEGURIDAD",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH89",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RA11",
+		"nombre": "PROCEDIMIENTOS TÉCNICO-CLÍNICOS",
+		"pcurso": [
+			{
+				"id": "RA8",
+				"nombre": "ADMINISTRACIÓN DE LA CLÍNICA ODONT.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RA14",
+				"nombre": "LA CLINICA ODONTOLÓGICA PARA ASISTENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RA5A1",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "RAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RA9H8",
+				"nombre": "PRO. TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "RA10",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS PARACLÍNICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "RA9",
+		"nombre": "PROCEDIMIENTOS TÉCNICOS DE BIOSEGURIDAD",
+		"pcurso": [
+			{
+				"id": "RE2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RAH89",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RA10",
+		"nombre": "PROCEDIMIENTOS TÉCNICOS PARACLÍNICOS",
+		"pcurso": [
+			{
+				"id": "RAH5B",
+				"nombre": "BIOMATERIALES DE PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH7",
+				"nombre": "EDUCACIÓN PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5D",
+				"nombre": "FÁRMACOS DE USO ODONTOLÓGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH5A",
+				"nombre": "INSTRUMENTAL DE USO ODONTOLOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH4",
+				"nombre": "LA ATENCION DE LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH6",
+				"nombre": "LA CLÍNICA ODONTOLÓGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RE1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH3",
+				"nombre": "MORF.N Y ALT. DEL SIST ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RAH89",
+				"nombre": "PROC.TECNICOS DE BIOSEGURIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "RA10",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS PARACLÍNICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "RA12",
+		"nombre": "PRÁCTICA EN SERVICIOS",
+		"pcurso": [
+			{
+				"id": "RA8",
+				"nombre": "ADMINISTRACIÓN DE LA CLÍNICA ODONT.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RA14",
+				"nombre": "LA CLINICA ODONTOLÓGICA PARA ASISTENTES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "RA13A",
+				"nombre": "MATERIALES DENTALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "RA11",
+				"nombre": "PROCEDIMIENTOS TÉCNICO-CLÍNICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "RA10",
+				"nombre": "PROCEDIMIENTOS TÉCNICOS PARACLÍNICOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

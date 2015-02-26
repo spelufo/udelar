@@ -1,0 +1,73 @@
+[
+	{
+		"id": "EEDB",
+		"nombre": "ENTRENAM.ESPECIF.DE LA DISCIPLINA BASQUE",
+		"pcurso": [
+			{
+				"id": "BGEB",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO BASQUE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EVEDB",
+		"nombre": "EVALUAC.ESPECIF.A LA DISCIPLINA BASQUETB",
+		"pcurso": [
+			{
+				"id": "BEDB",
+				"nombre": "BASES DE LA EVALUACION DEPORTIVA BASQUET",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "F2B",
+		"nombre": "FISIOLOGÍA II - BASQUETBOL",
+		"pcurso": [
+			{
+				"id": "F1B",
+				"nombre": "FISIOLOGIA I - BASQUETBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IEPB",
+		"nombre": "INTROD. ESPECIFICA A LA PRÁCTICA BASQUET",
+		"pcurso": [
+			{
+				"id": "IGPB",
+				"nombre": "INTROD.GRAL. A LA PRACTICA BASQUETBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PPB",
+				"nombre": "PRÁCTICA PROFESIONAL - BASQUETBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PDB",
+		"nombre": "PSICOLOGÍA DEL DEPORTE - BASQUETBOL",
+		"pcurso": [
+			{
+				"id": "PTAB",
+				"nombre": "PSICOLOGIA Y TEORIAS DEL APRENDIZAJE- BA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

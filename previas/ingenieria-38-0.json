@@ -1,0 +1,733 @@
+[
+	{
+		"id": "TIM17",
+		"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM05",
+		"nombre": "ARQUITECTURA DE COMPUTADORAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM09",
+		"nombre": "BASES DE DATOS I",
+		"pcurso": [
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM13",
+		"nombre": "BASES DE DATOS II",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM28",
+		"nombre": "CALIDAD DE DATOS",
+		"pcurso": [
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM15",
+		"nombre": "COMUNICACION ORAL Y ESCRITA (ACT.COMP.3)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM15",
+				"nombre": "COMUNICACION ORAL Y ESCRITA (ACT.COMP.3)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM14",
+		"nombre": "CONTABILIDAD (ACT.COMPL.4)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM14",
+				"nombre": "CONTABILIDAD (ACT.COMPL.4)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM22",
+		"nombre": "DESARR.DE APLIC.BASAD.EN TECNOL.GENEXUS",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM23",
+		"nombre": "DESARROLLO DE SITIOS WEB CON PHP",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM06",
+		"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+		"pcurso": [
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM18",
+		"nombre": "INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM18",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM10",
+		"nombre": "INGLES CONVERSACIONAL (ACT.COMPL.2)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM10",
+				"nombre": "INGLES CONVERSACIONAL (ACT.COMPL.2)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM04",
+		"nombre": "INGLES TECNICO 1 (ACT.COMPL.1)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM04",
+				"nombre": "INGLES TECNICO 1 (ACT.COMPL.1)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM03",
+		"nombre": "MATEMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM03",
+				"nombre": "MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM02",
+		"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM07",
+		"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+		"pcurso": [
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM21",
+		"nombre": "PASANTIA LABORAL",
+		"pcurso": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM01",
+		"nombre": "PRINCIPIOS DE PROGRAMACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM19",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM19",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM12",
+		"nombre": "PROGRAMACION AVANZADA",
+		"pcurso": [
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM16",
+		"nombre": "PROGRAMACION DE APLICACIONES",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM27",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "TIM17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM18",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM03",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM19",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM11",
+		"nombre": "REDES DE COMPUTADORAS",
+		"pcurso": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM20",
+		"nombre": "RELACIONES PERSONALES Y LABORALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIM20",
+				"nombre": "RELACIONES PERSONALES Y LABORALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM08",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "TIM05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIM08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIM25",
+		"nombre": "TALLER DE APLICACIONES DE INTERNET RICAS",
+		"pcurso": [
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM30",
+		"nombre": "TALLER DE DESARR.DE APLIC.WEB CON PHP",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM29",
+		"nombre": "TALLER DE SIST.DE INF.GEOGRAFICA",
+		"pcurso": [
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM18",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM24",
+		"nombre": "TALLER DE SISTEMAS DE INFORMAC.JAVA EE",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIM26",
+		"nombre": "TALLER DE SISTEMAS DE INFORMACION.NET",
+		"pcurso": [
+			{
+				"id": "TIM09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIM16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

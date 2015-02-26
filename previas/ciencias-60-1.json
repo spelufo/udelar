@@ -1,0 +1,286 @@
+[
+	{
+		"id": "MA14",
+		"nombre": "ALGEBRA LINEAL I (M)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA14",
+				"nombre": "ALGEBRA LINEAL I (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA18",
+		"nombre": "ALGEBRA LINEAL II (M)",
+		"pcurso": [
+			{
+				"id": "MA14",
+				"nombre": "ALGEBRA LINEAL I (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA14",
+				"nombre": "ALGEBRA LINEAL I (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA18",
+				"nombre": "ALGEBRA LINEAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA215",
+		"nombre": "ALGEBRAS DE LIE",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA215",
+				"nombre": "ALGEBRAS DE LIE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA12",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (M)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA12",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA16",
+		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+		"pcurso": [
+			{
+				"id": "MA12",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA12",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL I (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA006",
+		"nombre": "CALCULO III",
+		"pcurso": [
+			{
+				"id": "MA18",
+				"nombre": "ALGEBRA LINEAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA18",
+				"nombre": "ALGEBRA LINEAL II (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA006",
+				"nombre": "CALCULO III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA069",
+		"nombre": "COMPUTACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA069",
+				"nombre": "COMPUTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA068",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "MA18",
+				"nombre": "ALGEBRA LINEAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA18",
+				"nombre": "ALGEBRA LINEAL II (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA068",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI01",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI01",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA25",
+		"nombre": "GEOMETRIA PLANA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA25",
+				"nombre": "GEOMETRIA PLANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA008",
+		"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA008",
+				"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA011",
+		"nombre": "INTRODUCCION A LA TOPOLOGIA",
+		"pcurso": [
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA16",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA011",
+				"nombre": "INTRODUCCION A LA TOPOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA24",
+		"nombre": "MATEMATICA DISCRETA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA24",
+				"nombre": "MATEMATICA DISCRETA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA045",
+		"nombre": "TOPICOS DE MATEMATICA DISCRETA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA045",
+				"nombre": "TOPICOS DE MATEMATICA DISCRETA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

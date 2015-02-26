@@ -1,0 +1,456 @@
+[
+	{
+		"id": "P302",
+		"nombre": "APLICACION DE ELEMENTOS DE MAQUINAS",
+		"pcurso": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P301",
+				"nombre": "ELEMENTOS DE MAQUINAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P200",
+				"nombre": "MECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P202",
+		"nombre": "ELECTROTECNICA A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P250",
+		"nombre": "ELECTROTECNICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P250",
+				"nombre": "ELECTROTECNICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P301",
+		"nombre": "ELEMENTOS DE MAQUINAS",
+		"pcurso": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P200",
+				"nombre": "MECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P151",
+		"nombre": "FISICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P101",
+				"nombre": "FISICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P100",
+				"nombre": "MATEMATICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P300",
+		"nombre": "MAQUINAS A",
+		"pcurso": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P200",
+				"nombre": "MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P300",
+				"nombre": "MAQUINAS A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P200",
+				"nombre": "MECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P350",
+		"nombre": "MAQUINAS B",
+		"pcurso": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P200",
+				"nombre": "MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P300",
+				"nombre": "MAQUINAS A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P350",
+				"nombre": "MAQUINAS B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P200",
+				"nombre": "MECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P201",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P150",
+		"nombre": "MATEMATICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P100",
+				"nombre": "MATEMATICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P200",
+		"nombre": "MECANICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P102",
+		"nombre": "QUIMICA DE LOS MATERIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P201",
+		"nombre": "RESISTENCIA DE MATERIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P203",
+		"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P203",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

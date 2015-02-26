@@ -1,0 +1,4448 @@
+[
+	{
+		"id": "2070",
+		"nombre": "ACTIVIDAD COMPLEMENTARIA DE PROYECTO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 300,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "2004",
+				"nombre": "PROYECTO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2017",
+				"nombre": "TALLER (91-97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2070",
+				"nombre": "ACTIVIDAD COMPLEMENTARIA DE PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "PASANTIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2004",
+				"nombre": "PROYECTO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1143",
+		"nombre": "ACUSTICA",
+		"pcurso": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1143",
+				"nombre": "ACUSTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2241",
+		"nombre": "ADMINISTRACION DE EMPRESAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "0503",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1909",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1514",
+				"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1908",
+		"nombre": "ADMINISTRACION DE OPERACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1908",
+				"nombre": "ADMINISTRACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1915",
+		"nombre": "ADMINISTRACION DE OPERACIONES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 80,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "1909E",
+				"nombre": "ADIMINISTRACIONES U ORGANIZAC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1912",
+				"nombre": "INT.A LA ING.INDUSTRIAL (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1915",
+				"nombre": "ADMINISTRACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1909",
+		"nombre": "ADMINISTRACION GENERAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 40,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1909",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1944",
+		"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1021",
+		"nombre": "ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2702",
+		"nombre": "APLICACIONES DE CONTROL E INSTRUM.IND.",
+		"pcurso": [
+			{
+				"id": "2102C",
+				"nombre": "ELECT.1  O  ELECT.(C)P.91",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP45",
+				"nombre": "ANALISIS MATEMATICO I (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP22",
+				"nombre": "ANALISIS MATEMATICO I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020E",
+				"nombre": "CALCULO 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1223",
+		"nombre": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP18",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1924",
+		"nombre": "COMERCIALIZACION",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 80,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "1909E",
+				"nombre": "ADIMINISTRACIONES U ORGANIZAC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP146",
+				"nombre": "COMERCIALIZACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1912",
+				"nombre": "INT.A LA ING.INDUSTRIAL (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1924",
+				"nombre": "COMERCIALIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1717",
+		"nombre": "COMPORTAMIENTO MEC. DE MATERIALES",
+		"pcurso": [
+			{
+				"id": "CP133",
+				"nombre": "COMPORTAMIENTO MECANICO DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1311C",
+				"nombre": "ESTAT.SOL.DEF. O MEC.SOLIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1701",
+				"nombre": "INT.A LA CIENCIA MAT.(91-97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1717",
+				"nombre": "COMPORTAMIENTO MEC. DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1764",
+		"nombre": "COMPORTAMIENTO MECANICO DE MATERIALES 1",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 25,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: FISICA"
+			},
+			{
+				"id": "1708N",
+				"nombre": "NO TENER APROBADO",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1764",
+				"nombre": "COMPORTAMIENTO MECANICO DE MATERIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1765",
+		"nombre": "COMPORTAMIENTO MECANICO DE MATERIALES 2",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 40,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: FISICA"
+			},
+			{
+				"id": "1764C",
+				"nombre": "COMP.MEC.MAT.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1723C",
+				"nombre": "INT.CIENCIA DE MAT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1764N",
+				"nombre": "NO PUEDE TENER",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1764E",
+				"nombre": "COMP.MEC.MAT.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1765",
+				"nombre": "COMPORTAMIENTO MECANICO DE MATERIALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1764N",
+				"nombre": "NO PUEDE TENER",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1408",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B315",
+				"nombre": "COMPUTACION I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1408",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1411",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP52",
+				"nombre": "COMPUTACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1408",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C10",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP144",
+				"nombre": "COMPUTACION I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CR10",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP402",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP401",
+				"nombre": "PROGRAMACION I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1822",
+		"nombre": "CONFORT TERMICO",
+		"pcurso": [
+			{
+				"id": "B309",
+				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1822",
+				"nombre": "CONFORT TERMICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1510",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 80,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "CP102",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2701",
+		"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "2102C",
+				"nombre": "ELECT.1  O  ELECT.(C)P.91",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2701",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2102",
+				"nombre": "ELECT.1  O  ELECT.P.91(E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2703",
+		"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "2102C",
+				"nombre": "ELECT.1  O  ELECT.(C)P.91",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2704",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2705",
+				"nombre": "INT. AL CONTROL INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2703",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2102",
+				"nombre": "ELECT.1  O  ELECT.P.91(E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q79",
+		"nombre": "CORROSION Y PREVENCION",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1903",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1903",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1922",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 130,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "1903",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1922",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1718",
+		"nombre": "DINAMICA DE MAQUINAS Y VIBRACION",
+		"pcurso": [
+			{
+				"id": "CP135",
+				"nombre": "DINAMICA DE MAQUINAS Y VIBRACIONES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1311",
+				"nombre": "ESTAT.SOL DEF. O ELASTICIDAD.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1718",
+				"nombre": "DINAMICA DE MAQUINAS Y VIBRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1221",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [
+			{
+				"id": "CP20",
+				"nombre": "ECONOMIA POLITICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP48",
+				"nombre": "ANALISIS MATEMATICO II (1ER.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028M",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1074",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2366",
+		"nombre": "ELASTICIDAD",
+		"pcurso": [
+			{
+				"id": "C1311",
+				"nombre": "COMP.MEC.MAT.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1311",
+				"nombre": "COMP.MEC.DE MAT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1128",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "1009",
+				"nombre": "ALGEBRA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "CALCULO 3 Y ANALISIS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1010C",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2101",
+		"nombre": "ELECTROTECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2102",
+		"nombre": "ELECTROTECNICA 1",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1017",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2102",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2104",
+		"nombre": "ELECTROTECNICA 1",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E12",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1017",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2103",
+		"nombre": "ELECTROTECNICA 2",
+		"pcurso": [
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2102",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2103",
+				"nombre": "ELECTROTECNICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2105",
+		"nombre": "ELECTROTECNICA 2",
+		"pcurso": [
+			{
+				"id": "E12",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2102C",
+				"nombre": "ELECT.1  O  ELECT.(C)P.91",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTEC.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2105",
+				"nombre": "ELECTROTECNICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2108",
+		"nombre": "ELECTROTECNICA I",
+		"pcurso": [
+			{
+				"id": "1022Q",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2104R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1121A",
+				"nombre": "FISICA 102 Y 103 O FISICA 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2108",
+				"nombre": "ELECTROTECNICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1826",
+		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1826",
+				"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2244",
+		"nombre": "ELEMENTOS DE GESTION LOGISTICA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 225,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1915",
+				"nombre": "ADMINISTRACION DE OPERACIONES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1903",
+				"nombre": "COSTOS PARA ING. (P.91 Ò 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2244",
+				"nombre": "ELEMENTOS DE GESTION LOGISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2256",
+		"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "1809",
+				"nombre": "ENERGIA I - 1 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1720",
+		"nombre": "ELEMENTOS DE MAQUINAS",
+		"pcurso": [
+			{
+				"id": "1717",
+				"nombre": "COMPORT.MECANICO (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1720R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP138",
+				"nombre": "ELEMENTOS DE MAQUINAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1311",
+				"nombre": "ESTAT.SOL DEF. O ELASTICIDAD.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1720",
+				"nombre": "ELEMENTOS DE MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1805",
+		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "CAL3 O ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP34",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP35",
+				"nombre": "MECANICA DE LOS FLUIDOS E HIDRAULICA(74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1809",
+		"nombre": "ENERGIA 1",
+		"pcurso": [
+			{
+				"id": "CP127",
+				"nombre": "ENERGIA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1809",
+				"nombre": "ENERGIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1850",
+		"nombre": "ENERGIA 1- COMBUSTION",
+		"pcurso": [
+			{
+				"id": "CP127",
+				"nombre": "ENERGIA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1850",
+				"nombre": "ENERGIA 1- COMBUSTION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1811",
+		"nombre": "ENERGIA 2",
+		"pcurso": [
+			{
+				"id": "1809E",
+				"nombre": "ENERGIA 1/I  (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP131",
+				"nombre": "ENERGIA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQ.PARA FLUIDOS 1 91/97 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B309",
+				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1811",
+				"nombre": "ENERGIA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1816",
+		"nombre": "ENERGIA 3",
+		"pcurso": [
+			{
+				"id": "CP132",
+				"nombre": "ENERGIA III",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1815E",
+				"nombre": "GENERADORES DE VAPOR (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1816",
+				"nombre": "ENERGIA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1708",
+		"nombre": "ESTATICA APLICADA",
+		"pcurso": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP125",
+				"nombre": "MECANICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP70",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP126",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1708",
+				"nombre": "ESTATICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1738",
+		"nombre": "ESTATICA DE LOS SOLIDOS DEFORMABLES",
+		"pcurso": [
+			{
+				"id": "1708C",
+				"nombre": "ESTATICA  APLICADA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1708E",
+				"nombre": "ESTATICA APLICADA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1738",
+				"nombre": "ESTATICA DE LOS SOLIDOS DEFORMABLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1151",
+		"nombre": "FISICA 1",
+		"pcurso": [
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1152",
+		"nombre": "FISICA 2",
+		"pcurso": [
+			{
+				"id": "1020C",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1C",
+				"nombre": "FISICA 1 O FISICA GRAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1153",
+		"nombre": "FISICA 3",
+		"pcurso": [
+			{
+				"id": "1020C",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FIS",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1130",
+		"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+		"pcurso": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1130",
+				"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1154",
+		"nombre": "FISICA EXPERIMENTAL 1",
+		"pcurso": [
+			{
+				"id": "1154R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G1124",
+				"nombre": "FIS1 (E) O FIS2 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1155",
+		"nombre": "FISICA EXPERIMENTAL 2",
+		"pcurso": [
+			{
+				"id": "F3C",
+				"nombre": "FIS.3 O FIS. GRAL.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FE1",
+				"nombre": "FIS.EXP.1 O LAB.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1127",
+				"nombre": "LABORATORIO 2",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [
+			{
+				"id": "F10",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP3",
+				"nombre": "MECANICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP17",
+				"nombre": "MECANICA I (TRANSICION)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1121",
+		"nombre": "FISICA GENERAL 2",
+		"pcurso": [
+			{
+				"id": "F8",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1142",
+		"nombre": "FISICA NUCLEAR",
+		"pcurso": [
+			{
+				"id": "1121E",
+				"nombre": "FIS.GRAL.2 Ò ELECTROMAG.P89",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1142",
+				"nombre": "FISICA NUCLEAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1123",
+		"nombre": "FISICA TERMICA",
+		"pcurso": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP42",
+				"nombre": "FISICA II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1073",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122",
+				"nombre": "FISICA,ELECTROMAG.Y MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP12",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1036",
+		"nombre": "FUNCIONES DE VARIABLE COMPLEJA",
+		"pcurso": [
+			{
+				"id": "CP7",
+				"nombre": "ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1004",
+				"nombre": "CALCULO 3 Y ANALISIS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1036R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1036",
+				"nombre": "FUNCIONES DE VARIABLE COMPLEJA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1815",
+		"nombre": "GENERADORES DE VAPOR",
+		"pcurso": [
+			{
+				"id": "1809E",
+				"nombre": "ENERGIA 1/I  (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP130",
+				"nombre": "GENERADORES DE VAPOR",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1823",
+				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1824C",
+				"nombre": "TRANSF.CALOR 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1815",
+				"nombre": "GENERADORES DE VAPOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1824G",
+				"nombre": "T DE CALOR 2 O TERM APLIC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [
+			{
+				"id": "1030C",
+				"nombre": "GEOM. 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1921",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "1909E",
+				"nombre": "ADIMINISTRACIONES U ORGANIZAC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1901",
+				"nombre": "CONTROL DE CALIDAD (P.91 Ò 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1903",
+				"nombre": "COSTOS PARA ING. (P.91 Ò 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1906",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1940",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "1909E",
+				"nombre": "ADIMINISTRACIONES U ORGANIZAC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1901",
+				"nombre": "CONTROL DE CALIDAD (P.91 Ò 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1903",
+				"nombre": "COSTOS PARA ING. (P.91 Ò 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1906",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1940",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1920",
+		"nombre": "GESTION DE MANTENIMIENTO",
+		"pcurso": [
+			{
+				"id": "1909E",
+				"nombre": "ADIMINISTRACIONES U ORGANIZAC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1901C",
+				"nombre": "CONTROL DE CALIDAD (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP103",
+				"nombre": "GESTION DE MANTENIMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1920",
+				"nombre": "GESTION DE MANTENIMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2243",
+		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "CP104",
+				"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2243",
+				"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1139",
+		"nombre": "INESTABILIDADES EN FLUIDOS",
+		"pcurso": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1139",
+				"nombre": "INESTABILIDADES EN FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5503",
+		"nombre": "INSTALACIONES ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "2102E",
+				"nombre": "ELECTROC.1 Ò ELECTROC.P.91",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP148",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5503",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5507",
+		"nombre": "INSTALACIONES ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "2102E",
+				"nombre": "ELECTROC.1 Ò ELECTROC.P.91",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5503",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP148",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5507",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2704",
+		"nombre": "INSTRUMENTACION INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "2701",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2104C",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2102",
+				"nombre": "ELECT.1  O  ELECT.P.91(E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2704",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2706",
+		"nombre": "INSTRUMENTACION INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "2701",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C6",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2104C",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2704",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2102",
+				"nombre": "ELECT.1  O  ELECT.P.91(E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2706",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1519",
+		"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1909",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1514",
+				"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1701",
+		"nombre": "INT. A LA CIENCIA DE MATERIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1701",
+				"nombre": "INT. A LA CIENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1723",
+		"nombre": "INT. A LA CIENCIA DE MATERIALES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 60,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOM Y ALG 1 Y ALG LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1701",
+				"nombre": "INT. A LA CIENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1723",
+				"nombre": "INT. A LA CIENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1131",
+		"nombre": "INT. A LA FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "1121E",
+				"nombre": "FIS.GRAL.2 Ò ELECTROMAG.P89",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1131I",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1131",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1138",
+		"nombre": "INT. A LA FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "1128C",
+				"nombre": "ELECTROM. O MEC.SIST.Y FENOM.O",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1138",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1912",
+		"nombre": "INT. A LA INGENIERIA  INDUSTRIAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 120,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "1902",
+				"nombre": "INT. A LA INGENIERIA INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1912",
+				"nombre": "INT. A LA INGENIERIA  INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1902",
+		"nombre": "INT. A LA INGENIERIA INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1902",
+				"nombre": "INT. A LA INGENIERIA INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1610",
+		"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CR10",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP27",
+				"nombre": "INVESTIGACION OPERATIVA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "PROBA",
+				"nombre": "PROB.Y ESTAD.Y ANAL.MATEM.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1610",
+				"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q58",
+		"nombre": "INT. A LA PREVENC. DE RIESGOS LABORALES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q58",
+				"nombre": "INT. A LA PREVENC. DE RIESGOS LABORALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1725",
+		"nombre": "INT. A LA TECNOLOGIA CERAMICA",
+		"pcurso": [
+			{
+				"id": "CP142",
+				"nombre": "INT. A LA TECNOLOGIA CERAMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1723",
+				"nombre": "INT.A LA CIENC.MAT. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1725",
+				"nombre": "INT. A LA TECNOLOGIA CERAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2705",
+		"nombre": "INT. AL CONTROL INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "2701",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2703",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2104C",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2102",
+				"nombre": "ELECT.1  O  ELECT.P.91(E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2705",
+				"nombre": "INT. AL CONTROL INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2707",
+		"nombre": "INT. AL CONTROL INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "2701",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2703",
+				"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2102",
+				"nombre": "ELECT.1  O  ELECT.P.91(E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031E",
+				"nombre": "GEOM.Y ALG.LINEAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2705",
+				"nombre": "INT. AL CONTROL INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1823C",
+				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2707",
+				"nombre": "INT. AL CONTROL INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1124",
+		"nombre": "LABORATORIO 1",
+		"pcurso": [
+			{
+				"id": "FA8",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP11",
+				"nombre": "TALLER LABORATORIO I (MODULO DE FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1127",
+		"nombre": "LABORATORIO 2",
+		"pcurso": [
+			{
+				"id": "FL1",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "FL10",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1017",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP42",
+				"nombre": "FISICA II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1016",
+				"nombre": "TALLER LABORATORIO I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP14",
+				"nombre": "TALLER LABORATORIO II (MODULO DE FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1140",
+		"nombre": "LABORATORIO 3",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: FISICA"
+			},
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1127",
+				"nombre": "LABORATORIO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1839",
+		"nombre": "LABORATORIO COMBUSTIBLES-LUBRICANTES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 50,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: FISICA"
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1809",
+				"nombre": "ENERGIA I - 1 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2401",
+		"nombre": "LEGISLACION Y RELACIONES INDUSTRIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 300,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			}
+		]
+	},
+	{
+		"id": "1810",
+		"nombre": "MAQUINAS PARA FLUIDOS 1",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP128",
+				"nombre": "FLUIDO MAQUINAS I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQUINAS PARA FLUIDOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1814",
+		"nombre": "MAQUINAS PARA FLUIDOS 2",
+		"pcurso": [
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP129",
+				"nombre": "FLUIDO MAQUINAS II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP152",
+				"nombre": "FLUIDO MAQUINAS II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQ.PARA FLUIDOS 1 91/97 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1226E",
+				"nombre": "MECANICA DE LOS FLUIDOS (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1814",
+				"nombre": "MAQUINAS PARA FLUIDOS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1727",
+		"nombre": "MATERIALES COMPUESTOS",
+		"pcurso": [
+			{
+				"id": "1723",
+				"nombre": "INT.A LA CIENC.MAT. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP141",
+				"nombre": "MATERIALES COMPUESTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1727",
+				"nombre": "MATERIALES COMPUESTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1126",
+		"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1027",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP40",
+				"nombre": "MECANICA GENERAL II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP8",
+				"nombre": "MECANICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1144",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1226",
+		"nombre": "MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP34",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP35",
+				"nombre": "MECANICA DE LOS FLUIDOS E HIDRAULICA(74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1226",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1714",
+		"nombre": "MECANICA DE LOS MATERIALES 1",
+		"pcurso": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOM Y ALG 1 Y ALG LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP125",
+				"nombre": "MECANICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP70",
+				"nombre": "RESISTENCIA DE MATERIALES I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP126",
+				"nombre": "RESISTENCIA DE MATERIALES II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1714",
+				"nombre": "MECANICA DE LOS MATERIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1311",
+		"nombre": "MECANICA DEL  SOLIDO",
+		"pcurso": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP125",
+				"nombre": "MECANICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1311",
+				"nombre": "MECANICA DEL  SOLIDO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1122",
+		"nombre": "MECANICA NEWTONIANA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1121",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP8",
+				"nombre": "MECANICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1047",
+		"nombre": "MET. DE SIMUL.COMPUTAC.APLIC.A SIST.F I",
+		"pcurso": [
+			{
+				"id": "1411C",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1121C",
+				"nombre": "FIS.GRAL.1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1047",
+				"nombre": "MET. DE SIMUL.COMPUTAC.APLIC.A SIST.F I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1724",
+		"nombre": "METALURGIA DE TRANSFORMACION",
+		"pcurso": [
+			{
+				"id": "1723",
+				"nombre": "INT.A LA CIENC.MAT. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1719",
+				"nombre": "METAL.FISICA (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP139",
+				"nombre": "METALURGIA DE TRANSFORMACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1724",
+				"nombre": "METALURGIA DE TRANSFORMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1719",
+		"nombre": "METALURGIA FISICA",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1017",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1701",
+				"nombre": "INT.A LA CIENCIA MAT.(91-97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP136",
+				"nombre": "METALURGIA FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1719",
+				"nombre": "METALURGIA FISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1033",
+		"nombre": "METODOS NUMERICOS",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP16",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1411",
+				"nombre": "COMPUT. 1 (E)  89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1079",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1134",
+		"nombre": "MODULO DE AIRE HUMEDO",
+		"pcurso": [
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1135",
+		"nombre": "MODULO DE CICLOS TERMODINAMICOS",
+		"pcurso": [
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1133",
+		"nombre": "MODULO DE TERMODINAMICA ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1818",
+		"nombre": "MOTORES DE COMBUSTION INTERNA",
+		"pcurso": [
+			{
+				"id": "1809",
+				"nombre": "ENERGIA I - 1 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQ.PARA FLUIDOS 1 91/97 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP134",
+				"nombre": "MOTORES DE COMB.INT.Y TURBINAS DE GAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1823C",
+				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1809E",
+				"nombre": "ENERGIA 1/I  (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1823E",
+				"nombre": "MAQUINAS FLUIDOS 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1818",
+				"nombre": "MOTORES DE COMBUSTION INTERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1823",
+				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1930",
+		"nombre": "ORGANIZACIONES PARA INGENIEROS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1514",
+		"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "0503",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1909",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1514",
+				"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2002",
+		"nombre": "PASANTIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 225,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 70,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 55,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: FISICA"
+			},
+			{
+				"id": "2017",
+				"nombre": "TALLER (91-97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1945",
+		"nombre": "PRACTICA DE ADMINIST. PARA INGENIEROS",
+		"pcurso": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1945",
+				"nombre": "PRACTICA DE ADMINIST. PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1620",
+		"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+		"pcurso": [
+			{
+				"id": "CP120",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP119",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1620",
+				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP49",
+				"nombre": "ANALISIS MATEMATICO II (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "B200",
+				"nombre": "ANALISIS MATEMATICO II (ANUAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2004",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 300,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "2070",
+				"nombre": "ACTIVIDAD COMPLEMENTARIA DE PROYECTO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1922",
+				"nombre": "COSTOS PARA INGENIERIA (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2102E",
+				"nombre": "ELECTROC.1 Ò ELECTROC.P.91",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "PASANTIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1823",
+				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1824C",
+				"nombre": "TRANSF.CALOR 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2070",
+				"nombre": "ACTIVIDAD COMPLEMENTARIA DE PROYECTO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2004",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5504",
+		"nombre": "PROYECTO DE INSTALACIONES ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "5507",
+				"nombre": "INST.ELECT.(74,87.91,97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1606",
+		"nombre": "REFRIGERACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1606",
+				"nombre": "REFRIGERACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1615",
+		"nombre": "REFRIGERACION",
+		"pcurso": [
+			{
+				"id": "1615R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQ.PARA FLUIDOS 1 91/97 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1606",
+				"nombre": "REFRIGERACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1823",
+				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1824C",
+				"nombre": "TRANSF.CALOR 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1615",
+				"nombre": "REFRIGERACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1824G",
+				"nombre": "T DE CALOR 2 O TERM APLIC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1848",
+		"nombre": "ROBOTICA BASADA EN COMPORTAMIENTOS",
+		"pcurso": [
+			{
+				"id": "1720",
+				"nombre": "ELEMENTOS DE MAQUINAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1829",
+				"nombre": "I.A. Y ROBOTICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "2706",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1722",
+				"nombre": "TEORIA DE MAQ. Y MEC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1401",
+		"nombre": "SISTEMAS LINEALES 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1423",
+		"nombre": "SISTEMAS LINEALES 1",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 60,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 30,
+				"texto": " Créditos en la Carrera 22 - Ciclo 3. Área Temática: FISICA"
+			},
+			{
+				"id": "1028C",
+				"nombre": "ANAL.II O ECUAC.DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAG. P.89-97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2200",
+		"nombre": "SISTEMAS OLEOHIDR. Y NEUMATICOS",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1121E",
+				"nombre": "FIS.GRAL.2 Ò ELECTROMAG.P89",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP151",
+				"nombre": "SISTEMAS OLEOHIDRAULICOS Y NEUMATICOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2200",
+				"nombre": "SISTEMAS OLEOHIDR. Y NEUMATICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2001",
+		"nombre": "TALLER",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 100,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2035",
+		"nombre": "TALLER 4:MEJORA DE LA COMPETITIVIDAD",
+		"pcurso": [
+			{
+				"id": "1940E",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1220",
+		"nombre": "TALLER DE DISEÑO, COM. Y REPRES. GRAFICA",
+		"pcurso": [
+			{
+				"id": "1220R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP55",
+				"nombre": "TALLER LABORATORIO I (MODULO DE DIBUJO)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5603",
+		"nombre": "TALLER DE MAQUINAS ELECTRICAS",
+		"pcurso": [
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA O ELEC 1 Y 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1825",
+		"nombre": "TEC.Y UTILIZACION DE GASES COMBUSTIBLES",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1809",
+				"nombre": "ENERGIA I - 1 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1724",
+				"nombre": "METAL.DE TRANSFORMACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1824",
+				"nombre": "T.DE CALOR2 O T.APLICADA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1825",
+				"nombre": "TEC.Y UTILIZACION DE GASES COMBUSTIBLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1704",
+		"nombre": "TEORIA DE MAQUINAS Y MECANISMOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1704",
+				"nombre": "TEORIA DE MAQUINAS Y MECANISMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1722",
+		"nombre": "TEORIA DE MAQUINAS Y MECANISMOS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 60,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOM Y ALG 1 Y ALG LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1704",
+				"nombre": "TEORIA DE MAQUINAS Y MECANISMOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1722",
+				"nombre": "TEORIA DE MAQUINAS Y MECANISMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1927",
+		"nombre": "TEORIA DE RESTRICCIONES",
+		"pcurso": [
+			{
+				"id": "1901",
+				"nombre": "CONTROL DE CALIDAD (P.91 Ò 97)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1927",
+				"nombre": "TEORIA DE RESTRICCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "YFC04",
+		"nombre": "TERMODINAMICA (FAC. DE CIENCIAS)",
+		"pcurso": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP42",
+				"nombre": "FISICA II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122",
+				"nombre": "FISICA,ELECTROMAG.Y MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP12",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "YFC04",
+				"nombre": "TERMODINAMICA (FAC. DE CIENCIAS)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B309",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP12",
+				"nombre": "FIS TERM Y TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8E",
+				"nombre": "MECANICA II O MEC.NEWTO. EX.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1726",
+		"nombre": "TRABAJOS ESPECIALES EN METALURGIA",
+		"pcurso": [
+			{
+				"id": "1723",
+				"nombre": "INT.A LA CIENC.MAT. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1703E",
+				"nombre": "METALURG.FIS.I (91-97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1724E",
+				"nombre": "METALURGIA DE TRANSF.(E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP137",
+				"nombre": "TRABAJOS ESPECIALES EN METALURGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1823",
+		"nombre": "TRANSFERENCIA DE CALOR 1",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B309",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1823",
+				"nombre": "TRANSFERENCIA DE CALOR 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1824",
+		"nombre": "TRANSFERENCIA DE CALOR 2",
+		"pcurso": [
+			{
+				"id": "B309",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1823C",
+				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1824",
+				"nombre": "TRANSFERENCIA DE CALOR 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1729",
+		"nombre": "TRANSPORTE INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "1720E",
+				"nombre": "ELEMENTOS DE MAQ. (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP143",
+				"nombre": "TRANSPORTE INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1729",
+				"nombre": "TRANSPORTE INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1233",
+		"nombre": "TUTORIA EN MATEMATICA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 80,
+				"texto": "Créditos en la Carrera 22 - Ciclo 3"
+			},
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1144",
+		"nombre": "VIBRACIONES Y ONDAS",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1144",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

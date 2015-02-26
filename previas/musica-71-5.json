@@ -1,0 +1,541 @@
+[
+	{
+		"id": "ARTE2",
+		"nombre": "ARTE ESCÉNICO 2",
+		"pcurso": [
+			{
+				"id": "ARTE1",
+				"nombre": "ARTE ESCÉNICO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARTE3",
+		"nombre": "ARTE ESCÉNICO 3",
+		"pcurso": [
+			{
+				"id": "ARTE1",
+				"nombre": "ARTE ESCÉNICO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARTE2",
+				"nombre": "ARTE ESCÉNICO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARTE4",
+		"nombre": "ARTE ESCÉNICO 4",
+		"pcurso": [
+			{
+				"id": "ARTE2",
+				"nombre": "ARTE ESCÉNICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARTE3",
+				"nombre": "ARTE ESCÉNICO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARTE5",
+		"nombre": "ARTE ESCÉNICO 5",
+		"pcurso": [
+			{
+				"id": "ARTE3",
+				"nombre": "ARTE ESCÉNICO 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARTE4",
+				"nombre": "ARTE ESCÉNICO 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ARTE6",
+		"nombre": "ARTE ESCÉNICO 6",
+		"pcurso": [
+			{
+				"id": "ARTE4",
+				"nombre": "ARTE ESCÉNICO 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARTE5",
+				"nombre": "ARTE ESCÉNICO 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARTE7",
+		"nombre": "ARTE ESCÉNICO 7",
+		"pcurso": [
+			{
+				"id": "ARTE5",
+				"nombre": "ARTE ESCÉNICO 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARTE6",
+				"nombre": "ARTE ESCÉNICO 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARTE8",
+		"nombre": "ARTE ESCÉNICO 8",
+		"pcurso": [
+			{
+				"id": "ARTE6",
+				"nombre": "ARTE ESCÉNICO 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARTE7",
+				"nombre": "ARTE ESCÉNICO 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CANT2",
+		"nombre": "CANTO 2",
+		"pcurso": [
+			{
+				"id": "CANT1",
+				"nombre": "CANTO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CANT3",
+		"nombre": "CANTO 3",
+		"pcurso": [
+			{
+				"id": "ARTE1",
+				"nombre": "ARTE ESCÉNICO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT1",
+				"nombre": "CANTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT2",
+				"nombre": "CANTO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CANT4",
+		"nombre": "CANTO 4",
+		"pcurso": [
+			{
+				"id": "ARTE2",
+				"nombre": "ARTE ESCÉNICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT2",
+				"nombre": "CANTO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT3",
+				"nombre": "CANTO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CANT5",
+		"nombre": "CANTO 5",
+		"pcurso": [
+			{
+				"id": "ARTE3",
+				"nombre": "ARTE ESCÉNICO 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT3",
+				"nombre": "CANTO 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT4",
+				"nombre": "CANTO 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CANT6",
+		"nombre": "CANTO 6",
+		"pcurso": [
+			{
+				"id": "ARTE4",
+				"nombre": "ARTE ESCÉNICO 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT4",
+				"nombre": "CANTO 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT5",
+				"nombre": "CANTO 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "IDIO1",
+				"nombre": "IDIOMA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "IDIO2",
+				"nombre": "IDIOMA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ITAL",
+				"nombre": "ITALIANO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CANT7",
+		"nombre": "CANTO 7",
+		"pcurso": [
+			{
+				"id": "ARTE5",
+				"nombre": "ARTE ESCÉNICO 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT5",
+				"nombre": "CANTO 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT6",
+				"nombre": "CANTO 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CANT8",
+		"nombre": "CANTO 8",
+		"pcurso": [
+			{
+				"id": "ARTE6",
+				"nombre": "ARTE ESCÉNICO 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT6",
+				"nombre": "CANTO 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CANT7",
+				"nombre": "CANTO 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EMPT2",
+		"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PPA1",
+		"nombre": "PRACTICA CON PIANISTA ACOMPAÑANTE 1",
+		"pcurso": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PC5",
+		"nombre": "PRÁCTICA DE CORO 5",
+		"pcurso": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SIN5",
+		"nombre": "SEMINARIO DE INTERPRETACIÓN 5",
+		"pcurso": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C1",
+				"nombre": "CANTO PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

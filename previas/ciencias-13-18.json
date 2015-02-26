@@ -1,0 +1,736 @@
+[
+	{
+		"id": "BL113",
+		"nombre": "ANATOMIA COMPARADA DE LOS VERTEBRADOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL113",
+				"nombre": "ANATOMIA COMPARADA DE LOS VERTEBRADOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL449",
+		"nombre": "ANATOMIA NORMAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL120",
+		"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL120",
+				"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL630",
+		"nombre": "BIOLOGIA DE MAMIFEROS MARINOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BG020",
+		"nombre": "BIOLOGIA DEL DESARROLLO (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG020",
+				"nombre": "BIOLOGIA DEL DESARROLLO (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL601",
+		"nombre": "BIOLOGIA REPRODUCTIVA Y EVOLUCION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ125",
+		"nombre": "BIOQUIMICA Y TECN.DE ANALISIS DE LIPIDOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL730",
+		"nombre": "ENDOCRINOLOGIA DE REPRODUCCION EN PECES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL554",
+		"nombre": "ENDOCRINOLOGIA Y FARMACOLOGIA CONDUCTUAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL622",
+		"nombre": "ETOLOGIA DE LA REPRODUCCION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL701",
+		"nombre": "EVALUACION Y MANEJO DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL149",
+		"nombre": "EVOLUCION HUMANA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL149",
+				"nombre": "EVOLUCION HUMANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL841",
+		"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL841",
+				"nombre": "FISICOQUIMICA BIOLOGICA (CS.BIOLOGICAS)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL355",
+		"nombre": "FISIOL.DEL COMPORTAMIENTO REPRODUCTOR",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL559",
+		"nombre": "FISIOL.Y FITOP.METAB.DEL PARTO Y LA LACT",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL123",
+		"nombre": "FISIOLOGIA CARDIOVASCULAR Y RESPIRATORIO",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL091",
+		"nombre": "FISIOLOGIA DEL PERIODO PERINATAL",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL008",
+		"nombre": "HISTOLOGIA-EMBRIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL087",
+		"nombre": "INMUNOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL087",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL526",
+		"nombre": "INT.A LA NEUROFISIOLOGIA CELULAR Y MOLEC",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL041",
+		"nombre": "INTRODUCCION A LA ETOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL547",
+		"nombre": "MAMIFEROS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL089",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BG014",
+		"nombre": "NEUROCIENCIAS I (LIC.BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG014",
+				"nombre": "NEUROCIENCIAS I (LIC.BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG015",
+		"nombre": "NEUROCIENCIAS II (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG015",
+				"nombre": "NEUROCIENCIAS II (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL195",
+		"nombre": "NEUROETOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL523",
+		"nombre": "NUTRICION I",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL569",
+		"nombre": "NUTRICION II",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL405",
+		"nombre": "NUTRICION Y COMP.ALIMENT.EN VERTEBRADOS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL330",
+		"nombre": "OSTEOLOGIA COMPARADA DE LOS MAMIFEROS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL330",
+				"nombre": "OSTEOLOGIA COMPARADA DE LOS MAMIFEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL174",
+		"nombre": "PASANTIA EN FISIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL692",
+		"nombre": "PSICONEUROENDOCRINOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ128",
+		"nombre": "QUIMICA LACTEA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL172",
+		"nombre": "REPRODUCCION Y DESARROLLO (FAC.MEDICINA)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ119",
+		"nombre": "TECNICAS DE RADIOINMUNOANALISIS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL614",
+		"nombre": "TEMAS DE FISIOLOGIA - PARTE 1",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL653",
+		"nombre": "TEMAS DE FISIOLOGIA Y DE FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL233",
+		"nombre": "VERTEBRADOS (ANUAL)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL18",
+				"nombre": "FISIOLOGIA-BIOESTADISTICA-EVOL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL233",
+				"nombre": "VERTEBRADOS (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

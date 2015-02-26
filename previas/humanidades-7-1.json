@@ -1,0 +1,431 @@
+[
+	{
+		"id": "T9",
+		"nombre": "ADMINISTRACION GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T9",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T19",
+		"nombre": "ANTROPOLOGIA SOCIAL Y CULTURAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T19",
+				"nombre": "ANTROPOLOGIA SOCIAL Y CULTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T27",
+		"nombre": "COMUNICACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T27",
+				"nombre": "COMUNICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T26",
+		"nombre": "ECOLOGIA Y MEDIO AMBIENTE",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T26",
+				"nombre": "ECOLOGIA Y MEDIO AMBIENTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T3",
+		"nombre": "GEOGRAFIA TURISTICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T3",
+				"nombre": "GEOGRAFIA TURISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T7",
+		"nombre": "GEOGRAFIA TURISTICA II",
+		"pcurso": [
+			{
+				"id": "T3",
+				"nombre": "GEOGRAFIA TURISTICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T3",
+				"nombre": "GEOGRAFIA TURISTICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T7",
+				"nombre": "GEOGRAFIA TURISTICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T18",
+		"nombre": "GESTION DE COMERCIALIZACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T18",
+				"nombre": "GESTION DE COMERCIALIZACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T4",
+		"nombre": "HISTORIA REGIONAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T4",
+				"nombre": "HISTORIA REGIONAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T8",
+		"nombre": "HISTORIA REGIONAL II",
+		"pcurso": [
+			{
+				"id": "T4",
+				"nombre": "HISTORIA REGIONAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T4",
+				"nombre": "HISTORIA REGIONAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T8",
+				"nombre": "HISTORIA REGIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T6",
+		"nombre": "INGLES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T6",
+				"nombre": "INGLES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T12",
+		"nombre": "INGLES II",
+		"pcurso": [
+			{
+				"id": "T6",
+				"nombre": "INGLES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T6",
+				"nombre": "INGLES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T12",
+				"nombre": "INGLES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T16",
+		"nombre": "INGLES III",
+		"pcurso": [
+			{
+				"id": "T12",
+				"nombre": "INGLES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T12",
+				"nombre": "INGLES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T16",
+				"nombre": "INGLES III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T22",
+		"nombre": "INGLES IV",
+		"pcurso": [
+			{
+				"id": "T16",
+				"nombre": "INGLES III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T16",
+				"nombre": "INGLES III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T22",
+				"nombre": "INGLES IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T5",
+		"nombre": "INTRODUCCION A LA ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T5",
+				"nombre": "INTRODUCCION A LA ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T1",
+		"nombre": "INTRODUCCION AL TURISMO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T1",
+				"nombre": "INTRODUCCION AL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T10",
+		"nombre": "LEGISLACION TURISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T10",
+				"nombre": "LEGISLACION TURISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T13",
+		"nombre": "MARKETING TURISTICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T13",
+				"nombre": "MARKETING TURISTICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T11",
+		"nombre": "METODOLOGIA DE LA INVESTIGACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T11",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T20",
+		"nombre": "PATRIMONIO CULTURAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T20",
+				"nombre": "PATRIMONIO CULTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T14",
+		"nombre": "PLANEAMIENTO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T14",
+				"nombre": "PLANEAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T17",
+		"nombre": "PORTUGUES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T17",
+				"nombre": "PORTUGUES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T23",
+		"nombre": "PORTUGUES II",
+		"pcurso": [
+			{
+				"id": "T17",
+				"nombre": "PORTUGUES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T17",
+				"nombre": "PORTUGUES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T23",
+				"nombre": "PORTUGUES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T15",
+		"nombre": "RELACIONES PUBLICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T15",
+				"nombre": "RELACIONES PUBLICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T21",
+		"nombre": "SEMINARIO DE INVESTIGACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T21",
+				"nombre": "SEMINARIO DE INVESTIGACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T25",
+		"nombre": "SEMINARIO DE INVESTIGACION II",
+		"pcurso": [
+			{
+				"id": "T21",
+				"nombre": "SEMINARIO DE INVESTIGACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T21",
+				"nombre": "SEMINARIO DE INVESTIGACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T25",
+				"nombre": "SEMINARIO DE INVESTIGACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T24",
+		"nombre": "SOCIOLOGIA DEL TURISMO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T24",
+				"nombre": "SOCIOLOGIA DEL TURISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

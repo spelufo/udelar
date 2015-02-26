@@ -1,0 +1,1534 @@
+[
+	{
+		"id": "488",
+		"nombre": "ADMINISTRACIÓN DE EMPRESAS (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "488",
+				"nombre": "ADMINISTRACIÓN DE EMPRESAS (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "484",
+		"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "484",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "586",
+		"nombre": "ANÁLISIS CLÍNICOS (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "484",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "586",
+				"nombre": "ANÁLISIS CLÍNICOS (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "485",
+				"nombre": "MICROBIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "483",
+		"nombre": "BIOQUÍMICA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "388",
+				"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "505",
+		"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G406",
+				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G103",
+				"nombre": "INT. A LAS CIEN. BIOLOGICAS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G402",
+				"nombre": "QCA ANALÍTICA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G401",
+				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "505",
+				"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "908",
+		"nombre": "BOTÁNICA (DESDE 2006)",
+		"pcurso": [
+			{
+				"id": "G908",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G203",
+				"nombre": "INT. A LAS CIEN. BIOLÓGICAS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "908",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "481",
+		"nombre": "BOTÁNICA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "481",
+				"nombre": "BOTÁNICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "584",
+		"nombre": "BROMATOLOGÍA I (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "584",
+				"nombre": "BROMATOLOGÍA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ENBQ",
+				"nombre": "EXAMENES NÚCLEO BÁSICO QUÍMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "485",
+				"nombre": "MICROBIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "704",
+		"nombre": "BROMATOLOGÍA Y NUTRICIÓN (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G704",
+				"nombre": "BROMATOLOGÍA Y NUTRICIÓN",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G533",
+				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "704",
+				"nombre": "BROMATOLOGÍA Y NUTRICIÓN (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "804",
+		"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+		"pcurso": [
+			{
+				"id": "G804",
+				"nombre": "CONTROL DE CALIDAD DE MED. I",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G702",
+				"nombre": "FARMACOTECNIA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G533",
+				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G701",
+				"nombre": "QUÍMICA FARMACEUTICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G700",
+				"nombre": "QUÍMICA FARMACÉUTICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "804",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "804A",
+		"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+		"pcurso": [
+			{
+				"id": "G804",
+				"nombre": "CONTROL DE CALIDAD DE MED. I",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G702",
+				"nombre": "FARMACOTECNIA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G533",
+				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G701",
+				"nombre": "QUÍMICA FARMACEUTICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G700",
+				"nombre": "QUÍMICA FARMACÉUTICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "804A",
+				"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "535",
+		"nombre": "FARMACOCINÉTICA Y BIOFARMACIA",
+		"pcurso": [
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G04",
+				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "535",
+				"nombre": "FARMACOCINÉTICA Y BIOFARMACIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "588",
+		"nombre": "FARMACODINAMIA II (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "585",
+				"nombre": "FARMACODINAMIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "588",
+				"nombre": "FARMACODINAMIA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "909",
+		"nombre": "FARMACOGNOSIA (DESDE 2006)",
+		"pcurso": [
+			{
+				"id": "G909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "482",
+		"nombre": "FARMACOGNOSIA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "481",
+				"nombre": "BOTÁNICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ENBQ",
+				"nombre": "EXAMENES NÚCLEO BÁSICO QUÍMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "482",
+				"nombre": "FARMACOGNOSIA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "532",
+		"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G401",
+				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G386",
+				"nombre": "QUÍMICA ORGÁNICA III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "532",
+				"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "703",
+		"nombre": "FARMACOLOGÍA (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G703",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G401",
+				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "703",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "581",
+		"nombre": "FARMACOTECNIA I (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "581",
+				"nombre": "FARMACOTECNIA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "702",
+		"nombre": "FARMACOTECNIA I (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G908",
+				"nombre": "BOTÁNICA (DESDE 2006)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G702",
+				"nombre": "FARMACOTECNIA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G508",
+				"nombre": "FISICOQUÍMICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G533",
+				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G303",
+				"nombre": "QCA. INORGANICA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "700IC",
+				"nombre": "QUÍMICA FARMACÉUTICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "701IC",
+				"nombre": "QUÍMICA FARMACÉUTICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "702",
+				"nombre": "FARMACOTECNIA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "591",
+		"nombre": "FARMACOTECNIA I Y TECNOLOGÍA (PLAN 1980)",
+		"pcurso": [
+			{
+				"id": "385",
+				"nombre": "ANÁLISIS INSTRUMENTAL (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "389",
+				"nombre": "BIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "283",
+				"nombre": "COMPUTACIÓN Y CÁLCULO NUMÉRICO PLAN 1980",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "387",
+				"nombre": "ELECTROQUÍMICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "282",
+				"nombre": "ESTADÍSTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "388",
+				"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "485",
+				"nombre": "MICROBIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "382",
+				"nombre": "QCA. INORGÁNICA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "587",
+		"nombre": "FARMACOTECNIA II (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "587",
+				"nombre": "FARMACOTECNIA II (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "802",
+		"nombre": "FARMACOTECNIA II (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "804IC",
+				"nombre": "CONT. DE CAL. DE MEDICAMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G702",
+				"nombre": "FARMACOTECNIA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G802",
+				"nombre": "FARMACOTECNIA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "802",
+				"nombre": "FARMACOTECNIA II (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "803",
+		"nombre": "FARMACOTERAPIA I (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G703",
+				"nombre": "FARMACOLOGÍA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G803",
+				"nombre": "FARMACOTERAPIA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "803",
+				"nombre": "FARMACOTERAPIA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "408",
+		"nombre": "FISIOLOGÍA (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G484",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G203",
+				"nombre": "INT. A LAS CIEN. BIOLÓGICAS II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "408",
+				"nombre": "FISIOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "410",
+		"nombre": "GESTIÓN DE EMPRESAS (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G410",
+				"nombre": "GESTION DE EMPRESAS",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "410",
+				"nombre": "GESTIÓN DE EMPRESAS (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "487",
+		"nombre": "INMUNOLOGÍA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "388",
+				"nombre": "FISICOQUÍMICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "386",
+				"nombre": "QCA. ORGÁNICA III (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "506",
+		"nombre": "INMUNOLOGÍA I (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G487",
+				"nombre": "INMUNOLOGÍA (PLAN 1980)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G506",
+				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G103",
+				"nombre": "INT. A LAS CIEN. BIOLOGICAS I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "506",
+				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "534",
+		"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G506",
+				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G534",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "565",
+		"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
+		"pcurso": [
+			{
+				"id": "G565",
+				"nombre": "LABORATORIO DE FITOQUÍMICA",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "571IC",
+				"nombre": "QUIMICA DE PRODUCTOS NATURALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "590",
+		"nombre": "LEGISLACIÓN FARMACÉUTICA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "590",
+				"nombre": "LEGISLACIÓN FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "809",
+		"nombre": "LEGISLACIÓN Y DEONTOLOGÍA (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G802",
+				"nombre": "FARMACOTECNIA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G803",
+				"nombre": "FARMACOTERAPIA I (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G809",
+				"nombre": "LEGISLACIÓN Y DEONTOLOGÍA",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "809",
+				"nombre": "LEGISLACIÓN Y DEONTOLOGÍA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "485",
+		"nombre": "MICROBIOLOGÍA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "483",
+				"nombre": "BIOQUÍMICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "485",
+				"nombre": "MICROBIOLOGÍA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "533",
+		"nombre": "MICROBIOLOGÍA GENERAL (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G103",
+				"nombre": "INT. A LAS CIEN. BIOLOGICAS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G533",
+				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "533",
+				"nombre": "MICROBIOLOGÍA GENERAL (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "705M",
+		"nombre": "MOD. I - BIOQUÍMICA CLÍNICA I",
+		"pcurso": [
+			{
+				"id": "G210",
+				"nombre": "ANATOMIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "534IC",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G533",
+				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "705M",
+				"nombre": "MOD. I - BIOQUÍMICA CLÍNICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "537M",
+		"nombre": "MOD. I - HEMATOLOGÍA CLÍNICA",
+		"pcurso": [
+			{
+				"id": "G210",
+				"nombre": "ANATOMIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G705",
+				"nombre": "BIOQUÍMICA CLÍNICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G534M",
+				"nombre": "INMUNOLOGÍA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "537M",
+				"nombre": "MOD. I - HEMATOLOGÍA CLÍNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "707M",
+		"nombre": "MOD. I - PARASITOLOGÍA CLÍNICA",
+		"pcurso": [
+			{
+				"id": "G210",
+				"nombre": "ANATOMIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "534IC",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "707M",
+				"nombre": "MOD. I - PARASITOLOGÍA CLÍNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "706M",
+		"nombre": "MOD. II - MICROBIOLOGÍA CLÍNICA",
+		"pcurso": [
+			{
+				"id": "G210",
+				"nombre": "ANATOMIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "534IC",
+				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G533",
+				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "706M",
+				"nombre": "MOD. II - MICROBIOLOGÍA CLÍNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "535A",
+		"nombre": "MÓD. DE FARMACOCINÉTICA BÁSICA",
+		"pcurso": [
+			{
+				"id": "G408",
+				"nombre": "FISIOLOGIA (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G02",
+				"nombre": "MATEMATICA 02",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "535A",
+				"nombre": "MÓD. DE FARMACOCINÉTICA BÁSICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "583",
+		"nombre": "QCA. ANALÍTICA DE MEDICAMENTOS (PLAN 80)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "583",
+				"nombre": "QCA. ANALÍTICA DE MEDICAMENTOS (PLAN 80)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "571",
+		"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+		"pcurso": [
+			{
+				"id": "505IC",
+				"nombre": "BIOQUIMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G571",
+				"nombre": "QUÍMICA DE PRODUCTOS NATURALES",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "571",
+				"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "486",
+		"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "484",
+				"nombre": "ANATOMÍA Y FISIOLOGÍA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ENBQ",
+				"nombre": "EXAMENES NÚCLEO BÁSICO QUÍMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "700",
+		"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G520",
+				"nombre": "FISICOQUÍMICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G401",
+				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G700",
+				"nombre": "QUÍMICA FARMACÉUTICA 101",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "700",
+				"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "701A",
+		"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G909",
+				"nombre": "FARMACOGNOSIA (DESDE 2006)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G520",
+				"nombre": "FISICOQUÍMICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G401",
+				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G501",
+				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G701",
+				"nombre": "QUÍMICA FARMACEUTICA 102",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "700IC",
+				"nombre": "QUÍMICA FARMACÉUTICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "589",
+		"nombre": "QCA. TOXICOLÓGICA (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "486",
+				"nombre": "QCA. FARMACÉUTICA (PLAN 1980)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "589",
+				"nombre": "QCA. TOXICOLÓGICA (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "575",
+		"nombre": "SÍNT. DE FÁRMACOS II (ORG. 203B)",
+		"pcurso": [
+			{
+				"id": "G502",
+				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G574",
+				"nombre": "SINTESIS DE FARMACOS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G575",
+				"nombre": "SINTESIS DE FARMACOS II",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "575",
+				"nombre": "SÍNT. DE FÁRMACOS II (ORG. 203B)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "582",
+		"nombre": "TECNOLOGÍA I (PLAN 1980)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "582",
+				"nombre": "TECNOLOGÍA I (PLAN 1980)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "806",
+		"nombre": "TOXICOLOGÍA ANALÍTICA Y QUÍMICA LEGAL",
+		"pcurso": [
+			{
+				"id": "G806",
+				"nombre": "TOXICOLOGÍA ANAL. Y QCA LEGAL",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "805",
+				"nombre": "TOXICOLOGÍA FUNDAMENTAL (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "805",
+		"nombre": "TOXICOLOGÍA FUNDAMENTAL (PLAN 2000)",
+		"pcurso": [
+			{
+				"id": "G505",
+				"nombre": "BIOQUÍMICA (OPCIÓN III)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G503",
+				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G805",
+				"nombre": "TOXICOLOGIA FUNDAMENTAL",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "805",
+				"nombre": "TOXICOLOGÍA FUNDAMENTAL (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

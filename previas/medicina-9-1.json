@@ -1,0 +1,7238 @@
+[
+	{
+		"id": "CAUPD",
+		"nombre": " ABORDAJE INT. USUAR.CON USO PROB. DROGA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SYA2",
+		"nombre": "2º PROYECTO SALUD Y AMBIENTE",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AIT",
+		"nombre": "ABORDAJE INTEGRAL DEL TABAQUISMO",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AIPF",
+		"nombre": "ABORDAJE INTEGRAL PACIENTE FUMADOR",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "APSPE",
+		"nombre": "ACT. PROMOCION SALUD PREVENCION ENF",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AECGE",
+		"nombre": "ACTIV.ELECT.CORAZON Y GENES ELECTROCARDI",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GBCC4",
+				"nombre": "GRUPO CBCC MOD IV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AEI",
+		"nombre": "ACTUAL. EN ENFERMEDADES INFECCIOSAS",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CURSO CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ARO",
+		"nombre": "ALTO RIESGO OBSTÉTRICO",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AENPI",
+		"nombre": "ANEMIA, EST.NUTRI.Y PARAS.INTEST.NIÑOS",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AASA",
+		"nombre": "APROX A LA ATENCION SALUD EN ADOLESCEN.",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AEINM",
+		"nombre": "APROX. EXPERIMENTAL A LA INMUNOLOGÍA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CIHET",
+		"nombre": "ASPEC.FISIO,CEL Y CIC DE HERIDAS EN EPIT",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AIVIH",
+		"nombre": "ATENCION INTEGRAL DE PERSONAS CON VIH",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BIP",
+		"nombre": "BASES INMUNOBIOLÓGICAS DE LA PATOLOGÍA",
+		"pcurso": [
+			{
+				"id": "CBCC6",
+				"nombre": "CBCC - MOD VI",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BIV",
+		"nombre": "BASES INMUNOLOGICAS DE LA VACUNACION",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BNS",
+		"nombre": "BASES NEUROBIOLOGICAS DEL SUEÑO",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BCM",
+		"nombre": "BCM DEL CBCC MOD1 - CAMBIO DE PLAN",
+		"pcurso": [
+			{
+				"id": "CI",
+				"nombre": "CICLO INTRODUCTORIO CURSO 2009-2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BCM",
+				"nombre": "BCM DEL CBCC MOD1 - CAMBIO DE PLAN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BDDHH",
+		"nombre": "BIOETICA Y DERECHOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BCCB",
+		"nombre": "BIOÉTICA MÓD I-CBCC - CURSO 2010-2013",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CBCC6",
+		"nombre": "CBCC - MOD VI",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CBCC6",
+				"nombre": "CBCC - MOD VI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CBCC",
+		"nombre": "CBCC - MODULO I CURSO 2009-2012",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CBCC",
+				"nombre": "CBCC - MODULO I CURSO 2009-2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CBCC2",
+		"nombre": "CBCC - MODULO II CURSO 2010-2011",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CBCC2",
+				"nombre": "CBCC - MODULO II CURSO 2010-2011",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BCC2",
+		"nombre": "CBCC - MODULO II CURSO A PARTIR 2012",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BCC2",
+				"nombre": "CBCC - MODULO II CURSO A PARTIR 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CBCC3",
+		"nombre": "CBCC - MODULO III CURSO 2010-2011",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CBCC3",
+				"nombre": "CBCC - MODULO III CURSO 2010-2011",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BCC3",
+		"nombre": "CBCC - MODULO III CURSO A PARTIR 2012",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BCC3",
+				"nombre": "CBCC - MODULO III CURSO A PARTIR 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CBCC4",
+		"nombre": "CBCC - MODULO IV CURSO 2010",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CBCC4",
+				"nombre": "CBCC - MODULO IV CURSO 2010",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BCC4",
+		"nombre": "CBCC - MODULO IV CURSO A PARTIR 2011",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BCC4",
+				"nombre": "CBCC - MODULO IV CURSO A PARTIR 2011",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BCC5",
+		"nombre": "CBCC - MODULO V CURSO DESDE  2014",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BCC5",
+				"nombre": "CBCC - MODULO V CURSO DESDE  2014",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CBCC5",
+		"nombre": "CBCC - MODULO V CURSOS 2011-2013",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CBCC5",
+				"nombre": "CBCC - MODULO V CURSOS 2011-2013",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BCC",
+		"nombre": "CBCC MODULO I CURSO A PARTIR 2013",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BCC",
+				"nombre": "CBCC MODULO I CURSO A PARTIR 2013",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CEFAP",
+		"nombre": "CEFALEAS EN ATENCION PRIMARIA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CMTA",
+		"nombre": "CELULAS MADRE Y TERAPIAS AVANZADAS",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TH17",
+		"nombre": "CELULAS TH17 IMPLICANCIAS EN PATOLOG HUM",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIM",
+				"nombre": "GRUPO CIMGI PARA CURSO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CMEIA",
+				"nombre": "GRUPO CURSO MEIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CIMGI",
+		"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIMG",
+		"nombre": "CICLO INTROD.MED.GENERAL INTEGRAL 2013",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CIMG",
+				"nombre": "CICLO INTROD.MED.GENERAL INTEGRAL 2013",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CI13",
+		"nombre": "CICLO INTRODUCTORIO  A PARTIR AÑO 2013",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CI13",
+				"nombre": "CICLO INTRODUCTORIO  A PARTIR AÑO 2013",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CI",
+		"nombre": "CICLO INTRODUCTORIO CURSO 2009-2012",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CGIM2",
+		"nombre": "CLINICO GENERAL INTEGRAL MEDICO 2",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIM2",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CGIM1",
+		"nombre": "CLINICO GENERAL INTEGRAL MEDICO I",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIM1",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CGIQ2",
+		"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO 2",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIQ2",
+				"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CGIQ1",
+		"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO I",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIQ1",
+				"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CLIM1",
+		"nombre": "CLINICO GRAL INTEGRAL MEDICO",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CLIM1",
+				"nombre": "CLINICO GRAL INTEGRAL MEDICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CGIQ",
+		"nombre": "CLINICO GRAL. INTEGRAL QUIRURGICO SEXTO",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIQ",
+				"nombre": "CLINICO GRAL. INTEGRAL QUIRURGICO SEXTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COMP7",
+		"nombre": "COMPLEMENTO CBCCMODULO VI - CAMBIO PLAN",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CAPME",
+		"nombre": "CONSUMO ALCOHOL PBC MARIHUANA EN EMBARAZ",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GMEIA",
+				"nombre": "GRUPO MEIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CT3",
+		"nombre": "CONT.TEORICOS CBCCMOD III - CAMBIO PLAN",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CT3",
+				"nombre": "CONT.TEORICOS CBCCMOD III - CAMBIO PLAN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CT4",
+		"nombre": "CONT.TEORICOS CBCCMOD IV - CAMBIO PLAN",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CT4",
+				"nombre": "CONT.TEORICOS CBCCMOD IV - CAMBIO PLAN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CT5",
+		"nombre": "CONT.TEORICOS CBCCMOD V - CAMBIO PLAN",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CT5",
+				"nombre": "CONT.TEORICOS CBCCMOD V - CAMBIO PLAN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CT2",
+		"nombre": "CONT.TEORICOS CBCCMODII - CAMBIO DE PLAN",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CT2",
+				"nombre": "CONT.TEORICOS CBCCMODII - CAMBIO DE PLAN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CPRE",
+		"nombre": "CONTROL PRENATAL",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CIGH",
+		"nombre": "CUR DE INTRODUCCIÓN A LA GENÉTICA HUMANA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CSO",
+		"nombre": "CURSO DE SALUD OCULAR",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DNAAS",
+		"nombre": "DER. NIÑOS/AS Y ADOL.EN ATEN.A LA SALUD",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DEBB2",
+		"nombre": "DES. EXPE BÁSICAS EN BIOQUIMICA2",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DEBB",
+		"nombre": "DESTREZAS EXPERIMENT. BAS. EN BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DFFC",
+		"nombre": "DETERMINANTES FISIOLOGICOS FREC CARDIACA",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GBCC4",
+				"nombre": "GRUPO CBCC MOD IV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "DTIT",
+		"nombre": "DIAG. Y TRAT. INTEGRAL DEL TABAQUISMO",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "APMSS",
+		"nombre": "E - APRENDAMOS A PRACTICAR LA MEDICINA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC001",
+		"nombre": "E - BIOESTADISTICA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC002",
+		"nombre": "E - BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC084",
+		"nombre": "E - BIOFISICA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC085",
+		"nombre": "E - BIOLOGIA CELULAR",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC004",
+		"nombre": "E - BIOLOGIA GENERAL II",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC087",
+		"nombre": "E - BIOLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC088",
+		"nombre": "E - BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C1",
+		"nombre": "E - DESARROLLO COGNITIVO ADOLESC Y ADULT",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC097",
+		"nombre": "E - ENSEÑANZA DE LAS CIENCIAS",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC009",
+		"nombre": "E - EVOLUCION (BIOQUIMICA)",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC089",
+		"nombre": "E - FISIOLOGIA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC012",
+		"nombre": "E - GENETICA GENERAL",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GYEV",
+		"nombre": "E - GENETICA Y EVOLUCION",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CGI",
+				"nombre": "GRUPO  CURSO CCGI 5TO AÑO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC092",
+		"nombre": "E - GEOGRAFIA ECONOMICA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC014",
+		"nombre": "E - GEOGRAFIA HUMANA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FI001",
+		"nombre": "E - INFORMATICA MEDICA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC098",
+		"nombre": "E - INMUNOLOGIA Y REPRODUCC A BAS Y CLIN",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FC098",
+				"nombre": "E - INMUNOLOGIA Y REPRODUCC A BAS Y CLIN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FC016",
+		"nombre": "E - INTROD. A LA VIROLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC018",
+		"nombre": "E - MICROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC090",
+		"nombre": "E - NEUROCIENCIAS I",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C7",
+		"nombre": "E - PRACTICA DOCENTE",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC095",
+		"nombre": "E - QUIMICA (2013)",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC024",
+		"nombre": "E - QUIMICA ANALITICA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC022",
+		"nombre": "E - QUIMICA ORGANICA I",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C2",
+		"nombre": "E - REALIDAD EDUCATIVA NACIONAL",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "C3",
+		"nombre": "E - SEMINARIO DE DOCENCIA I",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SD2",
+		"nombre": "E - SEMINARIO DOCENCIA II",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FCS01",
+		"nombre": "E - SEMINARIO: SOCIOLOGIA DE LA SALUD",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC096",
+		"nombre": "E - TERMODINAMICA PARA MEDICINA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC093",
+		"nombre": "E - UNIVERSIDAD CIENCIA Y SOCIEDAD",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FC091",
+		"nombre": "E - VIROLOGIA",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQBM",
+		"nombre": "E- BIOQUIMICA Y BIOLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CGI",
+				"nombre": "GRUPO  CURSO CCGI 5TO AÑO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ECOEQ",
+		"nombre": "ECOE CGI QUIRURGICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIQ2",
+				"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIQ1",
+				"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EHYTT",
+		"nombre": "ENFER. HEPATICAS Y  TRANSPLANTE (T)",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ECNT",
+		"nombre": "ENFERMEDADES CRONICAS NO TRANSMISIBLES",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EPIL",
+		"nombre": "EPILEPSIA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EHNA",
+		"nombre": "ESTEATOSIS HEPÁTICA NO-ALCOHÓLICA",
+		"pcurso": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CENNA",
+		"nombre": "EVAL. CREC. Y EST. NUT. EN NIÑOS Y ADOL.",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCMEI",
+				"nombre": "GRUPO CURSO MEIA APROBADO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ERL",
+		"nombre": "EVAL. RESP. DEL LACTANTE",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FADSA",
+		"nombre": "FISIOLOG APLIC  DIAGN SIST ARTERIAL",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FHAB",
+		"nombre": "FISIOPATOLOGIA  HIDROSALINO Y ACIDO BASE",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FA",
+		"nombre": "FISIOPATOLOGIA APLICADA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FE",
+		"nombre": "FISIOPATOLOGIA EXPERIMENTAL",
+		"pcurso": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FGF",
+		"nombre": "FUNDAMENTOS DE GENOMICA FUNCIONAL",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GSSRD",
+		"nombre": "GENERO, SALUD SEXUAL Y REPROD Y DERECHOS",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "HAACE",
+		"nombre": "HIPERTENSIÓN ARTERIAL. ASP.CLI.Y EPIDEM.",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "HMG2",
+		"nombre": "HIST.MED.GRAL CURSO 2 MED.NACIONAL",
+		"pcurso": [
+			{
+				"id": "HMG",
+				"nombre": "HIST.MEDIC.GRAL. CURSO I: MED.UNIVERSAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "HPMGO",
+		"nombre": "HUMANISMO Y PROF.MED.EN GINECO-OBSTETRIC",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CURSO CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CMEIA",
+				"nombre": "GRUPO CURSO MEIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "INFLA",
+		"nombre": "INFLAMACION: PAT, CLIN,  TERAPIAS BIOLOG",
+		"pcurso": [
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IB",
+		"nombre": "INFORMÁTICA BÁSICA",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IRCB",
+		"nombre": "INSTRUCTORES RESUCITACION CARDIACA BASIC",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "INTO",
+		"nombre": "INTERNADO OBLIGATORIO",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIM2",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIM1",
+				"nombre": "CLINICO GENERAL INTEGRAL MEDICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIQ2",
+				"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CGIQ1",
+				"nombre": "CLINICO GENERAL INTEGRAL QUIRURGICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GMEIA",
+				"nombre": "GRUPO MEIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC2",
+				"nombre": "METODOLOGIA CIENTIFICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CIGH2",
+		"nombre": "INTRODUC. A LA GENETICA HUMANA 2 (P)",
+		"pcurso": [
+			{
+				"id": "CIGH",
+				"nombre": "CUR DE INTRODUCCIÓN A LA GENÉTICA HUMANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IIM",
+		"nombre": "INTRODUCCION A LA IMAGENOLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IT",
+		"nombre": "INTRODUCCION A LA TOXICOLOGIA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "II",
+		"nombre": "INTRODUCCIÓN A LA IMAGENOLOGÍA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IM",
+		"nombre": "INTRODUCCIÓN A LA MASTOLOGÍA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ICUIP",
+		"nombre": "INTRODUCCIÓN A LOS CUIDADOS PALIATIVOS",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MVA",
+		"nombre": "MANEJO DE LA VIA AEREA",
+		"pcurso": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CLIM1",
+				"nombre": "CLINICO GRAL INTEGRAL MEDICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC2",
+				"nombre": "METODOLOGIA CIENTIFICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MEMH",
+		"nombre": "MECANICA Y ENERGETICA DE LA MARCHA HUMAN",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MOSTD",
+		"nombre": "MED OPERACIONAL SIT TACTICAS Y DESASTRES",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MMR",
+		"nombre": "MEDICINA EN EL MEDIO RURAL",
+		"pcurso": [
+			{
+				"id": "G1CGI",
+				"nombre": "GRUPO  CURSO CCGI 5TO AÑO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MLDM",
+		"nombre": "MEDICINA LEGAL Y DERECHO MEDICO",
+		"pcurso": [
+			{
+				"id": "CBCC",
+				"nombre": "CBCC - MODULO I CURSO 2009-2012",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CBCC2",
+				"nombre": "CBCC - MODULO II CURSO 2010-2011",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CBCC3",
+				"nombre": "CBCC - MODULO III CURSO 2010-2011",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GBCC4",
+				"nombre": "GRUPO CBCC MOD IV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MLPF",
+		"nombre": "MEDICINA LEGAL Y PATOLOGÍA FORENSE",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G2CGI",
+				"nombre": "GRUPO 2 EXAMEN CGI 5TO AÑO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SMEIA",
+		"nombre": "MEIA - 2013 EN ADELANTE",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIM",
+				"nombre": "GRUPO CIMGI PARA CURSO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "SMEIA",
+				"nombre": "MEIA - 2013 EN ADELANTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MEIA",
+		"nombre": "MEIA- 2012",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC1",
+		"nombre": "METODOLOGIA CIENTIFICA I",
+		"pcurso": [
+			{
+				"id": "G1MC",
+				"nombre": "GRUPO CBCC 1 PARA MET. CIENT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC2",
+		"nombre": "METODOLOGIA CIENTIFICA II",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MP",
+		"nombre": "MICOSIS PROFUNDA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MHSE",
+		"nombre": "MICROBIOTA HUMANA EN SALUD Y ENFERMEDAD",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MBMOS",
+		"nombre": "MITOCONDRIA:BIOENERG.METAB.OXID Y SEÑAL.",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CURSO CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PQEM",
+		"nombre": "PARA QUE ELEGISTE MEDICINA?",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "HUMED",
+		"nombre": "PENSAR QUE HACEMOS HUMANIDADES MEDICAS",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CURSO CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PMRC",
+		"nombre": "PREV. Y MANEJO DEL RIESGO CARDIOVASCULAR",
+		"pcurso": [
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PC",
+		"nombre": "PREVENCIÓN CARDIOVASCULAR",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PCAT",
+		"nombre": "PRIMARY CARE ASSESSMENT TOOL",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PHE",
+		"nombre": "PROF.  EN HISTOLOGIA Y EMBRIOLOGIA",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PFPSO",
+		"nombre": "PROG.DE FORM. PROM.EN SALUD OCUPACIONAL",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PVDI",
+		"nombre": "PROMOCION Y VIG. DEL DESARR.INFANTIL",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CESCA",
+		"nombre": "PROYECTO INV SALUD CARDIOVASCULAR CESCAS",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "RPM",
+		"nombre": "RADIOPROTECCION EN LA PRACT.MEDICA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "REHAB",
+		"nombre": "REHABILITACION COMO ESPECIALIDAD MEDICA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GMEIA",
+				"nombre": "GRUPO MEIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "LIRAA",
+		"nombre": "SAL AMB LEVAN INDICES RAPID AEDES AEGIP",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SR",
+		"nombre": "SALUD RURAL",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SSYR",
+		"nombre": "SALUD SEXUAL Y REPRODUCTIVA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SYA",
+		"nombre": "SALUD Y AMBIENTE",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SYDIS",
+		"nombre": "SALUD Y DIVERSIDAD SEXUAL",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCIMG",
+				"nombre": "GRUPO CIMGI  PARA CCGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GMEIA",
+				"nombre": "GRUPO MEIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "STA",
+		"nombre": "SALUD Y TOXICOLOGIA AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GBCC2",
+				"nombre": "GRUPO CBCC MODULO II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GEXM2",
+				"nombre": "GRUPO EXAMEN CBCC2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SVBT",
+		"nombre": "SOPORTE VITAL BAS TACTICO (PERS. SALUD)",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TCMC",
+		"nombre": "TALLER  CONFERENCIAS METODOLOGIA CIENTIF",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIMGI",
+				"nombre": "CICLO INTROD. MEDICINA GENERAL INTEGRAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MEIA",
+				"nombre": "MEIA- 2012",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AIEPI",
+		"nombre": "TALLER CLINICO CAPACITACION EN AIEPI",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TNSAT",
+		"nombre": "TECNICAS NO INVASIVAS SIS ARTERIAL -TEOR",
+		"pcurso": [
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TNSAP",
+		"nombre": "TECNICAS NO INVASIVAS SIST ARTERIAL PRAC",
+		"pcurso": [
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TC",
+		"nombre": "TOXICOLOGIA CLINICA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIB",
+		"nombre": "TUTORES EN INFORMATICA  BASICA",
+		"pcurso": [
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TEPCS",
+		"nombre": "TUTORIAS E PARES INT CIEN SALUD PROGRESA",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCBCC",
+				"nombre": "GRUPO CBCC MOD I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TEP",
+		"nombre": "TUTORIAS ENTRE PARES",
+		"pcurso": [
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "UMIC",
+		"nombre": "UNID. MULTIDISC. DE INSUF. CARDÍACA",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "UPCB",
+		"nombre": "URGENC.PEDIATR-CUIDADOS BASICOS",
+		"pcurso": [
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "UPDIA",
+		"nombre": "USO PROBLEMAT DROGAS ILEGALES Y ALCOHOL",
+		"pcurso": [
+			{
+				"id": "ECOE",
+				"nombre": "CBCC - PRUEBA CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "G2CIM",
+				"nombre": "GRUPO  CBCC II PARA  CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4CIM",
+				"nombre": "GRUPO CBCC 4 PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1CIM",
+				"nombre": "GRUPO CBCC I PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G3CIM",
+				"nombre": "GRUPO CBCC III PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5CIM",
+				"nombre": "GRUPO CBCC V  PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G6CIM",
+				"nombre": "GRUPO CBCC VI PARA CIMGI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GCI",
+				"nombre": "GRUPO CICLO INTRODUCTORIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MC1",
+				"nombre": "METODOLOGIA CIENTIFICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

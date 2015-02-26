@@ -1,0 +1,349 @@
+[
+	{
+		"id": "T24R2",
+		"nombre": "ACUSTICA MUSICAL II",
+		"pcurso": [
+			{
+				"id": "T24R1",
+				"nombre": "ACUSTICA MUSICAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "T24R1",
+				"nombre": "ACUSTICA MUSICAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T15",
+		"nombre": "ARMONIA COMPLEMENTARIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T08",
+				"nombre": "ARMONIA COMPLEMENTARIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T02GR",
+				"nombre": "GRUPO SOLFEOI (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T16",
+		"nombre": "CONTRAPUNTO COMPLEMENTARIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T09",
+				"nombre": "CONTRAPUNTO COMPLEMENTARIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T02R",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T16R",
+		"nombre": "CONTRAPUNTO COMPLEMENTARIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T09G",
+				"nombre": "CONTRAPUNTO COMPLEMENTARIO I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "T02GR",
+				"nombre": "GRUPO SOLFEOI (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ROMA",
+		"nombre": "HIST.DE LA MUSICA PERIODO ROMANTICO",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "REN",
+		"nombre": "HIST.DE LA MUSICA RENACIMIENTO",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BAR",
+		"nombre": "HISTORIA DE LA MUSICA BARROCO",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CLAS",
+		"nombre": "HISTORIA DE LA MUSICA CLASICA",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MTO7",
+		"nombre": "HISTORIA DE LA MUSICA II (TÉCNICO)",
+		"pcurso": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MED",
+		"nombre": "HISTORIA DE LA MUSICA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "VEIN",
+		"nombre": "HISTORIA DE LA MUSICA SIGLO XX",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "HO1",
+		"nombre": "HISTORIA OCCIDENTAL I",
+		"pcurso": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "HO2",
+		"nombre": "HISTORIA OCCIDENTAL II",
+		"pcurso": [
+			{
+				"id": "MO3G",
+				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO3G",
+				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T10",
+		"nombre": "PIANO COMPLEMENTARIO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T04",
+				"nombre": "PIANO COMPLEMENTARIO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T12R",
+		"nombre": "SOLFEO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T02R",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "T20R",
+		"nombre": "SOLFEO III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T12R",
+				"nombre": "SOLFEO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TEO",
+				"nombre": "TEORIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C49R",
+		"nombre": "SOLFEO IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T20R",
+				"nombre": "SOLFEO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I97",
+		"nombre": "VIOLA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "I83",
+				"nombre": "VIOLA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I111",
+		"nombre": "VIOLA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "I97",
+				"nombre": "VIOLA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "I125",
+		"nombre": "VIOLA IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "I111",
+				"nombre": "VIOLA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

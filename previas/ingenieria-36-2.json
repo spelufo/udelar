@@ -1,0 +1,651 @@
+[
+	{
+		"id": "EL5",
+		"nombre": "AUTOMATAS PROGRAMABLES",
+		"pcurso": [
+			{
+				"id": "EL3",
+				"nombre": "INSTRUMENTACION Y CONTROL (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EL5",
+				"nombre": "AUTOMATAS PROGRAMABLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EL3",
+				"nombre": "INSTRUMENTACION Y CONTROL (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EL1",
+				"nombre": "INT. A LA ELECTROTECNICA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD3",
+		"nombre": "COMPORTAMIENTO MEC. DE LOS MAT.(TEC.)",
+		"pcurso": [
+			{
+				"id": "FIS1",
+				"nombre": "FISICA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2",
+				"nombre": "METALURGIA FISICA (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD3",
+				"nombre": "COMPORTAMIENTO MEC. DE LOS MAT.(TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2",
+				"nombre": "METALURGIA FISICA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP2",
+		"nombre": "CONTROL DE CALIDAD (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "IP2",
+				"nombre": "CONTROL DE CALIDAD (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD7",
+		"nombre": "CONTROL NUMERICO I (TEC.)",
+		"pcurso": [
+			{
+				"id": "MD6",
+				"nombre": "DISEÑO ASISTIDO POR COMPUTADOR (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD7",
+				"nombre": "CONTROL NUMERICO I (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD6",
+				"nombre": "DISEÑO ASISTIDO POR COMPUTADOR (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD8",
+		"nombre": "CONTROL NUMERICO II (TEC.)",
+		"pcurso": [
+			{
+				"id": "MD7",
+				"nombre": "CONTROL NUMERICO I (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD7",
+				"nombre": "CONTROL NUMERICO I (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD8",
+				"nombre": "CONTROL NUMERICO II (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP1",
+		"nombre": "COSTOS PARA INGENIERIA (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "IP1",
+				"nombre": "COSTOS PARA INGENIERIA (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD6",
+		"nombre": "DISEÑO ASISTIDO POR COMPUTADOR (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MD6",
+				"nombre": "DISEÑO ASISTIDO POR COMPUTADOR (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT1",
+				"nombre": "MATEMATICA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL2",
+		"nombre": "ELECTROTECNIA 2 (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "EL2",
+				"nombre": "ELECTROTECNIA 2 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EL1",
+				"nombre": "INT. A LA ELECTROTECNICA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD4",
+		"nombre": "ELEMENTOS DE MAQUINAS (TEC.)",
+		"pcurso": [
+			{
+				"id": "MD3",
+				"nombre": "COMPORTAMIENTO MEC. DE LOS MAT.(TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD3",
+				"nombre": "COMPORTAMIENTO MEC. DE LOS MAT.(TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD4",
+				"nombre": "ELEMENTOS DE MAQUINAS (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN1",
+		"nombre": "ENERGIA 1 (TEC.)",
+		"pcurso": [
+			{
+				"id": "TMF1",
+				"nombre": "TERMODINAMICA Y MEC.FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1E",
+				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN2",
+		"nombre": "ENERGIA 2 (TEC.)",
+		"pcurso": [
+			{
+				"id": "TMF1E",
+				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN2",
+				"nombre": "ENERGIA 2 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN22",
+		"nombre": "ENERGIA 2 (TEC.)",
+		"pcurso": [
+			{
+				"id": "TMF1",
+				"nombre": "TERMODINAMICA Y MEC.FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN22",
+				"nombre": "ENERGIA 2 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1E",
+				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP4",
+		"nombre": "ESTUDIO DEL TRABAJO (TEC.)",
+		"pcurso": [
+			{
+				"id": "IP1",
+				"nombre": "COSTOS PARA INGENIERIA (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1",
+				"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IP1",
+				"nombre": "COSTOS PARA INGENIERIA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "IP4",
+				"nombre": "ESTUDIO DEL TRABAJO (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1",
+				"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN5",
+		"nombre": "GENERADORES DE VAPOR",
+		"pcurso": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN4",
+				"nombre": "GENERADORES DE VAPOR Y REFRIG.(TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN5",
+				"nombre": "GENERADORES DE VAPOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN4",
+		"nombre": "GENERADORES DE VAPOR Y REFRIG.(TEC.)",
+		"pcurso": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN4",
+				"nombre": "GENERADORES DE VAPOR Y REFRIG.(TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP3",
+		"nombre": "GESTION DEL MANTENIMIENTO (TEC.)",
+		"pcurso": [
+			{
+				"id": "IP1",
+				"nombre": "COSTOS PARA INGENIERIA (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1",
+				"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IP1",
+				"nombre": "COSTOS PARA INGENIERIA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "IP3",
+				"nombre": "GESTION DEL MANTENIMIENTO (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1",
+				"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN7",
+		"nombre": "INSTALAC. GRALES. DE GASES COMBUSTIBLES",
+		"pcurso": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD5",
+				"nombre": "METALURGIA DE TRANSFORMACION (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TAL1",
+				"nombre": "TALLER 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1",
+				"nombre": "TERMODINAMICA Y MEC.FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN7",
+				"nombre": "INSTALAC. GRALES. DE GASES COMBUSTIBLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD5",
+				"nombre": "METALURGIA DE TRANSFORMACION (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1E",
+				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL4",
+		"nombre": "INSTALACIONES ELECTRICAS (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "EL2",
+				"nombre": "ELECTROTECNIA 2 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL3",
+		"nombre": "INSTRUMENTACION Y CONTROL (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "EL3",
+				"nombre": "INSTRUMENTACION Y CONTROL (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD1",
+		"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MD1",
+				"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL1",
+		"nombre": "INT. A LA ELECTROTECNICA (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FIS2",
+				"nombre": "FISICA 2 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT3",
+				"nombre": "MATEMATICA 3 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD5",
+		"nombre": "METALURGIA DE TRANSFORMACION (TEC.)",
+		"pcurso": [
+			{
+				"id": "MD2",
+				"nombre": "METALURGIA FISICA (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD5",
+				"nombre": "METALURGIA DE TRANSFORMACION (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD2",
+		"nombre": "METALURGIA FISICA (TEC.)",
+		"pcurso": [
+			{
+				"id": "MD1",
+				"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD1",
+				"nombre": "INT. A LA CIENCIA DE LOS MAT. (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2",
+				"nombre": "METALURGIA FISICA (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN3",
+		"nombre": "MOTORES DE COMB.INT.Y TURB.DE GAS (TEC.)",
+		"pcurso": [
+			{
+				"id": "TAL1",
+				"nombre": "TALLER 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1C",
+				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN3",
+				"nombre": "MOTORES DE COMB.INT.Y TURB.DE GAS (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1E",
+				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP5",
+		"nombre": "PROYECTO DE INVERSION (TEC.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "IP5",
+				"nombre": "PROYECTO DE INVERSION (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN6",
+		"nombre": "REFRIGERACION INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN4",
+				"nombre": "GENERADORES DE VAPOR Y REFRIG.(TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN6",
+				"nombre": "REFRIGERACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

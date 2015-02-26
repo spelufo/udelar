@@ -1,0 +1,4020 @@
+[
+	{
+		"id": "O05",
+		"nombre": "ADIESTRAMIENTO DE USUARIOS",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O05",
+				"nombre": "ADIESTRAMIENTO DE USUARIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L4",
+		"nombre": "ADMINISTRACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L5",
+		"nombre": "ADMINISTRACION II",
+		"pcurso": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L5",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L6",
+		"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL11E",
+				"nombre": "FORM. Y DESARR. DE COLECCIONES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L6",
+				"nombre": "BASES DE DATOS BIBLIOGRAFICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L8",
+				"nombre": "BIBLIOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L10",
+				"nombre": "DOCUMENTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL11E",
+				"nombre": "FORM. Y DESARR. DE COLECCIONES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L7",
+		"nombre": "BIBLIOGRAFIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L8",
+		"nombre": "BIBLIOGRAFIA II",
+		"pcurso": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L8",
+				"nombre": "BIBLIOGRAFIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O68",
+		"nombre": "CALIDAD TOTAL EN UNIDADES DE INFORMACION",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O68",
+				"nombre": "CALIDAD TOTAL EN UNIDADES DE INFORMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L9",
+		"nombre": "CLASIFICACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "OA4",
+		"nombre": "CONSERVACION Y RESTAURACION",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "OA4",
+				"nombre": "CONSERVACION Y RESTAURACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O102",
+		"nombre": "CRITERIOS DE CALIDAD EN EL REGISTRO BIB.",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "O64",
+		"nombre": "DESARROLLO DE PAGINAS WEB",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O64",
+				"nombre": "DESARROLLO DE PAGINAS WEB",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O67",
+		"nombre": "DISEÑO DE PAGINAS WEB",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O67",
+				"nombre": "DISEÑO DE PAGINAS WEB",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O75",
+		"nombre": "DISEÑO DE SITIOS EN INTERNET",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O75",
+				"nombre": "DISEÑO DE SITIOS EN INTERNET",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O101",
+		"nombre": "DISEÑO Y GENERACIÓN DE BASES DE DATOS",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "L10",
+		"nombre": "DOCUMENTACION",
+		"pcurso": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L10",
+				"nombre": "DOCUMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB2",
+		"nombre": "ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L22",
+		"nombre": "HISTORIA DE LA CIENCIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L12",
+		"nombre": "HISTORIA DE LOS DOCUMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L1",
+		"nombre": "HISTORIA DEL PENSAMIENTO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "OA2",
+		"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "OA2",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L23",
+		"nombre": "INGLES TECNICO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L24",
+		"nombre": "INGLES TECNICO II",
+		"pcurso": [
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB7",
+		"nombre": "INTROD. AL PROCESAM. AUTOM. DE DATOS",
+		"pcurso": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB7",
+				"nombre": "INTROD. AL PROCESAM. AUTOM. DE DATOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L13",
+		"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L20",
+		"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O23",
+		"nombre": "INTRODUCCION A LA MUSEOLOGIA",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O23",
+				"nombre": "INTRODUCCION A LA MUSEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L21",
+		"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O114",
+		"nombre": "INTRODUCCIÓN A LA BIBLIOMETRÍA.",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L43",
+				"nombre": "PROCESO  CULTURAL  DEL  URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L43",
+				"nombre": "PROCESO  CULTURAL  DEL  URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O115",
+		"nombre": "LA ENTREVISTA Y EL TRABAJO DE REFERENCIA",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L43",
+				"nombre": "PROCESO  CULTURAL  DEL  URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L47",
+				"nombre": "FORMACIÓN Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L43",
+				"nombre": "PROCESO  CULTURAL  DEL  URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O12",
+		"nombre": "LITERATURA INFANTIL",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O12",
+				"nombre": "LITERATURA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB6",
+		"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "OA5",
+		"nombre": "MICROGRAFIA DOCUMENTAL",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "OA5",
+				"nombre": "MICROGRAFIA DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O52",
+		"nombre": "MUSEOLOGIA",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O52",
+				"nombre": "MUSEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O100",
+		"nombre": "NEGOCIOS SOBRE LA WEB,DISEÑO Y CONSTRUC.",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "O25",
+		"nombre": "PELICULAS DE CINE Y VIDEOGRABACIONES",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O25",
+				"nombre": "PELICULAS DE CINE Y VIDEOGRABACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L14",
+		"nombre": "PLANEAMIENTO DE SERVICIOS BIBLIOTECARIOS",
+		"pcurso": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L14",
+				"nombre": "PLANEAMIENTO DE SERVICIOS BIBLIOTECARIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L43",
+		"nombre": "PROCESO  CULTURAL  DEL  URUGUAY",
+		"pcurso": [
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL3C",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L3",
+		"nombre": "PROCESO CULTURAL DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL3C",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L15",
+		"nombre": "PROCESOS TECNICOS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L16",
+		"nombre": "PROCESOS TECNICOS II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L17",
+		"nombre": "PROCESOS TECNICOS III",
+		"pcurso": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L17",
+				"nombre": "PROCESOS TECNICOS III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O24",
+		"nombre": "PROFUNDIZACION EN CLASIFICACION",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O24",
+				"nombre": "PROFUNDIZACION EN CLASIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BA5",
+		"nombre": "PROYECTO DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L5",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L10",
+				"nombre": "DOCUMENTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BA5",
+				"nombre": "PROYECTO DE INVESTIGACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L18",
+		"nombre": "REDES Y SISTEMAS DE INFORMACION",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L10",
+				"nombre": "DOCUMENTACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB2",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L12",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L1",
+				"nombre": "HISTORIA DEL PENSAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L23",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L20",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L21",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L15",
+				"nombre": "PROCESOS TECNICOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L18",
+				"nombre": "REDES Y SISTEMAS DE INFORMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O69",
+		"nombre": "REPROGRAFIA DOCUMENTAL",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O69",
+				"nombre": "REPROGRAFIA DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O65",
+		"nombre": "SEM.  UNIDADES DE INFORMACION MUSEISTICA",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O65",
+				"nombre": "SEM.  UNIDADES DE INFORMACION MUSEISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O14",
+		"nombre": "SEMINARIO- TALLER \" ESTUDIO DE USUARIOS",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O14",
+				"nombre": "SEMINARIO- TALLER \" ESTUDIO DE USUARIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L19",
+		"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "L7",
+				"nombre": "BIBLIOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O74",
+		"nombre": "TALLER  \" EVALUACION DE BIBLIOTECAS \"",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L11",
+				"nombre": "FORMACION Y DESARROLLO DE COLECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "O74",
+				"nombre": "TALLER  \" EVALUACION DE BIBLIOTECAS \"",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O66",
+		"nombre": "TERMINOLOGIA",
+		"pcurso": [
+			{
+				"id": "L4",
+				"nombre": "ADMINISTRACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9",
+				"nombre": "CLASIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL47E",
+				"nombre": "FORM. Y DESARR. DE COLECCIONES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "L22",
+				"nombre": "HISTORIA DE LA CIENCIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L24",
+				"nombre": "INGLES TECNICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL3",
+				"nombre": "PROCESO CULTURAL DEL URUGUAY",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "L16",
+				"nombre": "PROCESOS TECNICOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L19",
+				"nombre": "SERVICIO DE INFORMACION Y CONSULTA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L13",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "O66",
+				"nombre": "TERMINOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

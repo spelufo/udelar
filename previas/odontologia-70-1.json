@@ -1,0 +1,430 @@
+[
+	{
+		"id": "E1",
+		"nombre": "LA SALUD",
+		"pcurso": [
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E2",
+		"nombre": "LA UNIVERSIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L5",
+		"nombre": "MATERIALES, INST. E INSTAL. EN EL LAB.",
+		"pcurso": [
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L5",
+				"nombre": "MATERIALES, INST. E INSTAL. EN EL LAB.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L9A",
+		"nombre": "ORTODONCIA - A",
+		"pcurso": [
+			{
+				"id": "E1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L5",
+				"nombre": "MATERIALES, INST. E INSTAL. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L4",
+				"nombre": "SIM. DEL SIST. ESTOMATOG. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "SIST.EST. MORFO. NORMAL Y ALTERADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L9A",
+				"nombre": "ORTODONCIA - A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L9B",
+		"nombre": "ORTODONCIA - B",
+		"pcurso": [
+			{
+				"id": "L9A",
+				"nombre": "ORTODONCIA - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L9B",
+				"nombre": "ORTODONCIA - B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L10",
+		"nombre": "PRÁCTICA EN SERVICIOS",
+		"pcurso": [
+			{
+				"id": "L9A",
+				"nombre": "ORTODONCIA - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L9B",
+				"nombre": "ORTODONCIA - B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L8A",
+				"nombre": "PRÓTESIS COMPLETA - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L8B",
+				"nombre": "PRÓTESIS COMPLETA - B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L6A",
+				"nombre": "PRÓTESIS FIJA - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L6B",
+				"nombre": "PRÓTESIS FIJA - B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7A",
+				"nombre": "PRÓTESIS PARCIAL - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L7B",
+				"nombre": "PRÓTESIS PARCIAL - B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "L8A",
+		"nombre": "PRÓTESIS COMPLETA - A",
+		"pcurso": [
+			{
+				"id": "E1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L5",
+				"nombre": "MATERIALES, INST. E INSTAL. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L4",
+				"nombre": "SIM. DEL SIST. ESTOMATOG. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "SIST.EST. MORFO. NORMAL Y ALTERADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L8A",
+				"nombre": "PRÓTESIS COMPLETA - A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L8B",
+		"nombre": "PRÓTESIS COMPLETA - B",
+		"pcurso": [
+			{
+				"id": "L8A",
+				"nombre": "PRÓTESIS COMPLETA - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L8B",
+				"nombre": "PRÓTESIS COMPLETA - B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L6A",
+		"nombre": "PRÓTESIS FIJA - A",
+		"pcurso": [
+			{
+				"id": "E1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L5",
+				"nombre": "MATERIALES, INST. E INSTAL. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L4",
+				"nombre": "SIM. DEL SIST. ESTOMATOG. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "SIST.EST. MORFO. NORMAL Y ALTERADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L6A",
+				"nombre": "PRÓTESIS FIJA - A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L6B",
+		"nombre": "PRÓTESIS FIJA - B",
+		"pcurso": [
+			{
+				"id": "L6A",
+				"nombre": "PRÓTESIS FIJA - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L6B",
+				"nombre": "PRÓTESIS FIJA - B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L7A",
+		"nombre": "PRÓTESIS PARCIAL - A",
+		"pcurso": [
+			{
+				"id": "E1",
+				"nombre": "LA SALUD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L5",
+				"nombre": "MATERIALES, INST. E INSTAL. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L4",
+				"nombre": "SIM. DEL SIST. ESTOMATOG. EN EL LAB.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "SIST.EST. MORFO. NORMAL Y ALTERADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L7A",
+				"nombre": "PRÓTESIS PARCIAL - A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L7B",
+		"nombre": "PRÓTESIS PARCIAL - B",
+		"pcurso": [
+			{
+				"id": "L7A",
+				"nombre": "PRÓTESIS PARCIAL - A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L7B",
+				"nombre": "PRÓTESIS PARCIAL - B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L4",
+		"nombre": "SIM. DEL SIST. ESTOMATOG. EN EL LAB.",
+		"pcurso": [
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E1",
+				"nombre": "LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L5",
+				"nombre": "MATERIALES, INST. E INSTAL. EN EL LAB.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L4",
+				"nombre": "SIM. DEL SIST. ESTOMATOG. EN EL LAB.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "L3",
+				"nombre": "SIST.EST. MORFO. NORMAL Y ALTERADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L3",
+		"nombre": "SIST.EST. MORFO. NORMAL Y ALTERADA",
+		"pcurso": [
+			{
+				"id": "E2",
+				"nombre": "LA UNIVERSIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "L3",
+				"nombre": "SIST.EST. MORFO. NORMAL Y ALTERADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

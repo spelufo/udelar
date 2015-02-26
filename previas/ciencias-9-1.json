@@ -1,0 +1,1263 @@
+[
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL016",
+		"nombre": "CARTOGRAFIA GEOLOGICA I",
+		"pcurso": [
+			{
+				"id": "GL006",
+				"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL007",
+				"nombre": "PALEONTOLOGIA A (GEOL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL016",
+				"nombre": "CARTOGRAFIA GEOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL025",
+		"nombre": "CARTOGRAFIA GEOLOGICA II",
+		"pcurso": [
+			{
+				"id": "GL016",
+				"nombre": "CARTOGRAFIA GEOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "55",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL008",
+				"nombre": "MINERALOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL016",
+				"nombre": "CARTOGRAFIA GEOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL025",
+				"nombre": "CARTOGRAFIA GEOLOGICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL006",
+		"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+		"pcurso": [
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL006",
+				"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "57",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF039",
+		"nombre": "EDAFOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL015",
+		"nombre": "ESTRATIGRAFIA",
+		"pcurso": [
+			{
+				"id": "56",
+				"nombre": "FISICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "57",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL007",
+				"nombre": "PALEONTOLOGIA A (GEOL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "53",
+				"nombre": "QUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL009",
+				"nombre": "SEDIMENTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL007",
+				"nombre": "PALEONTOLOGIA A (GEOL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL009",
+				"nombre": "SEDIMENTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL019",
+		"nombre": "EXPLOTACION DE YACIMIENTOS",
+		"pcurso": [
+			{
+				"id": "GL006",
+				"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL007",
+				"nombre": "PALEONTOLOGIA A (GEOL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL019",
+				"nombre": "EXPLOTACION DE YACIMIENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI001",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI050",
+		"nombre": "FISICA II",
+		"pcurso": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL012",
+		"nombre": "GEOFISICA",
+		"pcurso": [
+			{
+				"id": "GL006",
+				"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "54",
+				"nombre": "MATEMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL006",
+				"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "56",
+				"nombre": "FISICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL012",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL026",
+		"nombre": "GEOLOGIA DEL URUGUAY",
+		"pcurso": [
+			{
+				"id": "55",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL011",
+				"nombre": "GEOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL008",
+				"nombre": "MINERALOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL026",
+				"nombre": "GEOLOGIA DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL011",
+				"nombre": "GEOQUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL013",
+		"nombre": "GEOLOGIA ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "56",
+				"nombre": "FISICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "57",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL010",
+				"nombre": "PETROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "53",
+				"nombre": "QUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL009",
+				"nombre": "SEDIMENTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL010",
+				"nombre": "PETROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL002",
+		"nombre": "GEOLOGIA GENERAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL004",
+		"nombre": "GEOLOGIA GENERAL II",
+		"pcurso": [
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL017",
+		"nombre": "GEOLOGIA HISTORICA",
+		"pcurso": [
+			{
+				"id": "GL006",
+				"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL007",
+				"nombre": "PALEONTOLOGIA A (GEOL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL010",
+				"nombre": "PETROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL017",
+				"nombre": "GEOLOGIA HISTORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL010",
+				"nombre": "PETROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF006",
+		"nombre": "GEOMORFOLOGIA (1987 -",
+		"pcurso": [
+			{
+				"id": "56",
+				"nombre": "FISICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "57",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "53",
+				"nombre": "QUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL009",
+				"nombre": "SEDIMENTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF006",
+				"nombre": "GEOMORFOLOGIA (1987 -",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL009",
+				"nombre": "SEDIMENTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF066",
+		"nombre": "GEOMORFOLOGIA AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF066",
+				"nombre": "GEOMORFOLOGIA AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL011",
+		"nombre": "GEOQUIMICA",
+		"pcurso": [
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL011",
+				"nombre": "GEOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL021",
+		"nombre": "GEOTECNIA",
+		"pcurso": [
+			{
+				"id": "55",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL008",
+				"nombre": "MINERALOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL021",
+				"nombre": "GEOTECNIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL052",
+		"nombre": "GEOTECNICA I",
+		"pcurso": [
+			{
+				"id": "GL00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GL035",
+		"nombre": "HIDROGEOLOGIA",
+		"pcurso": [
+			{
+				"id": "55",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL008",
+				"nombre": "MINERALOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL035",
+				"nombre": "HIDROGEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA900",
+		"nombre": "MATEMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA900",
+				"nombre": "MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA920",
+		"nombre": "MATEMATICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA930",
+		"nombre": "MATEMATICA II",
+		"pcurso": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "54",
+				"nombre": "MATEMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL005",
+		"nombre": "MINERALOGIA I",
+		"pcurso": [
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL042",
+				"nombre": "QUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "56",
+				"nombre": "FISICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "53",
+				"nombre": "QUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL008",
+		"nombre": "MINERALOGIA II",
+		"pcurso": [
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL008",
+				"nombre": "MINERALOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL007",
+		"nombre": "PALEONTOLOGIA A (GEOL)",
+		"pcurso": [
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL004",
+				"nombre": "GEOLOGIA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL007",
+				"nombre": "PALEONTOLOGIA A (GEOL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL010",
+		"nombre": "PETROLOGIA",
+		"pcurso": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "54",
+				"nombre": "MATEMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL008",
+				"nombre": "MINERALOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "57",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL008",
+				"nombre": "MINERALOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL010",
+				"nombre": "PETROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL033",
+		"nombre": "QUIMICA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL033",
+				"nombre": "QUIMICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL044",
+		"nombre": "QUIMICA I (1992 - 2012)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL042",
+		"nombre": "QUIMICA II",
+		"pcurso": [
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL042",
+				"nombre": "QUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL022",
+		"nombre": "RECURSOS MINERALES",
+		"pcurso": [
+			{
+				"id": "GL006",
+				"nombre": "CARTOGRAFIA Y TOPOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL007",
+				"nombre": "PALEONTOLOGIA A (GEOL)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL015",
+				"nombre": "ESTRATIGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL013",
+				"nombre": "GEOLOGIA ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL022",
+				"nombre": "RECURSOS MINERALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL031",
+		"nombre": "RECURSOS MINERALES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL031",
+				"nombre": "RECURSOS MINERALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL036",
+		"nombre": "RECURSOS MINERALES II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL036",
+				"nombre": "RECURSOS MINERALES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL009",
+		"nombre": "SEDIMENTOLOGIA",
+		"pcurso": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL002",
+				"nombre": "GEOLOGIA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "54",
+				"nombre": "MATEMATICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL044",
+				"nombre": "QUIMICA I (1992 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "57",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL005",
+				"nombre": "MINERALOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL009",
+				"nombre": "SEDIMENTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

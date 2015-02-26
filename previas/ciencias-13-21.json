@@ -1,0 +1,468 @@
+[
+	{
+		"id": "BL441",
+		"nombre": "ANALISIS INTEGR.DE UN PERFIL FOSILIFERO",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL111",
+		"nombre": "ANTROPOLOGIA BIOLOGICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GF051",
+		"nombre": "BIOGEOGRAFIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF051",
+				"nombre": "BIOGEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL120",
+		"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL120",
+				"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ102",
+		"nombre": "BIOLOGIA Y FERTILIDAD DE SUELO",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GL017",
+		"nombre": "GEOLOGIA HISTORICA",
+		"pcurso": [
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL017",
+				"nombre": "GEOLOGIA HISTORICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL047",
+		"nombre": "HISTORIA DE LA TIERRA Y DE LA VIDA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL751",
+		"nombre": "ICTIOLOGIA NEOTROPICAL (HASTA 2009)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "130",
+				"nombre": "VERTEBRADOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL110",
+		"nombre": "INTRODUCCION A LA BIOMECANICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL041",
+		"nombre": "INTRODUCCION A LA ETOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL041",
+				"nombre": "INTRODUCCION A LA ETOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GL037",
+		"nombre": "INTRODUCCION A LA GEOLOGIA I",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL037",
+				"nombre": "INTRODUCCION A LA GEOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL480",
+		"nombre": "MACROEVOLUCION",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL547",
+		"nombre": "MAMIFEROS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL330",
+		"nombre": "OSTEOLOGIA COMPARADA DE LOS MAMIFEROS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL330",
+				"nombre": "OSTEOLOGIA COMPARADA DE LOS MAMIFEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL541",
+		"nombre": "PALEOBIOLOGIA Y BIOMECANICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL488",
+		"nombre": "PALINOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL178",
+		"nombre": "PASANTIA EN PALEONTOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL727",
+		"nombre": "RECONST PALEOAMBIENTAL EN EL CUATERNARIO",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GL064",
+		"nombre": "ROCAS SEDIMENTARIAS",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GL009",
+		"nombre": "SEDIMENTOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GL037",
+				"nombre": "INTRODUCCION A LA GEOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL233",
+		"nombre": "VERTEBRADOS (ANUAL)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL21",
+				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL233",
+				"nombre": "VERTEBRADOS (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,722 @@
+[
+	{
+		"id": "CB204",
+		"nombre": "ACOND.FÍSICO BÁSICO I",
+		"pcurso": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB121",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB121",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB307",
+		"nombre": "ACOND.FÍSICO BÁSICO II",
+		"pcurso": [
+			{
+				"id": "CB204",
+				"nombre": "ACOND.FÍSICO BÁSICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB203",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB204",
+				"nombre": "ACOND.FÍSICO BÁSICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB203",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP330",
+		"nombre": "BÁSQUETBOL",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP414",
+		"nombre": "DEPORTE OPCIONAL I - GIMN.ARTÍSTICA",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP415",
+		"nombre": "DEPORTE OPCIONAL II - RUGBY",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP416",
+		"nombre": "DEPORTE OPCIONAL III - DEPORTE C/PALETA",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB408",
+		"nombre": "EDUC.FÍSICA ADAPTADA",
+		"pcurso": [
+			{
+				"id": "CB307",
+				"nombre": "ACOND.FÍSICO BÁSICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB226",
+				"nombre": "CINESIOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB307",
+				"nombre": "ACOND.FÍSICO BÁSICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB226",
+				"nombre": "CINESIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE209",
+		"nombre": "EVALUACIÓN",
+		"pcurso": [
+			{
+				"id": "CE102",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE101",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE102",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE101",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB203",
+		"nombre": "FISIOLOGÍA II",
+		"pcurso": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP332",
+		"nombre": "FITNESS",
+		"pcurso": [
+			{
+				"id": "CB204",
+				"nombre": "ACOND.FÍSICO BÁSICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP237",
+				"nombre": "GIMNASIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB204",
+				"nombre": "ACOND.FÍSICO BÁSICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP237",
+				"nombre": "GIMNASIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP237",
+		"nombre": "GIMNASIA",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP238",
+		"nombre": "MOTRICIDAD Y APRENDIZAJE",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE103",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE103",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP339",
+		"nombre": "NATACIÓN",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE206",
+		"nombre": "PEDAGOGÍA DE LA EDUCACIÓN FÍSICA",
+		"pcurso": [
+			{
+				"id": "CE101",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE101",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE207",
+		"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+		"pcurso": [
+			{
+				"id": "CE102",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE101",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE102",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE101",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB205",
+		"nombre": "PRIMEROS AUXILIOS",
+		"pcurso": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB121",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB121",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE312",
+		"nombre": "PRÁCTICA DOCENTE I",
+		"pcurso": [
+			{
+				"id": "TP236",
+				"nombre": "ATLETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE209",
+				"nombre": "EVALUACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB203",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP235",
+				"nombre": "FÚTBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP237",
+				"nombre": "GIMNASIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP234",
+				"nombre": "HANDBALL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP238",
+				"nombre": "MOTRICIDAD Y APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE206",
+				"nombre": "PEDAGOGÍA DE LA EDUCACIÓN FÍSICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE207",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP236",
+				"nombre": "ATLETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE102",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP133",
+				"nombre": "EDUCACIÓN RÍTMICO MUSICAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE209",
+				"nombre": "EVALUACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB203",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP235",
+				"nombre": "FÚTBOL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP237",
+				"nombre": "GIMNASIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP234",
+				"nombre": "HANDBALL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CB121",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP132",
+				"nombre": "JUEGOS Y RECREACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP238",
+				"nombre": "MOTRICIDAD Y APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE101",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE206",
+				"nombre": "PEDAGOGÍA DE LA EDUCACIÓN FÍSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE207",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE103",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE418",
+		"nombre": "PRÁCTICA DOCENTE II",
+		"pcurso": [
+			{
+				"id": "TP330",
+				"nombre": "BÁSQUETBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP339",
+				"nombre": "NATACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE312",
+				"nombre": "PRÁCTICA DOCENTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP331",
+				"nombre": "VOLEIBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP330",
+				"nombre": "BÁSQUETBOL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP339",
+				"nombre": "NATACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TP331",
+				"nombre": "VOLEIBOL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE416",
+		"nombre": "SEMINARIO TESINA",
+		"pcurso": [
+			{
+				"id": "CE314",
+				"nombre": "INVESTIGACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CE312",
+				"nombre": "PRÁCTICA DOCENTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE314",
+				"nombre": "INVESTIGACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CE417",
+		"nombre": "TEORÍA DEL CURRÍCULO",
+		"pcurso": [
+			{
+				"id": "CE207",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE207",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TP331",
+		"nombre": "VOLEIBOL",
+		"pcurso": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TP131",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,682 @@
+[
+	{
+		"id": "EFP16",
+		"nombre": "ACOND.FÍSICO BASICO 1",
+		"pcurso": [
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP35",
+		"nombre": "ACONDICIONAMIENTO FÍSICO BÁSICO 2",
+		"pcurso": [
+			{
+				"id": "EFP16",
+				"nombre": "ACOND.FÍSICO BASICO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP15",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP16",
+				"nombre": "ACOND.FÍSICO BASICO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP15",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP30",
+		"nombre": "BASQUETBOL",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP40",
+		"nombre": "DEPORTE OP.1 GIMNASIA ARTÍSTICA",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP42",
+		"nombre": "DEPORTE OPCIONAL 3 - DEPORTE C/PALETA",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP41",
+		"nombre": "DEPORTE OPT.2 RUGBY",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP45",
+		"nombre": "EDUCACIÓN FÍSICA ADAPTADA",
+		"pcurso": [
+			{
+				"id": "EFP35",
+				"nombre": "ACONDICIONAMIENTO FÍSICO BÁSICO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP20",
+				"nombre": "CINESIOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP35",
+				"nombre": "ACONDICIONAMIENTO FÍSICO BÁSICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP20",
+				"nombre": "CINESIOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP22",
+		"nombre": "EVALUACIÓN",
+		"pcurso": [
+			{
+				"id": "EFP09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP15",
+		"nombre": "FISIOLOGÍA II",
+		"pcurso": [
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP28",
+		"nombre": "FITNESS",
+		"pcurso": [
+			{
+				"id": "EFP16",
+				"nombre": "ACOND.FÍSICO BASICO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP18",
+				"nombre": "GIMNASIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP16",
+				"nombre": "ACOND.FÍSICO BASICO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP18",
+				"nombre": "GIMNASIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP21",
+		"nombre": "FÚTBOLL",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP18",
+		"nombre": "GIMNASIA",
+		"pcurso": [
+			{
+				"id": "EFP82",
+				"nombre": "TALLER COM.Y EXP. -M3 EXPRESIÓN CORPORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EFP47",
+		"nombre": "HANDBALL",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP13",
+		"nombre": "INFORMES Y PROYECTOS",
+		"pcurso": [
+			{
+				"id": "EFP80",
+				"nombre": "TALLER COM.Y EXP.-M1 LENGUAJE Y COMUNIC.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EFP19",
+		"nombre": "MOTRICIDAD Y APRENDIZAJE",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP06",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP06",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP27",
+		"nombre": "NATACIÓN",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP24",
+		"nombre": "PEDAGOGÍA DE LA EDUCACIÓN FÍSICA",
+		"pcurso": [
+			{
+				"id": "EFP07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP14",
+		"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+		"pcurso": [
+			{
+				"id": "EFP09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP25",
+		"nombre": "PRIMEROS AUXILIOS",
+		"pcurso": [
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EFP32",
+		"nombre": "PRÁCTICA DOCENTE I",
+		"pcurso": [
+			{
+				"id": "EFP17",
+				"nombre": "ATLETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP22",
+				"nombre": "EVALUACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP15",
+				"nombre": "FISIOLOGÍA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP21",
+				"nombre": "FÚTBOLL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP18",
+				"nombre": "GIMNASIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP47",
+				"nombre": "HANDBALL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP19",
+				"nombre": "MOTRICIDAD Y APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP24",
+				"nombre": "PEDAGOGÍA DE LA EDUCACIÓN FÍSICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP14",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP09",
+				"nombre": "DIDÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP05",
+				"nombre": "EDUCACIÓN RÍTMICO MUSICAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP01",
+				"nombre": "HISTOLOGÍA Y ANATOMÍA FUNCIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP04",
+				"nombre": "JUEGO Y RECRACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP07",
+				"nombre": "PEDAGOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP06",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP38",
+		"nombre": "PRÁCTICA DOCENTE II",
+		"pcurso": [
+			{
+				"id": "EFP30",
+				"nombre": "BASQUETBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP27",
+				"nombre": "NATACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP32",
+				"nombre": "PRÁCTICA DOCENTE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP29",
+				"nombre": "VOLEIBOL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP30",
+				"nombre": "BASQUETBOL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP27",
+				"nombre": "NATACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP29",
+				"nombre": "VOLEIBOL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP43",
+		"nombre": "SEMINARIO PROYECTO TESINA",
+		"pcurso": [
+			{
+				"id": "EFP31",
+				"nombre": "INVESTIGACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EFP32",
+				"nombre": "PRÁCTICA DOCENTE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EFP46",
+		"nombre": "TEORÍA DEL CURRICULO",
+		"pcurso": [
+			{
+				"id": "EFP14",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP14",
+				"nombre": "PLANIFICACIÓN Y METODOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFP29",
+		"nombre": "VOLEIBOL",
+		"pcurso": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EFP03",
+				"nombre": "EDUCACIÓN FÍSICA INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

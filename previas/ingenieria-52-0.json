@@ -1,0 +1,1587 @@
+[
+	{
+		"id": "1915",
+		"nombre": "ADMINISTRACION DE OPERACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1915",
+				"nombre": "ADMINISTRACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C400",
+		"nombre": "CALCULO NUMERICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C400",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q630",
+		"nombre": "CATALIZADORES Y ABSORBENTES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q630",
+				"nombre": "CATALIZADORES Y ABSORBENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q64",
+		"nombre": "CONVERSION ELECTROQUIMICA DE ENERGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q64",
+				"nombre": "CONVERSION ELECTROQUIMICA DE ENERGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1922",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1922",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q500",
+		"nombre": "DISEÑO DE REACTORES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q500",
+				"nombre": "DISEÑO DE REACTORES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q409",
+				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B304",
+		"nombre": "DISEÑO LOGICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B304",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1221",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2101",
+		"nombre": "ELECTROTECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2102",
+		"nombre": "ELECTROTECNICA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2102",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2104",
+		"nombre": "ELECTROTECNICA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2103",
+		"nombre": "ELECTROTECNICA 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2103",
+				"nombre": "ELECTROTECNICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2105",
+		"nombre": "ELECTROTECNICA 2",
+		"pcurso": [
+			{
+				"id": "2102C",
+				"nombre": "ELECT.1  O  ELECT.(C)P.91",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2101",
+				"nombre": "ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTEC.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2105",
+				"nombre": "ELECTROTECNICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1826",
+		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+		"pcurso": [
+			{
+				"id": "Q409",
+				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1826",
+				"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2244",
+		"nombre": "ELEMENTOS DE GESTION LOGISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2244",
+				"nombre": "ELEMENTOS DE GESTION LOGISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A98",
+		"nombre": "ENOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A98",
+				"nombre": "ENOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q22",
+		"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q22",
+				"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q23",
+		"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q23",
+				"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q400",
+		"nombre": "FENOMENOS DE TRANSPORTE Y FLUIDODINAMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q400",
+				"nombre": "FENOMENOS DE TRANSPORTE Y FLUIDODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1130",
+		"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1130",
+				"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q66",
+		"nombre": "FLUIDODINAMICA",
+		"pcurso": [
+			{
+				"id": "Q22",
+				"nombre": "FENOMEN.DE TRANS.EN ING.PROC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q66",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q501",
+		"nombre": "FUNDAMENTOS DE INGENIERIA BIOQUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q501",
+				"nombre": "FUNDAMENTOS DE INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1921",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1940",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "1906",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1940",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q638",
+		"nombre": "GESTION DE LA SEG. Y SAL. LABORAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q638",
+				"nombre": "GESTION DE LA SEG. Y SAL. LABORAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1920",
+		"nombre": "GESTION DE MANTENIMIENTO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1920",
+				"nombre": "GESTION DE MANTENIMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2243",
+		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2243",
+				"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0601",
+		"nombre": "INGENIERIA AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0601",
+				"nombre": "INGENIERIA AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q602",
+		"nombre": "INGENIERIA BIOQUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q500",
+				"nombre": "DISEÑO DE REACTORES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508",
+				"nombre": "FUNDAMENTOS DE ING. BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q602",
+				"nombre": "INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q81",
+		"nombre": "INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "Q500C",
+				"nombre": "DISEÑO DE REACTORES(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q500",
+				"nombre": "DISEÑO DE REACTORES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508",
+				"nombre": "FUNDAMENTOS DE ING. BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q81",
+				"nombre": "INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q69",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+		"pcurso": [
+			{
+				"id": "Q409C",
+				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q409",
+				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q70",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+		"pcurso": [
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q70",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q89",
+		"nombre": "INGENIERIA DE LOS PROCESOS ELECTROQUIM.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q89",
+				"nombre": "INGENIERIA DE LOS PROCESOS ELECTROQUIM.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2706",
+		"nombre": "INSTRUMENTACION INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2706",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1519",
+		"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2253",
+		"nombre": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2253",
+				"nombre": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1912",
+		"nombre": "INT. A LA INGENIERIA  INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1912",
+				"nombre": "INT. A LA INGENIERIA  INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q77",
+		"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "Q409C",
+				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q77",
+				"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q77B",
+		"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "Q409C",
+				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q77B",
+				"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1610",
+		"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1610",
+				"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q606",
+		"nombre": "INT. A LA TECNOLOGIA CERAMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q606",
+				"nombre": "INT. A LA TECNOLOGIA CERAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q614",
+		"nombre": "INT. A LA TECNOLOGIA CERAMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q614",
+				"nombre": "INT. A LA TECNOLOGIA CERAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1301",
+		"nombre": "INT. A LA TEORIA DEL CONTROL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1301",
+				"nombre": "INT. A LA TEORIA DEL CONTROL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q631",
+		"nombre": "INT. A LAS CIENCIAS BIOLOGICAS 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q631",
+				"nombre": "INT. A LAS CIENCIAS BIOLOGICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1507",
+		"nombre": "INT. A LAS ORGANIZACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1507",
+				"nombre": "INT. A LAS ORGANIZACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q503",
+		"nombre": "LABORATORIO",
+		"pcurso": [
+			{
+				"id": "Q409C",
+				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q401",
+				"nombre": "LABORATORIO DE PROCESOS FISICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q401",
+		"nombre": "LABORATORIO DE PROCESOS FISICOS",
+		"pcurso": [
+			{
+				"id": "Q23YC",
+				"nombre": "FENOMENOS DE TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1727",
+		"nombre": "MATERIALES COMPUESTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1727",
+				"nombre": "MATERIALES COMPUESTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1402",
+		"nombre": "MECANICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1402",
+				"nombre": "MECANICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q73",
+		"nombre": "MECANICA APLICADA (ING.QUÍM)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q73",
+				"nombre": "MECANICA APLICADA (ING.QUÍM)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1714",
+		"nombre": "MECANICA DE LOS MATERIALES 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1714",
+				"nombre": "MECANICA DE LOS MATERIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1724",
+		"nombre": "METALURGIA DE TRANSFORMACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1724",
+				"nombre": "METALURGIA DE TRANSFORMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1033",
+		"nombre": "METODOS NUMERICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q601",
+		"nombre": "ORGANIZACION DE LA PRODUCCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q601",
+				"nombre": "ORGANIZACION DE LA PRODUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q603",
+		"nombre": "ORGANIZACION DE LA PRODUCCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q603",
+				"nombre": "ORGANIZACION DE LA PRODUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1514",
+		"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1514",
+				"nombre": "ORGANIZACIONES Y SU ADMINISTRACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q82",
+		"nombre": "PASANTIA-TRABAJO EXPERIM. MOD.1 BASICO",
+		"pcurso": [
+			{
+				"id": "Q405",
+				"nombre": "DIBUJO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q500C",
+				"nombre": "DISEÑO DE REACTORES(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q406",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q502C",
+				"nombre": "SERV.YTEC.IND.(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q412",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q80",
+		"nombre": "PROYECTO INDUSTRIAL 1",
+		"pcurso": [
+			{
+				"id": "Q405",
+				"nombre": "DIBUJO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q500C",
+				"nombre": "DISEÑO DE REACTORES(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q406",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q502C",
+				"nombre": "SERV.YTEC.IND.(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q57",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "CQ2",
+				"nombre": "CREDITOS POR PROYECTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q57",
+				"nombre": "PROYECTO INDUSTRIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q85",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q632",
+		"nombre": "QUIMICA AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q632",
+				"nombre": "QUIMICA AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q635",
+		"nombre": "QUIMICA ANALITICA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q635",
+				"nombre": "QUIMICA ANALITICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q636",
+		"nombre": "QUIMICA DE POLIMEROS (T+L)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q636",
+				"nombre": "QUIMICA DE POLIMEROS (T+L)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q637",
+		"nombre": "QUIMICA DE POLIMEROS (TEORICO)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q637",
+				"nombre": "QUIMICA DE POLIMEROS (TEORICO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q608",
+		"nombre": "QUIMICA Y TECNOLOGIA DE GRASAS Y ACEITES",
+		"pcurso": [
+			{
+				"id": "Q407",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q615",
+		"nombre": "RADIOACTIVIDAD APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q615",
+				"nombre": "RADIOACTIVIDAD APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q502",
+		"nombre": "SERVICIOS Y TECNOLOGIAS INDUSTRIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q400",
+				"nombre": "FENOMENOS DE TRANSPORTE Y FLUIDODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q502",
+				"nombre": "SERVICIOS Y TECNOLOGIAS INDUSTRIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q633",
+		"nombre": "SINT. ORG.  MEDIANTE TRANSF. ENZIMAT (T)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q633",
+				"nombre": "SINT. ORG.  MEDIANTE TRANSF. ENZIMAT (T)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q634",
+		"nombre": "SINT. ORG. MEDIANTE TRANSF. ENZIMAT. (L)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q634",
+				"nombre": "SINT. ORG. MEDIANTE TRANSF. ENZIMAT. (L)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2200",
+		"nombre": "SISTEMAS OLEOHIDR. Y NEUMATICOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2200",
+				"nombre": "SISTEMAS OLEOHIDR. Y NEUMATICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q86",
+		"nombre": "TECNOLOGIA DE LOS PRODUCTOS  FORESTALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q86",
+				"nombre": "TECNOLOGIA DE LOS PRODUCTOS  FORESTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q609",
+		"nombre": "TECNOLOGIA DEL CURTIDO DE PIELES",
+		"pcurso": [
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q607",
+		"nombre": "TECNOLOGIA EN PROCESOS BIOLOGICOS",
+		"pcurso": [
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q605",
+		"nombre": "TECNOLOGIA TEXTIL",
+		"pcurso": [
+			{
+				"id": "Q507",
+				"nombre": "SERVICIOS Y TECNOLOGIA IND.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q76",
+		"nombre": "TECNOLOGIA Y GEST. DE LA IND. DEL CUERO",
+		"pcurso": [
+			{
+				"id": "Q69C",
+				"nombre": "ING. DE LAS REAC.QUIM.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q502C",
+				"nombre": "SERV.YTEC.IND.(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q71",
+		"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+		"pcurso": [
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q71",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q72",
+		"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 2",
+		"pcurso": [
+			{
+				"id": "Q71",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q72",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1927",
+		"nombre": "TEORIA DE RESTRICCIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1927",
+				"nombre": "TEORIA DE RESTRICCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q21",
+		"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q21",
+				"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q402",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q403",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q404",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q404",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A403",
+		"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A403",
+				"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A408",
+		"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A408",
+				"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q407",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q407",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q67",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q67",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q74",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [
+			{
+				"id": "Q22",
+				"nombre": "FENOMEN.DE TRANS.EN ING.PROC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402C",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q67",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q74",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q68",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+		"pcurso": [
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q68",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q56",
+		"nombre": "TRAT.BIOLOG.DE EFLUENTES Y RESID.SOLIDOS",
+		"pcurso": [
+			{
+				"id": "Q506",
+				"nombre": "DISEÑO DE REACTORES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q90",
+				"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q97",
+				"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q56",
+				"nombre": "TRAT.BIOLOG.DE EFLUENTES Y RESID.SOLIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q90",
+		"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+		"pcurso": [
+			{
+				"id": "Q506",
+				"nombre": "DISEÑO DE REACTORES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q97",
+		"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+		"pcurso": [
+			{
+				"id": "Q506",
+				"nombre": "DISEÑO DE REACTORES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q90",
+				"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q97",
+				"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q610",
+		"nombre": "TRATAMIENTOS BIOLOGICOS DE EFLUENTES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q500",
+				"nombre": "DISEÑO DE REACTORES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508",
+				"nombre": "FUNDAMENTOS DE ING. BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q610",
+				"nombre": "TRATAMIENTOS BIOLOGICOS DE EFLUENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

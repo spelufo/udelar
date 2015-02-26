@@ -1,0 +1,714 @@
+[
+	{
+		"id": "A91",
+		"nombre": "ANALISIS DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "A404C",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A90YC",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A91",
+				"nombre": "ANALISIS DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A501",
+		"nombre": "ANALISIS DE ALIMENTOS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A501",
+				"nombre": "ANALISIS DE ALIMENTOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A509",
+		"nombre": "ANALISIS DE ALIMENTOS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A509",
+				"nombre": "ANALISIS DE ALIMENTOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A616",
+		"nombre": "BIOINGENIERIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A616",
+				"nombre": "BIOINGENIERIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A101",
+		"nombre": "BIOQUIMICA  (OPCION III)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A101",
+				"nombre": "BIOQUIMICA  (OPCION III)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A404",
+		"nombre": "BIOQUIMICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A404",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A500",
+		"nombre": "CINETICA APLICADA Y REACTORES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A500",
+				"nombre": "CINETICA APLICADA Y REACTORES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q409",
+				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A403",
+				"nombre": "TERMO.SIST.ABIERTOS C.98 O C99",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A511B",
+		"nombre": "CINETICA APLICADA Y REACTORES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A511B",
+				"nombre": "CINETICA APLICADA Y REACTORES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1510",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1921",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "A109C",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1940",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "A109C",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1906",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1940",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q81",
+		"nombre": "INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "A500",
+				"nombre": "CINETICA APLICADA O DISEÑO DE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A405C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q412",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q81",
+				"nombre": "INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q69",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+		"pcurso": [
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74C",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A78",
+		"nombre": "LABORATORIO DE QUIMICA DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "A404",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A404",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Insc. paralela a una materia",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A94",
+		"nombre": "LEGISLACION ALIMENTARIA",
+		"pcurso": [
+			{
+				"id": "A109C",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A503",
+				"nombre": "MICROBIOLOGIA ALIME. I (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A400",
+				"nombre": "QUIMICA DE ALIMENTOS I Y II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A94",
+				"nombre": "LEGISLACION ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A93",
+		"nombre": "MICROBIOLOGIA ALIMENTARIA",
+		"pcurso": [
+			{
+				"id": "A405C",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A93",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A503",
+		"nombre": "MICROBIOLOGIA ALIMENTARIA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A503",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A510",
+		"nombre": "MICROBIOLOGIA ALIMENTARIA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A510",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A405",
+		"nombre": "MICROBIOLOGIA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A404",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A405",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A75",
+		"nombre": "MICROBIOLOGIA GENERAL",
+		"pcurso": [
+			{
+				"id": "G101",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A75",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A502",
+		"nombre": "NORMALIZACION Y GESTION DE CALIDAD I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A502",
+				"nombre": "NORMALIZACION Y GESTION DE CALIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A601",
+		"nombre": "NORMALIZACION Y GESTION DE CALIDAD II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A502",
+				"nombre": "NORMALIZACION Y GESTION DE CALIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A601",
+				"nombre": "NORMALIZACION Y GESTION DE CALIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A88",
+		"nombre": "PASANTIA-TRABAJO PRACTICO DE GRADO,MOD.1",
+		"pcurso": [
+			{
+				"id": "A501",
+				"nombre": "ANALISIS DE ALIMENTOS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A500",
+				"nombre": "CINETICA APLICADA O DISEÑO DE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A510",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A400",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q80",
+		"nombre": "PROYECTO INDUSTRIAL 1",
+		"pcurso": [
+			{
+				"id": "224HS",
+				"nombre": "ELECTIVAS ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A88YC",
+				"nombre": "PASANT. TRAB. PRACT. GR. MOD.1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q57",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q85",
+				"nombre": "PROYECTO INDUSTRIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q57",
+				"nombre": "PROYECTO INDUSTRIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q85",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A90",
+		"nombre": "QUIMICA DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "101YC",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A90",
+				"nombre": "QUIMICA DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A100",
+		"nombre": "QUIMICA DE ALIMENTOS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A100",
+				"nombre": "QUIMICA DE ALIMENTOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A400",
+		"nombre": "QUIMICA DE ALIMENTOS I Y II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A400",
+				"nombre": "QUIMICA DE ALIMENTOS I Y II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A89",
+		"nombre": "QUIMICA DE ALIMENTOS I Y II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A89",
+				"nombre": "QUIMICA DE ALIMENTOS I Y II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q21",
+		"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q21",
+				"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q403",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q404",
+		"nombre": "TERMODINAMICA APLICADA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q404",
+				"nombre": "TERMODINAMICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A403",
+		"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A403",
+				"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A408",
+		"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A408",
+				"nombre": "TERMODINAMICA DE SISTEMAS ABIERTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q407",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A403",
+				"nombre": "TERMO.SIST.ABIERTOS C.98 O C99",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q407",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q67",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Q67",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q74",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [
+			{
+				"id": "Q67",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q74",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q68",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+		"pcurso": [
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q68",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

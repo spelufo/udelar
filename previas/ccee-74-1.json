@@ -1,0 +1,430 @@
+[
+	{
+		"id": "Q312",
+		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "G201",
+				"nombre": "GRUPO P/RELACIONES HUMANAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G201",
+				"nombre": "GRUPO P/RELACIONES HUMANAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "125",
+		"nombre": "ADMINISTRACIÓN I",
+		"pcurso": [
+			{
+				"id": "101",
+				"nombre": "PRINCIPIOS DE ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "101",
+				"nombre": "PRINCIPIOS DE ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "228",
+		"nombre": "ADMINISTRACIÓN II",
+		"pcurso": [
+			{
+				"id": "G101",
+				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q210",
+				"nombre": "ORG.DE EMPRESAS IND. Y COMERCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G101",
+				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q210",
+				"nombre": "ORG.DE EMPRESAS IND. Y COMERCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "3261",
+		"nombre": "COMPORTAMIENTO  ORGANIZACIONAL",
+		"pcurso": [
+			{
+				"id": "G101",
+				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "RELACIONES HUMANAS Y SUPERVISION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G101",
+				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "RELACIONES HUMANAS Y SUPERVISION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "126",
+		"nombre": "CONTABILIDAD II",
+		"pcurso": [
+			{
+				"id": "208",
+				"nombre": "CONTABILIDAD APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G103",
+				"nombre": "GRUPO PARA TENEDURIA DE LIBROS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "208",
+				"nombre": "CONTABILIDAD APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G103",
+				"nombre": "GRUPO PARA TENEDURIA DE LIBROS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q306",
+		"nombre": "COSTOS Y CONTROL PRESUPUESTARIOS",
+		"pcurso": [
+			{
+				"id": "G208",
+				"nombre": "GRUPO PARA CONT.  APLICADA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G208",
+				"nombre": "GRUPO PARA CONT.  APLICADA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q113",
+		"nombre": "DERECHO I",
+		"pcurso": [
+			{
+				"id": "102",
+				"nombre": "INTRODUCCIÓN AL DERECHO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "102",
+				"nombre": "INTRODUCCIÓN AL DERECHO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "127",
+		"nombre": "DERECHO II",
+		"pcurso": [
+			{
+				"id": "Q203",
+				"nombre": "NOCIONES DE DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q203",
+				"nombre": "NOCIONES DE DERECHO COMERCIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "Q111",
+		"nombre": "ECONOMÍA",
+		"pcurso": [
+			{
+				"id": "106",
+				"nombre": "NOCIONES DE ECONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "106",
+				"nombre": "NOCIONES DE ECONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "227",
+		"nombre": "ESTADISTICA APLICADA A LA ADMINISTRACION",
+		"pcurso": [
+			{
+				"id": "Q213",
+				"nombre": "INTROD. A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q213",
+				"nombre": "INTROD. A LA PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3271",
+		"nombre": "FINANZAS DE EMPRESAS",
+		"pcurso": [
+			{
+				"id": "205",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "205",
+				"nombre": "FINANZAS DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "Q212",
+		"nombre": "INFORMATICA I",
+		"pcurso": [
+			{
+				"id": "Q304",
+				"nombre": "INTRODUCCIÓN A LOS SIST. DE COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q304",
+				"nombre": "INTRODUCCIÓN A LOS SIST. DE COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "Q213",
+		"nombre": "INTROD. A LA PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "Q303",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q303",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "Q311",
+		"nombre": "MARKETING I",
+		"pcurso": [
+			{
+				"id": "302",
+				"nombre": "RELACIONES PUBLICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "302",
+				"nombre": "RELACIONES PUBLICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "Q211",
+		"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+		"pcurso": [
+			{
+				"id": "G-105",
+				"nombre": "GRUPO 104-206",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G101",
+				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "G-105",
+				"nombre": "GRUPO 104-206",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "G101",
+				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "225",
+		"nombre": "ORGANIZACIÓN Y SISTEMAS II",
+		"pcurso": [
+			{
+				"id": "Q211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q211",
+				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q206",
+		"nombre": "PRACTICA DE RACIONALIZACION",
+		"pcurso": [
+			{
+				"id": "105",
+				"nombre": "ORGANIZACIÓN Y METODOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "105",
+				"nombre": "ORGANIZACIÓN Y METODOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q313",
+		"nombre": "RELACIONES LABORALES",
+		"pcurso": [
+			{
+				"id": "Q307",
+				"nombre": "SEGURIDAD SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q307",
+				"nombre": "SEGURIDAD SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "226",
+		"nombre": "SISTEMAS INFORMATICOS APLICADOS",
+		"pcurso": [
+			{
+				"id": "Q212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q212",
+				"nombre": "INFORMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

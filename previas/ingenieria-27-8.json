@@ -1,0 +1,280 @@
+[
+	{
+		"id": "R401",
+		"nombre": "COMPONENTES",
+		"pcurso": [
+			{
+				"id": "B10",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B11",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "R401",
+				"nombre": "COMPONENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E502",
+		"nombre": "CONTROL I (P. 87)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "E400",
+				"nombre": "TEORIA DE CIRCUITOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E503",
+		"nombre": "ELECTRONICA DE POTENCIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "E406",
+				"nombre": "TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E400",
+				"nombre": "TEORIA DE CIRCUITOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E500",
+		"nombre": "ELECTRONICA II (P. 87)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "R401",
+				"nombre": "COMPONENTES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E406",
+				"nombre": "TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E400",
+				"nombre": "TEORIA DE CIRCUITOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E601",
+		"nombre": "FUNDAMENTOS DE ING. INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B15",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1405",
+		"nombre": "INGENIERIA MECANICA GENERAL",
+		"pcurso": [
+			{
+				"id": "B20",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B22",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B23",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B21",
+				"nombre": "MECANICA GENERAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B12",
+				"nombre": "MATERIALES PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B32",
+				"nombre": "MEC.DE LOS FLUIDOS E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "B30",
+				"nombre": "MECANICA GENERAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B13",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E501",
+		"nombre": "MAQUINAS ELECTRICAS I (P. 87)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "E406",
+				"nombre": "TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E400",
+				"nombre": "TEORIA DE CIRCUITOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E401",
+		"nombre": "MEDIDAS ELECTRICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E600",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "R401",
+				"nombre": "COMPONENTES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E403",
+				"nombre": "ELECTRONICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E401",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "E505",
+				"nombre": "TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "E400",
+				"nombre": "TEORIA DE CIRCUITOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B14",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E600",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E406",
+		"nombre": "TALLER",
+		"pcurso": [
+			{
+				"id": "B31",
+				"nombre": "FISICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "E505",
+		"nombre": "TALLER",
+		"pcurso": [
+			{
+				"id": "E406",
+				"nombre": "TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

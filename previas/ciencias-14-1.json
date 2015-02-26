@@ -1,0 +1,1246 @@
+[
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF051",
+		"nombre": "BIOGEOGRAFIA",
+		"pcurso": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF040",
+				"nombre": "TELEDETECCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF051",
+				"nombre": "BIOGEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF040",
+				"nombre": "TELEDETECCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL043",
+		"nombre": "BIOLOGIA VEGETAL",
+		"pcurso": [
+			{
+				"id": "GF00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL043",
+				"nombre": "BIOLOGIA VEGETAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF030",
+		"nombre": "CARTOGRAFIA",
+		"pcurso": [
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF032",
+		"nombre": "CLIMATOLOGIA",
+		"pcurso": [
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF032",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL014",
+		"nombre": "ECOLOGIA GENERAL",
+		"pcurso": [
+			{
+				"id": "GF00",
+				"nombre": "SEGUNDO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF035",
+		"nombre": "ECONOMIA",
+		"pcurso": [
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF035",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF039",
+		"nombre": "EDAFOLOGIA",
+		"pcurso": [
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF042",
+		"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF042",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF059",
+		"nombre": "FISICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF034",
+		"nombre": "FOTOINTERPRETACION",
+		"pcurso": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF034",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF038",
+		"nombre": "GEOGRAFIA DE LA POBLACION",
+		"pcurso": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF036",
+				"nombre": "SOCIOLOGIA (FAC.CIENCIAS SOCIALES)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF036",
+				"nombre": "SOCIOLOGIA (FAC.CIENCIAS SOCIALES)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF025",
+		"nombre": "GEOGRAFIA ECONOMICA",
+		"pcurso": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF035",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF035",
+				"nombre": "ECONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF025",
+				"nombre": "GEOGRAFIA ECONOMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF014",
+		"nombre": "GEOGRAFIA RURAL",
+		"pcurso": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF025",
+				"nombre": "GEOGRAFIA ECONOMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF025",
+				"nombre": "GEOGRAFIA ECONOMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF014",
+				"nombre": "GEOGRAFIA RURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF045",
+		"nombre": "GEOGRAFIA TURISTICA",
+		"pcurso": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF032",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF042",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF003",
+				"nombre": "GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF041",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF042",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF045",
+				"nombre": "GEOGRAFIA TURISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF041",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF012",
+		"nombre": "GEOGRAFIA URBANA",
+		"pcurso": [
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF025",
+				"nombre": "GEOGRAFIA ECONOMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF025",
+				"nombre": "GEOGRAFIA ECONOMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF012",
+				"nombre": "GEOGRAFIA URBANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF003",
+		"nombre": "GEOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF003",
+				"nombre": "GEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF006",
+		"nombre": "GEOMORFOLOGIA (1987 -",
+		"pcurso": [
+			{
+				"id": "GF032",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF003",
+				"nombre": "GEOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF032",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF003",
+				"nombre": "GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF006",
+				"nombre": "GEOMORFOLOGIA (1987 -",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF01",
+		"nombre": "HIDROLOGIA",
+		"pcurso": [
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF027",
+		"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA920",
+		"nombre": "MATEMATICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA930",
+		"nombre": "MATEMATICA II",
+		"pcurso": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF060",
+		"nombre": "PASANTIA",
+		"pcurso": [
+			{
+				"id": "GF046",
+				"nombre": "SEMINARIO PROYECTO DE ORDEN TERRITORIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF060",
+				"nombre": "PASANTIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF046",
+				"nombre": "SEMINARIO PROYECTO DE ORDEN TERRITORIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF043",
+		"nombre": "PLANIFICACION TERRITORIAL",
+		"pcurso": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF032",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF042",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF003",
+				"nombre": "GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF041",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF042",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF043",
+				"nombre": "PLANIFICACION TERRITORIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF041",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF037",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF037",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF058",
+		"nombre": "QUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF047",
+		"nombre": "SEMINARIO DE TESIS",
+		"pcurso": [
+			{
+				"id": "GF046",
+				"nombre": "SEMINARIO PROYECTO DE ORDEN TERRITORIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF047",
+				"nombre": "SEMINARIO DE TESIS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF046",
+				"nombre": "SEMINARIO PROYECTO DE ORDEN TERRITORIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF046",
+		"nombre": "SEMINARIO PROYECTO DE ORDEN TERRITORIAL",
+		"pcurso": [
+			{
+				"id": "GF043",
+				"nombre": "PLANIFICACION TERRITORIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF044",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAYII",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF043",
+				"nombre": "PLANIFICACION TERRITORIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF046",
+				"nombre": "SEMINARIO PROYECTO DE ORDEN TERRITORIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF044",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAYII",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF036",
+		"nombre": "SOCIOLOGIA (FAC.CIENCIAS SOCIALES)",
+		"pcurso": [
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF036",
+				"nombre": "SOCIOLOGIA (FAC.CIENCIAS SOCIALES)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF041",
+		"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+		"pcurso": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF059",
+				"nombre": "FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF025",
+				"nombre": "GEOGRAFIA ECONOMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF027",
+				"nombre": "INTRODUCCION Y METODOS DE LA GEOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF037",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF058",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF038",
+				"nombre": "GEOGRAFIA DE LA POBLACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF025",
+				"nombre": "GEOGRAFIA ECONOMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF037",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF041",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF044",
+		"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAYII",
+		"pcurso": [
+			{
+				"id": "GF030",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF032",
+				"nombre": "CLIMATOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF042",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF014",
+				"nombre": "GEOGRAFIA RURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF012",
+				"nombre": "GEOGRAFIA URBANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF003",
+				"nombre": "GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF01",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF041",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF042",
+				"nombre": "EVAL.DE RECURSOS NAT.E IMPACTO AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF014",
+				"nombre": "GEOGRAFIA RURAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF012",
+				"nombre": "GEOGRAFIA URBANA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF041",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAY I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF044",
+				"nombre": "TALLER DE INV.EN GEOGRAFIA DEL URUGUAYII",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF040",
+		"nombre": "TELEDETECCION",
+		"pcurso": [
+			{
+				"id": "GF034",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GF034",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GF040",
+				"nombre": "TELEDETECCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL02",
+		"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

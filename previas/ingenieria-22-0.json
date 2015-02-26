@@ -1,0 +1,232 @@
+[
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP45",
+				"nombre": "ANALISIS MATEMATICO I (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP22",
+				"nombre": "ANALISIS MATEMATICO I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [
+			{
+				"id": "CP20",
+				"nombre": "ECONOMIA POLITICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP3",
+				"nombre": "MECANICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP17",
+				"nombre": "MECANICA I (TRANSICION)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1121",
+		"nombre": "FISICA GENERAL 2",
+		"pcurso": [
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [
+			{
+				"id": "1030C",
+				"nombre": "GEOM. 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	}
+]

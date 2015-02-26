@@ -1,0 +1,659 @@
+[
+	{
+		"id": "ARRC",
+		"nombre": "ARREGLOS CORALES",
+		"pcurso": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EARR",
+		"nombre": "ARREGLOS MUS. POPULAR P/ GRUPOS VOCALES",
+		"pcurso": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COMP2",
+		"nombre": "COMPOSICIÓN 2",
+		"pcurso": [
+			{
+				"id": "COMP1",
+				"nombre": "COMPOSICIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "COMP1",
+				"nombre": "COMPOSICIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COMP3",
+		"nombre": "COMPOSICIÓN 3",
+		"pcurso": [
+			{
+				"id": "COMP1",
+				"nombre": "COMPOSICIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP2",
+				"nombre": "COMPOSICIÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "COMP4",
+		"nombre": "COMPOSICIÓN 4",
+		"pcurso": [
+			{
+				"id": "COMP2",
+				"nombre": "COMPOSICIÓN 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP3",
+				"nombre": "COMPOSICIÓN 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "COMP5",
+		"nombre": "COMPOSICIÓN 5",
+		"pcurso": [
+			{
+				"id": "COMP3",
+				"nombre": "COMPOSICIÓN 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP4",
+				"nombre": "COMPOSICIÓN 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "COMP6",
+		"nombre": "COMPOSICIÓN 6",
+		"pcurso": [
+			{
+				"id": "COMP4",
+				"nombre": "COMPOSICIÓN 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP5",
+				"nombre": "COMPOSICIÓN 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "COMP7",
+		"nombre": "COMPOSICIÓN 7",
+		"pcurso": [
+			{
+				"id": "COMP5",
+				"nombre": "COMPOSICIÓN 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP6",
+				"nombre": "COMPOSICIÓN 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "COMP8",
+		"nombre": "COMPOSICIÓN 8",
+		"pcurso": [
+			{
+				"id": "COMP6",
+				"nombre": "COMPOSICIÓN 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP7",
+				"nombre": "COMPOSICIÓN 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CAMP",
+		"nombre": "COMPOSICIÓN Y ARREGLOS EN MÚS.POPULAR",
+		"pcurso": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFUA",
+		"nombre": "FUGA- ANALISIS",
+		"pcurso": [
+			{
+				"id": "ARM2",
+				"nombre": "ARMONÍA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM2",
+				"nombre": "ARMONÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "ARM2",
+				"nombre": "ARMONÍA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EFUAE",
+		"nombre": "FUGA- ANALISIS Y ESCRITURA",
+		"pcurso": [
+			{
+				"id": "TCPT2",
+				"nombre": "TALLER DE CONTRAPUNTO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TCPT2",
+				"nombre": "TALLER DE CONTRAPUNTO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TCPT2",
+				"nombre": "TALLER DE CONTRAPUNTO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "INST2",
+		"nombre": "INSTRUMENTACIÓN 2",
+		"pcurso": [
+			{
+				"id": "INST1",
+				"nombre": "INSTRUMENTACIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "INST3",
+		"nombre": "INSTRUMENTACIÓN 3",
+		"pcurso": [
+			{
+				"id": "INST1",
+				"nombre": "INSTRUMENTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "INST2",
+				"nombre": "INSTRUMENTACIÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "INST4",
+		"nombre": "INSTRUMENTACIÓN 4",
+		"pcurso": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "INST2",
+				"nombre": "INSTRUMENTACIÓN 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "INST3",
+				"nombre": "INSTRUMENTACIÓN 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EMPT2",
+		"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MYS",
+		"nombre": "MÚSICA Y SOCIEDAD",
+		"pcurso": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EMPT3",
+		"nombre": "MÚSICAS POP. Y TRADICIONALES 3 -ELECTIVA",
+		"pcurso": [
+			{
+				"id": "EMPT2",
+				"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EMPT2",
+				"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EMPT2",
+				"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MPT2",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TARM1",
+		"nombre": "TALLER DE ARMONÍA 1",
+		"pcurso": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM4",
+				"nombre": "ARMONÍA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TARM2",
+		"nombre": "TALLER DE ARMONÍA 2",
+		"pcurso": [
+			{
+				"id": "ARM3",
+				"nombre": "ARMONÍA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "ARM4",
+				"nombre": "ARMONÍA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TCPT",
+		"nombre": "TALLER DE CONTRAPUNTO 1",
+		"pcurso": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CO1",
+				"nombre": "COMPOSICIÓN PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TCPT2",
+		"nombre": "TALLER DE CONTRAPUNTO 2",
+		"pcurso": [
+			{
+				"id": "CPT1",
+				"nombre": "CONTRAPUNTO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CPT2",
+				"nombre": "CONTRAPUNTO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

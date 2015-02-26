@@ -1,0 +1,644 @@
+[
+	{
+		"id": "A43",
+		"nombre": "AGRIMENSURA LEGAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A11",
+				"nombre": "ELEMENTOS DEL DERECHO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A52",
+		"nombre": "AGRIMENSURA LEGAL II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A43",
+				"nombre": "AGRIMENSURA LEGAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A62",
+		"nombre": "AGRIMENSURA LEGAL III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A52",
+				"nombre": "AGRIMENSURA LEGAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A64",
+		"nombre": "AGROLOGIA E HIDROLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A64",
+				"nombre": "AGROLOGIA E HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A54",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A50",
+				"nombre": "GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A51",
+		"nombre": "ASTRONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A51",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A31",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A42",
+				"nombre": "TOPOGRAFIA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A72",
+		"nombre": "AVALUACIONES I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A72",
+				"nombre": "AVALUACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A32",
+				"nombre": "ECONOMIA Y FINANZAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A82",
+		"nombre": "AVALUACIONES II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A64",
+				"nombre": "AGROLOGIA E HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A72",
+				"nombre": "AVALUACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A82",
+				"nombre": "AVALUACIONES II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A60",
+				"nombre": "ELEMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A40",
+				"nombre": "MATEMATICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A81",
+		"nombre": "CARTOGRAFIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A81",
+				"nombre": "CARTOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A63",
+				"nombre": "FOTOGRAMETRIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A71",
+				"nombre": "GEODESIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A40",
+				"nombre": "MATEMATICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A83",
+		"nombre": "CATASTRO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A64",
+				"nombre": "AGROLOGIA E HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A72",
+				"nombre": "AVALUACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A82",
+				"nombre": "AVALUACIONES II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A60",
+				"nombre": "ELEMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A40",
+				"nombre": "MATEMATICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A41",
+		"nombre": "COMPUTACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A10",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B315",
+		"nombre": "COMPUTACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B315",
+				"nombre": "COMPUTACION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A13",
+		"nombre": "DIBUJO TOPOGRAFICO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A13",
+				"nombre": "DIBUJO TOPOGRAFICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A23",
+		"nombre": "DIBUJO TOPOGRAFICO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A13",
+				"nombre": "DIBUJO TOPOGRAFICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A23",
+				"nombre": "DIBUJO TOPOGRAFICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A31",
+		"nombre": "FISICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A21",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A44",
+		"nombre": "FISICA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A31",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A53",
+		"nombre": "FOTOGRAMETRIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A21",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A53",
+				"nombre": "FOTOGRAMETRIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A42",
+				"nombre": "TOPOGRAFIA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A63",
+		"nombre": "FOTOGRAMETRIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A53",
+				"nombre": "FOTOGRAMETRIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A63",
+				"nombre": "FOTOGRAMETRIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A61",
+		"nombre": "GEODESIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A51",
+				"nombre": "ASTRONOMIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A61",
+				"nombre": "GEODESIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A42",
+				"nombre": "TOPOGRAFIA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A71",
+		"nombre": "GEODESIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A61",
+				"nombre": "GEODESIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A71",
+				"nombre": "GEODESIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A73",
+		"nombre": "GEOFISICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A44",
+				"nombre": "FISICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A61",
+				"nombre": "GEODESIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A73",
+				"nombre": "GEOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A50",
+				"nombre": "GEOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A40",
+				"nombre": "MATEMATICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A20",
+		"nombre": "MATEMATICA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A10",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A30",
+		"nombre": "MATEMATICA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A20",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A40",
+		"nombre": "MATEMATICA IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A30",
+				"nombre": "MATEMATICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A70",
+		"nombre": "PLANIFICACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A32",
+				"nombre": "ECONOMIA Y FINANZAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A70",
+				"nombre": "PLANIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A84",
+		"nombre": "PRACTICA PROFESIONAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A83",
+				"nombre": "CATASTRO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A63",
+				"nombre": "FOTOGRAMETRIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A40",
+				"nombre": "MATEMATICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A70",
+				"nombre": "PLANIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A84",
+				"nombre": "PRACTICA PROFESIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A12",
+		"nombre": "TOPOGRAFIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A12",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A22",
+		"nombre": "TOPOGRAFIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A13",
+				"nombre": "DIBUJO TOPOGRAFICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A12",
+				"nombre": "TOPOGRAFIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A22",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A33",
+		"nombre": "TOPOGRAFIA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A23",
+				"nombre": "DIBUJO TOPOGRAFICO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A22",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A33",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A42",
+		"nombre": "TOPOGRAFIA IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A22",
+				"nombre": "TOPOGRAFIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A33",
+				"nombre": "TOPOGRAFIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A42",
+				"nombre": "TOPOGRAFIA IV",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A80",
+		"nombre": "TRAZADO DE CAMINOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A62",
+				"nombre": "AGRIMENSURA LEGAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A63",
+				"nombre": "FOTOGRAMETRIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A54",
+				"nombre": "FOTOINTERPRETACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A40",
+				"nombre": "MATEMATICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A80",
+				"nombre": "TRAZADO DE CAMINOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

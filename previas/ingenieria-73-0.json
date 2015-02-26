@@ -1,0 +1,147 @@
+[
+	{
+		"id": "1059",
+		"nombre": "CRIPTOGRAFIA:ASPECTOS TEOR. Y PRACTICOS",
+		"pcurso": [
+			{
+				"id": "1020E",
+				"nombre": "CALCULO 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOM Y ALG 1 Y ALG LINEAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1029",
+				"nombre": "MAT.DIS.1-GEOM.Y ALG.-ANAL.1Y2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1322E",
+				"nombre": "PROGRAM. 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1942",
+		"nombre": "FUNDAMENTOS DE LA WEB SEMANTICA",
+		"pcurso": [
+			{
+				"id": "1911E",
+				"nombre": "FUND.BASE DATOS O BASE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1767",
+		"nombre": "PRINC.Y FUND.DEL PROC.PERS.DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "1324C",
+				"nombre": "PROGR.4 C O TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1769",
+		"nombre": "PROFESION EN INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 73 - Ciclo 0"
+			},
+			{
+				"id": "1716E",
+				"nombre": "INT.ING.SOFT.O TALLER IV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1324E",
+				"nombre": "PROGR.4 - TALLER III",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1758",
+		"nombre": "RELAC.PERS.EN ING.DE SOFT.Y GER.DE PROY.",
+		"pcurso": [
+			{
+				"id": "1716C",
+				"nombre": "INT.ING.SOFT.O TALLER IV",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1943",
+		"nombre": "SEMINARIO RECUP.DE INF.Y REC.EN LA WEB",
+		"pcurso": [
+			{
+				"id": "1911E",
+				"nombre": "FUND.BASE DATOS O BASE DATOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP29",
+				"nombre": "PROGRAMACION III O 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1768",
+		"nombre": "TALLER DE INTERACCION PERSONA COMPUTAD.",
+		"pcurso": [
+			{
+				"id": "1716E",
+				"nombre": "INT.ING.SOFT.O TALLER IV",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1749",
+				"nombre": "INTERACCION PERSONA COMPUTADORA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1011",
+		"nombre": "TEORIA DE CODIGOS AVANZADO",
+		"pcurso": [
+			{
+				"id": "1042",
+				"nombre": "TEORIA DE CODIGOS O T.COD.ALG.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

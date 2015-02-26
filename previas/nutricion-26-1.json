@@ -1,0 +1,1389 @@
+[
+	{
+		"id": "132",
+		"nombre": "ADM. EN SAL.PUB. Y ADM. DE SERVICIOS",
+		"pcurso": [
+			{
+				"id": "127",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "127A",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "120",
+				"nombre": "NUTRICION POBLACIONAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "132",
+				"nombre": "ADM. EN SAL.PUB. Y ADM. DE SERVICIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "127",
+		"nombre": "ADMINISTRACION GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "127",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "127A",
+		"nombre": "ADMINISTRACION GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "127A",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "130",
+		"nombre": "ALIMENTOS MODIFICADOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "130",
+				"nombre": "ALIMENTOS MODIFICADOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "130A",
+		"nombre": "ALIMENTOS MODIFICADOS",
+		"pcurso": [
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "114",
+				"nombre": "PREPARACION EXPERIMENTAL DE AL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "113",
+				"nombre": "PRINCIPIOS DE PREPARACION DE  ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "116",
+				"nombre": "TECNOLOGIA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "130A",
+				"nombre": "ALIMENTOS MODIFICADOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "140",
+		"nombre": "AMBITO TERRITORIAL Y HOSPITALARIO",
+		"pcurso": [
+			{
+				"id": "132",
+				"nombre": "ADM. EN SAL.PUB. Y ADM. DE SERVICIOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "130",
+				"nombre": "ALIMENTOS MODIFICADOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "111",
+				"nombre": "APARATOS Y SISTEMAS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "112",
+				"nombre": "APARATOS Y SISTEMAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "121",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "136",
+				"nombre": "EDUCACION ALIMENTARIO NUTRICIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "EL PROCESO DE APRENDIZAJE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "134",
+				"nombre": "EPIDEMIOLOGIA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "106",
+				"nombre": "INDIVIDUO Y SOCIEDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "110",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "115",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "119",
+				"nombre": "NUTRICION BASICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "124",
+				"nombre": "NUTRICION EN EL CICLO VITAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "131",
+				"nombre": "NUTRICION INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "120",
+				"nombre": "NUTRICION POBLACIONAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "135",
+				"nombre": "NUTRICION POBLACIONAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114",
+				"nombre": "PREPARACION EXPERIMENTAL DE AL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "113",
+				"nombre": "PRINCIPIOS DE PREPARACION DE  ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "102",
+				"nombre": "PRODUCCION DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "125",
+				"nombre": "PSICOLOGIA Y EDUCACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "118",
+				"nombre": "SEMINARIO ENFOQUE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "101",
+				"nombre": "SEMINARIO HISTORIA DE LA ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "SEMINARIO METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "137",
+				"nombre": "TALLER DE ETICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "138",
+				"nombre": "TALLER ELABORACION PROGRAMAS Y PROYECTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "TALLER FAMILIA Y COTIDIANEIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "122",
+				"nombre": "TALLER PLAN DE ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "123",
+				"nombre": "TALLEREVAL.EST NUTRICIONAL MALNUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "133",
+				"nombre": "TALLERGESTIONPRODUCCIONCOLECTIVALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "116",
+				"nombre": "TECNOLOGIA DE LOS ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "111",
+		"nombre": "APARATOS Y SISTEMAS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "111",
+				"nombre": "APARATOS Y SISTEMAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "111A",
+		"nombre": "APARATOS Y SISTEMAS I",
+		"pcurso": [
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "107A",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111A",
+				"nombre": "APARATOS Y SISTEMAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "112",
+		"nombre": "APARATOS Y SISTEMAS II",
+		"pcurso": [
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "107A",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "112",
+				"nombre": "APARATOS Y SISTEMAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "121",
+		"nombre": "BIOESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "121",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "SEMINARIO METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "117",
+		"nombre": "BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "112",
+				"nombre": "APARATOS Y SISTEMAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "107A",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "117",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "109",
+		"nombre": "BROMATOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "109A",
+		"nombre": "BROMATOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "109A",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "136A",
+		"nombre": "EDUCACION ALIMENTARIO - NUTRICIONAL",
+		"pcurso": [
+			{
+				"id": "132",
+				"nombre": "ADM. EN SAL.PUB. Y ADM. DE SERVICIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "125",
+				"nombre": "PSICOLOGIA Y EDUCACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "136A",
+				"nombre": "EDUCACION ALIMENTARIO - NUTRICIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "136",
+		"nombre": "EDUCACION ALIMENTARIO NUTRICIONAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "136",
+				"nombre": "EDUCACION ALIMENTARIO NUTRICIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "105A",
+		"nombre": "EL PROCESO DE APRENDIZAJE",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "105A",
+				"nombre": "EL PROCESO DE APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "134",
+		"nombre": "EPIDEMIOLOGIA APLICADA",
+		"pcurso": [
+			{
+				"id": "121",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "134",
+				"nombre": "EPIDEMIOLOGIA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "107",
+		"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "107A",
+		"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "107A",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "106A",
+		"nombre": "INDIVIDUO Y SOCIEDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "106A",
+				"nombre": "INDIVIDUO Y SOCIEDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "110A",
+		"nombre": "MICROBIOLOGIA I",
+		"pcurso": [
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "107A",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "110A",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "115",
+		"nombre": "MICROBIOLOGIA II",
+		"pcurso": [
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "109A",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110A",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "115",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "119",
+		"nombre": "NUTRICION BASICA",
+		"pcurso": [
+			{
+				"id": "117",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "119",
+				"nombre": "NUTRICION BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "128",
+		"nombre": "NUTRICION CLINICA",
+		"pcurso": [
+			{
+				"id": "124",
+				"nombre": "NUTRICION EN EL CICLO VITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "123",
+				"nombre": "TALLEREVAL.EST NUTRICIONAL MALNUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "124",
+		"nombre": "NUTRICION EN EL CICLO VITAL",
+		"pcurso": [
+			{
+				"id": "119",
+				"nombre": "NUTRICION BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "124",
+				"nombre": "NUTRICION EN EL CICLO VITAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "131",
+		"nombre": "NUTRICION INFANTIL",
+		"pcurso": [
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "131",
+				"nombre": "NUTRICION INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "120",
+		"nombre": "NUTRICION POBLACIONAL I",
+		"pcurso": [
+			{
+				"id": "106A",
+				"nombre": "INDIVIDUO Y SOCIEDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "102A",
+				"nombre": "PRODUCCION DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "118",
+				"nombre": "SEMINARIO ENFOQUE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "120",
+				"nombre": "NUTRICION POBLACIONAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "135",
+		"nombre": "NUTRICION POBLACIONAL II",
+		"pcurso": [
+			{
+				"id": "132",
+				"nombre": "ADM. EN SAL.PUB. Y ADM. DE SERVICIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "121",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "135",
+				"nombre": "NUTRICION POBLACIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "114A",
+		"nombre": "PREPARACION EXPERIMENTAL DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "109A",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110A",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "114A",
+				"nombre": "PREPARACION EXPERIMENTAL DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "113",
+		"nombre": "PRINCIPIOS DE PREPARACION DE  ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "109A",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110A",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "113",
+				"nombre": "PRINCIPIOS DE PREPARACION DE  ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "102A",
+		"nombre": "PRODUCCION DE ALIMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "102A",
+				"nombre": "PRODUCCION DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "125",
+		"nombre": "PSICOLOGIA Y EDUCACION",
+		"pcurso": [
+			{
+				"id": "105",
+				"nombre": "EL PROCESO DE APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "105A",
+				"nombre": "EL PROCESO DE APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "119",
+				"nombre": "NUTRICION BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "125",
+				"nombre": "PSICOLOGIA Y EDUCACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "104",
+		"nombre": "QUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "104",
+				"nombre": "QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "108",
+		"nombre": "QUIMICA DE LOS ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "139",
+		"nombre": "TALLER DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "136",
+				"nombre": "EDUCACION ALIMENTARIO NUTRICIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "134",
+				"nombre": "EPIDEMIOLOGIA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "135",
+				"nombre": "NUTRICION POBLACIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "139A",
+		"nombre": "TALLER DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "132",
+				"nombre": "ADM. EN SAL.PUB. Y ADM. DE SERVICIOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "130",
+				"nombre": "ALIMENTOS MODIFICADOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "111",
+				"nombre": "APARATOS Y SISTEMAS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "112",
+				"nombre": "APARATOS Y SISTEMAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "121",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "136",
+				"nombre": "EDUCACION ALIMENTARIO NUTRICIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "EL PROCESO DE APRENDIZAJE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "134",
+				"nombre": "EPIDEMIOLOGIA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "107",
+				"nombre": "ESTRUCTURA CELULAR Y TISULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "106",
+				"nombre": "INDIVIDUO Y SOCIEDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "110",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "115",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "119",
+				"nombre": "NUTRICION BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "124",
+				"nombre": "NUTRICION EN EL CICLO VITAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "131",
+				"nombre": "NUTRICION INFANTIL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "120",
+				"nombre": "NUTRICION POBLACIONAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "135",
+				"nombre": "NUTRICION POBLACIONAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114",
+				"nombre": "PREPARACION EXPERIMENTAL DE AL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "113",
+				"nombre": "PRINCIPIOS DE PREPARACION DE  ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "102",
+				"nombre": "PRODUCCION DE ALIMENTOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "125",
+				"nombre": "PSICOLOGIA Y EDUCACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "118",
+				"nombre": "SEMINARIO ENFOQUE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "101",
+				"nombre": "SEMINARIO HISTORIA DE LA ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "SEMINARIO METODOLOGIA CIENTIFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "137",
+				"nombre": "TALLER DE ETICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "138",
+				"nombre": "TALLER ELABORACION PROGRAMAS Y PROYECTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "126",
+				"nombre": "TALLER FAMILIA Y COTIDIANEIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "122",
+				"nombre": "TALLER PLAN DE ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "123",
+				"nombre": "TALLEREVAL.EST NUTRICIONAL MALNUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "133",
+				"nombre": "TALLERGESTIONPRODUCCIONCOLECTIVALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "116",
+				"nombre": "TECNOLOGIA DE LOS ALIMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "138",
+		"nombre": "TALLER ELABORACION PROGRAMAS Y PROYECTOS",
+		"pcurso": [
+			{
+				"id": "136A",
+				"nombre": "EDUCACION ALIMENTARIO - NUTRICIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "136",
+				"nombre": "EDUCACION ALIMENTARIO NUTRICIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "135",
+				"nombre": "NUTRICION POBLACIONAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "122",
+		"nombre": "TALLER PLAN DE ALIMENTACION",
+		"pcurso": [
+			{
+				"id": "117",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "123",
+		"nombre": "TALLEREVAL.EST NUTRICIONAL MALNUTRICION",
+		"pcurso": [
+			{
+				"id": "121",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "119",
+				"nombre": "NUTRICION BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "133",
+		"nombre": "TALLERGESTIONPRODUCCIONCOLECTIVALIMENTOS",
+		"pcurso": [
+			{
+				"id": "132",
+				"nombre": "ADM. EN SAL.PUB. Y ADM. DE SERVICIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "127",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "127A",
+				"nombre": "ADMINISTRACION GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "128",
+				"nombre": "NUTRICION CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "120",
+				"nombre": "NUTRICION POBLACIONAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "116",
+		"nombre": "TECNOLOGIA DE LOS ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "109",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "109A",
+				"nombre": "BROMATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "110A",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "108",
+				"nombre": "QUIMICA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116",
+				"nombre": "TECNOLOGIA DE LOS ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

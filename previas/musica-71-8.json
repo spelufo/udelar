@@ -1,0 +1,339 @@
+[
+	{
+		"id": "FLAU2",
+		"nombre": "FLAUTA 2",
+		"pcurso": [
+			{
+				"id": "FLAU1",
+				"nombre": "FLAUTA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FLAU3",
+		"nombre": "FLAUTA 3",
+		"pcurso": [
+			{
+				"id": "FLAU1",
+				"nombre": "FLAUTA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FLAU2",
+				"nombre": "FLAUTA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FLAU4",
+		"nombre": "FLAUTA 4",
+		"pcurso": [
+			{
+				"id": "FLAU2",
+				"nombre": "FLAUTA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FLAU3",
+				"nombre": "FLAUTA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FLAU5",
+		"nombre": "FLAUTA 5",
+		"pcurso": [
+			{
+				"id": "F1",
+				"nombre": "FLAUTA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FLAU3",
+				"nombre": "FLAUTA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FLAU4",
+				"nombre": "FLAUTA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F1",
+				"nombre": "FLAUTA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FLAU6",
+		"nombre": "FLAUTA 6",
+		"pcurso": [
+			{
+				"id": "FLAU4",
+				"nombre": "FLAUTA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FLAU5",
+				"nombre": "FLAUTA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FLAU7",
+		"nombre": "FLAUTA 7",
+		"pcurso": [
+			{
+				"id": "FLAU5",
+				"nombre": "FLAUTA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FLAU6",
+				"nombre": "FLAUTA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "FLAU8",
+		"nombre": "FLAUTA 8",
+		"pcurso": [
+			{
+				"id": "FLAU6",
+				"nombre": "FLAUTA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FLAU7",
+				"nombre": "FLAUTA 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EMPT2",
+		"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PDC4",
+		"nombre": "PRÁCTICA DE CONJUNTO 4",
+		"pcurso": [
+			{
+				"id": "F1",
+				"nombre": "FLAUTA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F1",
+				"nombre": "FLAUTA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SIN5",
+		"nombre": "SEMINARIO DE INTERPRETACIÓN 5",
+		"pcurso": [
+			{
+				"id": "F1",
+				"nombre": "FLAUTA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "F1",
+				"nombre": "FLAUTA 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

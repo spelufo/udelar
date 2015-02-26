@@ -1,0 +1,1255 @@
+[
+	{
+		"id": "654A",
+		"nombre": "CLINICA NOTARIAL",
+		"pcurso": [
+			{
+				"id": "554T",
+				"nombre": "D. REGISTRAL(T)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "556T",
+				"nombre": "D. TRIBUTARIO(T)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "651A",
+				"nombre": "T. NOTARIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "652A",
+				"nombre": "T. NOTARIAL 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "653A",
+				"nombre": "T. NOTARIAL 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "613",
+		"nombre": "D. INT. PRIVADO",
+		"pcurso": [
+			{
+				"id": "204",
+				"nombre": "D.INT. PUBLICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "402",
+				"nombre": "DERECHO PRIVADO 5 (D.COMERCIAL 2)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE403",
+				"nombre": "DERECHO PRIVADO 6",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "302",
+		"nombre": "D. LABORAL 1",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "ECONOMÍA POLITICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "550P",
+		"nombre": "D. NOTARIAL(P)",
+		"pcurso": [
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "551T",
+		"nombre": "D. NOTARIAL(T)",
+		"pcurso": [
+			{
+				"id": "550P",
+				"nombre": "D. NOTARIAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "553P",
+		"nombre": "D. REGISTRAL(P)",
+		"pcurso": [
+			{
+				"id": "550P",
+				"nombre": "D. NOTARIAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "555P",
+				"nombre": "D. TRIBUTARIO (P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE403",
+				"nombre": "DERECHO PRIVADO 6",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "554T",
+		"nombre": "D. REGISTRAL(T)",
+		"pcurso": [
+			{
+				"id": "553P",
+				"nombre": "D. REGISTRAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "555P",
+		"nombre": "D. TRIBUTARIO (P)",
+		"pcurso": [
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "ECONOMÍA POLITICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "556T",
+		"nombre": "D. TRIBUTARIO(T)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "555P",
+				"nombre": "D. TRIBUTARIO (P)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "204",
+		"nombre": "D.INT. PUBLICO",
+		"pcurso": [
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "512",
+		"nombre": "DERECHO AGRARIO",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "DERECHO PUBLICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "400",
+		"nombre": "DERECHO PENAL 1",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "202",
+		"nombre": "DERECHO PRIVADO 2",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R202E",
+		"nombre": "DERECHO PRIVADO 2",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "L202",
+		"nombre": "DERECHO PRIVADO 2 (LIBRE CONTROLADO)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R202",
+		"nombre": "DERECHO PRIVADO 2 (REGLAMENTADO)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "300",
+		"nombre": "DERECHO PRIVADO 3",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L300",
+		"nombre": "DERECHO PRIVADO 3 (LIBRE CONTROLADO)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R300",
+		"nombre": "DERECHO PRIVADO 3 (REGLAMENTADO)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "303",
+		"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "201",
+				"nombre": "ECONOMÍA POLITICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "402",
+		"nombre": "DERECHO PRIVADO 5 (D.COMERCIAL 2)",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "403",
+		"nombre": "DERECHO PRIVADO 6",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "403",
+				"nombre": "DERECHO PRIVADO 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L403",
+		"nombre": "DERECHO PRIVADO 6 (LIBRE CONTROLADO)",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R403",
+		"nombre": "DERECHO PRIVADO 6 (REGLAMENTADO)",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "403",
+				"nombre": "DERECHO PRIVADO 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "301",
+		"nombre": "DERECHO PROCESAL 1",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L301",
+		"nombre": "DERECHO PROCESAL 1 (LIBRE CONTROLADO)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R301",
+		"nombre": "DERECHO PROCESAL 1 (REGLAMENTADO)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE202",
+				"nombre": "DERECHO PRIVADO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "401",
+		"nombre": "DERECHO PROCESAL 2",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "401",
+				"nombre": "DERECHO PROCESAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L401",
+		"nombre": "DERECHO PROCESAL 2 (LIBRE CONTROLADO)",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R401",
+		"nombre": "DERECHO PROCESAL 2 (REGLAMENTADO)",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "303",
+				"nombre": "DERECHO PRIVADO 4 (D.COMERCIAL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "401",
+				"nombre": "DERECHO PROCESAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "200",
+		"nombre": "DERECHO PUBLICO 1",
+		"pcurso": [
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "200E",
+		"nombre": "DERECHO PUBLICO 1 - ESCRITO",
+		"pcurso": [
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "304",
+		"nombre": "DERECHO PUBLICO 2",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "200OE",
+				"nombre": "DERECHO PUBLICO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "203",
+		"nombre": "DERECHOS HUMANOS",
+		"pcurso": [
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "203",
+				"nombre": "DERECHOS HUMANOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L203",
+		"nombre": "DERECHOS HUMANOS (LIBRE CONTROLADO)",
+		"pcurso": [
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R203",
+		"nombre": "DERECHOS HUMANOS (REGLAMENTADO)",
+		"pcurso": [
+			{
+				"id": "103",
+				"nombre": "EVOLUCION DE LAS INSTITUCIONES JURIDICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "203",
+				"nombre": "DERECHOS HUMANOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "R201",
+		"nombre": "ECONOMIA POLITICA (REGLAMENTADO)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "201",
+				"nombre": "ECONOMÍA POLÍTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "201",
+		"nombre": "ECONOMÍA POLÍTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "201",
+				"nombre": "ECONOMÍA POLÍTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "404",
+		"nombre": "FILOSOFIA DEL DERECHO",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "DERECHO PUBLICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "404",
+				"nombre": "FILOSOFIA DEL DERECHO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "L404",
+		"nombre": "FILOSOFÍA DEL DERECHO (LIBRE CONTROLADO)",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "DERECHO PUBLICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "R404",
+		"nombre": "FILOSOFÍA DEL DERECHO (REGLAMENTADA)",
+		"pcurso": [
+			{
+				"id": "DE300",
+				"nombre": "DERECHO PRIVADO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "DE301",
+				"nombre": "DERECHO PROCESAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "DERECHO PUBLICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "404",
+				"nombre": "FILOSOFIA DEL DERECHO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "651A",
+		"nombre": "T. NOTARIAL 2",
+		"pcurso": [
+			{
+				"id": "550P",
+				"nombre": "D. NOTARIAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "551T",
+				"nombre": "D. NOTARIAL(T)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "553P",
+				"nombre": "D. REGISTRAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "402",
+				"nombre": "DERECHO PRIVADO 5 (D.COMERCIAL 2)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE401",
+				"nombre": "DERECHO PROCESAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "552",
+				"nombre": "TÉCNICA  NOTARIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "652A",
+		"nombre": "T. NOTARIAL 3",
+		"pcurso": [
+			{
+				"id": "551T",
+				"nombre": "D. NOTARIAL(T)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "553P",
+				"nombre": "D. REGISTRAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE401",
+				"nombre": "DERECHO PROCESAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "DERECHO PUBLICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "552",
+				"nombre": "TÉCNICA  NOTARIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "653A",
+		"nombre": "T. NOTARIAL 4",
+		"pcurso": [
+			{
+				"id": "551T",
+				"nombre": "D. NOTARIAL(T)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "553P",
+				"nombre": "D. REGISTRAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "402",
+				"nombre": "DERECHO PRIVADO 5 (D.COMERCIAL 2)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE401",
+				"nombre": "DERECHO PROCESAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "304",
+				"nombre": "DERECHO PUBLICO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "552",
+				"nombre": "TÉCNICA  NOTARIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "552",
+		"nombre": "TÉCNICA  NOTARIAL 1",
+		"pcurso": [
+			{
+				"id": "550P",
+				"nombre": "D. NOTARIAL(P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "555P",
+				"nombre": "D. TRIBUTARIO (P)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "DERECHO PRIVADO 1 (D.CIVIL 1)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "DE403",
+				"nombre": "DERECHO PRIVADO 6",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

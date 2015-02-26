@@ -1,0 +1,81 @@
+[
+	{
+		"id": "CS160",
+		"nombre": "ADMIN.Y GESTION DE LAS ORGANIZACIONES II",
+		"pcurso": [
+			{
+				"id": "CS101",
+				"nombre": "ADMIN. Y GESTIÓN DE LAS ORGANIZACIONES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CS101",
+				"nombre": "ADMIN. Y GESTIÓN DE LAS ORGANIZACIONES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CS120",
+		"nombre": "CONTABILIDAD GENERAL",
+		"pcurso": [
+			{
+				"id": "CS103",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CS103",
+				"nombre": "CONCEPTOS CONTABLES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIO10",
+		"nombre": "MATEMATÍCA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CIO10",
+				"nombre": "MATEMATÍCA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CIO20",
+		"nombre": "MATEMÁTICA 2",
+		"pcurso": [
+			{
+				"id": "CIO10",
+				"nombre": "MATEMATÍCA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CIO10",
+				"nombre": "MATEMATÍCA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIO20",
+				"nombre": "MATEMÁTICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

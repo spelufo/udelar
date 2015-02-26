@@ -1,0 +1,78 @@
+[
+	{
+		"id": "B101P",
+		"nombre": "HISTORIA DE LOS DOCUMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B101P",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101P",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "B102P",
+		"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B102P",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B102P",
+				"nombre": "INTRODUCCION A LA BIBLIOTECOLOGIA Y C.I.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "103P",
+		"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "103P",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "103P",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "104P",
+		"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "104P",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "104P",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	}
+]

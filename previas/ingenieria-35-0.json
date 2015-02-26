@@ -1,0 +1,582 @@
+[
+	{
+		"id": "P209",
+		"nombre": "ECONOMIA INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P202",
+		"nombre": "ELECTROTECNICA A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P250",
+		"nombre": "ELECTROTECNICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P250",
+				"nombre": "ELECTROTECNICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P254",
+		"nombre": "ESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "405",
+		"nombre": "ESTUDIO DEL TRABAJO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "405",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P101",
+		"nombre": "FISICA A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P101",
+				"nombre": "FISICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P151",
+		"nombre": "FISICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P101",
+				"nombre": "FISICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P100",
+				"nombre": "MATEMATICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P312",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"id": "P209",
+				"nombre": "ECONOMIA INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P254",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P209",
+				"nombre": "ECONOMIA INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P254",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P314",
+		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P253",
+				"nombre": "MECANICA APLICADA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P202",
+				"nombre": "ELECTROTECNICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P253",
+				"nombre": "MECANICA APLICADA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P150",
+		"nombre": "MATEMATICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P100",
+				"nombre": "MATEMATICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P212",
+		"nombre": "MECANICA APLICADA A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P253",
+		"nombre": "MECANICA APLICADA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P212",
+				"nombre": "MECANICA APLICADA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P253",
+				"nombre": "MECANICA APLICADA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P313",
+		"nombre": "ORGANIZACION DE LA PRODUCCION",
+		"pcurso": [
+			{
+				"id": "P209",
+				"nombre": "ECONOMIA INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P254",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P209",
+				"nombre": "ECONOMIA INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P254",
+				"nombre": "ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "405",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P211",
+		"nombre": "PROCESOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P102",
+		"nombre": "QUIMICA DE LOS MATERIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P311",
+		"nombre": "SERVICIOS INDUSTRIALES A",
+		"pcurso": [
+			{
+				"id": "P250",
+				"nombre": "ELECTROTECNICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P253",
+				"nombre": "MECANICA APLICADA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P250",
+				"nombre": "ELECTROTECNICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P253",
+				"nombre": "MECANICA APLICADA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P358",
+		"nombre": "SERVICIOS INDUSTRIALES B",
+		"pcurso": [
+			{
+				"id": "P250",
+				"nombre": "ELECTROTECNICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P253",
+				"nombre": "MECANICA APLICADA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P250",
+				"nombre": "ELECTROTECNICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P253",
+				"nombre": "MECANICA APLICADA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P211",
+				"nombre": "PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P311",
+				"nombre": "SERVICIOS INDUSTRIALES A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

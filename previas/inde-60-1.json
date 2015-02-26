@@ -1,0 +1,1589 @@
+[
+	{
+		"id": "619",
+		"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "603",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "612",
+				"nombre": "ANATOMIA Y FISIOPATOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "615",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "661",
+		"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "668",
+		"nombre": "ANATOMIA Y FISIOPATOLOGIA II",
+		"pcurso": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "661",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "661",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "612",
+		"nombre": "ANATOMIA Y FISIOPATOLOGÍA",
+		"pcurso": [
+			{
+				"id": "603",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "609",
+		"nombre": "EDUCACION PARA LA SALUD II",
+		"pcurso": [
+			{
+				"id": "604",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "658",
+		"nombre": "EDUCACION PARA LA SALUD II",
+		"pcurso": [
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "616",
+		"nombre": "EDUCACION PARA LA SALUD III",
+		"pcurso": [
+			{
+				"id": "604",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "609",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "615",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "665",
+		"nombre": "EDUCACION PARA LA SALUD III",
+		"pcurso": [
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "658",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "658",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "608",
+		"nombre": "ENFERMERIA BASICA",
+		"pcurso": [
+			{
+				"id": "603",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "604",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "606",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "601",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "602",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "605",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "607",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "657",
+		"nombre": "ENFERMERIA BASICA",
+		"pcurso": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "655",
+				"nombre": "ESTADISTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "651",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "655",
+				"nombre": "ESTADISTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "651",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "622",
+		"nombre": "ENFERMERIA MATERNO INFANTIL",
+		"pcurso": [
+			{
+				"id": "603",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "619",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "612",
+				"nombre": "ANATOMIA Y FISIOPATOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "604",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "609",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "616",
+				"nombre": "EDUCACION PARA LA SALUD III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "615",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "606",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "601",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "614",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "621",
+				"nombre": "ETICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "611",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "618",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "602",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "605",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "610",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "617",
+				"nombre": "MICROBIOLOGIA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "607",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "620",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "613",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "671",
+		"nombre": "ENFERMERIA MATERNO INFANTIL",
+		"pcurso": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "661",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "668",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "658",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "665",
+				"nombre": "EDUCACION PARA LA SALUD III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "655",
+				"nombre": "ESTADISTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "670",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "663",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "660",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "667",
+				"nombre": "FARMACOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "651",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "666",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "659",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "662",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "669",
+				"nombre": "NUTRICION III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "661",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "668",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "658",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "665",
+				"nombre": "EDUCACION PARA LA SALUD III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "655",
+				"nombre": "ESTADISTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "670",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "663",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "660",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "667",
+				"nombre": "FARMACOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "651",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "666",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "659",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "662",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "669",
+				"nombre": "NUTRICION III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "615",
+		"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+		"pcurso": [
+			{
+				"id": "603",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "612",
+				"nombre": "ANATOMIA Y FISIOPATOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "604",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "609",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "606",
+				"nombre": "ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "601",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "614",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "611",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "602",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "605",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "610",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "607",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "613",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "664",
+		"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+		"pcurso": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "661",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "658",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "655",
+				"nombre": "ESTADISTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "663",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "660",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "651",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "659",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "662",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "652",
+				"nombre": "ANATOMIA Y FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "661",
+				"nombre": "ANATOMIA Y FISIOPATOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "653",
+				"nombre": "EDUCACION PARA LA SALUD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "658",
+				"nombre": "EDUCACION PARA LA SALUD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "655",
+				"nombre": "ESTADISTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "663",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "660",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "651",
+				"nombre": "HIGIENE AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "659",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "662",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "614",
+		"nombre": "ETICA",
+		"pcurso": [
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "601",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "670",
+		"nombre": "ETICA",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "663",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "663",
+				"nombre": "ETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "663",
+		"nombre": "ETICA II",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "650",
+				"nombre": "ETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "621",
+		"nombre": "ETICA III",
+		"pcurso": [
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "615",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "601",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "614",
+				"nombre": "ETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "611",
+		"nombre": "FARMACOLOGIA",
+		"pcurso": [
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "618",
+		"nombre": "FARMACOLOGIA",
+		"pcurso": [
+			{
+				"id": "615",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "611",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "660",
+		"nombre": "FARMACOLOGIA I",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "667",
+		"nombre": "FARMACOLOGIA II",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "660",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "660",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "610",
+		"nombre": "MICROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "605",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "666",
+		"nombre": "MICROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "659",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "659",
+				"nombre": "MICROBIOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "659",
+		"nombre": "MICROBIOLOGIA II",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "654",
+				"nombre": "MICROBIOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "617",
+		"nombre": "MICROBIOLOGIA III",
+		"pcurso": [
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "615",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "605",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "610",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "620",
+		"nombre": "NUTRICION",
+		"pcurso": [
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "615",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "607",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "613",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "613",
+		"nombre": "NUTRICION II",
+		"pcurso": [
+			{
+				"id": "608",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "607",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "662",
+		"nombre": "NUTRICION II",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "669",
+		"nombre": "NUTRICION III",
+		"pcurso": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "662",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "657",
+				"nombre": "ENFERMERIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "664",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "656",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "662",
+				"nombre": "NUTRICION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,853 @@
+[
+	{
+		"id": "B9",
+		"nombre": "BIBLIOGRAFIA (METODOS) II",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B9",
+				"nombre": "BIBLIOGRAFIA (METODOS) II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B15",
+		"nombre": "BIBLIOGRAFIA III (ESPECIALIZADA)",
+		"pcurso": [
+			{
+				"id": "B9",
+				"nombre": "BIBLIOGRAFIA (METODOS) II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B9",
+				"nombre": "BIBLIOGRAFIA (METODOS) II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B15",
+				"nombre": "BIBLIOGRAFIA III (ESPECIALIZADA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B4",
+		"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B11",
+		"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+		"pcurso": [
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B7",
+		"nombre": "CATALOGACION Y CLASIFICACION II",
+		"pcurso": [
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B7",
+				"nombre": "CATALOGACION Y CLASIFICACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B14",
+		"nombre": "CATALOGACION Y CLASIFICACION III",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B7",
+				"nombre": "CATALOGACION Y CLASIFICACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B7",
+				"nombre": "CATALOGACION Y CLASIFICACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B14",
+				"nombre": "CATALOGACION Y CLASIFICACION III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B1",
+		"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B17",
+		"nombre": "DOCUMENTACION",
+		"pcurso": [
+			{
+				"id": "B9",
+				"nombre": "BIBLIOGRAFIA (METODOS) II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B9",
+				"nombre": "BIBLIOGRAFIA (METODOS) II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B17",
+				"nombre": "DOCUMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B2",
+		"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B6",
+		"nombre": "INGLES TECNICO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B10",
+		"nombre": "INGLÉS TÉCNICO II",
+		"pcurso": [
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B10",
+				"nombre": "INGLÉS TÉCNICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B18",
+		"nombre": "LIBROS Y DOCUMENTOS NACIONALES",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "LOS GRANDES LIBROS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B18",
+				"nombre": "LIBROS Y DOCUMENTOS NACIONALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "LOS GRANDES LIBROS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B5",
+		"nombre": "LOS GRANDES LIBROS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B12",
+		"nombre": "LOS GRANDES LIBROS II",
+		"pcurso": [
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "LOS GRANDES LIBROS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AB6",
+		"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "AB6",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B3",
+		"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B8",
+		"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+		"pcurso": [
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B16",
+		"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS III",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B16",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B19",
+		"nombre": "PLANEATO. DE LOS SERV. BIBLIOTECARIOS",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B19",
+				"nombre": "PLANEATO. DE LOS SERV. BIBLIOTECARIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "B20",
+		"nombre": "TECNICAS ESTADISTICAS",
+		"pcurso": [
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B20",
+				"nombre": "TECNICAS ESTADISTICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BA8",
+		"nombre": "TRABAJO MONOGRAFICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B9",
+				"nombre": "BIBLIOGRAFIA (METODOS) II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B9",
+				"nombre": "BIBLIOGRAFIA (METODOS) II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B4",
+				"nombre": "BIBLIOGRAFIA Y REFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B11",
+				"nombre": "BIBLIOTECOLOGÍA COMPARADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B7",
+				"nombre": "CATALOGACION Y CLASIFICACION II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B1",
+				"nombre": "CATALOGACIÓN Y CLASIFICACIÓN I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B2",
+				"nombre": "HISTORIA DEL LIBRO Y BIBLIOTECAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B6",
+				"nombre": "INGLES TECNICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B10",
+				"nombre": "INGLÉS TÉCNICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B5",
+				"nombre": "LOS GRANDES LIBROS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B12",
+				"nombre": "LOS GRANDES LIBROS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B3",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B8",
+				"nombre": "ORGANIZACION Y ADM. DE BIBLIOTECAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

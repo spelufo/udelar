@@ -1,0 +1,861 @@
+[
+	{
+		"id": "BL113",
+		"nombre": "ANATOMIA COMPARADA DE LOS VERTEBRADOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL113",
+				"nombre": "ANATOMIA COMPARADA DE LOS VERTEBRADOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL141",
+		"nombre": "APL. DE TECNICAS NUCLEARES EN BIOQUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL141",
+				"nombre": "APL. DE TECNICAS NUCLEARES EN BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL103",
+		"nombre": "APLIC.CONOC.VERTEBRADOS EN ZOO.Y BIOT.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL103",
+				"nombre": "APLIC.CONOC.VERTEBRADOS EN ZOO.Y BIOT.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL003",
+		"nombre": "BIOFISICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL120",
+		"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL120",
+				"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL042",
+		"nombre": "BIOLOGIA ANIMAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL042",
+				"nombre": "BIOLOGIA ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL005",
+		"nombre": "BIOLOGIA CELULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL084",
+		"nombre": "BIOLOGIA DE ARAÑAS DEL URUGUAY",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL084",
+				"nombre": "BIOLOGIA DE ARAÑAS DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL094",
+		"nombre": "BIOLOGIA DE POBLACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL094",
+				"nombre": "BIOLOGIA DE POBLACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL165",
+		"nombre": "BIOLOGIA DEL DESARROLLO (LIC.BIOQ.Y HUM)",
+		"pcurso": [
+			{
+				"id": "BL004",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL165",
+				"nombre": "BIOLOGIA DEL DESARROLLO (LIC.BIOQ.Y HUM)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL052",
+		"nombre": "BIOLOGIA MOLECULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL052",
+				"nombre": "BIOLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL000",
+		"nombre": "BIOQUIMICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL000",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL002",
+		"nombre": "BIOQUIMICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL002",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL004",
+		"nombre": "BIOQUIMICA II",
+		"pcurso": [
+			{
+				"id": "BL002",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL002",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL004",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL010",
+		"nombre": "BOTANICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL010",
+				"nombre": "BOTANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL083",
+		"nombre": "CRUSTACEOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL083",
+				"nombre": "CRUSTACEOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL079",
+		"nombre": "DINAMICA DE POBLACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL079",
+				"nombre": "DINAMICA DE POBLACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL793",
+		"nombre": "DIPTERA, PSOCOPTERA Y TYSANOPTERA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL793",
+				"nombre": "DIPTERA, PSOCOPTERA Y TYSANOPTERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL303",
+		"nombre": "ECOLOGIA DE COMUNIDADES",
+		"pcurso": [
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL303",
+				"nombre": "ECOLOGIA DE COMUNIDADES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL249",
+		"nombre": "ECOLOGIA DE POBLACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL249",
+				"nombre": "ECOLOGIA DE POBLACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL014",
+		"nombre": "ECOLOGIA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL160",
+		"nombre": "ECOLOGIA MICROBIANA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL160",
+				"nombre": "ECOLOGIA MICROBIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF039",
+		"nombre": "EDAFOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF039",
+				"nombre": "EDAFOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL051",
+		"nombre": "ENTOMOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL051",
+				"nombre": "ENTOMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA950",
+		"nombre": "ESTADISTICA E INFORMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA950",
+				"nombre": "ESTADISTICA E INFORMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL137",
+		"nombre": "EVALUACION DE IMPACTO AMBIENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL137",
+				"nombre": "EVALUACION DE IMPACTO AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL016",
+		"nombre": "EVOLUCION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL016",
+				"nombre": "EVOLUCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL149",
+		"nombre": "EVOLUCION HUMANA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL149",
+				"nombre": "EVOLUCION HUMANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL011",
+		"nombre": "FISIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL011",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ042",
+		"nombre": "FISIOLOGIA VEGETAL (LIC. BIOQ. Y HUM.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BQ042",
+				"nombre": "FISIOLOGIA VEGETAL (LIC. BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL147",
+		"nombre": "GENETICA DE POBLACIONES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL147",
+				"nombre": "GENETICA DE POBLACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL074",
+		"nombre": "GENETICA EVOLUTIVA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL074",
+				"nombre": "GENETICA EVOLUTIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL028",
+		"nombre": "GENETICA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL106",
+		"nombre": "GENETICA HUMANA (LIC.BIOQ. Y HUM.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL106",
+				"nombre": "GENETICA HUMANA (LIC.BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL006",
+		"nombre": "GENETICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL006",
+				"nombre": "GENETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL009",
+		"nombre": "GENETICA II",
+		"pcurso": [
+			{
+				"id": "BL006",
+				"nombre": "GENETICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL006",
+				"nombre": "GENETICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL009",
+				"nombre": "GENETICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL085",
+		"nombre": "GENETICA MOLECULAR BACTERIANA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL085",
+				"nombre": "GENETICA MOLECULAR BACTERIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "GF006",
+		"nombre": "GEOMORFOLOGIA (1987 -",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GF006",
+				"nombre": "GEOMORFOLOGIA (1987 -",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL008",
+		"nombre": "HISTOLOGIA-EMBRIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL008",
+				"nombre": "HISTOLOGIA-EMBRIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL087",
+		"nombre": "INMUNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL087",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL041",
+		"nombre": "INTRODUCCION A LA ETOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL041",
+				"nombre": "INTRODUCCION A LA ETOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL143",
+		"nombre": "INTRODUCCION A LA METEOROLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL143",
+				"nombre": "INTRODUCCION A LA METEOROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL118",
+		"nombre": "LIMNOLOGIA (PROFUNDIZACION)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL118",
+				"nombre": "LIMNOLOGIA (PROFUNDIZACION)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL058",
+		"nombre": "LIMNOLOGIA BASICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL058",
+				"nombre": "LIMNOLOGIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA920",
+		"nombre": "MATEMATICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ME001",
+		"nombre": "METEOROLOGIA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "ME001",
+				"nombre": "METEOROLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL007",
+		"nombre": "MICROBIOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL007",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL264",
+		"nombre": "MICROBIOLOGIA (FAC.QUIMICA)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL264",
+				"nombre": "MICROBIOLOGIA (FAC.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ075",
+		"nombre": "MICROORG.PROMOT.DEL C.VEGETAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BQ075",
+				"nombre": "MICROORG.PROMOT.DEL C.VEGETAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL095",
+		"nombre": "OCEANOGRAFIA BIOLOGICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL095",
+				"nombre": "OCEANOGRAFIA BIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL045",
+		"nombre": "OCEANOGRAFIA FISICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL045",
+				"nombre": "OCEANOGRAFIA FISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL013",
+		"nombre": "PALEONTOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL013",
+				"nombre": "PALEONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL252",
+		"nombre": "POB.NATURALES, ECOLOGIA Y GENETICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL252",
+				"nombre": "POB.NATURALES, ECOLOGIA Y GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL046",
+		"nombre": "TALLER PCR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL046",
+				"nombre": "TALLER PCR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL233",
+		"nombre": "VERTEBRADOS (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL233",
+				"nombre": "VERTEBRADOS (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ015",
+		"nombre": "VIROLOGIA (LIC. BIOQ. Y HUM.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BQ015",
+				"nombre": "VIROLOGIA (LIC. BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL142",
+		"nombre": "VIROLOGIA MOLECULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL142",
+				"nombre": "VIROLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL012",
+		"nombre": "ZOOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL012",
+				"nombre": "ZOOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL015",
+		"nombre": "ZOOLOGIA II",
+		"pcurso": [
+			{
+				"id": "BL012",
+				"nombre": "ZOOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL012",
+				"nombre": "ZOOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL015",
+				"nombre": "ZOOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

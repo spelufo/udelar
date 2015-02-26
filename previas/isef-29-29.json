@@ -1,0 +1,142 @@
+[
+	{
+		"id": "ENEDF",
+		"nombre": "ENTREN.ESPECÍFICO DE LA DISCIPLINA",
+		"pcurso": [
+			{
+				"id": "BGE1",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BGE1",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EVEDF",
+		"nombre": "EVALUACIÓN ESPECÍFICA DE LA DISCIPLINA",
+		"pcurso": [
+			{
+				"id": "BED2",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BED2",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CB203",
+		"nombre": "FISIOLOGÍA II",
+		"pcurso": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CB122",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IEPF",
+		"nombre": "INTROD.ESPEC.A LA PRACTICA",
+		"pcurso": [
+			{
+				"id": "IGP1",
+				"nombre": "INTRODUCCIÓN GRAL.A LA PRÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IGP1",
+				"nombre": "INTRODUCCIÓN GRAL.A LA PRÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PPF",
+		"nombre": "PRACTICA PROFESIONAL",
+		"pcurso": [
+			{
+				"id": "IEPF",
+				"nombre": "INTROD.ESPEC.A LA PRACTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IEPF",
+				"nombre": "INTROD.ESPEC.A LA PRACTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PD2",
+		"nombre": "PSICOLOGÍA DEL DEPORTE",
+		"pcurso": [
+			{
+				"id": "CE103",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CE103",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TD2F",
+		"nombre": "TECNICA DEL DEPORTE II",
+		"pcurso": [
+			{
+				"id": "TD1F",
+				"nombre": "TECNICA DEL DEPORTE I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TD1F",
+				"nombre": "TECNICA DEL DEPORTE I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,631 @@
+[
+	{
+		"id": "EL5P",
+		"nombre": "AUTOMATAS PROGRAMABLES",
+		"pcurso": [
+			{
+				"id": "EL3P",
+				"nombre": "INSTRUMENTACION Y CONTROL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EL5P",
+				"nombre": "AUTOMATAS PROGRAMABLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EL3P",
+				"nombre": "INSTRUMENTACION Y CONTROL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EL1P",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD3P",
+		"nombre": "COMPORTAMIENTO MEC.DE LOS MATERIALES",
+		"pcurso": [
+			{
+				"id": "FIS1P",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2P",
+				"nombre": "METALURGIA FISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD3P",
+				"nombre": "COMPORTAMIENTO MEC.DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2P",
+				"nombre": "METALURGIA FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP2P",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "IP2P",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD7P",
+		"nombre": "CONTROL NUMERICO I",
+		"pcurso": [
+			{
+				"id": "MD6P",
+				"nombre": "DISEÑO ASISTIDO POR COMPUTADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD7P",
+				"nombre": "CONTROL NUMERICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD6P",
+				"nombre": "DISEÑO ASISTIDO POR COMPUTADOR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD8P",
+		"nombre": "CONTROL NUMERICO II",
+		"pcurso": [
+			{
+				"id": "MD7P",
+				"nombre": "CONTROL NUMERICO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD7P",
+				"nombre": "CONTROL NUMERICO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD8P",
+				"nombre": "CONTROL NUMERICO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP1P",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "IP1P",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD6P",
+		"nombre": "DISEÑO ASISTIDO POR COMPUTADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MD6P",
+				"nombre": "DISEÑO ASISTIDO POR COMPUTADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT1P",
+				"nombre": "MATEMATICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL2P",
+		"nombre": "ELECTROTECNIA 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "EL2P",
+				"nombre": "ELECTROTECNIA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EL1P",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD4P",
+		"nombre": "ELEMENTOS DE MAQUINAS",
+		"pcurso": [
+			{
+				"id": "MD3P",
+				"nombre": "COMPORTAMIENTO MEC.DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD3P",
+				"nombre": "COMPORTAMIENTO MEC.DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD4P",
+				"nombre": "ELEMENTOS DE MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN1P",
+		"nombre": "ENERGIA 1",
+		"pcurso": [
+			{
+				"id": "TMF1P",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1P",
+				"nombre": "ENERGIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMFPE",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN2P",
+		"nombre": "ENERGIA 2",
+		"pcurso": [
+			{
+				"id": "TMF1P",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN2P",
+				"nombre": "ENERGIA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMFPE",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP4P",
+		"nombre": "ESTUDIO DEL TRABAJO",
+		"pcurso": [
+			{
+				"id": "IP1P",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1P",
+				"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IP1P",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "IP4P",
+				"nombre": "ESTUDIO DEL TRABAJO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1P",
+				"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN5P",
+		"nombre": "GENERADORES DE VAPOR",
+		"pcurso": [
+			{
+				"id": "EN1P",
+				"nombre": "ENERGIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN4P",
+				"nombre": "GENERADORES DE VAPOR Y REFRIGERACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1P",
+				"nombre": "ENERGIA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN5P",
+				"nombre": "GENERADORES DE VAPOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN4P",
+		"nombre": "GENERADORES DE VAPOR Y REFRIGERACION",
+		"pcurso": [
+			{
+				"id": "EN1P",
+				"nombre": "ENERGIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1P",
+				"nombre": "ENERGIA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN4P",
+				"nombre": "GENERADORES DE VAPOR Y REFRIGERACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP3P",
+		"nombre": "GESTION DEL MANTENIMIENTO",
+		"pcurso": [
+			{
+				"id": "IP1P",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1P",
+				"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "IP1P",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "IP3P",
+				"nombre": "GESTION DEL MANTENIMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD1P",
+				"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN7P",
+		"nombre": "INSTALAC. GRALES. DE GASES COMBUSTIBLES",
+		"pcurso": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD5",
+				"nombre": "METALURGIA DE TRANSFORMACION (TEC.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TAL1P",
+				"nombre": "TALLER 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMF1P",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1",
+				"nombre": "ENERGIA 1 (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN7P",
+				"nombre": "INSTALAC. GRALES. DE GASES COMBUSTIBLES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD5",
+				"nombre": "METALURGIA DE TRANSFORMACION (TEC.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMFPE",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL4P",
+		"nombre": "INSTALACIONES ELECTRICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "EL2P",
+				"nombre": "ELECTROTECNIA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL3P",
+		"nombre": "INSTRUMENTACION Y CONTROL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "EL3P",
+				"nombre": "INSTRUMENTACION Y CONTROL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD1P",
+		"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MD1P",
+				"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EL1P",
+		"nombre": "INT. A LA ELECTROTECNICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FIS2P",
+				"nombre": "FISICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MAT3P",
+				"nombre": "MATEMATICA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD5P",
+		"nombre": "METALURGIA DE TRANSFORMACION",
+		"pcurso": [
+			{
+				"id": "MD2P",
+				"nombre": "METALURGIA FISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD5P",
+				"nombre": "METALURGIA DE TRANSFORMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MD2P",
+		"nombre": "METALURGIA FISICA",
+		"pcurso": [
+			{
+				"id": "MD1P",
+				"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MD1P",
+				"nombre": "INT. A LA CIENCIA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MD2P",
+				"nombre": "METALURGIA FISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN3P",
+		"nombre": "MOTORES DE COMB.INT.Y TURBINAS DE GAS",
+		"pcurso": [
+			{
+				"id": "TAL1P",
+				"nombre": "TALLER 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMFPC",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN3P",
+				"nombre": "MOTORES DE COMB.INT.Y TURBINAS DE GAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TMFPE",
+				"nombre": "TERMOD. Y MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "IP5P",
+		"nombre": "PROYECTO DE INVERSION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "IP5P",
+				"nombre": "PROYECTO DE INVERSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "EN6P",
+		"nombre": "REFRIGERACION INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "EN1P",
+				"nombre": "ENERGIA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN4P",
+				"nombre": "GENERADORES DE VAPOR Y REFRIGERACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "EN1P",
+				"nombre": "ENERGIA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "EN6P",
+				"nombre": "REFRIGERACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,339 @@
+[
+	{
+		"id": "EMPT2",
+		"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PDC4",
+		"nombre": "PRÁCTICA DE CONJUNTO 4",
+		"pcurso": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "S1",
+				"nombre": "SAXO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "S1",
+				"nombre": "SAXO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAXO2",
+		"nombre": "SAXOFÓN 2",
+		"pcurso": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO1",
+				"nombre": "SAXOFÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SAXO3",
+		"nombre": "SAXOFÓN 3",
+		"pcurso": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO1",
+				"nombre": "SAXOFÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO2",
+				"nombre": "SAXOFÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SAXO4",
+		"nombre": "SAXOFÓN 4",
+		"pcurso": [
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO2",
+				"nombre": "SAXOFÓN 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO3",
+				"nombre": "SAXOFÓN 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SAXO5",
+		"nombre": "SAXOFÓN 5",
+		"pcurso": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "S1",
+				"nombre": "SAXO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "SAXO3",
+				"nombre": "SAXOFÓN 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO4",
+				"nombre": "SAXOFÓN 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "S1",
+				"nombre": "SAXO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SAXO6",
+		"nombre": "SAXOFÓN 6",
+		"pcurso": [
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO4",
+				"nombre": "SAXOFÓN 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO5",
+				"nombre": "SAXOFÓN 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SAXO7",
+		"nombre": "SAXOFÓN 7",
+		"pcurso": [
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO5",
+				"nombre": "SAXOFÓN 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO6",
+				"nombre": "SAXOFÓN 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SAXO8",
+		"nombre": "SAXOFÓN 8",
+		"pcurso": [
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO6",
+				"nombre": "SAXOFÓN 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SAXO7",
+				"nombre": "SAXOFÓN 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SIN5",
+		"nombre": "SEMINARIO DE INTERPRETACIÓN 5",
+		"pcurso": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "S1",
+				"nombre": "SAXO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "S1",
+				"nombre": "SAXO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

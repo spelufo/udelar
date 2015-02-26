@@ -1,0 +1,739 @@
+[
+	{
+		"id": "TIP17",
+		"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "TIP11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP32",
+		"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS II",
+		"pcurso": [
+			{
+				"id": "TIP17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP40",
+		"nombre": "APRENDER Y GESTIONAR UNA EMPRESA",
+		"pcurso": [
+			{
+				"id": "TIP15",
+				"nombre": "COMUNICACION ORAL Y ESCRITA (ACT.COMP.3)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP14",
+				"nombre": "CONTABILIDAD (ACT.COMPL.4)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP20",
+				"nombre": "RELACIONES PERSONALES Y LABORALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP05",
+		"nombre": "ARQUITECTURA DE COMPUTADORAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP09",
+		"nombre": "BASES DE DATOS I",
+		"pcurso": [
+			{
+				"id": "TIP01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP13",
+		"nombre": "BASES DE DATOS II",
+		"pcurso": [
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP15",
+		"nombre": "COMUNICACION ORAL Y ESCRITA (ACT.COMP.3)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP15",
+				"nombre": "COMUNICACION ORAL Y ESCRITA (ACT.COMP.3)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP14",
+		"nombre": "CONTABILIDAD (ACT.COMPL.4)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP14",
+				"nombre": "CONTABILIDAD (ACT.COMPL.4)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP06",
+		"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+		"pcurso": [
+			{
+				"id": "TIP02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP18",
+		"nombre": "INGENIERIA DE SOFTWARE",
+		"pcurso": [
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP18",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP10",
+		"nombre": "INGLES CONVERSACIONAL (ACT.COMPL.2)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP10",
+				"nombre": "INGLES CONVERSACIONAL (ACT.COMPL.2)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP04",
+		"nombre": "INGLES TECNICO 1 (ACT.COMPL.1)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP04",
+				"nombre": "INGLES TECNICO 1 (ACT.COMPL.1)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP31",
+		"nombre": "INTRODUCCION A LOS SISTEMAS DE CONTROL",
+		"pcurso": [
+			{
+				"id": "TIP17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP37",
+		"nombre": "INTRODUCCION AL DESARROLLO DE JUEGOS",
+		"pcurso": [
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP03",
+		"nombre": "MATEMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP03",
+				"nombre": "MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP02",
+		"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP07",
+		"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+		"pcurso": [
+			{
+				"id": "TIP02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP21",
+		"nombre": "PASANTIA LABORAL",
+		"pcurso": [
+			{
+				"id": "TIP05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP01",
+		"nombre": "PRINCIPIOS DE PROGRAMACION",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP19",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "TIP02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP19",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP12",
+		"nombre": "PROGRAMACION AVANZADA",
+		"pcurso": [
+			{
+				"id": "TIP06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP16",
+		"nombre": "PROGRAMACION DE APLICACIONES",
+		"pcurso": [
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP27",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "TIP17",
+				"nombre": "ADMINISTRACION DE INFRAESTRUCTURAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP06",
+				"nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP18",
+				"nombre": "INGENIERIA DE SOFTWARE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP03",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP02",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP07",
+				"nombre": "MATEMATICA DISCRETA Y LOGICA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP01",
+				"nombre": "PRINCIPIOS DE PROGRAMACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP19",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP12",
+				"nombre": "PROGRAMACION AVANZADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP11",
+		"nombre": "REDES DE COMPUTADORAS",
+		"pcurso": [
+			{
+				"id": "TIP05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP11",
+				"nombre": "REDES DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP20",
+		"nombre": "RELACIONES PERSONALES Y LABORALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "TIP20",
+				"nombre": "RELACIONES PERSONALES Y LABORALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP33",
+		"nombre": "SISTEMAS DE GESTION DE CONTENIDOS",
+		"pcurso": [
+			{
+				"id": "TIP16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP25",
+				"nombre": "TALLER DE APLICACIONES DE INTERNET RICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP08",
+		"nombre": "SISTEMAS OPERATIVOS",
+		"pcurso": [
+			{
+				"id": "TIP05",
+				"nombre": "ARQUITECTURA DE COMPUTADORAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TIP08",
+				"nombre": "SISTEMAS OPERATIVOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TIP25",
+		"nombre": "TALLER DE APLICACIONES DE INTERNET RICAS",
+		"pcurso": [
+			{
+				"id": "TIP16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP24",
+		"nombre": "TALLER DE SISTEMAS DE INFORMAC.JAVA EE",
+		"pcurso": [
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIP26",
+		"nombre": "TALLER DE SISTEMAS DE INFORMACION.NET",
+		"pcurso": [
+			{
+				"id": "TIP09",
+				"nombre": "BASES DE DATOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP13",
+				"nombre": "BASES DE DATOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIP16",
+				"nombre": "PROGRAMACION DE APLICACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

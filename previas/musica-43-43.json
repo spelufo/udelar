@@ -1,0 +1,322 @@
+[
+	{
+		"id": "C38",
+		"nombre": "ARMONIA II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C37",
+				"nombre": "ARMONIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T02GR",
+				"nombre": "GRUPO SOLFEOI (PREVIAS)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C40",
+		"nombre": "ARMONIA III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C38",
+				"nombre": "ARMONIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C43",
+		"nombre": "ARMONIA IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C40",
+				"nombre": "ARMONIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C41",
+		"nombre": "CONTRAPUNTO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C39",
+				"nombre": "CONTRAPUNTO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T02R",
+				"nombre": "SOLFEO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C44",
+		"nombre": "CONTRAPUNTO III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C41",
+				"nombre": "CONTRAPUNTO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C48",
+		"nombre": "CONTRAPUNTO IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C44",
+				"nombre": "CONTRAPUNTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "ROMA",
+		"nombre": "HIST.DE LA MUSICA PERIODO ROMANTICO",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "REN",
+		"nombre": "HIST.DE LA MUSICA RENACIMIENTO",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BAR",
+		"nombre": "HISTORIA DE LA MUSICA BARROCO",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CLAS",
+		"nombre": "HISTORIA DE LA MUSICA CLASICA",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MTO7",
+		"nombre": "HISTORIA DE LA MUSICA II (TÉCNICO)",
+		"pcurso": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MED",
+		"nombre": "HISTORIA DE LA MUSICA MEDIEVAL",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "VEIN",
+		"nombre": "HISTORIA DE LA MUSICA SIGLO XX",
+		"pcurso": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "HO2",
+				"nombre": "HISTORIA OCCIDENTAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "HO1",
+		"nombre": "HISTORIA OCCIDENTAL I",
+		"pcurso": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO1",
+				"nombre": "HISTORIA DE LA MUSICA I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "HO2",
+		"nombre": "HISTORIA OCCIDENTAL II",
+		"pcurso": [
+			{
+				"id": "MO3G",
+				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MO3G",
+				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C57",
+		"nombre": "INSTRUMENTACION Y ORQUESTACION I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C38",
+				"nombre": "ARMONIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "C41",
+				"nombre": "CONTRAPUNTO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T10",
+				"nombre": "PIANO COMPLEMENTARIO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "T12R",
+				"nombre": "SOLFEO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C59",
+		"nombre": "INSTRUMENTACION Y ORQUESTACION II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "C57",
+				"nombre": "INSTRUMENTACION Y ORQUESTACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C49R",
+		"nombre": "SOLFEO IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "T20R",
+				"nombre": "SOLFEO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

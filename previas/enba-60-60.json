@@ -1,0 +1,245 @@
+[
+	{
+		"id": "4TFJA",
+		"nombre": "CUARTO PROF.  JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "3TFP",
+				"nombre": "TALLER FUNDAMENTAL PARALELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "4TJA",
+		"nombre": "CUARTO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "3ESPE",
+				"nombre": "TERCERO ESPECIALIZACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GEO",
+		"nombre": "GEOMETRIA",
+		"pcurso": [
+			{
+				"id": "ROTFP",
+				"nombre": "ROTACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEMI",
+				"nombre": "SEMINARIO DE LAS ESTETICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEMII",
+				"nombre": "SEMINARIO DE LAS ESTETICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "S-T",
+				"nombre": "SEMINARIO TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1TGPD",
+				"nombre": "T. GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GEO1",
+		"nombre": "GEOMETRIA PRIMER AÑO",
+		"pcurso": [
+			{
+				"id": "1TGPD",
+				"nombre": "TALLER DE GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1TJA",
+		"nombre": "PRIMERO  PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "4TFP",
+				"nombre": "TALLER FUNDAMENTAL PARALELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1TFJA",
+		"nombre": "PRIMERO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "SEM",
+				"nombre": "SEMINARIOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "ROTFP",
+		"nombre": "ROTACIONES",
+		"pcurso": [
+			{
+				"id": "SEMI",
+				"nombre": "SEMINARIO DE LAS ESTETICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SEMII",
+				"nombre": "SEMINARIO DE LAS ESTETICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "S-T",
+				"nombre": "SEMINARIO TALLER",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1TGPD",
+				"nombre": "T. GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2TFJA",
+		"nombre": "SEGUNDO PROF.  JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "1TFP",
+				"nombre": "TALLER FUNDAMENTAL PARALELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2TJA",
+		"nombre": "SEGUNDO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "1ESPE",
+				"nombre": "PRIMERO ESPECIALIZACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SEMI",
+		"nombre": "SEMINARIO DE LAS ESTETICAS I",
+		"pcurso": [
+			{
+				"id": "1TGPD",
+				"nombre": "T. GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "SEMII",
+		"nombre": "SEMINARIO DE LAS ESTETICAS II",
+		"pcurso": [
+			{
+				"id": "1TGPD",
+				"nombre": "T. GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "S-T",
+		"nombre": "SEMINARIO TALLER",
+		"pcurso": [
+			{
+				"id": "1TGPD",
+				"nombre": "T. GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3TFJA",
+		"nombre": "TERCERO PROF.  JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "2TFP",
+				"nombre": "TALLER FUNDAMENTAL PARALELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "3TJA",
+		"nombre": "TERCERO PROF. JAVIER ALONSO",
+		"pcurso": [
+			{
+				"id": "2ESPE",
+				"nombre": "SEGUNDO ESPECIALIZACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "UHC",
+		"nombre": "UBICACION HISTORICO CULTURAL",
+		"pcurso": [
+			{
+				"id": "GEO1",
+				"nombre": "GEOMETRIA PRIMER AÑO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1TGPD",
+				"nombre": "TALLER DE GRAN Y PEQUEÑA DIMENSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

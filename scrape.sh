@@ -10,13 +10,13 @@
 # 	$ bash --version
 # 	GNU bash, version 4.3.11(1)-release (x86_64-pc-linux-gnu)
 #
-# 	$ apt install html-xml-utils
-# 	$ apt show html-xml-utils
-# 	Package: html-xml-utils
-# 	State: installed
-# 	Automatically installed: no
-# 	Version: 6.5-1
-# 	...
+#	$ apt install html-xml-utils
+#	$ apt show html-xml-utils
+#	Package: html-xml-utils
+#	State: installed
+#	Automatically installed: no
+#	Version: 6.5-1
+#	...
 
 
 ./wget-download.sh bedelias.edu.uy
@@ -36,14 +36,14 @@ PREVS=$(echo www{1,2,3}.bedelias.edu.uy/*/muestra)
 while read -r l; do ./wget-download.sh "$l"; done < planes.txt
 
 > carreras.txt
-
-for f in $FACDS
-do
-	echo "# $f" >> carreras.txt
+for f in $FACDS; do
 	if [[ -f "${f}muestra_prev.selcarr.html" ]]; then
-		cars=$(hxnormalize -x "${f}muestra_prev.selcarr.html" -i 0 -l 300 | hxselect option -s '\n' | grep -oP '\d+\s*-\s*\d+[^<]+' | tee -a carreras.txt | cut -d ' ' -f 1)
-		for car in $cars; do ./wget-download.sh "${f}muestra_prev.imprime?carrera=${car/-/&cicl=}&p_mat=_"; done
+		cars=$(hxnormalize -x "${f}muestra_prev.selcarr.html" -i 0 -l 300 | hxselect option -s '\n' | grep -oP '\d+\s*-\s*\d+[^<]+' | cut -d ' ' -f 1)
+		for car in $cars; do
+			echo "$(basename $f) $car ${f}muestra_prev.imprime?carrera=${car/-/&cicl=}&p_mat=_.html" >> carreras.txt
+			./wget-download.sh "${f}muestra_prev.imprime?carrera=${car/-/&cicl=}&p_mat=_"
+		done
 	else
-		echo "# File doesn't exist: ${f}muestra_prev.selcarr.html"  >> carreras.txt
+		echo "# File doesn't exist: ${f}muestra_prev.selcarr.html"
 	fi
 done

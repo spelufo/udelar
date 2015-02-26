@@ -1,0 +1,513 @@
+[
+	{
+		"id": "BL524",
+		"nombre": "ANATOMIA Y FISIOLOGIA DE ORTHOPTERA I",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL319",
+		"nombre": "ARTROPODOS MANDIBULADOS",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BG020",
+		"nombre": "BIOLOGIA DEL DESARROLLO (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG020",
+				"nombre": "BIOLOGIA DEL DESARROLLO (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL052",
+		"nombre": "BIOLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL052",
+				"nombre": "BIOLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BG019",
+		"nombre": "BIOLOGIA PARASITARIA (LIC. BIOL.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BG019",
+				"nombre": "BIOLOGIA PARASITARIA (LIC. BIOL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL368",
+		"nombre": "CITOGENETICA Y EVOLUCION",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL028",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL368",
+				"nombre": "CITOGENETICA Y EVOLUCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL079",
+		"nombre": "DINAMICA DE POBLACIONES",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL677",
+		"nombre": "ECOLOGIA ADAPTATIVA",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL334",
+		"nombre": "ECOLOGIA CUANTITATIVA",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL410",
+		"nombre": "ESTRAT.ADAPTATIVAS EN ORG.DE AGUAS TEMP.",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL607",
+		"nombre": "ESTUARIOS: ESTRUC.,FUNC.E IMP.HUMANO",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL299",
+		"nombre": "ETOLOGIA (PROFUNDIZACION)",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL301",
+		"nombre": "ETOLOGIA Y SIST.SOCIALES DE LOS PRIMATES",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL324",
+		"nombre": "FILOGENIA DE LOS INVERTEBRADOS",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL074",
+		"nombre": "GENETICA EVOLUTIVA",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GL047",
+		"nombre": "HISTORIA DE LA TIERRA Y DE LA VIDA",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL041",
+		"nombre": "INTRODUCCION A LA ETOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL041",
+				"nombre": "INTRODUCCION A LA ETOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL494",
+		"nombre": "INVERTEBRADOS DE AGUA DULCE",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL118",
+		"nombre": "LIMNOLOGIA (PROFUNDIZACION)",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL118",
+				"nombre": "LIMNOLOGIA (PROFUNDIZACION)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL058",
+		"nombre": "LIMNOLOGIA BASICA",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL058",
+				"nombre": "LIMNOLOGIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL316",
+		"nombre": "MET.CUANTIT.EN BIOL.EXPERIMEN.",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL323",
+		"nombre": "METOD.DE LA INVESTIG. EN INVERTEBRADOS",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL095",
+		"nombre": "OCEANOGRAFIA BIOLOGICA",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL095",
+				"nombre": "OCEANOGRAFIA BIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL515",
+		"nombre": "PASANTIA EN ZOOLOGIA (INVERTEBRADOS)",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL608",
+		"nombre": "TEORIA ECOLOGICA APLIC.A LA CONSERVACION",
+		"pcurso": [
+			{
+				"id": "BL15",
+				"nombre": "BIOEST-EVOLU-PALEO-ECOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BL014",
+				"nombre": "ECOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

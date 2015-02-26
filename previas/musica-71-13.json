@@ -1,0 +1,339 @@
+[
+	{
+		"id": "EMPT2",
+		"nombre": "MUSICAS POPULARES Y TRADICIONALES 2",
+		"pcurso": [
+			{
+				"id": "MPTTC",
+				"nombre": "MÚSICAS POPULARES Y TRADICIONALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PIAN2",
+		"nombre": "PIANO 2",
+		"pcurso": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN1",
+				"nombre": "PIANO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PIAN3",
+		"nombre": "PIANO 3",
+		"pcurso": [
+			{
+				"id": "LECT1",
+				"nombre": "LECTOESCRITURA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN1",
+				"nombre": "PIANO 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN2",
+				"nombre": "PIANO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PIAN4",
+		"nombre": "PIANO 4",
+		"pcurso": [
+			{
+				"id": "LECT2",
+				"nombre": "LECTOESCRITURA 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN2",
+				"nombre": "PIANO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN3",
+				"nombre": "PIANO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PIAN5",
+		"nombre": "PIANO 5",
+		"pcurso": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "LECT3",
+				"nombre": "LECTOESCRITURA 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PI1",
+				"nombre": "PIANO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PIAN3",
+				"nombre": "PIANO 3",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN4",
+				"nombre": "PIANO 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PI1",
+				"nombre": "PIANO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "PIAN6",
+		"nombre": "PIANO 6",
+		"pcurso": [
+			{
+				"id": "LECT4",
+				"nombre": "LECTOESCRITURA 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN4",
+				"nombre": "PIANO 4",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN5",
+				"nombre": "PIANO 5",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PIAN7",
+		"nombre": "PIANO 7",
+		"pcurso": [
+			{
+				"id": "LECT5",
+				"nombre": "LECTOESCRITURA 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN5",
+				"nombre": "PIANO 5",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN6",
+				"nombre": "PIANO 6",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PIAN8",
+		"nombre": "PIANO 8",
+		"pcurso": [
+			{
+				"id": "LECT6",
+				"nombre": "LECTOESCRITURA 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN6",
+				"nombre": "PIANO 6",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "PIAN7",
+				"nombre": "PIANO 7",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PDC4",
+		"nombre": "PRÁCTICA DE CONJUNTO 4",
+		"pcurso": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PI1",
+				"nombre": "PIANO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PI1",
+				"nombre": "PIANO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "SIN5",
+		"nombre": "SEMINARIO DE INTERPRETACIÓN 5",
+		"pcurso": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PI1",
+				"nombre": "PIANO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I1",
+				"nombre": "INSTRUMENTOS PRIMER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PI1",
+				"nombre": "PIANO 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TC1",
+				"nombre": "TRONCO COMÚN 1ER CICLO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

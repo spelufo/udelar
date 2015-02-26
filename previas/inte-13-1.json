@@ -1,0 +1,15 @@
+[
+	{
+		"id": "CCT21",
+		"nombre": "QUÍMICA II",
+		"pcurso": [
+			{
+				"id": "CCT11",
+				"nombre": "QUÍMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

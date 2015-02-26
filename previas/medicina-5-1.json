@@ -1,0 +1,546 @@
+[
+	{
+		"id": "518",
+		"nombre": "ANATOMIA CLINICA",
+		"pcurso": [
+			{
+				"id": "517",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "518",
+				"nombre": "ANATOMIA CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "517",
+		"nombre": "BIOLOGIA DEL DESARROLLO",
+		"pcurso": [
+			{
+				"id": "503",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "517",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "509",
+		"nombre": "C.E.F.A.",
+		"pcurso": [
+			{
+				"id": "GO7",
+				"nombre": "GRUPO BIOLOGIA DEL DESARROLLO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO4",
+				"nombre": "GRUPO NEUROBIOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO2",
+				"nombre": "GRUPO PARA BIOLOGIA CELULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO3",
+				"nombre": "GRUPO PARA BIOLOGIA TISULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO6",
+				"nombre": "GRUPO PARA CARDIOVASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO5",
+				"nombre": "GRUPO PARA LOCOMOTOR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "509",
+				"nombre": "C.E.F.A.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "510",
+		"nombre": "C.I.M.I.",
+		"pcurso": [
+			{
+				"id": "G9",
+				"nombre": "GRUPO CURSO CEFA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "510",
+				"nombre": "C.I.M.I.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "511",
+		"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+		"pcurso": [
+			{
+				"id": "G09C",
+				"nombre": "GRUPO CEFA CURSO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO10",
+				"nombre": "GRUPO PARA CIMI",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "511",
+				"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "512",
+		"nombre": "CICLIPA II - MEDICO QUIRURGICO",
+		"pcurso": [
+			{
+				"id": "G11",
+				"nombre": "GRUPO CURSO CICLIPA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "512",
+				"nombre": "CICLIPA II - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G09C",
+				"nombre": "GRUPO CEFA CURSO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MODI",
+		"nombre": "CICLO BASICO MODULO I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CBASC",
+				"nombre": "CICLO BASICO CURSO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MODII",
+		"nombre": "CICLO BASICO MODULO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CBASC",
+				"nombre": "CICLO BASICO CURSO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MOD3",
+		"nombre": "CICLO BASICO MODULO III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CBASC",
+				"nombre": "CICLO BASICO CURSO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MOD4",
+		"nombre": "CICLO BASICO MODULO IV",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CBASC",
+				"nombre": "CICLO BASICO CURSO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "516",
+		"nombre": "CICLO BÁSICO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "516",
+				"nombre": "CICLO BÁSICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "514",
+		"nombre": "CICLO DE INTERNADO OBLIGATORIO",
+		"pcurso": [
+			{
+				"id": "GO13",
+				"nombre": "GRUPO PARA MATERNO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "513",
+		"nombre": "CICLO MATERNO INFANTIL",
+		"pcurso": [
+			{
+				"id": "511",
+				"nombre": "CICLIPA I - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "512",
+				"nombre": "CICLIPA II - MEDICO QUIRURGICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "513",
+				"nombre": "CICLO MATERNO INFANTIL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "519",
+		"nombre": "DIGESTIVO, RENAL Y ENDOCRINO Y REPRODUCT",
+		"pcurso": [
+			{
+				"id": "506",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "519",
+				"nombre": "DIGESTIVO, RENAL Y ENDOCRINO Y REPRODUCT",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "515",
+		"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+		"pcurso": [
+			{
+				"id": "215",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G3",
+				"nombre": "GRUPO CURSO BIOLOGIA TISULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G5",
+				"nombre": "GRUPO CURSO LOCOMOTOR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G4",
+				"nombre": "GRUPO CURSO NEUROBIOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "515",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "215",
+				"nombre": "ESFUNO-ANATOMIA ESPLACNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "505",
+		"nombre": "ESFUNO-APARATO LOCOMOTOR",
+		"pcurso": [
+			{
+				"id": "205",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G4",
+				"nombre": "GRUPO CURSO NEUROBIOLOGIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "505",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "ESFUNO-APARATO LOCOMOTOR",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "502",
+		"nombre": "ESFUNO-BIOLOGIA CELULAR",
+		"pcurso": [
+			{
+				"id": "GO1",
+				"nombre": "CICLO BÁSICO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "502",
+				"nombre": "ESFUNO-BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "503",
+		"nombre": "ESFUNO-BIOLOGIA TISULAR",
+		"pcurso": [
+			{
+				"id": "GO2",
+				"nombre": "GRUPO PARA BIOLOGIA CELULAR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "503",
+				"nombre": "ESFUNO-BIOLOGIA TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "506",
+		"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+		"pcurso": [
+			{
+				"id": "GR15",
+				"nombre": "GRUPO CURSO ANATOMIA ESPLACNIC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "506",
+				"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "504",
+		"nombre": "ESFUNO-NEUROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "G3",
+				"nombre": "GRUPO CURSO BIOLOGIA TISULAR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "504",
+				"nombre": "ESFUNO-NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "507",
+		"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+		"pcurso": [
+			{
+				"id": "207",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G6",
+				"nombre": "GRUPO CURSO CARDIOVASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "507",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "207",
+				"nombre": "ESFUNO-REGULACION HUMORAL Y METABOLICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "508",
+		"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+		"pcurso": [
+			{
+				"id": "208",
+				"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G7",
+				"nombre": "GRUPO CURSO REGULACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "508",
+				"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "208",
+				"nombre": "ESFUNO-REPRODUCCION Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "520",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "518",
+				"nombre": "ANATOMIA CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "517",
+				"nombre": "BIOLOGIA DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "G3",
+				"nombre": "GRUPO CURSO BIOLOGIA TISULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GO5",
+				"nombre": "GRUPO PARA LOCOMOTOR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "520",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

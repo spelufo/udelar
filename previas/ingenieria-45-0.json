@@ -1,0 +1,1327 @@
+[
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP45",
+				"nombre": "ANALISIS MATEMATICO I (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP22",
+				"nombre": "ANALISIS MATEMATICO I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA01",
+				"nombre": "CALCULO 1 O CAL.DIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "YMA03",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "YMA17",
+				"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA05E",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA02C",
+				"nombre": "CALCULO 1C Y CALCULO2E",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "YMA07",
+				"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1411",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "MA01E",
+				"nombre": "CALCULO 1 O CALDIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA02E",
+				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CO01",
+				"nombre": "COMPUTACION",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA04E",
+				"nombre": "GEOMETRIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP48",
+				"nombre": "ANALISIS MATEMATICO II (1ER.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA02C",
+				"nombre": "CALCULO 1C Y CALCULO2E",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1074",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA04E",
+				"nombre": "GEOMETRIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "YMA10",
+				"nombre": "INTR. A ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "YMA21",
+				"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1128",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "MA02E",
+				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA03C",
+				"nombre": "CALCULO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "YFI10",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "FI01E",
+				"nombre": "FISICA GENERAL 1 O FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI02E",
+				"nombre": "FISICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA04E",
+				"nombre": "GEOMETRIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2256",
+		"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 45 - Ciclo 0"
+			},
+			{
+				"id": "2250",
+				"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1620A",
+				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 45 - Ciclo 0"
+			},
+			{
+				"id": "2250",
+				"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1620A",
+				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1805",
+		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "CA03E",
+				"nombre": "CALCULO 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP34",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP35",
+				"nombre": "MECANICA DE LOS FLUIDOS E HIDRAULICA(74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "FI04E",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1830",
+		"nombre": "ELEMENTOS DE METEOROLOGIA Y CLIMA",
+		"pcurso": [
+			{
+				"id": "MA01",
+				"nombre": "CALCULO 1 O CAL.DIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01",
+				"nombre": "FIS.GRAL. 1 O FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA01E",
+				"nombre": "CALCULO 1 O CALDIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1830",
+				"nombre": "ELEMENTOS DE METEOROLOGIA Y CLIMA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI01E",
+				"nombre": "FISICA GENERAL 1 O FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1151",
+		"nombre": "FISICA 1",
+		"pcurso": [
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1152",
+		"nombre": "FISICA 2",
+		"pcurso": [
+			{
+				"id": "CALYC",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FIS1C",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CALYE",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1153",
+		"nombre": "FISICA 3",
+		"pcurso": [
+			{
+				"id": "CALYC",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FIS",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CALYE",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2209",
+		"nombre": "FISICA DEL SISTEMA CLIMATICO",
+		"pcurso": [
+			{
+				"id": "MA01E",
+				"nombre": "CALCULO 1 O CALDIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA02E",
+				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01E",
+				"nombre": "FISICA GENERAL 1 O FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2209",
+				"nombre": "FISICA DEL SISTEMA CLIMATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1154",
+		"nombre": "FISICA EXPERIMENTAL 1",
+		"pcurso": [
+			{
+				"id": "G1124",
+				"nombre": "FIS1 (E) O FIS2 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "YFI29",
+				"nombre": "TALLER I",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1155",
+		"nombre": "FISICA EXPERIMENTAL 2",
+		"pcurso": [
+			{
+				"id": "F3C",
+				"nombre": "FIS.3 O FIS. GRAL.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FE1",
+				"nombre": "FIS.EXP.1 O LAB.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1127",
+				"nombre": "LABORATORIO 2",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "YFI41",
+				"nombre": "TALLER II",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1121",
+		"nombre": "FISICA GENERAL 2",
+		"pcurso": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1123",
+		"nombre": "FISICA TERMICA",
+		"pcurso": [
+			{
+				"id": "MA01E",
+				"nombre": "CALCULO 1 O CALDIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01E",
+				"nombre": "FISICA GENERAL 1 O FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI02C",
+				"nombre": "FISICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP42",
+				"nombre": "FISICA II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1073",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP12",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "YFI04",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2259",
+		"nombre": "FUND. DE ING. Y SALUD AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "2250C",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254",
+				"nombre": "FUND. DE ING. AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2259",
+				"nombre": "FUND. DE ING. Y SALUD AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [
+			{
+				"id": "MA01C",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA06E",
+				"nombre": "MATEMATICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1139",
+		"nombre": "INESTABILIDADES EN FLUIDOS",
+		"pcurso": [
+			{
+				"id": "MA05C",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "YMEC",
+				"nombre": "ELEM.MEC.DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1139",
+				"nombre": "INESTABILIDADES EN FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1131",
+		"nombre": "INT. A LA FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "YFI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "FI04C",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1131",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1138",
+		"nombre": "INT. A LA FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "YFI08",
+				"nombre": "FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "FI04C",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1138",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1126",
+		"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1226",
+		"nombre": "MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "MA05C",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA04E",
+				"nombre": "GEOMETRIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP34",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP35",
+				"nombre": "MECANICA DE LOS FLUIDOS E HIDRAULICA(74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1226",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1122",
+		"nombre": "MECANICA NEWTONIANA",
+		"pcurso": [
+			{
+				"id": "MA01E",
+				"nombre": "CALCULO 1 O CALDIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01E",
+				"nombre": "FISICA GENERAL 1 O FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI02C",
+				"nombre": "FISICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "YFI32",
+				"nombre": "MECANICA CLASICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP8",
+				"nombre": "MECANICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2212",
+		"nombre": "METEOROLOGIA DINAMICA Y SINOPTICA",
+		"pcurso": [
+			{
+				"id": "YME13",
+				"nombre": "FISICA DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "YME14",
+				"nombre": "INTRO.A LA DINAMICA DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "YME13",
+				"nombre": "FISICA DE LA ATMOSFERA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "YME14",
+				"nombre": "INTRO.A LA DINAMICA DE LA ATMOSFERA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2212",
+				"nombre": "METEOROLOGIA DINAMICA Y SINOPTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1033",
+		"nombre": "METODOS NUMERICOS",
+		"pcurso": [
+			{
+				"id": "MA01E",
+				"nombre": "CALCULO 1 O CALDIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA02E",
+				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA04E",
+				"nombre": "GEOMETRIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1079",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CO01E",
+				"nombre": "PROGRAMACION O COMPUTACION",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2024",
+		"nombre": "PERCEPCION REMOTA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2024",
+				"nombre": "PERCEPCION REMOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1620",
+		"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+		"pcurso": [
+			{
+				"id": "CP120",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "YBG1",
+				"nombre": "QUIMICA I (2013-",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP119",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1620",
+				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP49",
+				"nombre": "ANALISIS MATEMATICO II (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MA02C",
+				"nombre": "CALCULO 1C Y CALCULO2E",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA03E",
+				"nombre": "GEOMETRIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1317",
+		"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1317",
+				"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1144",
+		"nombre": "VIBRACIONES Y ONDAS",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1144",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

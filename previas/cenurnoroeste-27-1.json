@@ -1,0 +1,1551 @@
+[
+	{
+		"id": "TIC20",
+		"nombre": "CANTO II",
+		"pcurso": [
+			{
+				"id": "TIC10",
+				"nombre": "CANTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIC30",
+		"nombre": "CANTO III",
+		"pcurso": [
+			{
+				"id": "TIC10",
+				"nombre": "CANTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC20",
+				"nombre": "CANTO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIC40",
+		"nombre": "CANTO IV",
+		"pcurso": [
+			{
+				"id": "TIC20",
+				"nombre": "CANTO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIC50",
+		"nombre": "CANTO V",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIC60",
+		"nombre": "CANTO VI",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC50",
+				"nombre": "CANTO V",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIC70",
+		"nombre": "CANTO VII",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC50",
+				"nombre": "CANTO V",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC60",
+				"nombre": "CANTO VI",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TIC80",
+		"nombre": "CANTO VIII",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC60",
+				"nombre": "CANTO VI",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC70",
+				"nombre": "CANTO VII",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI500",
+		"nombre": "LECTOESCRITURA V",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI600",
+		"nombre": "LECTOESCRITURA VI",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI700",
+		"nombre": "LECTOESCRITURA VII",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI800",
+		"nombre": "LECTOESCRITURA VIII",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI501",
+		"nombre": "TALLER DE ANÁLISIS I",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI601",
+		"nombre": "TALLER DE ANÁLISIS II",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI701",
+		"nombre": "TALLER DE ANÁLISIS III",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI801",
+		"nombre": "TALLER DE ANÁLISIS IV",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI502",
+		"nombre": "TALLER DE PRÁCTICA DOCENTE I",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI602",
+		"nombre": "TALLER DE PRÁCTICA DOCENTE II",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI702",
+		"nombre": "TALLER DE PRÁCTICA DOCENTE III",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "TI802",
+		"nombre": "TALLER DE PRÁCTICA DOCENTE IV",
+		"pcurso": [
+			{
+				"id": "TIC30",
+				"nombre": "CANTO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TIC40",
+				"nombre": "CANTO IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI102",
+				"nombre": "HISTORIA DE LA MÚSICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI202",
+				"nombre": "HISTORIA DE LA MÚSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI302",
+				"nombre": "HISTORIA DE LA MÚSICA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI402",
+				"nombre": "HISTORIA DE LA MÚSICA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI100",
+				"nombre": "LECTOESCRITURA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI200",
+				"nombre": "LECTOESCRITURA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI300",
+				"nombre": "LECTOESCRITURA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI400",
+				"nombre": "LECTOESCRITURA IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI301",
+				"nombre": "PRACTICA CORAL III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI201",
+				"nombre": "PRÁCTICA CORAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI401",
+				"nombre": "PRÁCTICA CORAL IV",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "TI101",
+				"nombre": "PRÁTICA CORAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

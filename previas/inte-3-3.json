@@ -1,0 +1,33 @@
+[
+	{
+		"id": "TIIO",
+		"nombre": "TALLER INTR A LA INVEST DE OPERACIONES",
+		"pcurso": [
+			{
+				"id": "MC10T",
+				"nombre": "CALCULO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MC10T",
+				"nombre": "CALCULO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP1",
+				"nombre": "COMPUTACIÓN 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "COMP1",
+				"nombre": "COMPUTACIÓN 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

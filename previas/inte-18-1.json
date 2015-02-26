@@ -1,0 +1,115 @@
+[
+	{
+		"id": "AT11",
+		"nombre": "ENTRENAMIENT ESPECÍFICO DE LA DISCIPLINA",
+		"pcurso": [
+			{
+				"id": "AT07",
+				"nombre": "BASES GENERALES  DE ENTRENAMIENTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AT07",
+				"nombre": "BASES GENERALES  DE ENTRENAMIENTO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AT13",
+		"nombre": "EVALUACIÓN ESPECÍFICA DE LA DISCIPLINA",
+		"pcurso": [
+			{
+				"id": "AT12",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AT12",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "TC03",
+		"nombre": "FISIOLOGÍA II",
+		"pcurso": [
+			{
+				"id": "TC02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TC02",
+				"nombre": "FISIOLOGÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AT05",
+		"nombre": "INTRODUCCIÓN ESPECÍFICA DE LA PRÁCTICA",
+		"pcurso": [
+			{
+				"id": "AT04",
+				"nombre": "INTRODUCCIÓN GENERAL DE LA PRÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "AT04",
+				"nombre": "INTRODUCCIÓN GENERAL DE LA PRÁCTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AT14",
+		"nombre": "PRÁCTICA PROFESIONAL",
+		"pcurso": [
+			{
+				"id": "AT05",
+				"nombre": "INTRODUCCIÓN ESPECÍFICA DE LA PRÁCTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "AT09",
+		"nombre": "PSICOLOGÍA DEL DEPORTE",
+		"pcurso": [
+			{
+				"id": "TC04",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "TC04",
+				"nombre": "PSICOLOGÍA Y TEORÍAS DEL APRENDIZAJE",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

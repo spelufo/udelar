@@ -1,0 +1,252 @@
+[
+	{
+		"id": "A14A",
+		"nombre": "TALLER I ANTROPOLOGIA CULTURAL Y SOCIAL",
+		"pcurso": [
+			{
+				"id": "A6",
+				"nombre": "ANTROPOLOGIA SOCIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1A",
+				"nombre": "ECOLOGIA HUMANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A3",
+				"nombre": "ETNOLOGIA GRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A8",
+				"nombre": "METODOLOGIA ANTROPOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B100B",
+				"nombre": "TEC.INVEST. ARQ/ANT",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "TEORIA ANTROPOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A6",
+				"nombre": "ANTROPOLOGIA SOCIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1A",
+				"nombre": "ECOLOGIA HUMANA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A3",
+				"nombre": "ETNOLOGIA GRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A8",
+				"nombre": "METODOLOGIA ANTROPOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B100",
+				"nombre": "TEC.INVEST ARQ/ANT            ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "TEORIA ANTROPOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A14",
+		"nombre": "TALLER I EN ARQUEOLOGIA",
+		"pcurso": [
+			{
+				"id": "1A",
+				"nombre": "ECOLOGIA HUMANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A8",
+				"nombre": "METODOLOGIA ANTROPOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A5",
+				"nombre": "PREHISTORIA AMERICANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "PREHISTORIA Y ARQUEOLOGIA GRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B100B",
+				"nombre": "TEC.INVEST. ARQ/ANT",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "TEORIA ANTROPOLOGICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1A",
+				"nombre": "ECOLOGIA HUMANA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "F7",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A8",
+				"nombre": "METODOLOGIA ANTROPOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A5",
+				"nombre": "PREHISTORIA AMERICANA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A2",
+				"nombre": "PREHISTORIA Y ARQUEOLOGIA GRAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "B100",
+				"nombre": "TEC.INVEST ARQ/ANT            ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A7",
+				"nombre": "TEORIA ANTROPOLOGICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A15A",
+		"nombre": "TALLER II ANTROPOLOGIA CULTURAL Y SOCIAL",
+		"pcurso": [
+			{
+				"id": "B200B",
+				"nombre": "TALLER I ARQ/ANT",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "TALLER I ARQ./ANT.            ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A15",
+		"nombre": "TALLER II EN ARQUEOLOGIA",
+		"pcurso": [
+			{
+				"id": "B200B",
+				"nombre": "TALLER I ARQ/ANT",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "B200",
+				"nombre": "TALLER I ARQ./ANT.            ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A12A",
+		"nombre": "TEC.INVEST.ANTROP.SOCIAL Y CULTURAL",
+		"pcurso": [
+			{
+				"id": "110",
+				"nombre": "ESTADISTICA                   ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "A12",
+		"nombre": "TECNICAS DE INVESTIGACION ARQUEOLOGIA",
+		"pcurso": [
+			{
+				"id": "110",
+				"nombre": "ESTADISTICA                   ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

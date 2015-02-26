@@ -1,0 +1,282 @@
+[
+	{
+		"id": "S954",
+		"nombre": "ENFERMERIA EN PACIENTE CRITICO",
+		"pcurso": [
+			{
+				"id": "S950",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S942",
+				"nombre": "METODOLOGIA DE ENFERMERIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S952",
+				"nombre": "METODOLOGIA EN ENFERMERIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "S954",
+				"nombre": "ENFERMERIA EN PACIENTE CRITICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S963",
+		"nombre": "INTERNADO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "S959",
+				"nombre": "ADMINISTRACIO (ENFERMERIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S943",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S955",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S946",
+				"nombre": "APARATO LOCOMOTOR Y ESPLACNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S960",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S944",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S947",
+				"nombre": "CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S948",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S958",
+				"nombre": "ENFERMERIA COMUNITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S954",
+				"nombre": "ENFERMERIA EN PACIENTE CRITICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S950",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S953",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S957",
+				"nombre": "EPISTEMOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S961",
+				"nombre": "EPISTEMOLOGIA III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S956",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S942",
+				"nombre": "METODOLOGIA DE ENFERMERIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S941",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S951",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S952",
+				"nombre": "METODOLOGIA EN ENFERMERIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S945",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S949",
+				"nombre": "REPRODUCTOR Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S962",
+				"nombre": "TRABAJO DE INVESTIGACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "S962",
+		"nombre": "TRABAJO DE INVESTIGACION",
+		"pcurso": [
+			{
+				"id": "S943",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S955",
+				"nombre": "ADMINISTRACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S946",
+				"nombre": "APARATO LOCOMOTOR Y ESPLACNICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S944",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S947",
+				"nombre": "CARDIOVASCULAR Y RESPIRATORIO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S948",
+				"nombre": "DIGESTIVO RENAL Y ENDOCRINO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S954",
+				"nombre": "ENFERMERIA EN PACIENTE CRITICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S950",
+				"nombre": "ENFERMERIA MEDICO QUIRURGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S953",
+				"nombre": "EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S957",
+				"nombre": "EPISTEMOLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S956",
+				"nombre": "METODOLOGIA CIENTIFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S942",
+				"nombre": "METODOLOGIA DE ENFERMERIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S941",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S951",
+				"nombre": "METODOLOGIA DE LA INVESTIGACION II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S952",
+				"nombre": "METODOLOGIA EN ENFERMERIA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S945",
+				"nombre": "NEUROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "S949",
+				"nombre": "REPRODUCTOR Y DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

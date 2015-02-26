@@ -1,0 +1,97 @@
+[
+	{
+		"id": "B101P",
+		"nombre": "HISTORIA DE LOS DOCUMENTOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "B101P",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "B101P",
+				"nombre": "HISTORIA DE LOS DOCUMENTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "A101P",
+		"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A101P",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A101P",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "A102P",
+		"nombre": "INT A LA ARCHIVOLOGÍA Y CS DE LA INF",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A102P",
+				"nombre": "INT A LA ARCHIVOLOGÍA Y CS DE LA INF",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "A102P",
+				"nombre": "INT A LA ARCHIVOLOGÍA Y CS DE LA INF",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "103P",
+		"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "103P",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "103P",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "104P",
+		"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "104P",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "104P",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	}
+]

@@ -1,0 +1,73 @@
+[
+	{
+		"id": "EEDH",
+		"nombre": "ENTRENAM.ESPECIF. DE LA DISCIPLINA HANDB",
+		"pcurso": [
+			{
+				"id": "BGEH",
+				"nombre": "BASES GENERALES DEL ENTRENAMIENTO HANDBA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "EVEDH",
+		"nombre": "EVALUAC.ESPECIF.DE LA DISCIPLINA HANDBAL",
+		"pcurso": [
+			{
+				"id": "BEDH",
+				"nombre": "BASES DE LA EVALUACIÓN DEPORTIVA HANDBAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "F2H",
+		"nombre": "FISIOLOGÍA II - HANDABALL",
+		"pcurso": [
+			{
+				"id": "F1H",
+				"nombre": "FISIOLOGIA I - HANDBALL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "IEPH",
+		"nombre": "INTROD. ESPECÍFICA A LA PRACTICA HANDBAL",
+		"pcurso": [
+			{
+				"id": "IGPH",
+				"nombre": "INTROD.GRAL. A LA PRACTICA HANDBALL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "PPH",
+				"nombre": "PRÁCTICA PROFESIONAL - HANDBALL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "PDH",
+		"nombre": "PSICOLOGÍA DEL DEPORTE - HANDBALL",
+		"pcurso": [
+			{
+				"id": "PTAH",
+				"nombre": "PSICOLOGIA Y TEORIAS DEL APRENDIZAJE- HA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

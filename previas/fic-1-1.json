@@ -1,0 +1,169 @@
+[
+	{
+		"id": "ALF",
+		"nombre": "ALFABETIZACIÓN EN INFORMACIÓN",
+		"pcurso": [
+			{
+				"id": "A201",
+				"nombre": "GESTION DOCUMENTAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A101",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A102",
+				"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "105",
+				"nombre": "INTR. VIDA UNIVERSITARIA Y ALF. ACADEM.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INTRODUCIÓN AL INGLÉS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "IPAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "ORGANIZACIÓN DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A201",
+				"nombre": "GESTION DOCUMENTAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A101",
+				"nombre": "HISTORIA INSTITUCIONAL DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "A102",
+				"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "103",
+				"nombre": "INTRODUCCION A LA EPISTEMOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "104",
+				"nombre": "INTRODUCCION A LAS CIENCIAS SOCIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INTRODUCIÓN AL INGLÉS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "IPAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "205",
+				"nombre": "ORGANIZACIÓN DOCUMENTAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A201",
+		"nombre": "GESTION DOCUMENTAL I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A201",
+				"nombre": "GESTION DOCUMENTAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A102",
+		"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "A102",
+				"nombre": "INT A LA ARCHIVOLOGIA Y CS DE LA INF",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GA34E",
+				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "205",
+		"nombre": "ORGANIZACIÓN DOCUMENTAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "205",
+				"nombre": "ORGANIZACIÓN DOCUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

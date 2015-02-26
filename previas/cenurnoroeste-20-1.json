@@ -1,0 +1,563 @@
+[
+	{
+		"id": "CH205",
+		"nombre": "AGROMETEOROLOGÍA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 20 - Ciclo 1. Área Temática: PRIMER AÑO"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CH205",
+				"nombre": "AGROMETEOROLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CH204",
+		"nombre": "EDAFOLOGÍA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 20 - Ciclo 1. Área Temática: PRIMER AÑO"
+			},
+			{
+				"id": "SRN18",
+				"nombre": "GEOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CH204",
+				"nombre": "EDAFOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CH403",
+		"nombre": "GEOFÍSICA GENERAL",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN19",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN18",
+				"nombre": "GEOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH404",
+		"nombre": "GEOTÉCNICA",
+		"pcurso": [
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN18",
+				"nombre": "GEOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH202",
+				"nombre": "MECÁNICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH203",
+		"nombre": "HIDROLOGÍA",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH303",
+		"nombre": "HIDRÁULICA DE CONDUCCIONES A SUP. LIBRE",
+		"pcurso": [
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH402",
+		"nombre": "INSTALACIONES HIDRÁULICAS A PRESIÓN",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH202",
+		"nombre": "MECÁNICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH406",
+		"nombre": "MEDIO AMBIENTE Y CALIDAD DE AGUA",
+		"pcurso": [
+			{
+				"id": "CH203",
+				"nombre": "HIDROLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH302",
+				"nombre": "QUÍMICA DEL AGUA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH401",
+		"nombre": "MODELOS HIDROLÓGICOS",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH203",
+				"nombre": "HIDROLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CIM20",
+				"nombre": "MÉTODOS NUMÉRICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH201",
+				"nombre": "PROBABILIDAD Y ESTADÍSTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH405",
+		"nombre": "MÉTODOS GEOFÍSICOS APLICADOS",
+		"pcurso": [
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN19",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH403",
+				"nombre": "GEOFÍSICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN18",
+				"nombre": "GEOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH201",
+		"nombre": "PROBABILIDAD Y ESTADÍSTICA",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH302",
+		"nombre": "QUÍMICA DEL AGUA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 20 - Ciclo 1. Área Temática: PRIMER AÑO"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "CH407",
+		"nombre": "SISTEMA DE RIEGO Y DRENAJE 1",
+		"pcurso": [
+			{
+				"id": "CH205",
+				"nombre": "AGROMETEOROLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH204",
+				"nombre": "EDAFOLOGÍA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH303",
+				"nombre": "HIDRÁULICA DE CONDUCCIONES A SUP. LIBRE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH402",
+				"nombre": "INSTALACIONES HIDRÁULICAS A PRESIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH304",
+				"nombre": "TOPOGRAFÍA Y SISTEMAS DE INFO.GEOGRÁFICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CH205",
+				"nombre": "AGROMETEOROLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH204",
+				"nombre": "EDAFOLOGÍA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "CH304",
+				"nombre": "TOPOGRAFÍA Y SISTEMAS DE INFO.GEOGRÁFICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "CH304",
+		"nombre": "TOPOGRAFÍA Y SISTEMAS DE INFO.GEOGRÁFICA",
+		"pcurso": [
+			{
+				"id": "SRN02",
+				"nombre": "CÁLCULO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN09",
+				"nombre": "CÁLCULO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "REF04",
+				"nombre": "FÍSICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN11",
+				"nombre": "FÍSICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN03",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN10",
+				"nombre": "GEOMETRÍA Y ALGEBRA LINEAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "SRN06",
+				"nombre": "TALLER DE DISEÑO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

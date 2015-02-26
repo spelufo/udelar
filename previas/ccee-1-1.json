@@ -1,0 +1,323 @@
+[
+	{
+		"id": "541",
+		"nombre": "AUDITORIA",
+		"pcurso": [
+			{
+				"id": "307",
+				"nombre": "CONTABILIDAD SUPERIOR         ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "COSTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "307",
+				"nombre": "CONTABILIDAD SUPERIOR         ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "COSTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5412",
+		"nombre": "AUDITORIA II",
+		"pcurso": [
+			{
+				"id": "5411",
+				"nombre": "AUDITORIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5411",
+				"nombre": "AUDITORIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "307B",
+		"nombre": "CONT.Y CAMBIO DE PRECIOS   (PLAN 90)",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "307",
+		"nombre": "CONTABILIDAD SUPERIOR.",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "300",
+		"nombre": "COSTOS",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "308",
+		"nombre": "ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "421",
+		"nombre": "FINANZAS DE EMPRESAS",
+		"pcurso": [
+			{
+				"id": "307",
+				"nombre": "CONTABILIDAD SUPERIOR         ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "COSTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "307",
+				"nombre": "CONTABILIDAD SUPERIOR         ",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "300",
+				"nombre": "COSTOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "426",
+		"nombre": "GESTION FINANCIERA DEL ESTADO",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "CONTABILIDAD NACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "ORG.Y ADMINISTRACION EMPRESAS ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "204",
+				"nombre": "CONTABILIDAD NACIONAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "212",
+				"nombre": "ECONOMÍA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "203",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "206",
+				"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "202",
+				"nombre": "ORG.Y ADMINISTRACION EMPRESAS ",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "309",
+		"nombre": "INSTITUCIONES DE DERECHO PRIVADO III",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "203",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "406",
+		"nombre": "PERICIAS CONTABLES",
+		"pcurso": [
+			{
+				"id": "309",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "309",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO III",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "307A",
+		"nombre": "TEORIA CONTABLE SUPERIOR   (PLAN 90)",
+		"pcurso": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "200",
+				"nombre": "CONTABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

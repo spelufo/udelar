@@ -1,0 +1,2933 @@
+[
+	{
+		"id": "1944",
+		"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "Q25",
+		"nombre": "ANALISIS INSTRUMENTAL",
+		"pcurso": [
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q25",
+				"nombre": "ANALISIS INSTRUMENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "C1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "172Q",
+				"nombre": "CALCULO 2",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020E",
+				"nombre": "CALCULO 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "176Q",
+				"nombre": "CALCULO 3",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1411",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "CA2",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GE2",
+				"nombre": "GEOMETRIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1510",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 300,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			},
+			{
+				"id": "CQ3",
+				"nombre": "CREDITOS POR CONTROL DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q64",
+		"nombre": "CONVERSION ELECTROQUIMICA DE ENERGIA",
+		"pcurso": [
+			{
+				"id": "521",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q70C",
+				"nombre": "ING. DE LAS REACIONES QUIM.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q64",
+				"nombre": "CONVERSION ELECTROQUIMICA DE ENERGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q79",
+		"nombre": "CORROSION Y PREVENCION",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1922",
+		"nombre": "COSTOS PARA INGENIERIA",
+		"pcurso": [
+			{
+				"id": "Q93",
+				"nombre": "INT.ING.QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1922",
+				"nombre": "COSTOS PARA INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q99",
+		"nombre": "DETERIORO Y PRESERVACION DE MADERAS",
+		"pcurso": [
+			{
+				"id": "A75",
+				"nombre": "MICROB.GRAL. O INT.ING.BIOQUIM",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z401C",
+				"nombre": "QUIMICA ORGANICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q86",
+				"nombre": "TECNOLOGIA DE LOS PRODUCTOS  FORESTALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q94",
+		"nombre": "DINAMICA Y CONTROL DE PROCESOS",
+		"pcurso": [
+			{
+				"id": "C1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q70C",
+				"nombre": "ING. DE LAS REACIONES QUIM.2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q24",
+		"nombre": "DISEÑO Y REPRES. GRAF. P/IND. DE PROC.",
+		"pcurso": [
+			{
+				"id": "CQ37",
+				"nombre": "CREDITOS POR DIBUJO",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1074",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "174Q",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2104",
+		"nombre": "ELECTROTECNICA 1",
+		"pcurso": [
+			{
+				"id": "1022Q",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1121B",
+				"nombre": "FISICA 102 Y 103 O FIS. EXP. 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1121A",
+				"nombre": "FISICA 102 Y 103 O FISICA 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2105",
+		"nombre": "ELECTROTECNICA 2",
+		"pcurso": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2105",
+				"nombre": "ELECTROTECNICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2108",
+				"nombre": "ELECTROTECNICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2108",
+		"nombre": "ELECTROTECNICA I",
+		"pcurso": [
+			{
+				"id": "1022Q",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1121A",
+				"nombre": "FISICA 102 Y 103 O FISICA 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2108",
+				"nombre": "ELECTROTECNICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1826",
+		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+		"pcurso": [
+			{
+				"id": "Q75",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1826",
+				"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2244",
+		"nombre": "ELEMENTOS DE GESTION LOGISTICA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 225,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q88",
+		"nombre": "ENERGIA APLICADA A LA INDUSTRIA",
+		"pcurso": [
+			{
+				"id": "Z301",
+				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q21",
+				"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q22",
+		"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+		"pcurso": [
+			{
+				"id": "CQ31",
+				"nombre": "CREDITOS POR FEN. TRANSPORTE  Y FLUIDO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ41",
+				"nombre": "CREDITOS POR FENOMENOS DE TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "G1120",
+				"nombre": "FIS 101 O FIS.GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1121G",
+				"nombre": "FISICA 101 O FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z406",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1022",
+				"nombre": "MAT 01,101 O CAL2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1031",
+				"nombre": "MAT 03,102 O GEOM 1Y2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1024",
+				"nombre": "MAT 04,104 O CAL3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1028",
+				"nombre": "MAT 07 Y 08 O MAT 105 O EC.DI.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GZ202",
+				"nombre": "QUIM.GRAL.I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q22",
+				"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1151",
+		"nombre": "FISICA 1",
+		"pcurso": [
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1152",
+		"nombre": "FISICA 2",
+		"pcurso": [
+			{
+				"id": "CALQC",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1C",
+				"nombre": "FISICA 1 O FISICA GRAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1153",
+		"nombre": "FISICA 3",
+		"pcurso": [
+			{
+				"id": "CALQC",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FIS",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "E1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1154",
+		"nombre": "FISICA EXPERIMENTAL 1",
+		"pcurso": [
+			{
+				"id": "154Q",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G1124",
+				"nombre": "FIS1 (E) O FIS2 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [
+			{
+				"id": "117Q",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1121",
+		"nombre": "FISICA GENERAL 2",
+		"pcurso": [
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "118Q",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1142",
+		"nombre": "FISICA NUCLEAR",
+		"pcurso": [
+			{
+				"id": "Q23E",
+				"nombre": "FENOMENOS DE TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z205",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z304",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1142",
+				"nombre": "FISICA NUCLEAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q66",
+		"nombre": "FLUIDODINAMICA",
+		"pcurso": [
+			{
+				"id": "CQ31",
+				"nombre": "CREDITOS POR FEN. TRANSPORTE  Y FLUIDO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ42",
+				"nombre": "CREDITOS POR FLUIDODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "ZCP35",
+				"nombre": "CRÉDITOS POR FLUIDODINÁMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "FI102",
+				"nombre": "EXAMEN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z406E",
+				"nombre": "FISICOQUIMICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q93C",
+				"nombre": "INT.A LA ING.QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302C",
+				"nombre": "QUIMICA ANALITICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303C",
+				"nombre": "QUIMICA INORGANICA Y LABORAT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301C",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q66",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q28",
+		"nombre": "FUND. DE LA PROD. DE CELULOSA Y PAPEL",
+		"pcurso": [
+			{
+				"id": "Q69C",
+				"nombre": "ING. DE LAS REAC.QUIM.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q72C",
+				"nombre": "TEC.Y SERV.IND.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q28",
+				"nombre": "FUND. DE LA PROD. DE CELULOSA Y PAPEL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q69E",
+				"nombre": "ING.REAC.QUIM.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q72E",
+				"nombre": "TEC. Y SERV. IND. 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68E",
+				"nombre": "TRANSF.DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q87",
+		"nombre": "FUNDAMENTOS DE MATERIALES CERAMICOS",
+		"pcurso": [
+			{
+				"id": "FI102",
+				"nombre": "EXAMEN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q21",
+				"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [
+			{
+				"id": "1030C",
+				"nombre": "GEOM. 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "Q14",
+		"nombre": "GEST.INTEG.DE EMPR.CON ENF.A PROCESOS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1940",
+		"nombre": "GESTION DE CALIDAD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			},
+			{
+				"id": "1921",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1940",
+				"nombre": "GESTION DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q65",
+		"nombre": "GESTION DE LABORATORIOS",
+		"pcurso": [
+			{
+				"id": "C1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q624",
+		"nombre": "GESTION DE LOS PROCES.  EN LA INDUSTRIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q26",
+		"nombre": "INDUSTRIA CARNICA",
+		"pcurso": [
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q72C",
+				"nombre": "TEC.Y SERV.IND.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q81",
+		"nombre": "INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "Q500C",
+				"nombre": "DISEÑO DE REACTORES(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q81",
+				"nombre": "INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q69",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+		"pcurso": [
+			{
+				"id": "CQ43",
+				"nombre": "CREDITOS POR DISEÑO DE REACTORES",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "E1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z520",
+				"nombre": "FISICOQUIMICA III EXAMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303",
+				"nombre": "QUIMICA INORGANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q403",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q70",
+		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+		"pcurso": [
+			{
+				"id": "Q70R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ43",
+				"nombre": "CREDITOS POR DISEÑO DE REACTORES",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q70",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q89",
+		"nombre": "INGENIERIA DE LOS PROCESOS ELECTROQUIM.",
+		"pcurso": [
+			{
+				"id": "Q500C",
+				"nombre": "DISEÑO DE REACTORES(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "521",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q89",
+				"nombre": "INGENIERIA DE LOS PROCESOS ELECTROQUIM.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2704",
+		"nombre": "INSTRUMENTACION INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2104",
+				"nombre": "ELECTROTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q89",
+				"nombre": "INGENIERIA DE LOS PROCESOS ELECTROQUIM.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2704",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2706",
+		"nombre": "INSTRUMENTACION INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "E1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2104",
+				"nombre": "ELECTROTEC.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q23E",
+				"nombre": "FENOMENOS DE TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q73",
+				"nombre": "MECANICA APLICADA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2706",
+				"nombre": "INSTRUMENTACION INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q91",
+		"nombre": "INT. A LA ADMINISTRACION DE OPERACIONES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 270,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1519",
+		"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2253",
+		"nombre": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2253",
+				"nombre": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q59",
+		"nombre": "INT. A LA ING. QUIMICA Y DE PROCESOS",
+		"pcurso": [
+			{
+				"id": "E1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1151",
+				"nombre": "FISICA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q93",
+				"nombre": "INT. A LA INGENIERIA QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z202",
+				"nombre": "QUIMICA GENERAL II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q59",
+				"nombre": "INT. A LA ING. QUIMICA Y DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q77",
+		"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "CQ44",
+				"nombre": "CREDITOS POR FUNDAM. DE ING. BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z508",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z520",
+				"nombre": "FISICOQUIMICA III EXAMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z301",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z401E",
+				"nombre": "QUIMICA ORGANICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q77",
+				"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q77B",
+		"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "CQ44",
+				"nombre": "CREDITOS POR FUNDAM. DE ING. BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z520",
+				"nombre": "FISICOQUIMICA III EXAMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "A75",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Z501",
+				"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z301",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z401E",
+				"nombre": "QUIMICA ORGANICA 102",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q77B",
+				"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q93",
+		"nombre": "INT. A LA INGENIERIA QUIMICA",
+		"pcurso": [
+			{
+				"id": "E1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1120",
+				"nombre": "FISICA GENERAL1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z202",
+				"nombre": "QUIMICA GENERAL II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q93",
+				"nombre": "INT. A LA INGENIERIA QUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q58",
+		"nombre": "INT. A LA PREVENC. DE RIESGOS LABORALES",
+		"pcurso": [
+			{
+				"id": "Q71C",
+				"nombre": "TEC.Y SERV.IND.1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q58",
+				"nombre": "INT. A LA PREVENC. DE RIESGOS LABORALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2258",
+		"nombre": "INT. AL SISTEMA CLIMATICO",
+		"pcurso": [
+			{
+				"id": "E1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1120",
+				"nombre": "FIS 101 O FIS.GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2258",
+				"nombre": "INT. AL SISTEMA CLIMATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q73",
+		"nombre": "MECANICA APLICADA (ING.QUÍM)",
+		"pcurso": [
+			{
+				"id": "104Q",
+				"nombre": "CALCULO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CQ32",
+				"nombre": "CREDITOS POR MECANICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "103Q",
+				"nombre": "F102 Y 103 O F2 Y F.EXP.1 O F3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "102Q",
+				"nombre": "FIS102 Y 103 O FIS2 Y FIS.EXP1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q73",
+				"nombre": "MECANICA APLICADA (ING.QUÍM)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1033",
+		"nombre": "METODOS NUMERICOS",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1411",
+				"nombre": "COMPUT. 1 (E)  89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1079",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A75",
+		"nombre": "MICROBIOLOGIA GENERAL",
+		"pcurso": [
+			{
+				"id": "Z514",
+				"nombre": "BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CA2",
+				"nombre": "CREDITOS POR MICROBIOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q77",
+				"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q77B",
+				"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "A75",
+				"nombre": "MICROBIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1129",
+		"nombre": "OPTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "Z205",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z304",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z04",
+				"nombre": "MATEMATICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1129",
+				"nombre": "OPTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q82",
+		"nombre": "PASANTIA-TRABAJO EXPERIM. MOD.1 BASICO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 190,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 24,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ING.DE PROC.QUIMICOS Y BIOLOG."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: INGENIERIA DE PROCESOS FISICOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ACTIV.INTEGRADORAS DE ING.QUIM"
+			},
+			{
+				"id": "CQ2",
+				"nombre": "CREDITOS POR PROYECTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q83",
+		"nombre": "PASANTIA-TRABAJO EXPERIM. MOD.2",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 190,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 24,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ING.DE PROC.QUIMICOS Y BIOLOG."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: INGENIERIA DE PROCESOS FISICOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ACTIV.INTEGRADORAS DE ING.QUIM"
+			},
+			{
+				"id": "Q82YC",
+				"nombre": "PASANTIA TRASB. EXPER.MOD.1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q84",
+		"nombre": "PASANTIA-TRABAJO EXPERIM. MOD.3",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 190,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 24,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ING.DE PROC.QUIMICOS Y BIOLOG."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: INGENIERIA DE PROCESOS FISICOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ACTIV.INTEGRADORAS DE ING.QUIM"
+			},
+			{
+				"id": "Q82YC",
+				"nombre": "PASANTIA TRASB. EXPER.MOD.1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1945",
+		"nombre": "PRACTICA DE ADMINIST. PARA INGENIEROS",
+		"pcurso": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CM14",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "175Q",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q80",
+		"nombre": "PROYECTO INDUSTRIAL 1",
+		"pcurso": [
+			{
+				"id": "CQ2",
+				"nombre": "CREDITOS POR PROYECTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q500C",
+				"nombre": "DISEÑO DE REACTORES(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2108",
+				"nombre": "ELECTROT.1 O ELECTROT.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508C",
+				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q73",
+				"nombre": "MECANICA APLICADA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q502C",
+				"nombre": "SERV.YTEC.IND.(CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSF. DE CALOR Y MASA 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q57",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "CQ2",
+				"nombre": "CREDITOS POR PROYECTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q57",
+				"nombre": "PROYECTO INDUSTRIAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q85",
+		"nombre": "PROYECTO INDUSTRIAL 2",
+		"pcurso": [
+			{
+				"id": "CQ2",
+				"nombre": "CREDITOS POR PROYECTO INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q80",
+				"nombre": "PROYECTO INDUSTRIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q615",
+		"nombre": "RADIOACTIVIDAD APLICADA",
+		"pcurso": [
+			{
+				"id": "E1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q615",
+				"nombre": "RADIOACTIVIDAD APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q78",
+		"nombre": "SISTEMA DE GESTION DE LABORATORIOS",
+		"pcurso": [
+			{
+				"id": "C1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q98",
+		"nombre": "SISTEMA DE GESTION DE LABORATORIOS",
+		"pcurso": [
+			{
+				"id": "C1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2031",
+		"nombre": "TALLER ENCARARE",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 190,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: MATERIAS BASICAS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 24,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ING.DE PROC.QUIMICOS Y BIOLOG."
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 65,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: INGENIERIA DE PROCESOS FISICOS"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 20,
+				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ACTIV.INTEGRADORAS DE ING.QUIM"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q92",
+		"nombre": "TALLER- LABORATORIO DE PROCESOS QUIMICOS",
+		"pcurso": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q70",
+				"nombre": "ING.REACCIONES QUIM.2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q96",
+		"nombre": "TECNOLOGIA DE LOS PROCESOS BIOLOGICOS",
+		"pcurso": [
+			{
+				"id": "Q81YC",
+				"nombre": "INGENIERIA BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508E",
+				"nombre": "INT. A LA ING. BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q86",
+		"nombre": "TECNOLOGIA DE LOS PRODUCTOS  FORESTALES",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 225,
+				"texto": "Créditos en la Carrera 53 - Ciclo 0"
+			},
+			{
+				"id": "Q99",
+				"nombre": "DETERIORO Y PRESERVACION DE MADERAS",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q86",
+				"nombre": "TECNOLOGIA DE LOS PRODUCTOS  FORESTALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q76",
+		"nombre": "TECNOLOGIA Y GEST. DE LA IND. DEL CUERO",
+		"pcurso": [
+			{
+				"id": "CQ43",
+				"nombre": "ING.DE LAS REACC.QUIM. 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z402",
+				"nombre": "QUIM.ANAL.CUANT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CQ46",
+				"nombre": "TEC. Y SERV. INDUSTRIALES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q71",
+		"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+		"pcurso": [
+			{
+				"id": "CQ46",
+				"nombre": "CREDITOS POR SERVICIOS Y TEC. INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "E1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z521",
+				"nombre": "ELECTROQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z520",
+				"nombre": "FISICOQUIMICA III EXAMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q75",
+				"nombre": "FLUIDODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303",
+				"nombre": "QUIMICA INORGANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q71",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q72",
+		"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 2",
+		"pcurso": [
+			{
+				"id": "CQ46",
+				"nombre": "CREDITOS POR SERVICIOS Y TEC. INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q69",
+				"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q71",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q72",
+				"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1927",
+		"nombre": "TEORIA DE RESTRICCIONES",
+		"pcurso": [
+			{
+				"id": "Q93",
+				"nombre": "INT.ING.QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1927",
+				"nombre": "TEORIA DE RESTRICCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q21",
+		"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+		"pcurso": [
+			{
+				"id": "CQ30",
+				"nombre": "CREDITOS POR TERMODINAMICA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G1120",
+				"nombre": "FIS 101 O FIS.GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1121G",
+				"nombre": "FISICA 101 O FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z406",
+				"nombre": "FISICOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1022",
+				"nombre": "MAT 01,101 O CAL2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1031",
+				"nombre": "MAT 03,102 O GEOM 1Y2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1024",
+				"nombre": "MAT 04,104 O CAL3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "G1028",
+				"nombre": "MAT 07 Y 08 O MAT 105 O EC.DI.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GZ202",
+				"nombre": "QUIM.GRAL.I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q21",
+				"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q67",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [
+			{
+				"id": "CQ38",
+				"nombre": "CREDITOS POR TRANSF. DE CALOR Y MASA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ39",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE CALOR",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ40",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE MASA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "FI102",
+				"nombre": "EXAMEN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z406E",
+				"nombre": "FISICOQUIMICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303",
+				"nombre": "QCA. INORGÁNICA (PLAN 2000)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "Z302C",
+				"nombre": "QUIMICA ANALITICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301C",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402C",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q22",
+				"nombre": "FENOMENOS DE TRANS. EN ING. DE PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q21",
+				"nombre": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "Q67",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q74",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+		"pcurso": [
+			{
+				"id": "CQ38",
+				"nombre": "CREDITOS POR TRANSF. DE CALOR Y MASA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ39",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE CALOR",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ40",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE MASA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "FI102",
+				"nombre": "EXAMEN FISICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z406E",
+				"nombre": "FISICOQUIMICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q93C",
+				"nombre": "INT.A LA ING.QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302C",
+				"nombre": "QUIMICA ANALITICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303C",
+				"nombre": "QUIMICA INORGANICA Y LABORAT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z301C",
+				"nombre": "QUIMICA ORGANICA 101",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402C",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q23E",
+				"nombre": "FENOMENOS DE TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q402",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q68",
+		"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+		"pcurso": [
+			{
+				"id": "CQ38",
+				"nombre": "CREDITOS POR TRANSF. DE CALOR Y MASA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ39",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE CALOR",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "CQ40",
+				"nombre": "CREDITOS POR TRANSFERENCIA DE MASA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "E1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q23",
+				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z520",
+				"nombre": "FISICOQUIMICA III EXAMEN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "E1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z302",
+				"nombre": "QUIMICA ANALITICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Z303",
+				"nombre": "QUIMICA INORGANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74C",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q68",
+				"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q56",
+		"nombre": "TRAT.BIOLOG.DE EFLUENTES Y RESID.SOLIDOS",
+		"pcurso": [
+			{
+				"id": "CQ4",
+				"nombre": "CREDITOS POR TRAT. BIOLOG. DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q70",
+				"nombre": "ING.REACCIONES QUIM.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508E",
+				"nombre": "INT. A LA ING. BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q90",
+				"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q97",
+				"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q56",
+				"nombre": "TRAT.BIOLOG.DE EFLUENTES Y RESID.SOLIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "Q90",
+		"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+		"pcurso": [
+			{
+				"id": "CQ4",
+				"nombre": "CREDITOS POR TRAT. BIOLOG. DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "Q70",
+				"nombre": "ING.REACCIONES QUIM.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508E",
+				"nombre": "INT. A LA ING. BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "Q97",
+		"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+		"pcurso": [
+			{
+				"id": "Q70",
+				"nombre": "ING.REACCIONES QUIM.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q508E",
+				"nombre": "INT. A LA ING. BIOQUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "Q74",
+				"nombre": "TRANSF.CALOR Y MASA 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "Q97",
+				"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

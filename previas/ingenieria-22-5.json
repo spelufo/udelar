@@ -1,0 +1,6258 @@
+[
+	{
+		"id": "E62",
+		"nombre": "ACONDICIONAMIENTO DE EDIFICIOS",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2370",
+		"nombre": "ACONDICIONAMIENTO ELECTRICO",
+		"pcurso": [
+			{
+				"id": "E62",
+				"nombre": "ACONDICIONAMIENTO DE EDIFICIOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1121E",
+				"nombre": "FIS.GRAL.2 Ò ELECTROMAG.P89",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2370",
+				"nombre": "ACONDICIONAMIENTO ELECTRICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1143",
+		"nombre": "ACUSTICA",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "CAL3 O ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122E",
+				"nombre": "MECANICA NEWT.O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1143",
+				"nombre": "ACUSTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2241",
+		"nombre": "ADMINISTRACION DE EMPRESAS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "CP255",
+				"nombre": "ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP274",
+				"nombre": "ADMINISTRACION EN INGENIERIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "AE7",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1944",
+		"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1021",
+		"nombre": "ALGEBRA LINEAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"nombre": "CALCULO 1",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1052",
+		"nombre": "CALCULO 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOC1",
+				"nombre": "NO ACUMULA CON CALCULO 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"nombre": "CALCULO 2",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "ANALISIS MATEMATICO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP45",
+				"nombre": "ANALISIS MATEMATICO I (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP22",
+				"nombre": "ANALISIS MATEMATICO I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA47",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1020E",
+				"nombre": "CALCULO 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"nombre": "CALCULO 3",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2319",
+		"nombre": "CALCULO DE REDES DE INGENIERIA SANITARIA",
+		"pcurso": [
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2318",
+				"nombre": "SIST. DISTRIB.DE AGUA POT.Y SANEAM.POBL.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2319",
+				"nombre": "CALCULO DE REDES DE INGENIERIA SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2318",
+				"nombre": "SIST. DISTRIB.DE AGUA POT.Y SANEAM.POBL.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "C400",
+		"nombre": "CALCULO NUMERICO",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 130,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C400",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1854",
+		"nombre": "CALIDAD DE AGUAS",
+		"pcurso": [
+			{
+				"id": "2250C",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2259",
+				"nombre": "FUND. DE ING. Y SALUD AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2252",
+				"nombre": "GESTION DE CALIDAD DE AGUAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1854",
+				"nombre": "CALIDAD DE AGUAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2250",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1833",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLICADAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2231",
+		"nombre": "CAMINOS Y CALLES 1",
+		"pcurso": [
+			{
+				"id": "CP339",
+				"nombre": "CAMINOS (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP259",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2231",
+				"nombre": "CAMINOS Y CALLES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2232",
+		"nombre": "CAMINOS Y CALLES 2",
+		"pcurso": [
+			{
+				"id": "CP339",
+				"nombre": "CAMINOS (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP259",
+				"nombre": "CAMINOS Y CALLES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2231",
+				"nombre": "CURSO CAM. CALLES1 O TEC. HORM",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2351",
+				"nombre": " EXA CAM.YCALLES1 O TEC.HORMIG",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2232",
+				"nombre": "CAMINOS Y CALLES 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1223",
+		"nombre": "CIENCIA, TECNOLOGIA Y SOCIEDAD",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP18",
+				"nombre": "TECNOLOGIA Y SOCIEDAD",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2374",
+		"nombre": "COMPLEMENTO DE RESISTENCIA DE MATERIALES",
+		"pcurso": [
+			{
+				"id": "1319",
+				"nombre": "RESIST.DE MAT. 2N (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2374",
+				"nombre": "COMPLEMENTO DE RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2360E",
+				"nombre": "RES.MAT. 3 0 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1837",
+		"nombre": "COMPLEMENTOS DE HIDRAULICA APLICADA",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1808",
+				"nombre": "HIDRAULICA DE CONDUCCION  A SUPERF LIBRE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1837",
+				"nombre": "COMPLEMENTOS DE HIDRAULICA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1411C",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1819",
+				"nombre": "HIDROLOGIA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1838",
+		"nombre": "COMPLEMENTOS DE HIDROLOGIA",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1808E",
+				"nombre": "HIDR.DE COND. A SUP. LIBRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1819",
+				"nombre": "HIDROLOGIA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1838",
+				"nombre": "COMPLEMENTOS DE HIDROLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1411C",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1842",
+		"nombre": "COMPLEMENTOS DE HIDROLOGIA APLICADA",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1836",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2260",
+				"nombre": "HIDROLOGIA ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2262",
+				"nombre": "HIDROLOGIA ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1813",
+				"nombre": "HIDROLOGIA SUBTERRANEA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1842",
+				"nombre": "COMPLEMENTOS DE HIDROLOGIA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1819",
+				"nombre": "HIDROLOGIA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1841",
+		"nombre": "COMPLEMENTOS DE HIDROLOGIA ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1836",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2260",
+				"nombre": "HIDROLOGIA ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2262",
+				"nombre": "HIDROLOGIA ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1841",
+				"nombre": "COMPLEMENTOS DE HIDROLOGIA ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1819",
+				"nombre": "HIDROLOGIA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1813",
+				"nombre": "HIDROLOGIA SUBTERRANEA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1840",
+		"nombre": "COMPLEMENTOS DE HIDROLOGIA SUBTERRANEA",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1836",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1813",
+				"nombre": "HIDROLOGIA SUBTERRANEA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1840",
+				"nombre": "COMPLEMENTOS DE HIDROLOGIA SUBTERRANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1819",
+				"nombre": "HIDROLOGIA APLICADA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2262",
+				"nombre": "HIDROLOGIA ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1411",
+		"nombre": "COMPUTACION 1",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1322P",
+				"nombre": "PROGR. Y COMP.",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1411",
+				"nombre": "COMPUTACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2311",
+		"nombre": "CONDUCCION DE LIQUIDOS EN ING.SANITARIA",
+		"pcurso": [
+			{
+				"id": "1810C",
+				"nombre": " MAQ. FLUID.1 E HDROL.E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP228",
+				"nombre": "ABASTECIMIENTO DE AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MR8",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP230",
+				"nombre": "TRAT. Y ELIMINACION DE RESIDUOS (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2311",
+				"nombre": "CONDUCCION DE LIQUIDOS EN ING.SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1510",
+		"nombre": "CONTROL DE CALIDAD",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 180,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "1510R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2240",
+		"nombre": "COSTOS",
+		"pcurso": [
+			{
+				"id": "CP275",
+				"nombre": "ANALISIS DE COSTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP257",
+				"nombre": "COSTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1508C",
+				"nombre": "MAT Y ENSAYOS (P.97 Y P. 91)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2240",
+				"nombre": "COSTOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2363",
+		"nombre": "CURSO COMPLEM. DE ESTR. METAL. Y DE MAD.",
+		"pcurso": [
+			{
+				"id": "1700",
+				"nombre": "PROC. DE CONST. Y CONST.ESTRUC",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2363",
+				"nombre": "CURSO COMPLEM. DE ESTR. METAL. Y DE MAD.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1700",
+				"nombre": "PROCEDIMIENTOS CONST.PARA ESTRUCTURAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1852",
+		"nombre": "DISEÑO DE REDES DE COND.EN ING.SANITARIA",
+		"pcurso": [
+			{
+				"id": "2319",
+				"nombre": "CALCULO DE REDES DE INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1851C",
+				"nombre": "SIST.COND.ING.SANITARIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1852",
+				"nombre": "DISEÑO DE REDES DE COND.EN ING.SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1851E",
+				"nombre": "SIST.COND.ING.SANITARIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1221",
+		"nombre": "ECONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"nombre": "ECONOMIA",
+		"pcurso": [
+			{
+				"id": "CP20",
+				"nombre": "ECONOMIA POLITICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"nombre": "ECUACIONES DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP48",
+				"nombre": "ANALISIS MATEMATICO II (1ER.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1028R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1074",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2309",
+		"nombre": "EJERCICIOS DE INGENIERIA SANITARIA",
+		"pcurso": [
+			{
+				"id": "1854",
+				"nombre": "CALIDAD DE AGUAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1833C",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1853C",
+				"nombre": "POTABILIZACION DE AGUAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2316C",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2317",
+				"nombre": "AGUA POT. O TRAT.AGUA POT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2309",
+				"nombre": "EJERCICIOS DE INGENIERIA SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1853E",
+				"nombre": "POTABILIZACION DE AGUAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2316E",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2366",
+		"nombre": "ELASTICIDAD",
+		"pcurso": [
+			{
+				"id": "1311",
+				"nombre": "MECANICA DEL  SOLIDO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2365",
+				"nombre": "RESIST.1N O RESIST.1(C.06)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CP6E",
+				"nombre": "ANALISIS II O CALCULO 3 EX.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1128",
+		"nombre": "ELECTROMAGNETISMO",
+		"pcurso": [
+			{
+				"id": "1009",
+				"nombre": "ALGEBRA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "CALCULO 3 Y ANALISIS II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1010C",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2214",
+		"nombre": "ELEM.DE GEOLOGIA PARA LA PLANIF.TERRIT.",
+		"pcurso": [
+			{
+				"id": "2206C",
+				"nombre": "GEOLOGIA DE ING.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1508C",
+				"nombre": "MAT Y ENSAYOS (P.97 Y P. 91)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1826",
+		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1826",
+				"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2250",
+		"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2256",
+		"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 113,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2250",
+				"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1620",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 113,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2250",
+				"nombre": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1620",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1805",
+		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "CP1",
+				"nombre": "CAL3 O ANALISIS I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP34",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP35",
+				"nombre": "MECANICA DE LOS FLUIDOS E HIDRAULICA(74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2261",
+		"nombre": "ELEMENTOS DE RIEGO Y PRESAS",
+		"pcurso": [
+			{
+				"id": "MR4",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1833",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2207C",
+				"nombre": "INT. A LA MECANICA DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP223",
+				"nombre": "OBRAS HIDRAULICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP264",
+				"nombre": "OBRAS HIDRAULICAS Y DIST. DE AGUAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP238",
+				"nombre": "PROYECTO DE RIEGO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2261",
+				"nombre": "ELEMENTOS DE RIEGO Y PRESAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2230",
+		"nombre": "ELEMENTOS DE TOPOGRAFIA",
+		"pcurso": [
+			{
+				"id": "MR10",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1121E",
+				"nombre": "FIS.GRAL.2 Ò ELECTROMAG.P89",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP258",
+				"nombre": "TOPOGRAFIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP276",
+				"nombre": "TOPOGRAFIA (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2230R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2230",
+				"nombre": "ELEMENTOS DE TOPOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2358",
+		"nombre": "ESTRUCTURAS ESPECIALES",
+		"pcurso": [
+			{
+				"id": "CP251",
+				"nombre": "ESTRUCTURAS ESPECIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP271",
+				"nombre": "ESTRUCTURAS ESPECIALES (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2378C",
+				"nombre": "HORMIGON 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2360E",
+				"nombre": "RES.MAT. 3 0 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2358",
+				"nombre": "ESTRUCTURAS ESPECIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2354",
+		"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+		"pcurso": [
+			{
+				"id": "CP250",
+				"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP126",
+				"nombre": "RESISTENCIA DE MAT. II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2354",
+				"nombre": "ESTRUCTURAS METALICAS Y DE MADERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1151",
+		"nombre": "FISICA 1",
+		"pcurso": [
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOFG1",
+				"nombre": "NO ACUMULA CON FISICA 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1152",
+		"nombre": "FISICA 2",
+		"pcurso": [
+			{
+				"id": "1020C",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1C",
+				"nombre": "FISICA 1 O FISICA GRAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1153",
+		"nombre": "FISICA 3",
+		"pcurso": [
+			{
+				"id": "1020C",
+				"nombre": "CALCULO 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FIS",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "F1E",
+				"nombre": "FISICA 1 O FISICA GRAL.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOF3",
+				"nombre": "NO ACUMULA CON FISICA 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1130",
+		"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+		"pcurso": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1130",
+				"nombre": "FISICA DE LAS RADIACIONES IONIZANTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1154",
+		"nombre": "FISICA EXPERIMENTAL 1",
+		"pcurso": [
+			{
+				"id": "FI13",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "G1124",
+				"nombre": "FIS1 (E) O FIS2 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1155",
+		"nombre": "FISICA EXPERIMENTAL 2",
+		"pcurso": [
+			{
+				"id": "FIS13",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "F3C",
+				"nombre": "FIS.3 O FIS. GRAL.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FE1",
+				"nombre": "FIS.EXP.1 O LAB.1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1127",
+				"nombre": "LABORATORIO 2",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1120",
+		"nombre": "FISICA GENERAL 1",
+		"pcurso": [
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP3",
+				"nombre": "MECANICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP17",
+				"nombre": "MECANICA I (TRANSICION)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1121",
+		"nombre": "FISICA GENERAL 2",
+		"pcurso": [
+			{
+				"id": "CP13",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1123",
+		"nombre": "FISICA TERMICA",
+		"pcurso": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP42",
+				"nombre": "FISICA II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1073",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122",
+				"nombre": "FISICA,ELECTROMAG.Y MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP12",
+				"nombre": "TERMODINAMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2259",
+		"nombre": "FUND. DE ING. Y SALUD AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "2250C",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254",
+				"nombre": "FUND. DE ING. AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2259",
+				"nombre": "FUND. DE ING. Y SALUD AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2206",
+		"nombre": "GEOLOGIA DE INGENIERIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP253",
+				"nombre": "GEOLOGIA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2204",
+				"nombre": "GEOTECNICA 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2205",
+				"nombre": "GEOTECNICA 2 (PLAN 91-97)",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "1620C",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2206",
+				"nombre": "GEOLOGIA DE INGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1053",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+		"pcurso": [
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG1",
+				"nombre": "NO ACUMULA CON GAL 1",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+		"pcurso": [
+			{
+				"id": "1030C",
+				"nombre": "GEOM. 1 SEM. O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "NOG2",
+				"nombre": "NO ACUMULA CON GAL 2",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2204",
+		"nombre": "GEOTECNICA 1",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1855",
+		"nombre": "GESTION DE CALIDAD AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "2254",
+				"nombre": "FUND.DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1855",
+				"nombre": "GESTION DE CALIDAD AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2252",
+		"nombre": "GESTION DE CALIDAD DE AGUAS",
+		"pcurso": [
+			{
+				"id": "2250C",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254C",
+				"nombre": "FUND.DE ING. AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP234",
+				"nombre": "INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP265",
+				"nombre": "POLUCION DE AGUAS Y ATMOSFERAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2250",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254",
+				"nombre": "FUND.DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP234",
+				"nombre": "INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP265",
+				"nombre": "POLUCION DE AGUAS Y ATMOSFERAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1808",
+		"nombre": "HIDRAULICA DE CONDUCCION  A SUPERF LIBRE",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP222",
+				"nombre": "HIDRAULICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1808",
+				"nombre": "HIDRAULICA DE CONDUCCION  A SUPERF LIBRE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1812",
+		"nombre": "HIDRAULICA MARITIMA",
+		"pcurso": [
+			{
+				"id": "CP225",
+				"nombre": "HIDRAULICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1226C",
+				"nombre": "MEC. DE LOS FLUIDOS(P.97 P89)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1812",
+				"nombre": "HIDRAULICA MARITIMA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1226E",
+				"nombre": "MECANICA DE LOS FLUIDOS (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1846",
+		"nombre": "HIDRAULICA MARITIMA Y COSTERA",
+		"pcurso": [
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1226E",
+				"nombre": "MECANICA DE LOS FLUIDOS (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1846",
+				"nombre": "HIDRAULICA MARITIMA Y COSTERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1819",
+		"nombre": "HIDROLOGIA APLICADA",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP222",
+				"nombre": "HIDRAULICA I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP121",
+				"nombre": "HIDROLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP264",
+				"nombre": "OBRAS HIDRAULICAS Y DIST. DE AGUAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1819",
+				"nombre": "HIDROLOGIA APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1836",
+		"nombre": "HIDROLOGIA AVANZADA I",
+		"pcurso": [
+			{
+				"id": "MF4",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1833",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1836",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1847",
+		"nombre": "HIDROLOGIA AVANZADA II",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1836",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1836",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1847",
+				"nombre": "HIDROLOGIA AVANZADA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1833",
+		"nombre": "HIDROLOGIA E HIDRAULICA APLICADAS",
+		"pcurso": [
+			{
+				"id": "1411",
+				"nombre": "COMPUT. 1 (E)  89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1833",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLICADAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2262",
+		"nombre": "HIDROLOGIA ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1819C",
+				"nombre": "HIDROLOGIA APLICADA (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1025C",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2262",
+				"nombre": "HIDROLOGIA ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1813",
+		"nombre": "HIDROLOGIA SUBTERRANEA",
+		"pcurso": [
+			{
+				"id": "1833",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP224",
+				"nombre": "HIDROLOGIA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP226",
+				"nombre": "HIDROLOGIA SUBTERRANEA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1226C",
+				"nombre": "MEC. DE LOS FLUIDOS(P.97 P89)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1813",
+				"nombre": "HIDROLOGIA SUBTERRANEA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1831",
+		"nombre": "HIDROMETRIA",
+		"pcurso": [
+			{
+				"id": "1833",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1831",
+				"nombre": "HIDROMETRIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2350",
+		"nombre": "HORMIGON 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MR8E",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2366C",
+				"nombre": "ELASTICIDAD O MEC. SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP248",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2377",
+		"nombre": "HORMIGON 1",
+		"pcurso": [
+			{
+				"id": "2377R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2366C",
+				"nombre": "ELASTICIDAD O MEC. SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2350",
+				"nombre": "HORMIGON 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2365",
+				"nombre": "RESIST.1N O RESIST.1(C.06)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "C2366",
+				"nombre": "ELASTICIDAD U HORMIGÓN 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2350",
+				"nombre": "HORMIGON 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2353",
+		"nombre": "HORMIGON 2",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP248",
+				"nombre": "HORMIGON ARMADO I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2378",
+		"nombre": "HORMIGON 2",
+		"pcurso": [
+			{
+				"id": "TE26",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2377",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2353",
+				"nombre": "HORMIGON 2",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2367",
+				"nombre": "HORMIGÓN 2",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1319",
+				"nombre": "RESIST.DE MAT. 2N (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2378",
+				"nombre": "HORMIGON 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2355",
+		"nombre": "HORMIGON PRETENSADO",
+		"pcurso": [
+			{
+				"id": "TE26",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP249",
+				"nombre": "HORMIGON ARMADO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP270",
+				"nombre": "HORMIGON ARMADO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I O 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2355",
+				"nombre": "HORMIGON PRETENSADO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1312",
+				"nombre": "RES.2N ORES.2 Y3 O RESISTII",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2367",
+		"nombre": "HORMIGÓN 2",
+		"pcurso": [
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1319",
+				"nombre": "RESIST.DE MAT. 2N (C)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2367",
+				"nombre": "HORMIGÓN 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1715",
+				"nombre": "INT.A LA CONST.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1139",
+		"nombre": "INESTABILIDADES EN FLUIDOS",
+		"pcurso": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1139",
+				"nombre": "INESTABILIDADES EN FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1227",
+		"nombre": "INGENIERIA LEGAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "CP256",
+				"nombre": "INGENIERIA LEGAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2307",
+		"nombre": "INSTALACIONES SANITARIAS INTERNAS",
+		"pcurso": [
+			{
+				"id": "E62",
+				"nombre": "ACONDICIONAMIENTO DE EDIFICIOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MS6",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP231",
+				"nombre": "SANEAMIENTO BASICO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "I6",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2307",
+				"nombre": "INSTALACIONES SANITARIAS INTERNAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1715",
+		"nombre": "INT. A LA CONSTRUCCION",
+		"pcurso": [
+			{
+				"id": "CP245",
+				"nombre": "FUNDAMENTOS DE CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1508C",
+				"nombre": "MAT Y ENSAYOS (P.97 Y P. 91)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP268",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1715",
+				"nombre": "INT. A LA CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2375",
+		"nombre": "INT. A LA CORROSION DEL HORMIGON ARMADO",
+		"pcurso": [
+			{
+				"id": "2371",
+				"nombre": "TECNOLOGIA DEL HORMIGON",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2375",
+				"nombre": "INT. A LA CORROSION DEL HORMIGON ARMADO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1715",
+				"nombre": "INT.A LA CONST.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1620",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2253",
+		"nombre": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "2254",
+				"nombre": "FUND.DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP234",
+				"nombre": "INGENIERIA AMBIENTAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2253",
+				"nombre": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1131",
+		"nombre": "INT. A LA FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "1121E",
+				"nombre": "FIS.GRAL.2 Ò ELECTROMAG.P89",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1131I",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1131",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1138",
+		"nombre": "INT. A LA FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "1128C",
+				"nombre": "ELECTROM. O MEC.SIST.Y FENOM.O",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1138",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2315",
+		"nombre": "INT. A LA INGENIERIA SANITARIA",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2300",
+				"nombre": "AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2319",
+				"nombre": "CALCULO DE REDES DE INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2311",
+				"nombre": "CONDUCCION DE LIQUIDOS EN ING.SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "MS6",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2309",
+				"nombre": "EJERCICIOS DE INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2307",
+				"nombre": "INSTALACIONES SANITARIAS INTERNAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1620",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2308",
+				"nombre": "RESIDUOS LIQUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2318",
+				"nombre": "SIST. DISTRIB.DE AGUA POT.Y SANEAM.POBL.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2317",
+				"nombre": "TRATAMIENTO DE AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2313",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2316",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2300",
+				"nombre": "AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2319",
+				"nombre": "CALCULO DE REDES DE INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2311",
+				"nombre": "CONDUCCION DE LIQUIDOS EN ING.SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2309",
+				"nombre": "EJERCICIOS DE INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2307",
+				"nombre": "INSTALACIONES SANITARIAS INTERNAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1620",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2308",
+				"nombre": "RESIDUOS LIQUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2318",
+				"nombre": "SIST. DISTRIB.DE AGUA POT.Y SANEAM.POBL.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2317",
+				"nombre": "TRATAMIENTO DE AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2313",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2316",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1610",
+		"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "PROBA",
+				"nombre": "PROB.Y ESTAD.Y ANAL.MATEM.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1610",
+				"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0629",
+		"nombre": "INT. A LA MAMPOSTERIA ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "1715",
+				"nombre": "INT. A LA CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1311",
+				"nombre": "MECANICA DEL  SOLIDO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1715",
+				"nombre": "INT. A LA CONSTRUCCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "0629",
+				"nombre": "INT. A LA MAMPOSTERIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2207",
+		"nombre": "INT. A LA MECANICA DE SUELOS",
+		"pcurso": [
+			{
+				"id": "2366C",
+				"nombre": "ELASTICIDAD O MEC. SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2206C",
+				"nombre": "GEOLOGIA DE ING.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2206",
+				"nombre": "GEOLOG. DE ING.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1805",
+				"nombre": "MEC. FLUIDOS O MEC. SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2364",
+		"nombre": "INT. AL METODO DE LOS ELEM. DE CONTORNO",
+		"pcurso": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2357",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1033E",
+				"nombre": "MET.NUMERICOS O CAL. NUM.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2364",
+				"nombre": "INT. AL METODO DE LOS ELEM. DE CONTORNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2258",
+		"nombre": "INT. AL SISTEMA CLIMATICO",
+		"pcurso": [
+			{
+				"id": "MA01E",
+				"nombre": "CALCULO 1 O CALDIF.E INT.I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA02E",
+				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI01E",
+				"nombre": "FISICA GENERAL 1 O FISICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2258",
+				"nombre": "INT. AL SISTEMA CLIMATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2500",
+		"nombre": "INT. AL TRANSPORTE",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2510",
+		"nombre": "INT. AL TRANSPORTE",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2510R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "B102",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP260",
+				"nombre": "TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2510",
+				"nombre": "INT. AL TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1124",
+		"nombre": "LABORATORIO 1",
+		"pcurso": [
+			{
+				"id": "FA8",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP11",
+				"nombre": "TALLER LABORATORIO I (MODULO DE FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1127",
+		"nombre": "LABORATORIO 2",
+		"pcurso": [
+			{
+				"id": "FL1",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "FL10",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1017",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP42",
+				"nombre": "FISICA II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP43",
+				"nombre": "FISICA III (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1016",
+				"nombre": "TALLER LABORATORIO I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP14",
+				"nombre": "TALLER LABORATORIO II (MODULO DE FISICA)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1140",
+		"nombre": "LABORATORIO 3",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: FISICA"
+			},
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1127",
+				"nombre": "LABORATORIO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2213",
+		"nombre": "LABORATORIO DE CALIDAD DE AGUAS",
+		"pcurso": [
+			{
+				"id": "2250",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254C",
+				"nombre": "FUND.DE ING. AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1141",
+		"nombre": "LABORATORIO DE FISICA MODERNA",
+		"pcurso": [
+			{
+				"id": "1138",
+				"nombre": "INT.A LA FÍSICA MODERNA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1127",
+				"nombre": "LABORATORIO 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2208",
+		"nombre": "LABORATORIO DE MECANICA DE SUELOS",
+		"pcurso": [
+			{
+				"id": "C2207",
+				"nombre": "INT.A LA MEC.DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2372",
+		"nombre": "LABORATORIO DE RESISTENCIA DE MATERIALES",
+		"pcurso": [
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1319",
+				"nombre": "RESIST.DE MAT. 2N (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2379",
+		"nombre": "LABORATORIO DE RESISTENCIA DE MATERIALES",
+		"pcurso": [
+			{
+				"id": "1121E",
+				"nombre": "FIS.GRAL.2 Ò ELECTROMAG.P89",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2372",
+				"nombre": "LABORATORIO DE RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1311E",
+				"nombre": "MEC.SOLIDO O ELASTICIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1319",
+				"nombre": "RESIST.DE MAT. 2N (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2321",
+		"nombre": "LABORATORIO DE TECNOLOGIA DEL HORMIGON",
+		"pcurso": [
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2371C",
+				"nombre": "TECNOLOGIA DEL HORMIGON",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2321",
+				"nombre": "LABORATORIO DE TECNOLOGIA DEL HORMIGON",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2368",
+				"nombre": "RESISTENCIA DE MATERIALES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2356",
+		"nombre": "MAMPOSTERIA ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2356",
+				"nombre": "MAMPOSTERIA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1810",
+		"nombre": "MAQUINAS PARA FLUIDOS 1",
+		"pcurso": [
+			{
+				"id": "CP98",
+				"nombre": "BOMBAS E INSTALACIONES HIDRAULICAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1810R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP128",
+				"nombre": "FLUIDO MAQUINAS I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQUINAS PARA FLUIDOS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1814",
+		"nombre": "MAQUINAS PARA FLUIDOS 2",
+		"pcurso": [
+			{
+				"id": "1123",
+				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP152",
+				"nombre": "FLUIDO MAQUINAS II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1810",
+				"nombre": "MAQ.PARA FLUIDOS 1 91/97 (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1226E",
+				"nombre": "MECANICA DE LOS FLUIDOS (E)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1814",
+				"nombre": "MAQUINAS PARA FLUIDOS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2506",
+		"nombre": "MAQUINAS Y EQUIPOS PARA TRANSPORTE",
+		"pcurso": [
+			{
+				"id": "2500C",
+				"nombre": "INT.AL TRANS. O TRANSP (P.91)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP267",
+				"nombre": "MAQUINAS (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP244",
+				"nombre": "MAQUINAS Y EQUIPOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122E",
+				"nombre": "MECANICA NEWT.O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2506",
+				"nombre": "MAQUINAS Y EQUIPOS PARA TRANSPORTE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1508",
+		"nombre": "MATERIALES Y ENSAYOS",
+		"pcurso": [
+			{
+				"id": "CP273",
+				"nombre": "ENSAYO DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP254",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1620",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1126",
+		"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1027",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP41",
+				"nombre": "FISICA I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP40",
+				"nombre": "MECANICA GENERAL II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP8",
+				"nombre": "MECANICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1144",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1226",
+		"nombre": "MECANICA DE LOS FLUIDOS",
+		"pcurso": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIO.DIFER. O ANAL. II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP34",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP35",
+				"nombre": "MECANICA DE LOS FLUIDOS E HIDRAULICA(74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1226",
+				"nombre": "MECANICA DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1714",
+		"nombre": "MECANICA DE LOS MATERIALES 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1714",
+				"nombre": "MECANICA DE LOS MATERIALES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2381",
+		"nombre": "MECANICA ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "2374",
+				"nombre": "COMPLEMENTO DE RESISTENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1311E",
+				"nombre": "MEC.SOLIDO O ELASTICIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1319",
+				"nombre": "RESIST.DE MAT. 2N (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2373",
+				"nombre": "RESISTENCIAS 3",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1028E",
+				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1311E",
+				"nombre": "MEC.SOLIDO O ELASTICIDAD",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2381",
+				"nombre": "MECANICA ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP126",
+				"nombre": "RESISTENCIA DE MAT. II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1122",
+		"nombre": "MECANICA NEWTONIANA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GRAL1 O MECANICA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C1121",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP26",
+				"nombre": "MECANICA GENERAL I (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP8",
+				"nombre": "MECANICA II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2357",
+		"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUC.",
+		"pcurso": [
+			{
+				"id": "CP352",
+				"nombre": "ANALISIS MATRICIAL Y ELEMENTOS FINITOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP356",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUCT.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2357",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2376",
+		"nombre": "MET. COMPUT.APLIC.AL CALCULO ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "CP352",
+				"nombre": "ANALISIS MATRICIAL Y ELEMENTOS FINITOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP356",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUCT.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2380",
+		"nombre": "MET. COMPUT.APLIC.AL CALCULO ESTRUCTURAL",
+		"pcurso": [
+			{
+				"id": "CP352",
+				"nombre": "ANALISIS MATRICIAL Y ELEMENTOS FINITOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1411",
+				"nombre": "COMPUT. 1 (E)  89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "TE26",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2366",
+				"nombre": "ELASTICIDAD O MEC.SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP356",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUCT.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2376",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO ESTRUCTURAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2380",
+				"nombre": "MET. COMPUT.APLIC.AL CALCULO ESTRUCTURAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1047",
+		"nombre": "MET. DE SIMUL.COMPUTAC.APLIC.A SIST.F I",
+		"pcurso": [
+			{
+				"id": "1411",
+				"nombre": "COMPUT. 1 (E)  89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA,ELECTROMAG.Y TERMOD.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP3",
+				"nombre": "MECANICA I O FIS.GRAL. 1",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1047",
+				"nombre": "MET. DE SIMUL.COMPUTAC.APLIC.A SIST.F I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2503",
+		"nombre": "METODOLOGIA DE LOS EST. GEOTECNICOS",
+		"pcurso": [
+			{
+				"id": "2205C",
+				"nombre": "CURSO- GEOTECNIA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0618",
+				"nombre": "ESTUDIOS GEOTECNICOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "0609",
+				"nombre": "MATERIALES NATURALES DEL URUGUAY",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2503",
+				"nombre": "METODOLOGIA DE LOS EST. GEOTECNICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1033",
+		"nombre": "METODOS NUMERICOS",
+		"pcurso": [
+			{
+				"id": "CA1Y2",
+				"nombre": "CAL 1 Y 2 Y ANAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP16",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1411",
+				"nombre": "COMPUT. 1 (E)  89 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1079",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1134",
+		"nombre": "MODULO DE AIRE HUMEDO",
+		"pcurso": [
+			{
+				"id": "1123C",
+				"nombre": "FISICA TERMICA O TERMODINAMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1135",
+		"nombre": "MODULO DE CICLOS TERMODINAMICOS",
+		"pcurso": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1133",
+		"nombre": "MODULO DE TERMODINAMICA ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1132",
+		"nombre": "MODULO DE TRANSFERENCIA DE CALOR",
+		"pcurso": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2257",
+		"nombre": "MODULO TALLER DE ING.AMBIENTAL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "1620",
+				"nombre": "PPIOS DE QUIMICA O QUIMICA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2257",
+				"nombre": "MODULO TALLER DE ING.AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2210",
+		"nombre": "MODULO TALLER EXTENSION ING.AMBIENTAL 1",
+		"pcurso": [
+			{
+				"id": "2250C",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2210",
+				"nombre": "MODULO TALLER EXTENSION ING.AMBIENTAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2211",
+		"nombre": "MODULO TALLER EXTENSION ING.AMBIENTAL 2",
+		"pcurso": [
+			{
+				"id": "2250C",
+				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2211",
+				"nombre": "MODULO TALLER EXTENSION ING.AMBIENTAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2450",
+		"nombre": "PASANTIA (CIVIL)",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 144,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: MATERIAS BASICAS DE INGENIERIA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 125,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: MAT.Y ACT.INTE.ESPEC.ING.CIVIL"
+			},
+			{
+				"id": "CP241",
+				"nombre": "PASANTIA  A",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP266",
+				"nombre": "PASANTIA (HIDRAULICA-AMBIENTAL)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP242",
+				"nombre": "PASANTIA B",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP243",
+				"nombre": "PASANTIA C",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2242",
+		"nombre": "PLANIFICACION",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 150,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			},
+			{
+				"id": "2242R",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP293",
+				"nombre": "PLANIFICACION",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP341",
+				"nombre": "PLANIFICACION URBANA REG. Y ESTATAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2242",
+				"nombre": "PLANIFICACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1853",
+		"nombre": "POTABILIZACION DE AGUAS",
+		"pcurso": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254C",
+				"nombre": "FUND.DE ING. AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2317",
+				"nombre": "TRATAMIENTO DE AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2254",
+				"nombre": "FUND.DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1853",
+				"nombre": "POTABILIZACION DE AGUAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1945",
+		"nombre": "PRACTICA DE ADMINIST. PARA INGENIEROS",
+		"pcurso": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2241",
+				"nombre": "ADMINISTRACION DE EMPRESAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1944",
+				"nombre": "ADMINISTRACION GENERAL PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1519",
+				"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1930",
+				"nombre": "ORGANIZACIONES PARA INGENIEROS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1620",
+		"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+		"pcurso": [
+			{
+				"id": "QPQ7",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Curso aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP120",
+				"nombre": "QUIMICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP119",
+				"nombre": "QUIMICA TECNICA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1620",
+				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"nombre": "PROBABILIDAD Y ESTADISTICA",
+		"pcurso": [
+			{
+				"id": "1002",
+				"nombre": "ALGEBRA Y GEOMETRIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP6",
+				"nombre": "ANALISIS MATEMATICO II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP49",
+				"nombre": "ANALISIS MATEMATICO II (2DO.SEM.)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP25",
+				"nombre": "ANALISIS MATEMATICO II (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1001",
+				"nombre": "CALCULOS Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "MA47",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2352",
+		"nombre": "PROC. CONST.OBRAS VIALES Y SUELO",
+		"pcurso": [
+			{
+				"id": "CP247",
+				"nombre": "CONSTRUCCION PARA TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP268",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2204E",
+				"nombre": "GEOTECNICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2352",
+				"nombre": "PROC. CONST.OBRAS VIALES Y SUELO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1700",
+		"nombre": "PROCEDIMIENTOS CONST.PARA ESTRUCTURAS",
+		"pcurso": [
+			{
+				"id": "CP246",
+				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "0404",
+				"nombre": "GEOTECNICA I  (P.91 O 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP269",
+				"nombre": "PROCEDIMIENTOS DE CONSTRUCCION II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1700",
+				"nombre": "PROCEDIMIENTOS CONST.PARA ESTRUCTURAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1322",
+		"nombre": "PROGRAMACION 1",
+		"pcurso": [
+			{
+				"id": "1322C",
+				"nombre": "PROGR. Y COMP.",
+				"actividad": "Grupo",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2402",
+		"nombre": "PROYECTO ESTRUCTURAL 1",
+		"pcurso": [
+			{
+				"id": "CP342",
+				"nombre": "PROYECTO 5TO.ESTRUCTURAL (74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP358",
+				"nombre": "PROYECTO ESTRUCTURAL I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I O 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2402",
+				"nombre": "PROYECTO ESTRUCTURAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2409",
+		"nombre": "PROYECTO ESTRUCTURAL 1",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2378C",
+				"nombre": "HORMIGON 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2380C",
+				"nombre": "MET.COMP.APL.CALC.ESTRUCT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2402",
+				"nombre": "PROYECTO ESTRUCTURAL 1",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2378E",
+				"nombre": "HORMIGON 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2380E",
+				"nombre": "MET.COMP.APLIC.CAL.ESTRUCT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2409",
+				"nombre": "PROYECTO ESTRUCTURAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2373",
+				"nombre": "RESISTENCIAS 3",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2406",
+		"nombre": "PROYECTO ESTRUCTURAL 2",
+		"pcurso": [
+			{
+				"id": "2355C",
+				"nombre": "HORM.PRETENSADO U HORM.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I O 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2381C",
+				"nombre": "MEC.ESTRUCT.O RESIST.3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2380E",
+				"nombre": "MET.COMP.APLIC.CAL.ESTRUCT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP343",
+				"nombre": "PROYECTO 6TO. ESTRUCTURAL(74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2402C",
+				"nombre": "PROYECTO ESTRUCTURAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP359",
+				"nombre": "PROYECTO ESTRUCTURAL II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2355",
+				"nombre": "HORMIGÓN PRETENSADO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2402",
+				"nombre": "PROYECTO ESTRUCTURAL 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2406",
+				"nombre": "PROYECTO ESTRUCTURAL 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2405",
+		"nombre": "PROYECTO HIDRAULICA-AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "2317",
+				"nombre": "AGUA POT. O TRAT.AGUA POT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2252",
+				"nombre": "GEST.CAL.AGUAS O INT.EVAL.G.A",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1836E",
+				"nombre": "HIDRAULICA AVANZADA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "183E2",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "183E3",
+				"nombre": "HIDROLOGIA AVANZADA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1843C",
+				"nombre": "REPRESAS Y CANALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2318",
+				"nombre": "SAN. A POBL. Y T. DE EFLUENTES",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2405",
+				"nombre": "PROYECTO HIDRAULICA-AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2400",
+		"nombre": "PROYECTO TRANSPORTE 1",
+		"pcurso": [
+			{
+				"id": "2231",
+				"nombre": "CAMINOS Y CALLES 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CP346",
+				"nombre": "PROYECTO 5TO. VIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP360",
+				"nombre": "PROYECTO DE TRANSPORTE I",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2231",
+				"nombre": "CAMINOS Y CALLES 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2232",
+				"nombre": "CAMINOS Y CALLES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2400",
+				"nombre": "PROYECTO TRANSPORTE 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2403",
+		"nombre": "PROYECTO TRANSPORTE 2",
+		"pcurso": [
+			{
+				"id": "2232C",
+				"nombre": "CAM.Y CALL.2 O CAM.Y CALL.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1224C",
+				"nombre": "ECONOMÍA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2500C",
+				"nombre": "INT.AL TRANS. O TRANSP (P.91)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP347",
+				"nombre": "PROYECTO 6TO. VIAL",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP361",
+				"nombre": "PROYECTO DE TRANSPORTE II",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2232",
+				"nombre": " CAM. Y CALLES 2 O CAM. Y CALL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2500",
+				"nombre": "INT.AL TRANS. O TRANSP.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2400",
+				"nombre": "PROY.TRANS.1 O I (P.91)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2403",
+				"nombre": "PROYECTO TRANSPORTE 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2404",
+		"nombre": "PROYECTO, PLANIF. Y CONST. DE OBRAS 1",
+		"pcurso": [
+			{
+				"id": "2240C",
+				"nombre": "COSTOS (91 Ò 97)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP118",
+				"nombre": "GEOL. DE ING.- GEOTECNICA 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1700E",
+				"nombre": "PROC.DE CONST. Y CONST.EST.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1319",
+				"nombre": "RESIST.DE MAT. 2N (C)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2371",
+				"nombre": "TECNOLOGIA DEL HORMIGÒN",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2404",
+				"nombre": "PROYECTO, PLANIF. Y CONST. DE OBRAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2407",
+		"nombre": "PROYECTO, PLANIF. Y CONST. DE OBRAS 2",
+		"pcurso": [
+			{
+				"id": "2404",
+				"nombre": "PROYECTO, PLANIF. Y CONST. DE OBRAS 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2404",
+				"nombre": "PROYECTO, PLANIF. Y CONST. DE OBRAS 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2407",
+				"nombre": "PROYECTO, PLANIF. Y CONST. DE OBRAS 2",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "0607",
+		"nombre": "PUENTES",
+		"pcurso": [
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I O 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1313",
+				"nombre": "RES.MAT.2 N=RES MAT 2",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0607",
+				"nombre": "PUENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2359",
+		"nombre": "PUENTES",
+		"pcurso": [
+			{
+				"id": "2350E",
+				"nombre": "HORMIGON 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0607",
+				"nombre": "PUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "2360",
+				"nombre": "RESIST. DE MAT. II O 3 O 2N",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2355C",
+				"nombre": "HORM.PRETENSADO U HORM.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0403",
+				"nombre": "HORMIGON ARMADO I O 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2359",
+				"nombre": "PUENTES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1843",
+		"nombre": "REPRESAS Y CANALES",
+		"pcurso": [
+			{
+				"id": "1808M",
+				"nombre": "HIDR.C.S.L.Y ELEM R.Y.P.",
+				"actividad": "Grupo",
+				"obs": true
+			},
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2207C",
+				"nombre": "INT. A LA MECANICA DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2207",
+				"nombre": "INT. A LA MEC. DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1843",
+				"nombre": "REPRESAS Y CANALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1845",
+		"nombre": "REPRESAS Y CANALES (MODULO II)",
+		"pcurso": [
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2207C",
+				"nombre": "INT. A LA MECANICA DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2207",
+				"nombre": "INT. A LA MEC. DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1845",
+				"nombre": "REPRESAS Y CANALES (MODULO II)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1844",
+		"nombre": "REPRESAS Y CANALES (MODULOS I Y III)",
+		"pcurso": [
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2207C",
+				"nombre": "INT. A LA MECANICA DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2207",
+				"nombre": "INT. A LA MEC. DE SUELOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1844",
+				"nombre": "REPRESAS Y CANALES (MODULOS I Y III)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2308",
+		"nombre": "RESIDUOS LIQUIDOS",
+		"pcurso": [
+			{
+				"id": "CP228",
+				"nombre": "ABASTECIMIENTO DE AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP229",
+				"nombre": "RESIDUOS LIQUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP230",
+				"nombre": "TRAT. Y ELIMINACION DE RESIDUOS (P. 74)",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2317",
+				"nombre": "AGUA POT. O TRAT.AGUA POT.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2308",
+				"nombre": "RESIDUOS LIQUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2368",
+		"nombre": "RESISTENCIA DE MATERIALES 1",
+		"pcurso": [
+			{
+				"id": "1022E",
+				"nombre": "CALCULO 2 - ANÁL.MAT. I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1031C",
+				"nombre": "GEOMETRIA 2 (CURSO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2365",
+				"nombre": "RESISTENCIA DE MATERIALES 1N",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 1 Y ANALISIS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "R24",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "C1031",
+				"nombre": "GEOMETRIA 2 O RESISTENCIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "C2368",
+				"nombre": "MECANICA NEW. O RESISTENCIA 1",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2365",
+				"nombre": "RESISTENCIA DE MATERIALES 1N",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2362",
+		"nombre": "RESISTENCIA DE MATERIALES 3 N",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1312",
+				"nombre": "RES.2N ORES.2 Y3 O RESISTII",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP54",
+				"nombre": "RESISTENCIA DE MATERIALES III",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2361",
+		"nombre": "RESISTENCIA DE MATERIALES 4",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1312",
+				"nombre": "RESISTENCIA DE MATERIALES 2",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2361",
+				"nombre": "RESISTENCIA DE MATERIALES 4",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2369",
+		"nombre": "RESISTENCIA DE MATERIALES II N",
+		"pcurso": [
+			{
+				"id": "2366C",
+				"nombre": "ELASTICIDAD O MEC. SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2365",
+				"nombre": "RESIST.1N O RESIST.1(C.06)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1319",
+				"nombre": "RESISTENCIA DE MATERIALES 2-N",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "R24",
+				"nombre": "CREDITOS ASIGNADOS POR REVALIDA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2369",
+				"nombre": "RESISTENCIA DE MATERIALES II N",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2373",
+		"nombre": "RESISTENCIA DE MATERIALES III N",
+		"pcurso": [
+			{
+				"id": "2369",
+				"nombre": "RESISTENCIA DE MATERIALES II N",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2369",
+				"nombre": "RESISTENCIA DE MATERIALES II N",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2373",
+				"nombre": "RESISTENCIA DE MATERIALES III N",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2255",
+		"nombre": "SALUD AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "2254C",
+				"nombre": "FUND.DE ING. AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2255",
+				"nombre": "SALUD AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2246",
+		"nombre": "SEGURIDAD EN LA CONSTRUCCION",
+		"pcurso": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2246",
+				"nombre": "SEGURIDAD EN LA CONSTRUCCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2318",
+		"nombre": "SIST. DISTRIB.DE AGUA POT.Y SANEAM.POBL.",
+		"pcurso": [
+			{
+				"id": "1810C",
+				"nombre": " MAQ. FLUID.1 E HDROL.E HIDR.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2318",
+				"nombre": "SIST. DISTRIB.DE AGUA POT.Y SANEAM.POBL.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1851",
+		"nombre": "SISTEMAS DE CONDUCCION EN ING.SANITARIA",
+		"pcurso": [
+			{
+				"id": "1833",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2318",
+				"nombre": "SIST. DISTRIB.DE AGUA POT.Y SANEAM.POBL.",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1851",
+				"nombre": "SISTEMAS DE CONDUCCION EN ING.SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1946",
+		"nombre": "TALLER DE ADMINISTRACION PARA INGENIERIA",
+		"pcurso": [
+			{
+				"id": "1944",
+				"nombre": "ADM.GRAL.PARA ING.O ADM.DE EMP",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1220",
+		"nombre": "TALLER DE DISEÑO, COM. Y REPRES. GRAFICA",
+		"pcurso": [
+			{
+				"id": "CP55",
+				"nombre": "TALLER LABORATORIO I (MODULO DE DIBUJO)",
+				"actividad": "Curso aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2804",
+		"nombre": "TALLER DE INGENIERIA CIVIL",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 250,
+				"texto": "Créditos en la Carrera 22 - Ciclo 5"
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2034",
+		"nombre": "TALLER ENCARARE 1:CREATIVIDAD E INNOVAC.",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 70,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: FISICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: CIENCIAS AMBIENTALES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: CIENCIAS SOCIALES Y ECONOMICAS"
+			},
+			{
+				"id": "2366C",
+				"nombre": "ELASTICIDAD O MEC. SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2036",
+		"nombre": "TALLER ENCARARE 2:PLANIF.DE LA FUT.EMPR.",
+		"pcurso": [
+			{
+				"actividad": "Créditos",
+				"cantidad": 70,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: MATEMATICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 45,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: FISICA"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: CIENCIAS AMBIENTALES"
+			},
+			{
+				"actividad": "Créditos",
+				"cantidad": 7,
+				"texto": " Créditos en la Carrera 22 - Ciclo 5. Área Temática: CIENCIAS SOCIALES Y ECONOMICAS"
+			},
+			{
+				"id": "2366C",
+				"nombre": "ELASTICIDAD O MEC. SOLIDO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2371",
+		"nombre": "TECNOLOGIA DEL HORMIGON",
+		"pcurso": [
+			{
+				"id": "1715C",
+				"nombre": "INT. A LA CONST O FUND. CONSTR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1310",
+				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0402",
+				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1508",
+				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2371",
+				"nombre": "TECNOLOGIA DEL HORMIGON",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2508",
+		"nombre": "TRANSPORTE AEREO",
+		"pcurso": [
+			{
+				"id": "CP262",
+				"nombre": "AEROPUERTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1128E",
+				"nombre": "ELECTROMAG. Y FIS.GRAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2500C",
+				"nombre": "INT.AL TRANS. O TRANSP (P.91)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122E",
+				"nombre": "MECANICA NEWT.O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2500",
+				"nombre": "INT.AL TRANS. O TRANSP.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2508",
+				"nombre": "TRANSPORTE AEREO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2505",
+		"nombre": "TRANSPORTE FERROVIARIO",
+		"pcurso": [
+			{
+				"id": "CP263",
+				"nombre": "FERROCARRILES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "0506",
+				"nombre": "INT.AL TRANSP. O TRANSP.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP349",
+				"nombre": "TRANSPORTES TERRESTRES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0506E",
+				"nombre": "INT.AL TRANSP. O TRANS.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2505",
+				"nombre": "TRANSPORTE FERROVIARIO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2507",
+		"nombre": "TRANSPORTE FLUVIAL Y MARITIMO",
+		"pcurso": [
+			{
+				"id": "1128E",
+				"nombre": "ELECTROMAG. Y FIS.GRAL 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "0506",
+				"nombre": "INT.AL TRANSP. O TRANSP.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1122E",
+				"nombre": "MECANICA NEWT.O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP261",
+				"nombre": "PUERTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP348",
+				"nombre": "PUERTOS Y AEROPUERTOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2500",
+				"nombre": "INT.AL TRANS. O TRANSP.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2507",
+				"nombre": "TRANSPORTE FLUVIAL Y MARÍTIMO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2504",
+		"nombre": "TRANSPORTE POR CARRETERA",
+		"pcurso": [
+			{
+				"id": "2510",
+				"nombre": "INT. AL TRANSPORTE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP8",
+				"nombre": "MEC NEW O MEC II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "CP260",
+				"nombre": "TRANSPORTE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "CP349",
+				"nombre": "TRANSPORTES TERRESTRES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "0506E",
+				"nombre": "INT.AL TRANSP. O TRANS.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2504",
+				"nombre": "TRANSPORTE POR CARRETERA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2317",
+		"nombre": "TRATAMIENTO DE AGUA POTABLE",
+		"pcurso": [
+			{
+				"id": "2300",
+				"nombre": "AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254C",
+				"nombre": "FUND.DE ING. AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2300",
+				"nombre": "AGUA POTABLE",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254",
+				"nombre": "FUND.DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "2316",
+		"nombre": "TRATAMIENTO DE EFLUENTES",
+		"pcurso": [
+			{
+				"id": "1805C",
+				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254C",
+				"nombre": "FUND.DE ING. AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2315",
+				"nombre": "INT. A LA INGENIERIA SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2313",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1805",
+				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2254",
+				"nombre": "FUND.DE ING.AMBIENTAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1833E",
+				"nombre": "HIDROLOGIA E HIDRAULICA APLIC.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2313",
+				"nombre": "TRATAMIENTO DE EFLUENTES",
+				"actividad": "Examen aprobado",
+				"obs": true
+			}
+		]
+	},
+	{
+		"id": "1144",
+		"nombre": "VIBRACIONES Y ONDAS",
+		"pcurso": [
+			{
+				"id": "1025",
+				"nombre": "CALCULO 2",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICAS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1030E",
+				"nombre": "GEOM. 1 SEM O ANUAL",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Examen aprobado",
+				"obs": true
+			},
+			{
+				"id": "1122C",
+				"nombre": "MEC.NEWT. O MEC.II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1144",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

@@ -1,0 +1,171 @@
+[
+	{
+		"id": "O1002",
+		"nombre": "ARGUMENTACIÓN (9 CRED.) 2013",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1002",
+				"nombre": "ARGUMENTACIÓN (9 CRED.) 2013",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1006",
+		"nombre": "COMUNICACION Y MOV.SOCIALES 60H/9CR.TCOM",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1006",
+				"nombre": "COMUNICACION Y MOV.SOCIALES 60H/9CR.TCOM",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1005",
+		"nombre": "COMUNICACIÓN Y GÉNERO (9 CRED-2013)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1005",
+				"nombre": "COMUNICACIÓN Y GÉNERO (9 CRED-2013)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1007",
+		"nombre": "CONSUMO, CULTURA Y COM (9 CRED)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1007",
+				"nombre": "CONSUMO, CULTURA Y COM (9 CRED)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1001",
+		"nombre": "ESTADÍSTICA APLICADA (9.CRED-2013)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1001",
+				"nombre": "ESTADÍSTICA APLICADA (9.CRED-2013)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4201",
+		"nombre": "IMAGEN I - C.PROF. LENG Y MED",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4201",
+				"nombre": "IMAGEN I - C.PROF. LENG Y MED",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4000",
+		"nombre": "LENGUA I (CR 9 / GEN 2013)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4000",
+				"nombre": "LENGUA I (CR 9 / GEN 2013)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1004",
+		"nombre": "LITERATURA LATINOAMERICANA (9 CRED-2013)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1004",
+				"nombre": "LITERATURA LATINOAMERICANA (9 CRED-2013)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1032",
+		"nombre": "MEDIOS, POLÍT Y DEMOCR. URUGUAY 8 CR/SCP",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1032",
+				"nombre": "MEDIOS, POLÍT Y DEMOCR. URUGUAY 8 CR/SCP",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4009",
+		"nombre": "ORIENTACION CURRICULAR (CR 2)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4009",
+				"nombre": "ORIENTACION CURRICULAR (CR 2)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "O1011",
+		"nombre": "TALLER COMUNICACIÓN ORAL-ESCRITA 6C/LM",
+		"pcurso": [
+			{
+				"id": "4000",
+				"nombre": "LENGUA I (CR 9 / GEN 2013)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "O1003",
+		"nombre": "TALLER DE ESCRITURA (9 CRED)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "O1003",
+				"nombre": "TALLER DE ESCRITURA (9 CRED)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4008",
+		"nombre": "UNIV. Y CAMPO PROF. (GEN 2013 / CR 9)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "4008",
+				"nombre": "UNIV. Y CAMPO PROF. (GEN 2013 / CR 9)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

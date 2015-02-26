@@ -1,0 +1,199 @@
+[
+	{
+		"id": "9",
+		"nombre": "DISEÑO DE MAQUINAS",
+		"pcurso": [
+			{
+				"id": "5",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "9",
+				"nombre": "DISEÑO DE MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4",
+		"nombre": "ELECTROTECNICA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "7",
+				"nombre": "LABORATORIO DE ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "8",
+		"nombre": "MAQUINAS",
+		"pcurso": [
+			{
+				"id": "3",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "11",
+				"nombre": "LABORATORIO DE MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "8",
+				"nombre": "MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1",
+		"nombre": "MATEMATICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "MATEMATICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2",
+		"nombre": "MECANICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "2",
+				"nombre": "MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "10",
+		"nombre": "PROYECTO",
+		"pcurso": [
+			{
+				"id": "4",
+				"nombre": "ELECTROTECNICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4",
+				"nombre": "ELECTROTECNICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "10",
+				"nombre": "PROYECTO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5",
+		"nombre": "RESISTENCIA DE MATERIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "MECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5",
+				"nombre": "RESISTENCIA DE MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3",
+		"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "6",
+				"nombre": "LABORATORIO DE MAQUINAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1",
+				"nombre": "MATEMATICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2",
+				"nombre": "MECANICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3",
+				"nombre": "TERMODINAMICA Y MEC. DE LOS FLUIDOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

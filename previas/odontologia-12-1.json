@@ -1,0 +1,2070 @@
+[
+	{
+		"id": "1010",
+		"nombre": "ASISTENCIA ODONTOLOGICA Y ERGONOMIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3040",
+		"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD I",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2008",
+				"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5040",
+		"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD II",
+		"pcurso": [
+			{
+				"id": "3000",
+				"nombre": " PATOLOGIA INFL.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3040",
+				"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3014",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4009",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS2",
+				"nombre": "ODONTOLOGIA SOCIAL II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "PATOLOGIA INF.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5020",
+				"nombre": "PEDIATRIA 1 2 Y PED",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3031",
+				"nombre": "SALUD COLECTIVA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3010",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4014",
+				"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5017",
+				"nombre": "TRATAMIENTO DE LA EDENTACION III (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "5041",
+		"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD III",
+		"pcurso": [
+			{
+				"id": "5040",
+				"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4009",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5018",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL III (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5016",
+				"nombre": "ORTODONCIA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "5020",
+				"nombre": "PEDIATRIA 1 2 Y PED",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "5031",
+				"nombre": "SALUD COLECTIVA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4014",
+				"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5017",
+				"nombre": "TRATAMIENTO DE LA EDENTACION III (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "2001",
+		"nombre": "BIOLOGIA CELULAR Y TISULAR",
+		"pcurso": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1003",
+		"nombre": "CAVIDAD BUCAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1006",
+		"nombre": "CAVIDAD BUCAL",
+		"pcurso": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1006",
+				"nombre": "CAVIDAD BUCAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3014",
+		"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3014",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4009",
+		"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
+		"pcurso": [
+			{
+				"id": "3000",
+				"nombre": " PATOLOGIA INFL.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3014",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "PATOLOGIA INF.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3010",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3014",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4009",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5018",
+		"nombre": "CIRUGIA BUCO-MAXILO-FACIAL III (CL.)",
+		"pcurso": [
+			{
+				"id": "3014",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4009",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3010",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4009",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5018",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL III (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1005",
+		"nombre": "COMP0NENTE NEURO-ENDOCRINO-VASCULAR",
+		"pcurso": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1005",
+				"nombre": "COMP0NENTE NEURO-ENDOCRINO-VASCULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1002",
+		"nombre": "COMPLEJO MAXILO-ALVEOLO-DENTARIO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1004",
+		"nombre": "COMPONENTE NEURO-VASCULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1001",
+		"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+		"pcurso": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2009",
+		"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+		"pcurso": [
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1012",
+		"nombre": "INTROD. A LA ATENC. ODONT. Y MMDD",
+		"pcurso": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1012",
+				"nombre": "INTROD. A LA ATENC. ODONT. Y MMDD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2008",
+		"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+		"pcurso": [
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1012C",
+				"nombre": "GRUPO D MATERIALES DENTALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Insc. a curso",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2008",
+				"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1011",
+		"nombre": "MATERIALES DENTALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2002",
+		"nombre": "MEDIO INTERNO",
+		"pcurso": [
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3011B",
+		"nombre": "MICRO.Y QUIM.DE LAS INF.EN ESTOMATOLOGÍA",
+		"pcurso": [
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1006",
+				"nombre": "CAVIDAD BUCAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1005",
+				"nombre": "COMP0NENTE NEURO-ENDOCRINO-VASCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1012",
+				"nombre": "INTROD. A LA ATENC. ODONT. Y MMDD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "SALUD Y PREVENCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3001",
+				"nombre": "PATOLOGIA INF.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4011",
+		"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+		"pcurso": [
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CLIN3",
+				"nombre": "CLINICA INTEGRADA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1030",
+		"nombre": "ODONTOLOGIA SOCIAL 1",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1030",
+				"nombre": "ODONTOLOGIA SOCIAL 1",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3030",
+		"nombre": "ODONTOLOGIA SOCIAL 3",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2011",
+				"nombre": "DIAG,PRONOST y PLAN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1030",
+				"nombre": "ODONTOLOGIA SOCIAL 1",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5016",
+		"nombre": "ORTODONCIA (CL.)",
+		"pcurso": [
+			{
+				"id": "3040",
+				"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3014",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3010",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5016",
+				"nombre": "ORTODONCIA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3011A",
+		"nombre": "PAT. INFL.INFEC.Y TUMORAL DE P.BLANDAS",
+		"pcurso": [
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1006",
+				"nombre": "CAVIDAD BUCAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1005",
+				"nombre": "COMP0NENTE NEURO-ENDOCRINO-VASCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1012",
+				"nombre": "INTROD. A LA ATENC. ODONT. Y MMDD",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1031",
+				"nombre": "SALUD Y PREVENCION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3000",
+				"nombre": " PATOLOGIA INFL.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3012",
+		"nombre": "PATOLOGIA INFLAMATORIA E INFECCIOSA",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2011",
+				"nombre": "DIAG,PRONOST y PLAN.",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3012",
+				"nombre": "PATOLOGIA INFLAMATORIA E INFECCIOSA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3011",
+		"nombre": "PATOLOGÍA INFL.INFECCIOSA Y TUMORAL(CL.)",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2008",
+				"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3000",
+				"nombre": " PATOLOGIA INFL.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3001",
+				"nombre": "PATOLOGIA INF.INFECCIOSA",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5010",
+		"nombre": "PEDIATRIA (CL.)",
+		"pcurso": [
+			{
+				"id": "3040",
+				"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3014",
+				"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3010",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5020",
+				"nombre": "PEDIATRIA 1 2 Y PED",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4010",
+		"nombre": "PEDIATRIA I (CL.)",
+		"pcurso": [
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4010",
+				"nombre": "PEDIATRIA I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5015",
+		"nombre": "PEDIATRIA II (CL.)",
+		"pcurso": [
+			{
+				"id": "4010",
+				"nombre": "PEDIATRIA I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5015",
+				"nombre": "PEDIATRIA II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3031",
+		"nombre": "SALUD COLECTIVA I",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2008",
+				"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3031",
+				"nombre": "SALUD COLECTIVA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5031",
+		"nombre": "SALUD COLECTIVA II",
+		"pcurso": [
+			{
+				"id": "3040",
+				"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "CLIN3",
+				"nombre": "CLINICA INTEGRADA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "OS2",
+				"nombre": "ODONTOLOGIA SOCIAL II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3031",
+				"nombre": "SALUD COLECTIVA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "5031",
+				"nombre": "SALUD COLECTIVA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1031",
+		"nombre": "SALUD Y PREVENCION",
+		"pcurso": [
+			{
+				"id": "1000",
+				"nombre": "INTRODUCCION A LA ODONTOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1031",
+				"nombre": "SALUD Y PREVENCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3010",
+		"nombre": "SEMIOLOGIA",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3010",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2003",
+		"nombre": "SISTEMA ESTOMATOGNATICO",
+		"pcurso": [
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4013",
+		"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+		"pcurso": [
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CLIN3",
+				"nombre": "CLINICA INTEGRADA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4012",
+		"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+		"pcurso": [
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CLIN3",
+				"nombre": "CLINICA INTEGRADA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2010",
+		"nombre": "TRANSMISION DE INFECCIONES",
+		"pcurso": [
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "2012",
+		"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+		"pcurso": [
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1012C",
+				"nombre": "GRUPO D MATERIALES DENTALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Insc. a curso",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3013",
+		"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2008",
+				"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3015",
+		"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+		"pcurso": [
+			{
+				"id": "1012",
+				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2001",
+				"nombre": "BIOLOGIA CELULAR Y TISULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "236",
+				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1004",
+				"nombre": "COMPONENTE NEURO-VASCULAR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "1001",
+				"nombre": "COMPONENTE OSTEO-ARTRO-MUSCULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "2009",
+				"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2008",
+				"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2002",
+				"nombre": "MEDIO INTERNO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "OS1",
+				"nombre": "ODONTOLOGIA SOCIAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "2003",
+				"nombre": "SISTEMA ESTOMATOGNATICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2010",
+				"nombre": "TRANSMISION DE INFECCIONES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "2012",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "4014",
+		"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
+		"pcurso": [
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Insc. a curso",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "CLIN3",
+				"nombre": "CLINICA INTEGRADA 3",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4014",
+				"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "5017",
+		"nombre": "TRATAMIENTO DE LA EDENTACION III (CL.)",
+		"pcurso": [
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3011",
+				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3010",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "3013",
+				"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3015",
+				"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4014",
+				"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "4011",
+				"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4013",
+				"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4012",
+				"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "4014",
+				"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "5017",
+				"nombre": "TRATAMIENTO DE LA EDENTACION III (CL.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

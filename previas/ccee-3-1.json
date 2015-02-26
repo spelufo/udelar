@@ -1,0 +1,1749 @@
+[
+	{
+		"id": "460",
+		"nombre": "ANALISIS MULTIVARIADO I",
+		"pcurso": [
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211G",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "332G",
+				"nombre": "MÉTODOS/CÁLCULO NUMÉRICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "460",
+				"nombre": "ANALISIS MULTIVARIADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211G",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3332",
+				"nombre": "METODOS NUMÉRICOS - F.ING.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332G",
+				"nombre": "MÉTODOS/CÁLCULO NUMÉRICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "470",
+		"nombre": "ANALISIS MULTIVARIADO II",
+		"pcurso": [
+			{
+				"id": "460",
+				"nombre": "ANALISIS MULTIVARIADO I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "460",
+				"nombre": "ANALISIS MULTIVARIADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "470",
+				"nombre": "ANALISIS MULTIVARIADO II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "332",
+		"nombre": "CALCULO NUMERICO",
+		"pcurso": [
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GP230",
+				"nombre": "PROBABILIDAD I -C, E Y REV.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GP230",
+				"nombre": "PROBABILIDAD I -C, E Y REV.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC43",
+		"nombre": "CÁLCULO III",
+		"pcurso": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "337E",
+		"nombre": "DEMOGRAFIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "337",
+				"nombre": "DEMOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "337E",
+				"nombre": "DEMOGRAFIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "216E",
+		"nombre": "ECONOMÍA DESCRIPTIVA II/E",
+		"pcurso": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "212EO",
+		"nombre": "ECONOMÍA II/EO",
+		"pcurso": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "112E",
+				"nombre": "ECONOMÍA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "112E",
+				"nombre": "ECONOMÍA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "463",
+		"nombre": "ESTADISTICA NO PARAMETRICA",
+		"pcurso": [
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211G",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332G",
+				"nombre": "MÉTODOS/CÁLCULO NUMÉRICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "463",
+				"nombre": "ESTADISTICA NO PARAMETRICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211G",
+				"nombre": "MATEMATICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "332G",
+				"nombre": "MÉTODOS/CÁLCULO NUMÉRICO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "330",
+		"nombre": "INFERENCIA I",
+		"pcurso": [
+			{
+				"id": "114G",
+				"nombre": "INT. A LAS ORG. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GP230",
+				"nombre": "PROBABILIDAD I -C, E Y REV.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "114G",
+				"nombre": "INT. A LAS ORG. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GP230",
+				"nombre": "PROBABILIDAD I -C, E Y REV.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "334",
+		"nombre": "INFERENCIA II",
+		"pcurso": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114G",
+				"nombre": "INT. A LAS ORG. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC31G",
+				"nombre": "CÁLCULO II Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "334",
+				"nombre": "INFERENCIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114G",
+				"nombre": "INT. A LAS ORG. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "1117",
+		"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "461",
+		"nombre": "INTRODUCCIÓN A LOS PROCESOS ESTOCÁSTICOS",
+		"pcurso": [
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "216G",
+				"nombre": "ECONOMÍA DESCRIPTIVA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "461",
+				"nombre": "INTRODUCCIÓN A LOS PROCESOS ESTOCÁSTICOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "111G",
+				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "214G",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "474",
+		"nombre": "INVESTIGACION OPERATIVA I",
+		"pcurso": [
+			{
+				"id": "116G",
+				"nombre": "ECONOMIA DESCRIPTIVA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116G",
+				"nombre": "ECONOMIA DESCRIPTIVA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "474",
+				"nombre": "INVESTIGACION OPERATIVA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "465",
+		"nombre": "INVESTIGACION OPERATIVA II",
+		"pcurso": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "216E",
+				"nombre": "ECONOMÍA DESCRIPTIVA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211E",
+				"nombre": "MATEMATICA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "214E",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMNISTRATIVOS/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "216E",
+				"nombre": "ECONOMÍA DESCRIPTIVA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "465",
+				"nombre": "INVESTIGACION OPERATIVA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211E",
+				"nombre": "MATEMATICA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "214E",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMNISTRATIVOS/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "211EA",
+		"nombre": "MATEMATICA II A",
+		"pcurso": [
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211EA",
+				"nombre": "MATEMATICA II A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "211EB",
+		"nombre": "MATEMATICA II B",
+		"pcurso": [
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211EA",
+				"nombre": "MATEMATICA II A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211EA",
+				"nombre": "MATEMATICA II A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211EB",
+				"nombre": "MATEMATICA II B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "211E",
+		"nombre": "MATEMATICA II/E",
+		"pcurso": [
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MC30",
+		"nombre": "MATEMÁTICA FINANCIERA",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "3332",
+		"nombre": "METODOS NUMÉRICOS - F.ING.",
+		"pcurso": [
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114G",
+				"nombre": "INT. A LAS ORG. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "GP230",
+				"nombre": "PROBABILIDAD I -C, E Y REV.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "117G",
+				"nombre": "INT. A LA COMPUTACIÓN",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "114G",
+				"nombre": "INT. A LAS ORG. (PLAN 12)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "3332",
+				"nombre": "METODOS NUMÉRICOS - F.ING.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GP230",
+				"nombre": "PROBABILIDAD I -C, E Y REV.",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "333",
+		"nombre": "MODELOS LINEALES",
+		"pcurso": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "335",
+		"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+		"pcurso": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "MUESTREO Y PLANIFICACION DE ENCUESTAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "214E",
+		"nombre": "ORGANIZACIÓN Y MÉTODOS ADMNISTRATIVOS/E",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "230",
+		"nombre": "PROBABILIDAD I",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211EA",
+				"nombre": "MATEMATICA II A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "211EA",
+				"nombre": "MATEMATICA II A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "331",
+		"nombre": "PROBABILIDAD II",
+		"pcurso": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "1117",
+				"nombre": "INTROD. A LA COMPUTACIÓN - F.ING",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "PROBABILIDAD II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "A30",
+		"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
+		"pcurso": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "114P",
+				"nombre": "INT.A LAS ORG/GESTION I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "523E",
+		"nombre": "PROYECTOS DE INVERSION/E",
+		"pcurso": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "216E",
+				"nombre": "ECONOMÍA DESCRIPTIVA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "474",
+				"nombre": "INVESTIGACION OPERATIVA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211E",
+				"nombre": "MATEMATICA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "216E",
+				"nombre": "ECONOMÍA DESCRIPTIVA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "474",
+				"nombre": "INVESTIGACION OPERATIVA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211E",
+				"nombre": "MATEMATICA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "333",
+				"nombre": "MODELOS LINEALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "523E",
+				"nombre": "PROYECTOS DE INVERSION/E",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "462",
+		"nombre": "SERIES CRONOLOGICAS I",
+		"pcurso": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "216E",
+				"nombre": "ECONOMÍA DESCRIPTIVA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211E",
+				"nombre": "MATEMATICA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3332",
+				"nombre": "METODOS NUMÉRICOS - F.ING.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "214E",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMNISTRATIVOS/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "332",
+				"nombre": "CALCULO NUMERICO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "116E",
+				"nombre": "ECONOMÍA DESCRIPTIVA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "216E",
+				"nombre": "ECONOMÍA DESCRIPTIVA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "330",
+				"nombre": "INFERENCIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "117",
+				"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "114E",
+				"nombre": "INTRODUCCIÓN A LAS ORGANIZACIONES/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "111E",
+				"nombre": "MATEMATICA I/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "211E",
+				"nombre": "MATEMATICA II/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "3332",
+				"nombre": "METODOS NUMÉRICOS - F.ING.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "214E",
+				"nombre": "ORGANIZACIÓN Y MÉTODOS ADMNISTRATIVOS/E",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "230",
+				"nombre": "PROBABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "462",
+				"nombre": "SERIES CRONOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "572E",
+		"nombre": "SERIES CRONOLOGICAS II",
+		"pcurso": [
+			{
+				"id": "462",
+				"nombre": "SERIES CRONOLOGICAS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "462",
+				"nombre": "SERIES CRONOLOGICAS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "572E",
+				"nombre": "SERIES CRONOLOGICAS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "E33",
+		"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
+		"pcurso": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MC10P",
+				"nombre": "CALCULO/Y SU GEMELO",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	}
+]

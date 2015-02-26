@@ -1,0 +1,155 @@
+[
+	{
+		"id": "202A",
+		"nombre": "ADMINISTRACIÓN GENERAL  (PLAN 90)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "PRINCIPIOS DE ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "104",
+				"nombre": "PRINCIPIOS DE ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "200",
+		"nombre": "CONTABILIDAD II",
+		"pcurso": [
+			{
+				"id": "100",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "100",
+				"nombre": "CONTABILIDAD I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "204",
+		"nombre": "CONTABILIDAD NACIONAL",
+		"pcurso": [
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "212",
+		"nombre": "ECONOMÍA II",
+		"pcurso": [
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "112",
+				"nombre": "ECONOMÍA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "203",
+		"nombre": "INSTITUCIONES DE DERECHO PRIVADO II",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "103",
+				"nombre": "INSTITUCIONES DE DERECHO PRIVADO I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "206",
+		"nombre": "MATEMATICA FINANCIERA Y ACTUARIAL",
+		"pcurso": [
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "211",
+		"nombre": "MATEMATICA II",
+		"pcurso": [
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "111",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "202B",
+		"nombre": "ORG.Y MET. ADMINISTRATIVOS  (PLAN 90)",
+		"pcurso": [
+			{
+				"id": "104",
+				"nombre": "PRINCIPIOS DE ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "104",
+				"nombre": "PRINCIPIOS DE ADMINISTRACION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	}
+]

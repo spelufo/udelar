@@ -1,0 +1,3375 @@
+[
+	{
+		"id": "BQ094",
+		"nombre": "ACTUAL.EN TEC.INMUNODIASNOSTICO",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL113",
+		"nombre": "ANATOMIA COMPARADA DE LOS VERTEBRADOS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL113",
+				"nombre": "ANATOMIA COMPARADA DE LOS VERTEBRADOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL563",
+		"nombre": "B.CELULAR Y MOLEC.DE PROTOZOOS PARASITOS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ234",
+		"nombre": "BACTERIOLOGIA Y MICOLOGIA CLINICA(F.QCA)",
+		"pcurso": [
+			{
+				"id": "BQ013",
+				"nombre": "GENETICA MOLECULAR II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ010",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ234",
+				"nombre": "BACTERIOLOGIA Y MICOLOGIA CLINICA(F.QCA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ129",
+		"nombre": "BACTERIOLOGIA Y VIROLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL01",
+		"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL01",
+				"nombre": "BIOETICA Y ETICA DEL INVESTIGADOR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL003",
+		"nombre": "BIOFISICA",
+		"pcurso": [
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ049",
+		"nombre": "BIOINGENIERIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ049",
+				"nombre": "BIOINGENIERIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL120",
+		"nombre": "BIOL.E IDENT.HONGOS CONT.DE ALIMENTOS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ161",
+		"nombre": "BIOLOGIA ANIMAL (LIC.BIOQUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ161",
+				"nombre": "BIOLOGIA ANIMAL (LIC.BIOQUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL005",
+		"nombre": "BIOLOGIA CELULAR",
+		"pcurso": [
+			{
+				"id": "BQ003",
+				"nombre": "BIOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ302",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ104",
+				"nombre": "LABORATORIO DE FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "444",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL259",
+		"nombre": "BIOLOGIA DE HONGOS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL165",
+		"nombre": "BIOLOGIA DEL DESARROLLO (LIC.BIOQ.Y HUM)",
+		"pcurso": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL165",
+				"nombre": "BIOLOGIA DEL DESARROLLO (LIC.BIOQ.Y HUM)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL548",
+		"nombre": "BIOLOGIA DEL SUELO",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ003",
+		"nombre": "BIOLOGIA GENERAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BQ003",
+				"nombre": "BIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL018",
+		"nombre": "BIOLOGIA GENERAL II",
+		"pcurso": [
+			{
+				"id": "BQ003",
+				"nombre": "BIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL018",
+				"nombre": "BIOLOGIA GENERAL II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL019",
+		"nombre": "BIOLOGIA GENERAL II (ELECTIVA)",
+		"pcurso": [
+			{
+				"id": "BL017",
+				"nombre": "BIOLOGIA GENERAL I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL019",
+				"nombre": "BIOLOGIA GENERAL II (ELECTIVA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL400",
+		"nombre": "BIOLOGIA MOLECULAR VEGETAL",
+		"pcurso": [
+			{
+				"id": "BQ013",
+				"nombre": "GENETICA MOLECULAR II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL400",
+				"nombre": "BIOLOGIA MOLECULAR VEGETAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL326",
+		"nombre": "BIOLOGIA PARASITARIA (LIC.BIOQ. Y HUM.)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL326",
+				"nombre": "BIOLOGIA PARASITARIA (LIC.BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL601",
+		"nombre": "BIOLOGIA REPRODUCTIVA Y EVOLUCION",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ162",
+		"nombre": "BIOLOGIA VEGETAL (LIC.BIOQUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ162",
+				"nombre": "BIOLOGIA VEGETAL (LIC.BIOQUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ102",
+		"nombre": "BIOLOGIA Y FERTILIDAD DE SUELO",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ131",
+		"nombre": "BIOPROCESOS - POLIMEROS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ142",
+		"nombre": "BIOPROCESOS II",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ142",
+				"nombre": "BIOPROCESOS II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL581",
+		"nombre": "BIOQ.Y FISIOL.DEL METABOLISMO DEL NITROG",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ400",
+		"nombre": "BIOQUIMICA  (ANUAL)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BQ400",
+				"nombre": "BIOQUIMICA  (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ109",
+		"nombre": "BIOQUIMICA CLINICA I",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ302",
+		"nombre": "BIOQUIMICA I",
+		"pcurso": [
+			{
+				"id": "BQ003",
+				"nombre": "BIOLOGIA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "335",
+				"nombre": "BIOLOGIA GENERAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "435",
+				"nombre": "BIOLOGIA GENERAL I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ302",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ017",
+		"nombre": "BIOQUIMICA II",
+		"pcurso": [
+			{
+				"id": "BQ302",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ302",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ017",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ125",
+		"nombre": "BIOQUIMICA Y TECN.DE ANALISIS DE LIPIDOS",
+		"pcurso": [
+			{
+				"id": "332",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ008",
+				"nombre": "FISICOQUIMICA BIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ402",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL667",
+		"nombre": "BIOT.DE DIAGN.MOL.EN PRODUCCION VEGETAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ140",
+		"nombre": "BIOTECNOLOGIA VEGETAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL163",
+		"nombre": "BOTANICA (FACULTAD DE AGRONOMIA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ091",
+		"nombre": "BOTANICA I (QUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ091",
+				"nombre": "BOTANICA I (QUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ047",
+		"nombre": "BROMATOLOGIA Y NUTRICION (F.QUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ047",
+				"nombre": "BROMATOLOGIA Y NUTRICION (F.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL704",
+		"nombre": "CELULAS EUCARIOTAS. VECTORES VIRALES",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL253",
+		"nombre": "CIENCIA Y DESARROLLO",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL253",
+				"nombre": "CIENCIA Y DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ108",
+		"nombre": "CIENCIA Y TECNOL. DE LA LECHE",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ108",
+				"nombre": "CIENCIA Y TECNOL. DE LA LECHE",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AG001",
+		"nombre": "CIENCIAS SOCIALES II",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL723",
+		"nombre": "CITOGENETICA HUMANA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL368",
+		"nombre": "CITOGENETICA Y EVOLUCION",
+		"pcurso": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL368",
+				"nombre": "CITOGENETICA Y EVOLUCION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ050",
+		"nombre": "COMPUTACION",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ116",
+		"nombre": "CRISTALOGRAFIA APLICADA A LA EST.QUIMICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL134",
+		"nombre": "CULTIVO DE CELULAS (HASTA 2010)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL587",
+		"nombre": "DIVERSIDAD Y EVOLUCION DEL GENOMA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL359",
+		"nombre": "ECOLOGIA DEL FITOPLACTON DE AGUA DULCE",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ206",
+		"nombre": "ECOLOGIA GENERAL ( LIC.BIOQUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ206",
+				"nombre": "ECOLOGIA GENERAL ( LIC.BIOQUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ205",
+		"nombre": "ECOLOGIA SISTEMATICA DE PROCARIOTAS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GF065",
+		"nombre": "ECONOMIA POLITICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ114",
+		"nombre": "ELECTROQUIMICA EXPERIMENTAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL730",
+		"nombre": "ENDOCRINOLOGIA DE REPRODUCCION EN PECES",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ122",
+		"nombre": "ENOLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ106",
+		"nombre": "ENZIMOLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ017",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ017",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ106",
+				"nombre": "ENZIMOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "H01",
+		"nombre": "EPISTEMOLOGIA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "H01",
+				"nombre": "EPISTEMOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL655",
+		"nombre": "EST GENOMICOS, POSTGENOMICOS Y SUS APLIC",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL341",
+		"nombre": "ESTRUC.Y MODELIZACION DE PROT",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ237",
+		"nombre": "EVOLUCION (BIOQUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ237",
+				"nombre": "EVOLUCION (BIOQUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL03",
+		"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL03",
+				"nombre": "EVOLUCION DE LAS IDEAS CIENTIFICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ138",
+		"nombre": "FARMACOGNOSIA Y BOTANICA",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ068",
+		"nombre": "FARMACOGNOSIA Y PROD NATURALES",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ402",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ068",
+				"nombre": "FARMACOGNOSIA Y PROD NATURALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ078",
+		"nombre": "FARMACOLOGIA I",
+		"pcurso": [
+			{
+				"id": "BQ017",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ041",
+				"nombre": "FISIOLOGIA ANIMAL (1990 - 2013)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ078",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ065",
+		"nombre": "FARMACOLOGIA II",
+		"pcurso": [
+			{
+				"id": "BQ078",
+				"nombre": "FARMACOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ065",
+				"nombre": "FARMACOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL183",
+		"nombre": "FIJACION BIOLOGICA DE NITROGENO",
+		"pcurso": [
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL183",
+				"nombre": "FIJACION BIOLOGICA DE NITROGENO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI001",
+		"nombre": "FISICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "FI050",
+		"nombre": "FISICA II",
+		"pcurso": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ008",
+		"nombre": "FISICOQUIMICA BIOLOGICA",
+		"pcurso": [
+			{
+				"id": "BQ003",
+				"nombre": "BIOLOGIA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "206",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI001",
+				"nombre": "FISICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "454",
+				"nombre": "FISICOQUIMICA II (S/FISIC.INT)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ104",
+				"nombre": "LABORATORIO DE FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "214",
+				"nombre": "QUIMICA ORGANICA (SIN LABORAT)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "444",
+				"nombre": "BIOQUIMICA I",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ008",
+				"nombre": "FISICOQUIMICA BIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "455",
+				"nombre": "FISICOQUIMICA II (S/FISIC.INT)",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "215",
+				"nombre": "QUIMICA ORGANICA II (SIN LAB.)",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BFQ02",
+		"nombre": "FISICOQUIMICA DE LAS INTERFASES",
+		"pcurso": [
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BFQ02",
+				"nombre": "FISICOQUIMICA DE LAS INTERFASES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BFQ00",
+		"nombre": "FISICOQUIMICA I",
+		"pcurso": [
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BFQ01",
+		"nombre": "FISICOQUIMICA II",
+		"pcurso": [
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ097",
+		"nombre": "FISICOQUIMICA III",
+		"pcurso": [
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ097",
+				"nombre": "FISICOQUIMICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BFQ03",
+		"nombre": "FISICOQUIMICA MODERNA-ESTR.Y PROP.MOLEC.",
+		"pcurso": [
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BFQ00",
+				"nombre": "FISICOQUIMICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BFQ03",
+				"nombre": "FISICOQUIMICA MODERNA-ESTR.Y PROP.MOLEC.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL652",
+		"nombre": "FISIOLOG.CEL.Y MOL. EPITELIOS DE TRANSP.",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ041",
+		"nombre": "FISIOLOGIA ANIMAL (1990 - 2013)",
+		"pcurso": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "BIOQUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ041",
+				"nombre": "FISIOLOGIA ANIMAL (1990 - 2013)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ042",
+		"nombre": "FISIOLOGIA VEGETAL (LIC. BIOQ. Y HUM.)",
+		"pcurso": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL003",
+				"nombre": "BIOFISICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "BIOQUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ042",
+				"nombre": "FISIOLOGIA VEGETAL (LIC. BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL243",
+		"nombre": "FITOPATOLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL646",
+		"nombre": "FUN.Y AP.DE B.DE FLUORESCENCIA(2001-08)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL439",
+		"nombre": "GENET.MOL.Y BIOTEC.VEGETAL(LIC)(H.2012)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL106",
+		"nombre": "GENETICA HUMANA (LIC.BIOQ. Y HUM.)",
+		"pcurso": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL106",
+				"nombre": "GENETICA HUMANA (LIC.BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ014",
+		"nombre": "GENETICA MOLECULAR I",
+		"pcurso": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ006",
+				"nombre": "TRATAMIENTO DE DATOS Y DISEÑO EXP.CUALIT",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ013",
+		"nombre": "GENETICA MOLECULAR II",
+		"pcurso": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ013",
+				"nombre": "GENETICA MOLECULAR II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ085",
+		"nombre": "GENETICA Y ZOOTECNIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ118",
+		"nombre": "HEMATOLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ130",
+		"nombre": "HEMATOLOGIA CLINICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL008",
+		"nombre": "HISTOLOGIA-EMBRIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL342",
+		"nombre": "HONG.ECTOMICORR.Y SU APLIC.FOR.",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ204",
+		"nombre": "HPLC Y SU APLIC.EN PROD.NAT.FAR.Y BIOL.",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ112",
+		"nombre": "INDUSTRIAS LACTEAS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL511",
+		"nombre": "INESTABILIDAD GENETICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL479",
+		"nombre": "INGENIERIA GENETICA VEGETAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ010",
+		"nombre": "INMUNOLOGIA",
+		"pcurso": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "100",
+				"nombre": "BIOQUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ008",
+				"nombre": "FISICOQUIMICA BIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ010",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ107",
+		"nombre": "INMUNOLOGIA CLINICA (F.QUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ107",
+				"nombre": "INMUNOLOGIA CLINICA (F.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL712",
+		"nombre": "INT.MACROMOL.CONTROL DE LA HOMEOSTASIS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL414",
+		"nombre": "INTERACCIONES MOLECULARES",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ098",
+		"nombre": "INTR.A LA BACTERIOL.Y VIROL.MED",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL20",
+		"nombre": "INTROD. A LA VIROLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BQ015",
+				"nombre": "VIROLOGIA (LIC. BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL20",
+				"nombre": "INTROD. A LA VIROLOGIA MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ015",
+				"nombre": "VIROLOGIA (LIC. BIOQ. Y HUM.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ231",
+		"nombre": "INTRODUCCION A LAS ECUAC. DIFERENCIALES",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ126",
+		"nombre": "LAB. CLINICO DE LA ESC. DE TEC. MEDICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ202",
+		"nombre": "LABORATORIO DE FISICA II",
+		"pcurso": [
+			{
+				"id": "BQ104",
+				"nombre": "LABORATORIO DE FISICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ137",
+		"nombre": "LABORATORIO DE QUIMICA DE ALIMENTOS I",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ404",
+		"nombre": "LABORATORIO DE QUIMICA ORGANICA",
+		"pcurso": [
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ404",
+				"nombre": "LABORATORIO DE QUIMICA ORGANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL118",
+		"nombre": "LIMNOLOGIA (PROFUNDIZACION)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL118",
+				"nombre": "LIMNOLOGIA (PROFUNDIZACION)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL058",
+		"nombre": "LIMNOLOGIA BASICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL058",
+				"nombre": "LIMNOLOGIA BASICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ084",
+		"nombre": "M.GENET.APLIC.AL MEJORAM.ANIMAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ100",
+		"nombre": "MANEJO DE RADIOTRAZ.PARA BIOQ.",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "MA920",
+		"nombre": "MATEMATICA I",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "MA930",
+		"nombre": "MATEMATICA II",
+		"pcurso": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA920",
+				"nombre": "MATEMATICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL530",
+		"nombre": "MECANISMOS DE REGUL. DE LA EXPRES.GENICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL316",
+		"nombre": "MET.CUANTIT.EN BIOL.EXPERIMEN.",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL660",
+		"nombre": "METABOLISMO DE NITROGENO EN PLANTAS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL374",
+		"nombre": "METOD.DEL ANAL.DEL AGUA MARINA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL542",
+		"nombre": "METOD.PARA LA EST.DE LA PROD.PRIM.EN EC.",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL128",
+		"nombre": "METODOL. DE LOS RADIOISOT. (HASTA 2009)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ009",
+		"nombre": "MICROBIOLOGIA (F.Q.)",
+		"pcurso": [
+			{
+				"id": "BL005",
+				"nombre": "BIOLOGIA CELULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "332",
+				"nombre": "BIOQUIMICA II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "FI050",
+				"nombre": "FISICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ202",
+				"nombre": "LABORATORIO DE FISICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "331",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "100",
+				"nombre": "BIOQUIMICA I Y II",
+				"actividad": "Grupo",
+				"obs": false
+			},
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "AG04",
+		"nombre": "MICROBIOLOGIA (FAC.DE AGRONOMIA)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ055",
+		"nombre": "MICROBIOLOGIA ALIMENTARIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ055",
+				"nombre": "MICROBIOLOGIA ALIMENTARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ229",
+		"nombre": "MICROBIOLOGIA CLINICA",
+		"pcurso": [
+			{
+				"id": "BQ010",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ229",
+				"nombre": "MICROBIOLOGIA CLINICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL335",
+		"nombre": "MICROBIOLOGIA DE VACUNAS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ054",
+		"nombre": "MICROBIOLOGIA INDUSTRIAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ075",
+		"nombre": "MICROORG.PROMOT.DEL C.VEGETAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ113",
+		"nombre": "MODELADO MOLECULAR I",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ117",
+		"nombre": "MODELADO MOLECULAR II",
+		"pcurso": [
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ117",
+				"nombre": "MODELADO MOLECULAR II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL125",
+		"nombre": "MODELIZACION DE PROTEINAS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ083",
+		"nombre": "MODELOS T.COMP.EN FISICOQUIMICA",
+		"pcurso": [
+			{
+				"id": "BQ004",
+				"nombre": "FISICOQUIMICA GENERAL (ANUAL)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ083",
+				"nombre": "MODELOS T.COMP.EN FISICOQUIMICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL089",
+		"nombre": "NEUROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL312",
+		"nombre": "NEUROCIENCIAS I (LIC.BIOQ. Y HUM.)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL312",
+				"nombre": "NEUROCIENCIAS I (LIC.BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL313",
+		"nombre": "NEUROCIENCIAS II (LIC.BIOQ. Y HUM.)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL313",
+				"nombre": "NEUROCIENCIAS II (LIC.BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL620",
+		"nombre": "NEUROTROFINAS Y PLASTICIDAD NEURONAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ048",
+		"nombre": "NUTRICION ANIMAL",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL523",
+		"nombre": "NUTRICION I",
+		"pcurso": [
+			{
+				"id": "BQ041",
+				"nombre": "FISIOLOGIA ANIMAL (1990 - 2013)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL523",
+				"nombre": "NUTRICION I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL569",
+		"nombre": "NUTRICION II",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL095",
+		"nombre": "OCEANOGRAFIA BIOLOGICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL095",
+				"nombre": "OCEANOGRAFIA BIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL315",
+		"nombre": "OCEANOGRAFIA II (PROFUNDIZACION)",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL308",
+		"nombre": "ORG.DEL GENOMA Y DE LOS CROMOS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL173",
+		"nombre": "ORGANIZ.Y VARIABIL.DEL GENOMA EUCARIOTA",
+		"pcurso": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BL173",
+				"nombre": "ORGANIZ.Y VARIABIL.DEL GENOMA EUCARIOTA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL599",
+		"nombre": "PROCESOS BIOTECNOLOGICOS Y APLICACIONES",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ057",
+		"nombre": "QUIMICA ALIMENTARIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ001",
+		"nombre": "QUIMICA ANALITICA",
+		"pcurso": [
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ001",
+				"nombre": "QUIMICA ANALITICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ092",
+		"nombre": "QUIMICA ANALITICA CUALITATIVA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ135",
+		"nombre": "QUIMICA BIOINORGANICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ136",
+		"nombre": "QUIMICA DE LOS ALIMENTOS I",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "GL32",
+		"nombre": "QUIMICA GENERAL (1986 - 2012)",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ401",
+		"nombre": "QUIMICA ORGANICA I",
+		"pcurso": [
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "GL32",
+				"nombre": "QUIMICA GENERAL (1986 - 2012)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ402",
+		"nombre": "QUIMICA ORGANICA II",
+		"pcurso": [
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ402",
+				"nombre": "QUIMICA ORGANICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ403",
+		"nombre": "QUIMICA ORGANICA II (TEORICO)",
+		"pcurso": [
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ401",
+				"nombre": "QUIMICA ORGANICA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ403",
+				"nombre": "QUIMICA ORGANICA II (TEORICO)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ127",
+		"nombre": "QUIMICA ORGANICA III",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ127",
+				"nombre": "QUIMICA ORGANICA III",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ044",
+		"nombre": "QUIMICA TOXICOLOGICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ044",
+				"nombre": "QUIMICA TOXICOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ232",
+		"nombre": "QUINTA ESCUELA DE NEUROCIENCIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL383",
+		"nombre": "RADIC.LIBRES,ESPECIES EXCITADAS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ051",
+		"nombre": "RADICALES LIBRES Y ENZ.REDOX",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ051",
+				"nombre": "RADICALES LIBRES Y ENZ.REDOX",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL478",
+		"nombre": "RADIOACTIVIDAD APLICADA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL478",
+				"nombre": "RADIOACTIVIDAD APLICADA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ099",
+		"nombre": "RADIOQUIMICA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL583",
+		"nombre": "REG.DE EXP.GENICA EN EUCARIOTAS(HAS2013)",
+		"pcurso": [
+			{
+				"id": "BL00",
+				"nombre": "CUARTO SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL356",
+		"nombre": "REL.HUESPED-MICROORG.NUEVAS..",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ309",
+		"nombre": "SINTESIS ORGANICA ENZIMATICAS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ088",
+		"nombre": "TALLER DE QUIMICA COMPUTACIONAL",
+		"pcurso": [
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BFQ01",
+				"nombre": "FISICOQUIMICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ088",
+				"nombre": "TALLER DE QUIMICA COMPUTACIONAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL585",
+		"nombre": "TEC.DE LAS FERMENTACIONES Y APLICACION.I",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BL585",
+				"nombre": "TEC.DE LAS FERMENTACIONES Y APLICACION.I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ119",
+		"nombre": "TECNICAS DE RADIOINMUNOANALISIS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ119",
+				"nombre": "TECNICAS DE RADIOINMUNOANALISIS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ012",
+		"nombre": "TECNICAS ELECTROQUIMICAS DE ANALISIS",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ121",
+		"nombre": "TECNOLOGIA DE LA CARNE",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ006",
+		"nombre": "TRATAMIENTO DE DATOS Y DISEÑO EXP.CUALIT",
+		"pcurso": [
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "MA930",
+				"nombre": "MATEMATICA II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ006",
+				"nombre": "TRATAMIENTO DE DATOS Y DISEÑO EXP.CUALIT",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ020",
+		"nombre": "U.T.I. - DIGESTIVO, RENAL Y ENDOCRINO",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BQ105",
+		"nombre": "U.T.I. NEUROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL02",
+		"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "BL02",
+				"nombre": "UNIVERSIDAD, CIENCIA Y TECNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ015",
+		"nombre": "VIROLOGIA (LIC. BIOQ. Y HUM.)",
+		"pcurso": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ010",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ014",
+				"nombre": "GENETICA MOLECULAR I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ010",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ015",
+				"nombre": "VIROLOGIA (LIC. BIOQ. Y HUM.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BQ139",
+		"nombre": "VIROLOGIA CLINICA (F.QUIMICA)",
+		"pcurso": [
+			{
+				"id": "BQ013",
+				"nombre": "GENETICA MOLECULAR II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ010",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "BQ013",
+				"nombre": "GENETICA MOLECULAR II",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ010",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ009",
+				"nombre": "MICROBIOLOGIA (F.Q.)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "BQ139",
+				"nombre": "VIROLOGIA CLINICA (F.QUIMICA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "BL142",
+		"nombre": "VIROLOGIA MOLECULAR",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "BL627",
+		"nombre": "ZEBRAFISH Y PECES ANUALES",
+		"pcurso": [
+			{
+				"id": "BQ00",
+				"nombre": "PRIMER SEMESTRE",
+				"actividad": "Grupo",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]

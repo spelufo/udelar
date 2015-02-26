@@ -1,0 +1,1664 @@
+[
+	{
+		"id": "98403",
+		"nombre": "ALIMENTACION",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98105",
+		"nombre": "ANATOMIA NORMAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98103",
+		"nombre": "BIOESTADISTICA",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98101",
+		"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98102",
+		"nombre": "C.I.E.V.",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98502",
+		"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98404",
+		"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98301",
+		"nombre": "ENFERMEDADES INFECCIOSAS",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98204",
+		"nombre": "ETNOLOGIA (ZOOTECNIA)",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98207",
+		"nombre": "FARMACOLOGIA",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98201",
+		"nombre": "FISIOLOGIA",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98107",
+		"nombre": "GENETICA GENERAL",
+		"pcurso": [
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98501",
+		"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98106",
+		"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+		"pcurso": [
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98203",
+		"nombre": "INMUNOLOGIA",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98406",
+		"nombre": "LEGISLACION AGRARIA",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98504",
+		"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98310",
+		"nombre": "LEGISLACION SANITARIA",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98304",
+		"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98405",
+		"nombre": "MEJORA GENETICA",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98202",
+		"nombre": "MICROBIOLOGIA",
+		"pcurso": [
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98208",
+		"nombre": "NUTRICION",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98302",
+		"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98307",
+		"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98407",
+		"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98205",
+		"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98306",
+		"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98305",
+		"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98402",
+		"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98401",
+		"nombre": "PRODUCCION DE RUMIANTES I",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98503",
+		"nombre": "SALUD PUBLICA VETERINARIA",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98206",
+		"nombre": "SEMIOLOGIA",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98309",
+		"nombre": "TECNICA QUIRURGICA",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98308",
+		"nombre": "TERIOGENOLOGIA I",
+		"pcurso": [
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "98303",
+		"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

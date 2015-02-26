@@ -1,0 +1,433 @@
+[
+	{
+		"id": "P204",
+		"nombre": "CIRCUITOS Y MEDICIONES A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P204",
+				"nombre": "CIRCUITOS Y MEDICIONES A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P251",
+		"nombre": "CIRCUITOS Y MEDICIONES B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P204",
+				"nombre": "CIRCUITOS Y MEDICIONES A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P103",
+				"nombre": "TALLER DE MECANICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P208",
+		"nombre": "CONTROL INDUSTRIAL",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P208",
+				"nombre": "CONTROL INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P152",
+				"nombre": "TALLER DE ELECTRICIDAD",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P207",
+		"nombre": "ELECTRONICA A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P207",
+				"nombre": "ELECTRONICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P252",
+		"nombre": "ELECTRONICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P204",
+				"nombre": "CIRCUITOS Y MEDICIONES A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P207",
+				"nombre": "ELECTRONICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P252",
+				"nombre": "ELECTRONICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P150",
+				"nombre": "MATEMATICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P306",
+		"nombre": "ELECTRONICA C",
+		"pcurso": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P252",
+				"nombre": "ELECTRONICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P252",
+				"nombre": "ELECTRONICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P306",
+				"nombre": "ELECTRONICA C",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P101",
+		"nombre": "FISICA A",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P101",
+				"nombre": "FISICA A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P151",
+		"nombre": "FISICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P101",
+				"nombre": "FISICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P151",
+				"nombre": "FISICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P100",
+				"nombre": "MATEMATICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P309",
+		"nombre": "INSTRUMENTACION A",
+		"pcurso": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P208",
+				"nombre": "CONTROL INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P252",
+				"nombre": "ELECTRONICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P208",
+				"nombre": "CONTROL INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P252",
+				"nombre": "ELECTRONICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P355",
+		"nombre": "INSTRUMENTACION B",
+		"pcurso": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P208",
+				"nombre": "CONTROL INDUSTRIAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P252",
+				"nombre": "ELECTRONICA B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P309",
+				"nombre": "INSTRUMENTACION A",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P310",
+				"nombre": "INSTRUMENTOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P208",
+				"nombre": "CONTROL INDUSTRIAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P252",
+				"nombre": "ELECTRONICA B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P309",
+				"nombre": "INSTRUMENTACION A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P355",
+				"nombre": "INSTRUMENTACION B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "P310",
+				"nombre": "INSTRUMENTOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P310",
+		"nombre": "INSTRUMENTOS I",
+		"pcurso": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "P251",
+				"nombre": "CIRCUITOS Y MEDICIONES B",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "P309",
+				"nombre": "INSTRUMENTACION A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P150",
+		"nombre": "MATEMATICA B",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P100",
+				"nombre": "MATEMATICA A",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "P102",
+		"nombre": "QUIMICA DE LOS MATERIALES",
+		"pcurso": [],
+		"pexamen": [
+			{
+				"id": "P102",
+				"nombre": "QUIMICA DE LOS MATERIALES",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	}
+]

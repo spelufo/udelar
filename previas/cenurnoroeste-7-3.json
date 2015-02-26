@@ -1,0 +1,3085 @@
+[
+	{
+		"id": "10",
+		"nombre": "ANATOMÍA DE LOS MIEMBROS DEL EQUINO",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "12",
+		"nombre": "ANATOMÍA DEL ABDOMEN DEL PERRO",
+		"pcurso": [
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "54",
+		"nombre": "BIOESTADÍSTICA II PRODUCCIÓN",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "52",
+		"nombre": "BIOTECN. DE  REPROD.Y TERIOGENEOLOGIA II",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "53",
+		"nombre": "GESTIÓN AGROPECUARIA",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "1042",
+		"nombre": "MONITOREO Y CONTROL DE PARTOS EN BOVINOS",
+		"pcurso": [
+			{
+				"id": "52",
+				"nombre": "BIOTECN. DE  REPROD.Y TERIOGENEOLOGIA II",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": [
+			{
+				"id": "1042",
+				"nombre": "MONITOREO Y CONTROL DE PARTOS EN BOVINOS",
+				"actividad": "Curso aprobado",
+				"obs": false
+			}
+		]
+	},
+	{
+		"id": "51",
+		"nombre": "P. T C. P.RUM. Y SUINOS II - PRODUCCIÓN",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "62",
+		"nombre": "PRODUCCIÓN DE ANIMALES PILÍFEROS",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "58",
+		"nombre": "PRODUCCIÓN DE AVES",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "55",
+		"nombre": "PRODUCCIÓN DE BOVINOS DE CARNE",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "56",
+		"nombre": "PRODUCCIÓN DE BOVINOS DE LECHE",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "61",
+		"nombre": "PRODUCCIÓN DE CANINOS",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "60",
+		"nombre": "PRODUCCIÓN DE EQUINOS",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "57",
+		"nombre": "PRODUCCIÓN DE OVINOS, LANAS Y CAPRINOS",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "59",
+		"nombre": "PRODUCCIÓN DE SUINOS",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	},
+	{
+		"id": "50",
+		"nombre": "SISTEMAS PRODUCTIVOS",
+		"pcurso": [
+			{
+				"id": "98403",
+				"nombre": "ALIMENTACION",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98105",
+				"nombre": "ANATOMIA NORMAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98103",
+				"nombre": "BIOESTADISTICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98101",
+				"nombre": "BIOLOGIA CELULAR Y MOLECULAR",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98102",
+				"nombre": "C.I.E.V.",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98502",
+				"nombre": "CIENCIA Y TEC. DE ALIM. DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98404",
+				"nombre": "ECONOMIA Y ADMINISTRACION AGROPECUARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98301",
+				"nombre": "ENFERMEDADES INFECCIOSAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98204",
+				"nombre": "ETNOLOGIA (ZOOTECNIA)",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98207",
+				"nombre": "FARMACOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98201",
+				"nombre": "FISIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98107",
+				"nombre": "GENETICA GENERAL",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98501",
+				"nombre": "HIG,INSPEC-CONT DE ALIM DE ORIGEN ANIMAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98106",
+				"nombre": "HISTOLOGIA NORMAL Y BIOL. DEL DESARROLLO",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98203",
+				"nombre": "INMUNOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98406",
+				"nombre": "LEGISLACION AGRARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98504",
+				"nombre": "LEGISLACION ALIMENTARIA Y AMBIENTAL",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98310",
+				"nombre": "LEGISLACION SANITARIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98304",
+				"nombre": "MEDICINA PREVENTIVA Y EPIDEMIOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98405",
+				"nombre": "MEJORA GENETICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98202",
+				"nombre": "MICROBIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98208",
+				"nombre": "NUTRICION",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98302",
+				"nombre": "PARASITOLOGA Y ENF. PARASITARIAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98307",
+				"nombre": "PATOLOGIA  Y CLI DE RUMIANTES Y SUINOS I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98407",
+				"nombre": "PATOLOGIA CLINICA Y PRODUCCION AVICOLA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98205",
+				"nombre": "PATOLOGIA FUNCIONAL Y MORFOLOGICA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98306",
+				"nombre": "PATOLOGIA Y CLINICA DE EQUINOS I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98305",
+				"nombre": "PATOLOGIA Y CLINICA DE PEQ. ANIMALES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98402",
+				"nombre": "PROD. DE SUINOS Y ANIMALES DE GRANJA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98401",
+				"nombre": "PRODUCCION DE RUMIANTES I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98503",
+				"nombre": "SALUD PUBLICA VETERINARIA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98206",
+				"nombre": "SEMIOLOGIA",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98309",
+				"nombre": "TECNICA QUIRURGICA",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Curso aprobado",
+				"obs": false
+			},
+			{
+				"id": "98308",
+				"nombre": "TERIOGENOLOGIA I",
+				"actividad": "Examen aprobado",
+				"obs": false
+			},
+			{
+				"id": "98303",
+				"nombre": "TOXICOLOGIA Y ENF. TOXICOLOGICAS",
+				"actividad": "Examen aprobado",
+				"obs": false
+			}
+		],
+		"pexamen": []
+	}
+]
