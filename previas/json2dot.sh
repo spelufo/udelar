@@ -1,40 +1,51 @@
 #!/bin/bash
 
 # GRPS=$(echo *-grupos.json)
-GRPS=$(echo humanidades-grupos.json)
+GRPS=$(echo ingenieria-grupos.json)
 
 for g in $GRPS; do
-	echo $g >&2
-	# s='.[] | "'
-	# s="$s"'\t\"\(.id)\" [color=yellow,label=\"\(.id) [\(.min)-\(.max)]\"];\n'
-	# s="$s"'\t\"\(.id)\" [color=yellow,label=\"\(.id) [\(.min)-\(.max)]\"];\n'
-	# s="$s"'\t\"\(.id)\" -> \([.previas[].id] | @csv)'
-	# s="$s"'"'
 	s='.[]'
-	s="$s"' | { id: .id, previas: .previas | map(.id) | map(select(. != null)), min: .min, max: .max }'
-	s="$s"' | "\t\"\(.id)\" [color = yellow];\n\t\"\(.id)\" -> \(.previas | @csv) [color = blue];"'
-	jq -r "$s" "$g" > "${g/.json/.dot}"
+	s="$s"' | [{from: .previas[] | {id: .id, pts: .puntaje, act: .actividad}, to: {id: .id, min: .min, max: .max}}]'
+	s="$s"' | .[] | "'
+	s="$s"'\t\"\(.to.id)\" [label=\"\(.to.id) [\(.to.min)-\(.to.max)]\"];\n'
+	s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\" [constraint=false,label=\"\(.from.pts)\",color=\(if .from.act == "Curso aprobado" then "orange" else "yellow" end)];"'
+	jq -r "$s" "$g" | uniq | sed '/\s->[^"]*;$/d' > "${g/.json/.dot}"
 done
 
 # CARRS=$(echo *[^p][^o][^s].json)
-CARRS=$(echo humanidades-4-2.json)
-echo '----' >&2
+CARRS=$(echo ingenieria-22-8.json)
+echo '[grupos done]' >&2
 
 for carr in $CARRS; do
 	dotfile="${carr/.json/.dot}"
-	svgfile="${carr/.json/.svg}"
-	echo $carr >&2
+	pngfile="${carr/.json/.svg}"
+	echo "[$carr done]" >&2
 
 	echo "digraph Previas {" > "$dotfile"
+	# echo $'\touputmode=edgesfirst;' >> "$dotfile"
+
+	# previas del examen
 	s='.[]'
-	s="$s"' | { id: .id, nombre: .nombre, pcurso: .pcurso | map(.id) | map(select(. != null)), pexamen: .pexamen | map(.id) | map(select(. != null)) }'
-	s="$s"' | "\t\"\(.id)\" [label=\"\(.nombre)\"];\n\t\"\(.id)\" -> \(.pcurso | @csv);\n\t\"\(.id)\" -> \(.pexamen | @csv) [color = red];"'
-	jq -r "$s" "$carr" | sed '/\s->[^"]*;$/d' >> "$dotfile"
+	s="$s"' | [ { from: .pexamen[] | (if .obs == false then ({id: .id, nombre: .nombre, act: .actividad}) else empty end), to: {id: .id, nombre: .nombre, act: "Examen"} } ]'
+	s="$s"' | .[] | "'
+	s="$s"'\t\"\(.to.id)\" [label=\"\(.to.nombre)\"];\n'
+	s="$s"'\t\"\(.from.id)\" [label=\"\(.from.nombre)\"];\n'
+	s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\";"'
+	jq -r "$s" "$carr" | uniq | sed '/\s->[^"]*;$/d' >> "$dotfile"
+
+	# previas del curso
+	s='.[]'
+	s="$s"' | [ { from: .pcurso[] | (if .obs == false then ({id: .id, nombre: .nombre, act: .actividad}) else empty end), to: {id: .id, nombre: .nombre, act: "Curso"} } ]'
+	s="$s"' | .[] | "'
+	s="$s"'\t\"\(.from.id)\" [label=\"\(.from.nombre)\"];\n'
+	s="$s"'\t\"\(.to.id)\" [label=\"\(.to.nombre)\"];\n'
+	s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\" [color=blue];"'
+	jq -r "$s" "$carr" | uniq | sed '/\s->[^"]*;$/d' >> "$dotfile"
+
 	cat "${carr/-*/}-grupos.dot" >> "$dotfile"
 	echo '}' >> "$dotfile"
 
-	echo "dot -Tsvg $dotfile -o $svgfile"
-
-	dot -Tsvg "$dotfile" -o "$svgfile"
+	dot -Tsvg <(tred <(uniq "$dotfile")) -o "$pngfile" 2>dot.log
+	echo "[$pngfile done]" >&2
 
 done
