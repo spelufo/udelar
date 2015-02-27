@@ -1,0 +1,2293 @@
+[
+	{
+		"id": "1000",
+		"min": 2,
+		"max": 4,
+		"previas": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1001",
+		"min": 4,
+		"max": 6,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1002",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1004",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1009",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1010C",
+		"min": 2,
+		"max": 4,
+		"previas": [
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "1010",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "1012",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1016",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1017",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1020C",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1020",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1020E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1022",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1022E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1024C",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1024",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1025",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1025E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1027",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1028C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1028",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1028E",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1028",
+				"nombre": "ECUACIONES DIFERENCIALES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1029E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1029",
+				"nombre": "FUNCIONES DE VARIABLE COMPLEJA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1036",
+				"nombre": "FUNCIONES DE VARIABLE COMPLEJA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1030C",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1030E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1031E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1033",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1033E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1033",
+				"nombre": "METODOS NUMERICOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1036C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1029",
+				"nombre": "FUNCIONES DE VARIABLE COMPLEJA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1036",
+				"nombre": "FUNCIONES DE VARIABLE COMPLEJA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1103",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1409",
+				"nombre": "MUESTREO Y PROCESAMIENTO DIGITAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1104",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1120",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1121C",
+		"min": 3,
+		"max": 4,
+		"previas": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "1122C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1122",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1122E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1123C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1123",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1126",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1127C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1155",
+				"nombre": "FISICA EXPERIMENTAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1127",
+				"nombre": "LABORATORIO 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1128",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1128E",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1138",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1131",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1138",
+				"nombre": "INT. A LA FISICA MODERNA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1152E",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "1153",
+		"min": 3,
+		"max": 5,
+		"previas": [
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 3
+			}
+		]
+	},
+	{
+		"id": "1224",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1221",
+				"nombre": "ECONOMIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1224",
+				"nombre": "ECONOMIA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1322",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1322E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1326",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1326",
+				"nombre": "DESARROLLO DE SOFTWARE PARA ING.ELECT.",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1306",
+				"nombre": "PROGRAMACION ORIENTADA A OBJETOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1307",
+				"nombre": "PROGRAMACION PARA INGENIERIA ELECTRICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1401",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1407C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1407",
+				"nombre": "SISTEMAS LINEALES 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1407",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1407",
+				"nombre": "SISTEMAS LINEALES 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1407E",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1407",
+				"nombre": "SISTEMAS LINEALES 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1409C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1409",
+				"nombre": "MUESTREO Y PROCESAMIENTO DIGITAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1409E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1409",
+				"nombre": "MUESTREO Y PROCESAMIENTO DIGITAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1410C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1410",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1410",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1410",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1451",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1410E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1410",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1451",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1423",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1423E",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1407",
+				"nombre": "SISTEMAS LINEALES 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1510C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1510",
+				"nombre": "CONTROL DE CALIDAD",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1512",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1512",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1512E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1512",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1513*",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1513",
+				"nombre": "INT. A LOS MICROPROCESADORES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1513",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1512",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1513",
+				"nombre": "INT. A LOS MICROPROCESADORES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "1513E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1513",
+				"nombre": "INT. A LOS MICROPROCESADORES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5501C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5501",
+				"nombre": "REDES ELECTRICAS 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5501E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5501",
+				"nombre": "REDES ELECTRICAS 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5502C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5508",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5502",
+				"nombre": "REDES ELECTRICAS 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5502",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "5501",
+				"nombre": "REDES ELECTRICAS 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5502",
+				"nombre": "REDES ELECTRICAS 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5507C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5503",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5507",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5507",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5503",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5507",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5508C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5508",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5502",
+				"nombre": "REDES ELECTRICAS 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5508",
+		"min": 3,
+		"max": 3,
+		"previas": [
+			{
+				"id": "5508",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 3
+			},
+			{
+				"id": "5501",
+				"nombre": "REDES ELECTRICAS 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "5502",
+				"nombre": "REDES ELECTRICAS 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5508E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5508",
+				"nombre": "REDES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5502",
+				"nombre": "REDES ELECTRICAS 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5601C",
+		"min": 1,
+		"max": 3,
+		"previas": [
+			{
+				"id": "5601",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5608",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5830",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5601E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5601",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5608",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5830",
+				"nombre": "INT. A LA ELECTROTECNICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5602C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5602",
+				"nombre": "MAQUINAS ELECTRICAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5701C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5701",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5701E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5701",
+				"nombre": "ELECTRONICA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5712",
+		"min": 3,
+		"max": 5,
+		"previas": [
+			{
+				"id": "5707",
+				"nombre": "IMAGENES MEDICAS:ADQ. INSTRUM. Y GESTION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5709",
+				"nombre": "IMAGENES MEDICAS:ADQ. INSTRUM. Y GESTION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5703",
+				"nombre": "INGENIERIA BIOMEDICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5710",
+				"nombre": "INGENIERIA BIOMEDICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5503",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5507",
+				"nombre": "INSTALACIONES ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1410",
+				"nombre": "MEDIDAS ELECTRICAS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5705",
+				"nombre": "SEMINARIO DE INGENIERIA BIOMEDICA",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5801C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5801",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5805",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5805E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5805",
+				"nombre": "REDES DE DATOS",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5806E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5806",
+				"nombre": "TELEFONIA DIGITAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5808C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5808",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5808E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5801",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5808",
+				"nombre": "SISTEMAS DE COMUNICACION",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5817",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5803",
+				"nombre": "ANTENAS Y PROPAGACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "5817",
+				"nombre": "ANTENAS Y PROPAGACION",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5900",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5900",
+				"nombre": "INT. A LA TEORIA DE CONTROL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "5900E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "5900",
+				"nombre": "INT. A LA TEORIA DE CONTROL",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "B101",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1031",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "B300",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "B304",
+		"min": 2,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1512",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1513",
+				"nombre": "INT. A LOS MICROPROCESADORES",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C1020",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C1030",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1021",
+				"nombre": "ALGEBRA LINEAL",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1030",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1053",
+				"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C1121",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C1128",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1126",
+				"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1144",
+				"nombre": "VIBRACIONES Y ONDAS",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C1407",
+		"min": 2,
+		"max": 4,
+		"previas": [
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1407",
+				"nombre": "SISTEMAS LINEALES 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C1512",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1512",
+				"nombre": "DISEÑO LOGICO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "C1513",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1513",
+				"nombre": "INT. A LOS MICROPROCESADORES",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CA1Y2",
+		"min": 2,
+		"max": 4,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1022",
+				"nombre": "CALCULO 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP13",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP13E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1128",
+				"nombre": "ELECTROMAGNETISMO",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP1E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1020",
+				"nombre": "CALCULO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1052",
+				"nombre": "CALCULO 1 (ANUAL)",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP3",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP50C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1407",
+				"nombre": "SISTEMAS LINEALES 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP50",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1401",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1423",
+				"nombre": "SISTEMAS LINEALES 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP6E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1024",
+				"nombre": "CALCULO 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP8",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1122",
+				"nombre": "MECANICA NEWTONIANA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP9",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "CP9E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E1152",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1123",
+				"nombre": "FISICA TERMICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "E1153",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F1C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F1E",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "F3C",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1153",
+				"nombre": "FISICA 3",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1121",
+				"nombre": "FISICA GENERAL 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "FE1",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1154",
+				"nombre": "FISICA EXPERIMENTAL 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1124",
+				"nombre": "LABORATORIO 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "FIS",
+		"min": 2,
+		"max": 4,
+		"previas": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			},
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "G1124",
+		"min": 2,
+		"max": 3,
+		"previas": [
+			{
+				"id": "1151",
+				"nombre": "FISICA 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1152",
+				"nombre": "FISICA 2",
+				"actividad": "Curso aprobado",
+				"puntaje": 1
+			},
+			{
+				"id": "1120",
+				"nombre": "FISICA GENERAL 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 2
+			}
+		]
+	},
+	{
+		"id": "PR1",
+		"min": 1,
+		"max": 2,
+		"previas": [
+			{
+				"id": "1322",
+				"nombre": "PROGRAMACION 1",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	},
+	{
+		"id": "PROBA",
+		"min": 1,
+		"max": 1,
+		"previas": [
+			{
+				"id": "1025",
+				"nombre": "PROBABILIDAD Y ESTADISTICA",
+				"actividad": "Examen aprobado",
+				"puntaje": 1
+			}
+		]
+	}
+]
