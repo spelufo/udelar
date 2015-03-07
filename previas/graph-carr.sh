@@ -14,9 +14,9 @@ g="$2"
 s='.[]'
 s="$s"' | [{from: .previas[] | {id: .id, pts: .puntaje, act: .actividad}, to: {id: .id, min: .min, max: .max}}]'
 s="$s"' | .[] | "'
-s="$s"'\t\"\(.to.id)\" [label=\"Grupo \(.to.id) [\(.to.min)-\(.to.max)]\", color=yellow];\n'
+s="$s"'\t\"\(.to.id)\" [label=\"Grupo \(.to.id) [\(.to.min)-\(.to.max)]\", color=blue];\n'
 s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\" ['
-s="$s"'color=\(if .from.act == "Curso aprobado" then "orange" elif .from.act == "Examen aprobado" then "grey" else "green" end),'
+s="$s"'color=\"\(if .from.act == "Curso aprobado" then "grey" elif .from.act == "Examen aprobado" then "black" else "green" end)\"; '
 s="$s"'headlabel=\"\(.from.pts)\"];"'
 jq -r "$s" "$g" | sort -u | sed '/\s->[^"]*;$/d' > "${g/.json/.dot}"
 
@@ -36,16 +36,19 @@ s="$s"' | [ { from: .pexamen[] | (if .obs == false then ({id: .id, nombre: .nomb
 s="$s"' | .[] | "'
 s="$s"'\t\"\(.to.id)\" [label=\"\(.to.nombre)\"];\n'
 s="$s"'\t\"\(.from.id)\" [label=\"\(.from.nombre)\"];\n'
-s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\";"'
+s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\" ['
+# s="$s"'color=\"\(if .from.act == "Curso aprobado" then "grey" elif .from.act == "Examen aprobado" then "black" else "grey" end):red\"];"'
+s="$s"'color=\"\(if .from.act == "Curso aprobado" then "grey" elif .from.act == "Examen aprobado" then "black" else "black" end)\"];"'
 jq -r "$s" "$carr" | sort -u | sed '/\s->[^"]*;$/d' >> "$dotfile"
 
 # carr += previas del curso
 s='.[]'
 s="$s"' | [ { from: .pcurso[] | (if .obs == false then ({id: .id, nombre: .nombre, act: .actividad}) else empty end), to: {id: .id, nombre: .nombre, act: "Curso"} } ]'
 s="$s"' | .[] | "'
-# s="$s"'\t\"\(.from.id)\" [label=\"\(.from.nombre)\"];\n'
 s="$s"'\t\"\(.to.id)\" [label=\"\(.to.nombre)\"];\n'
-s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\" [color=blue];"'
+s="$s"'\t\"\(.from.id)\" -> \"\(.to.id)\" ['
+# s="$s"'color=\"\(if .from.act == "Curso aprobado" then "grey" elif .from.act == "Examen aprobado" then "black" else "grey" end):orange\" ];"'
+s="$s"'color=\"\(if .from.act == "Curso aprobado" then "grey" elif .from.act == "Examen aprobado" then "black" else "black" end)\", arrowhead=dot ];"'
 jq -r "$s" "$carr" | sort -u | sed '/\s->[^"]*;$/d' >> "$dotfile"
 
 # carr += grupos
