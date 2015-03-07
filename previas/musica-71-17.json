@@ -17,13 +17,13 @@
 		"nombre": "PRÁCTICA DE CONJUNTO 4",
 		"pcurso": [
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -36,13 +36,13 @@
 		"nombre": "SEMINARIO DE INTERPRETACIÓN 5",
 		"pcurso": [
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -136,7 +136,7 @@
 		"nombre": "VIOLA 5",
 		"pcurso": [
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -154,7 +154,7 @@
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false

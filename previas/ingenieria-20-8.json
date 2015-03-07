@@ -4,7 +4,7 @@
 		"nombre": "ACONDICIONAMIENTO LUMINICO",
 		"pcurso": [
 			{
-				"id": "5507C",
+				"id": "G_5507C",
 				"nombre": "INST.ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -17,7 +17,7 @@
 		"nombre": "ADMINISTRACION UNIX",
 		"pcurso": [
 			{
-				"id": "CP9",
+				"id": "G_CP9",
 				"nombre": "PROGRAMACION 1 (P97 Ù 87)",
 				"actividad": "Grupo",
 				"obs": false
@@ -31,7 +31,7 @@
 				"obs": false
 			},
 			{
-				"id": "CP9E",
+				"id": "G_CP9E",
 				"nombre": "PROGRAM.1 (E) P. 97 U 87",
 				"actividad": "Grupo",
 				"obs": false
@@ -57,19 +57,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "CA1Y2",
+				"id": "G_CA1Y2",
 				"nombre": "CAL 1 Y 2 Y ANAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1024",
+				"id": "G_1024",
 				"nombre": "CALCUL.3 Ó ANAL.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -95,13 +95,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -113,7 +113,7 @@
 		"nombre": "ANALISIS Y CONTROL DE SIST. NO LINEALES",
 		"pcurso": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -133,13 +133,13 @@
 				"obs": false
 			},
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1407E",
+				"id": "G_1407E",
 				"nombre": "SIST.LINEALES 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -151,19 +151,19 @@
 		"nombre": "ANTENAS Y PROPAGACION",
 		"pcurso": [
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1036C",
+				"id": "G_1036C",
 				"nombre": "FUNC. DE VARIABLE.COMLEJA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5808C",
+				"id": "G_5808C",
 				"nombre": "SIST.COMUNICACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -184,7 +184,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -293,13 +293,13 @@
 		"nombre": "CALCULO 3",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -319,13 +319,13 @@
 		"nombre": "CALCULO NUMERICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -370,19 +370,19 @@
 		"nombre": "CIRCUITOS AMPLIFIC. DE RADIOFRECUENCIA",
 		"pcurso": [
 			{
-				"id": "5817",
+				"id": "G_5817",
 				"nombre": "ANTENAS Y PROPAGACIÓN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5701E",
+				"id": "G_5701E",
 				"nombre": "ELECTRÓNICA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5808",
+				"id": "G_5808",
 				"nombre": "SIST.DE COMUNICACIÓN",
 				"actividad": "Grupo",
 				"obs": false
@@ -395,19 +395,19 @@
 		"nombre": "CODIFICACION DE IMAGENES Y VIDEO",
 		"pcurso": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025E",
+				"id": "G_1025E",
 				"nombre": "PROB.YEST.-ANAL.MAT.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -420,7 +420,7 @@
 		"nombre": "CODIFICACION SOBRE CANALES CON RUIDO",
 		"pcurso": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -446,7 +446,7 @@
 		"nombre": "COMPLEM. TEMAS DE SUBEST.EN MEDIA TENS.",
 		"pcurso": [
 			{
-				"id": "5502C",
+				"id": "G_5502C",
 				"nombre": "REDES ELÉCTRICAS2 P91,97",
 				"actividad": "Grupo",
 				"obs": false
@@ -465,7 +465,7 @@
 		"nombre": "COMPRESION DE VIDEO DIGITAL (MPEG)",
 		"pcurso": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -478,19 +478,19 @@
 		"nombre": "COMPUTACION",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -498,7 +498,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -510,7 +510,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -522,19 +522,19 @@
 		"nombre": "COMPUTACION CUANTICA",
 		"pcurso": [
 			{
-				"id": "1024",
+				"id": "G_1024",
 				"nombre": "CALCUL.3 Ó ANAL.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1031E",
+				"id": "G_1031E",
 				"nombre": "GEOM.Y ALG.LINEAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "PROBA",
+				"id": "G_PROBA",
 				"nombre": "PROB.Y ESTAD.Y ANAL.MATEM.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -547,13 +547,13 @@
 		"nombre": "COMUNICACIONES OPTICAS Y REDES WDM",
 		"pcurso": [
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5805",
+				"id": "G_5805",
 				"nombre": "REDES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -624,7 +624,7 @@
 		"nombre": "CONTROL II",
 		"pcurso": [
 			{
-				"id": "1301C",
+				"id": "G_1301C",
 				"nombre": "INT. A LA TEORIA DEL CONTROL",
 				"actividad": "Grupo",
 				"obs": false
@@ -644,7 +644,7 @@
 		"nombre": "CONTROL ROBUSTO",
 		"pcurso": [
 			{
-				"id": "5900",
+				"id": "G_5900",
 				"nombre": "INTR.A LA TEORIA DE CONT(91-97",
 				"actividad": "Grupo",
 				"obs": false
@@ -678,7 +678,7 @@
 				"obs": false
 			},
 			{
-				"id": "501",
+				"id": "G_501",
 				"nombre": "MAQUINAS ELECTRICAS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -736,19 +736,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B206",
+				"id": "G_B206",
 				"nombre": "ANALISIS COMPLEJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G200",
+				"id": "G_G200",
 				"nombre": "CALCULO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -796,19 +796,19 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -850,7 +850,7 @@
 		"nombre": "DESARROLLO DE SISTEMAS DE TIEMPO REAL",
 		"pcurso": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -876,7 +876,7 @@
 		"nombre": "DESARROLLO DE SOFTWARE PARA ING.ELECT.",
 		"pcurso": [
 			{
-				"id": "B300C",
+				"id": "G_B300C",
 				"nombre": "COMPUTACION O PROG. I",
 				"actividad": "Grupo",
 				"obs": false
@@ -889,7 +889,7 @@
 		"nombre": "DIFUSION SEGUN LA GEOM.Y TRAT. DE IMAGEN",
 		"pcurso": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -915,7 +915,7 @@
 		"nombre": "DIS. DE SIST.BAS.EN PROCESA.DIG.DE SEÑAL",
 		"pcurso": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -928,25 +928,25 @@
 		"nombre": "DISEÑO CON MICROPROCESADORES",
 		"pcurso": [
 			{
-				"id": "1407",
+				"id": "G_1407",
 				"nombre": " SIST.LIN. O SIST.LIN. 2 (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1512E",
+				"id": "G_1512E",
 				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5701C",
+				"id": "G_5701C",
 				"nombre": "ELECTRONICA 1 O ELECT. II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP9E",
+				"id": "G_CP9E",
 				"nombre": "PROGRAM.1 (E) P. 97 U 87",
 				"actividad": "Grupo",
 				"obs": false
@@ -959,13 +959,13 @@
 		"nombre": "DISEÑO DE CIRCUITOS INTEGRADOS DIGITALES",
 		"pcurso": [
 			{
-				"id": "1513",
+				"id": "G_1513",
 				"nombre": "DISEÑO LOGICO (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5701",
+				"id": "G_5701",
 				"nombre": "ELECTRONICA 1 O ELECTRONICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -985,7 +985,7 @@
 		"nombre": "DISEÑO DE TRANSFORMADORES",
 		"pcurso": [
 			{
-				"id": "E612C",
+				"id": "G_E612C",
 				"nombre": "CONVER.ELECTROM. O MAQ.ELE.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1017,19 +1017,19 @@
 		"nombre": "DISEÑO LOGICO",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1049,7 +1049,7 @@
 		"nombre": "DISEÑO LOGICO 2",
 		"pcurso": [
 			{
-				"id": "1513",
+				"id": "G_1513",
 				"nombre": "DISEÑO LOGICO (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1062,7 +1062,7 @@
 		"nombre": "DISEÑO LOGICO 2",
 		"pcurso": [
 			{
-				"id": "1513",
+				"id": "G_1513",
 				"nombre": "DISEÑO LOGICO (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1074,7 +1074,7 @@
 				"obs": true
 			},
 			{
-				"id": "5701C",
+				"id": "G_5701C",
 				"nombre": "ELECTRONICA 1 O ELECT. II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1087,7 +1087,7 @@
 		"nombre": "DISTRIBUCION DE ENERGIA ELECTRICA",
 		"pcurso": [
 			{
-				"id": "5507C",
+				"id": "G_5507C",
 				"nombre": "INST.ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1101,13 +1101,13 @@
 				"obs": false
 			},
 			{
-				"id": "5507",
+				"id": "G_5507",
 				"nombre": "INST.ELECT.(74,87.91,97)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5502",
+				"id": "G_5502",
 				"nombre": "REDES ELEC.1 Y 2  (89 - 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1132,7 +1132,7 @@
 				"obs": false
 			},
 			{
-				"id": "E623",
+				"id": "G_E623",
 				"nombre": "REDES ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1170,13 +1170,13 @@
 		"nombre": "ECUACIONES DIFERENCIALES",
 		"pcurso": [
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1221,31 +1221,31 @@
 		"nombre": "ELECTROMAGNETISMO",
 		"pcurso": [
 			{
-				"id": "1009",
+				"id": "G_1009",
 				"nombre": "ALGEBRA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025",
+				"id": "G_1025",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "CALCULO 3 Y ANALISIS II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1010C",
+				"id": "G_1010C",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1266,13 +1266,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1304,7 +1304,7 @@
 				"obs": false
 			},
 			{
-				"id": "B303E",
+				"id": "G_B303E",
 				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1322,7 +1322,7 @@
 				"obs": false
 			},
 			{
-				"id": "1410C",
+				"id": "G_1410C",
 				"nombre": "MEDIDAS ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1330,7 +1330,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B206",
+				"id": "G_B206",
 				"nombre": "ANALISIS COMPLEJO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1342,7 +1342,7 @@
 				"obs": false
 			},
 			{
-				"id": "B303E",
+				"id": "G_B303E",
 				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1354,31 +1354,31 @@
 		"nombre": "ELECTRONICA DE POTENCIA",
 		"pcurso": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5701",
+				"id": "G_5701",
 				"nombre": "ELECTRONICA 1 O ELECTRONICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1029E",
+				"id": "G_1029E",
 				"nombre": "FUNC.DE VARIABLE COMPLEJA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1423",
+				"id": "G_1423",
 				"nombre": "SIST.LINEALES 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50C",
+				"id": "G_CP50C",
 				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1525,13 +1525,13 @@
 		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "1024E",
+				"id": "G_1024E",
 				"nombre": "CAL.3 O ANAL.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201E",
+				"id": "G_B201E",
 				"nombre": "MEC.II O MEC.NEWTONIANA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1570,7 +1570,7 @@
 		"nombre": "ENERGIA 1",
 		"pcurso": [
 			{
-				"id": "B202",
+				"id": "G_B202",
 				"nombre": "TERMOD.Y FIS.TERMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1609,13 +1609,13 @@
 		"nombre": "ESTABILIDAD DE LOS SIST.ELEC.DE POTENCIA",
 		"pcurso": [
 			{
-				"id": "1028",
+				"id": "G_1028",
 				"nombre": "ECUACIO.DIFER. O ANAL. II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5601C",
+				"id": "G_5601C",
 				"nombre": "INT. A LA ELECTROTECNICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1627,7 +1627,7 @@
 				"obs": false
 			},
 			{
-				"id": "5502C",
+				"id": "G_5502C",
 				"nombre": "REDES ELÉCTRICAS2 P91,97",
 				"actividad": "Grupo",
 				"obs": false
@@ -1640,13 +1640,13 @@
 		"nombre": "EVALUACION DE PERF.EN REDES DE TELECOM.",
 		"pcurso": [
 			{
-				"id": "1025E",
+				"id": "G_1025E",
 				"nombre": "PROB.YEST.-ANAL.MAT.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5805",
+				"id": "G_5805",
 				"nombre": "REDES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1659,19 +1659,19 @@
 		"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1715,13 +1715,13 @@
 				"texto": "Créditos en la Carrera 20 - Ciclo 8"
 			},
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1010",
+				"id": "G_1010",
 				"nombre": "FISICA GENERAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1735,7 +1735,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -1747,13 +1747,13 @@
 		"nombre": "FUNDAMENTOS DE BASES DE DATOS",
 		"pcurso": [
 			{
-				"id": "1512C",
+				"id": "G_1512C",
 				"nombre": "DISEÑO LOGICO 91E-97C",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1322",
+				"id": "G_1322",
 				"nombre": "PROGRAMACION 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1761,13 +1761,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B304",
+				"id": "G_B304",
 				"nombre": "DISEÑO LOGICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1805,7 +1805,7 @@
 				"obs": false
 			},
 			{
-				"id": "B309",
+				"id": "G_B309",
 				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
 				"actividad": "Grupo",
 				"obs": false
@@ -1919,7 +1919,7 @@
 		"nombre": "GESTION DE MANTENIMIENTO",
 		"pcurso": [
 			{
-				"id": "1510C",
+				"id": "G_1510C",
 				"nombre": "CONTROL DE CALIDAD(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1958,7 +1958,7 @@
 		"nombre": "GESTION INTEG. DE REDES Y SERV.DE TELEC.",
 		"pcurso": [
 			{
-				"id": "5805",
+				"id": "G_5805",
 				"nombre": "REDES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2054,19 +2054,19 @@
 		"nombre": "INGENIERIA BIOMEDICA",
 		"pcurso": [
 			{
-				"id": "5701",
+				"id": "G_5701",
 				"nombre": "ELECTRONICA 1 O ELECTRONICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1102E",
+				"id": "G_1102E",
 				"nombre": "MEDIDAS ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1423",
+				"id": "G_1423",
 				"nombre": "SIST.LINEALES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2092,7 +2092,7 @@
 				"obs": false
 			},
 			{
-				"id": "5801C",
+				"id": "G_5801C",
 				"nombre": "SIST.DE COM. O INT.A LA MOD.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2105,7 +2105,7 @@
 		"nombre": "INGENIERIA DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -2125,7 +2125,7 @@
 				"obs": false
 			},
 			{
-				"id": "1407E",
+				"id": "G_1407E",
 				"nombre": "SIST.LINEALES 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2137,19 +2137,19 @@
 		"nombre": "INSTALACIONES ELECTRICAS",
 		"pcurso": [
 			{
-				"id": "1123C",
+				"id": "G_1123C",
 				"nombre": "FISICA TERMICA O TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5601C",
+				"id": "G_5601C",
 				"nombre": "INT. A LA ELECTROTECNICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1410C",
+				"id": "G_1410C",
 				"nombre": "MEDIDAS ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2163,7 +2163,7 @@
 				"obs": false
 			},
 			{
-				"id": "1407E",
+				"id": "G_1407E",
 				"nombre": "SIST.LINEALES 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2214,13 +2214,13 @@
 		"nombre": "INT. A LA ARQUITECTURA DEL PC",
 		"pcurso": [
 			{
-				"id": "1513",
+				"id": "G_1513",
 				"nombre": "DISEÑO LOGICO (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1322E",
+				"id": "G_1322E",
 				"nombre": "PROGRAM. 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2234,19 +2234,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E501",
+				"id": "G_E501",
 				"nombre": "MAQUINAS ELECTRICAS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2265,7 +2265,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -2277,13 +2277,13 @@
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B303E",
+				"id": "G_B303E",
 				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
 				"actividad": "Grupo",
 				"obs": false
@@ -2307,13 +2307,13 @@
 				"obs": true
 			},
 			{
-				"id": "1122C",
+				"id": "G_1122C",
 				"nombre": "MEC.NEWT. O MEC.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1407C",
+				"id": "G_1407C",
 				"nombre": "SIST.LINEAL.2  Ó SIST.LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2321,31 +2321,31 @@
 		],
 		"pexamen": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1029E",
+				"id": "G_1029E",
 				"nombre": "FUNC.DE VARIABLE COMPLEJA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5608",
+				"id": "G_5608",
 				"nombre": "INT.A LA ELECT. O SIST.DE COM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -2358,19 +2358,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "CA1Y2",
+				"id": "G_CA1Y2",
 				"nombre": "CAL 1 Y 2 Y ANAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1024",
+				"id": "G_1024",
 				"nombre": "CALCUL.3 Ó ANAL.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2383,7 +2383,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2414,25 +2414,25 @@
 		"nombre": "INT. A LA TEORIA DE CONTROL",
 		"pcurso": [
 			{
-				"id": "1123C",
+				"id": "G_1123C",
 				"nombre": "FISICA TERMICA O TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1122E",
+				"id": "G_1122E",
 				"nombre": "MECANICA NEWT.O MEC.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1409C",
+				"id": "G_1409C",
 				"nombre": "MUESTREO Y PROC.DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50C",
+				"id": "G_CP50C",
 				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2440,13 +2440,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1123E",
+				"id": "G_1123E",
 				"nombre": "FISICA TERMICA O TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1029E",
+				"id": "G_1029E",
 				"nombre": "FUNC.DE VARIABLE COMPLEJA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2458,7 +2458,7 @@
 				"obs": false
 			},
 			{
-				"id": "1407E",
+				"id": "G_1407E",
 				"nombre": "SIST.LINEALES 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2470,7 +2470,7 @@
 		"nombre": "INT. A LA TEORIA DE LA MEDIDA Y DISTRIB.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2490,7 +2490,7 @@
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2534,7 +2534,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1512E",
+				"id": "G_1512E",
 				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
 				"actividad": "Grupo",
 				"obs": false
@@ -2552,13 +2552,13 @@
 		"nombre": "INT. A LOS PLC",
 		"pcurso": [
 			{
-				"id": "1512E",
+				"id": "G_1512E",
 				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1410E",
+				"id": "G_1410E",
 				"nombre": "MEDIDAS ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2579,19 +2579,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1020",
+				"id": "G_1020",
 				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025E",
+				"id": "G_1025E",
 				"nombre": "PROB.YEST.-ANAL.MAT.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2603,19 +2603,19 @@
 		"nombre": "INT. A LOS SIST.MOVILES CELULARES",
 		"pcurso": [
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5805E",
+				"id": "G_5805E",
 				"nombre": "REDE DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5808",
+				"id": "G_5808",
 				"nombre": "SIST.DE COMUNICACIÓN",
 				"actividad": "Grupo",
 				"obs": false
@@ -2634,7 +2634,7 @@
 				"obs": false
 			},
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -2692,13 +2692,13 @@
 		"nombre": "INT. AL SECTOR ELÉCT.COMPETITIVO",
 		"pcurso": [
 			{
-				"id": "1224",
+				"id": "G_1224",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5508E",
+				"id": "G_5508E",
 				"nombre": "REDES ELÉCTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2712,7 +2712,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2724,13 +2724,13 @@
 		"nombre": "LABORATORIO DE FISICA MODERNA",
 		"pcurso": [
 			{
-				"id": "1138",
+				"id": "G_1138",
 				"nombre": "INT.A LA FÍSICA MODERNA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B314",
+				"id": "G_B314",
 				"nombre": "TALLER LAB.II O LAB.2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2743,7 +2743,7 @@
 		"nombre": "MAQUINAS ELECTRICAS",
 		"pcurso": [
 			{
-				"id": "3001C",
+				"id": "G_3001C",
 				"nombre": "INT. A LA ELECTROTECNICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2751,7 +2751,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1128E",
+				"id": "G_1128E",
 				"nombre": "ELECTROMAG. Y FIS.GRAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2763,7 +2763,7 @@
 				"obs": false
 			},
 			{
-				"id": "B303E",
+				"id": "G_B303E",
 				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
 				"actividad": "Grupo",
 				"obs": false
@@ -2870,13 +2870,13 @@
 		"nombre": "MAQUINAS PARA FLUIDOS 1",
 		"pcurso": [
 			{
-				"id": "1805C",
+				"id": "G_1805C",
 				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1123C",
+				"id": "G_1123C",
 				"nombre": "FISICA TERMICA O TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2890,13 +2890,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1805",
+				"id": "G_1805",
 				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1123",
+				"id": "G_1123",
 				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -2915,7 +2915,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2934,7 +2934,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2953,7 +2953,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2971,25 +2971,25 @@
 		"nombre": "MEC.DE SIST.Y FENOMENOS ONDULATORIOS",
 		"pcurso": [
 			{
-				"id": "1025",
+				"id": "G_1025",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1027",
+				"id": "G_1027",
 				"nombre": "FISICA GENERAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1122C",
+				"id": "G_1122C",
 				"nombre": "MEC.NEWT. O MEC.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -3016,7 +3016,7 @@
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -3042,19 +3042,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -3066,25 +3066,25 @@
 		"nombre": "MECANICA NEWTONIANA",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1022",
+				"id": "G_1022",
 				"nombre": "CALCULO 1 Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1121",
+				"id": "G_C1121",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -3124,7 +3124,7 @@
 				"obs": false
 			},
 			{
-				"id": "E623",
+				"id": "G_E623",
 				"nombre": "REDES ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -3162,7 +3162,7 @@
 				"obs": false
 			},
 			{
-				"id": "B303E",
+				"id": "G_B303E",
 				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3174,25 +3174,25 @@
 		"nombre": "MEDIDAS Y PROTECCIONES EN SEP.",
 		"pcurso": [
 			{
-				"id": "5602C",
+				"id": "G_5602C",
 				"nombre": "MAQ.ELEC.P97 MAQ.ELEC II P91",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1410E",
+				"id": "G_1410E",
 				"nombre": "MEDIDAS ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5501E",
+				"id": "G_5501E",
 				"nombre": "REDES ELÉCTRICAS 1 P91 P.97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5502C",
+				"id": "G_5502C",
 				"nombre": "REDES ELÉCTRICAS2 P91,97",
 				"actividad": "Grupo",
 				"obs": false
@@ -3212,7 +3212,7 @@
 		"nombre": "MICROPROCESADORES I",
 		"pcurso": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -3282,7 +3282,7 @@
 		"nombre": "MONOGRAFIA DE CODIF.DE CANALES CON RUIDO",
 		"pcurso": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -3295,7 +3295,7 @@
 		"nombre": "MONOGRAFIA EN MEDIDAS ELECTRICAS",
 		"pcurso": [
 			{
-				"id": "1410",
+				"id": "G_1410",
 				"nombre": "MEDIDAS ELECT. (91 Ó 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3348,7 +3348,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3367,7 +3367,7 @@
 				"obs": false
 			},
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3398,7 +3398,7 @@
 		"nombre": "OPTICA",
 		"pcurso": [
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -3469,7 +3469,7 @@
 		"nombre": "PLANIF. DE REDES ISDN DE BANDA ESTRECHA",
 		"pcurso": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -3482,13 +3482,13 @@
 		"nombre": "PRINCIPIOS DE LA TECNICA SDH",
 		"pcurso": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5805",
+				"id": "G_5805",
 				"nombre": "REDES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -3501,13 +3501,13 @@
 		"nombre": "PROBABILIDAD Y ESTADISTICA",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -3527,7 +3527,7 @@
 		"nombre": "PROCESADORES DIGITALES DE SEÑALES",
 		"pcurso": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -3553,7 +3553,7 @@
 				"obs": false
 			},
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -3592,13 +3592,13 @@
 		"nombre": "PROGRAMACION 4",
 		"pcurso": [
 			{
-				"id": "B300C",
+				"id": "G_B300C",
 				"nombre": "COMPUTACION O PROG. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1513C",
+				"id": "G_1513C",
 				"nombre": "DISEÑO LOGICO 91 E - 97 C",
 				"actividad": "Grupo",
 				"obs": false
@@ -3606,13 +3606,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1513",
+				"id": "G_1513",
 				"nombre": "DISEÑO LOGICO (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3630,7 +3630,7 @@
 		"nombre": "PROGRAMACION ORIENTADA A OBJETOS EN C++",
 		"pcurso": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -3692,37 +3692,37 @@
 				"texto": "Créditos en la Carrera 20 - Ciclo 8"
 			},
 			{
-				"id": "1512C",
+				"id": "G_1512C",
 				"nombre": "DISEÑO LOGICO 91E-97C",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1410C",
+				"id": "G_1410C",
 				"nombre": "MEDIDAS ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1409C",
+				"id": "G_1409C",
 				"nombre": "MUESTREO Y PROC.DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1322",
+				"id": "G_1322",
 				"nombre": "PROGRAMACION 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1401",
+				"id": "G_1401",
 				"nombre": "SIST.LI.1 O SIST.LIN (P.97Y89)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50C",
+				"id": "G_CP50C",
 				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -3761,7 +3761,7 @@
 		"nombre": "PROYECTO DE INSTALACIONES ELECTRICAS",
 		"pcurso": [
 			{
-				"id": "5507",
+				"id": "G_5507",
 				"nombre": "INST.ELECT.(74,87.91,97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3774,7 +3774,7 @@
 		"nombre": "REDES DE DATOS",
 		"pcurso": [
 			{
-				"id": "5508C",
+				"id": "G_5508C",
 				"nombre": "REDES EL.2 O SIST.COMUN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3795,7 +3795,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -3807,7 +3807,7 @@
 		"nombre": "REDES ELECTRICAS",
 		"pcurso": [
 			{
-				"id": "C1407",
+				"id": "G_C1407",
 				"nombre": "SIST. LINEALES 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -3815,19 +3815,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1029E",
+				"id": "G_1029E",
 				"nombre": "FUNC.DE VARIABLE COMPLEJA",
 				"actividad": "Grupo",
 				"obs": false
@@ -3839,7 +3839,7 @@
 				"obs": false
 			},
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3871,19 +3871,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1029E",
+				"id": "G_1029E",
 				"nombre": "FUNC.DE VARIABLE COMPLEJA",
 				"actividad": "Grupo",
 				"obs": false
@@ -3895,7 +3895,7 @@
 				"obs": false
 			},
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -3914,7 +3914,7 @@
 				"obs": false
 			},
 			{
-				"id": "1407E",
+				"id": "G_1407E",
 				"nombre": "SIST.LINEALES 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -3959,7 +3959,7 @@
 				"obs": false
 			},
 			{
-				"id": "B309",
+				"id": "G_B309",
 				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
 				"actividad": "Grupo",
 				"obs": false
@@ -3971,19 +3971,19 @@
 		"nombre": "RESISTENCIA DE MATERIALES 1N",
 		"pcurso": [
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1031C",
+				"id": "G_1031C",
 				"nombre": "GEOMETRIA 2 (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1122",
+				"id": "G_C1122",
 				"nombre": "MEC. NEW. O MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -4009,7 +4009,7 @@
 		"nombre": "RUTEO IP Y TECNOLOGIAS DE TRANSPORTES",
 		"pcurso": [
 			{
-				"id": "5805",
+				"id": "G_5805",
 				"nombre": "REDES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -4022,13 +4022,13 @@
 		"nombre": "SEMINARIO DE INGENIERIA BIOMEDICA",
 		"pcurso": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -4047,19 +4047,19 @@
 		"nombre": "SEMINARIO DE INGENIERIA BIOMEDICA",
 		"pcurso": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B303E",
+				"id": "G_B303E",
 				"nombre": "SIST.LINEALES(S.L1Y S.L2)",
 				"actividad": "Grupo",
 				"obs": false
@@ -4086,7 +4086,7 @@
 				"obs": false
 			},
 			{
-				"id": "E623",
+				"id": "G_E623",
 				"nombre": "REDES ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -4105,13 +4105,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -4124,7 +4124,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -4149,25 +4149,25 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1029E",
+				"id": "G_1029E",
 				"nombre": "FUNC.DE VARIABLE COMPLEJA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -4185,13 +4185,13 @@
 		"nombre": "SISTEMAS DE COMUNICACION",
 		"pcurso": [
 			{
-				"id": "1409C",
+				"id": "G_1409C",
 				"nombre": "MUESTREO Y PROC.DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50C",
+				"id": "G_CP50C",
 				"nombre": "SIST.LINEALES 2 O SIST.LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -4199,25 +4199,25 @@
 		],
 		"pexamen": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1029E",
+				"id": "G_1029E",
 				"nombre": "FUNC.DE VARIABLE COMPLEJA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -4235,7 +4235,7 @@
 		"nombre": "SISTEMAS DE TIEMPO REAL",
 		"pcurso": [
 			{
-				"id": "1008",
+				"id": "G_1008",
 				"nombre": "MICROPROCESADORES I",
 				"actividad": "Grupo",
 				"obs": false
@@ -4249,7 +4249,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -4280,19 +4280,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B206",
+				"id": "G_B206",
 				"nombre": "ANALISIS COMPLEJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -4304,7 +4304,7 @@
 		"nombre": "SISTEMAS LINEALES 1",
 		"pcurso": [
 			{
-				"id": "1028C",
+				"id": "G_1028C",
 				"nombre": "ANAL.II O ECUAC.DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -4312,19 +4312,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "B206",
+				"id": "G_B206",
 				"nombre": "ANALISIS COMPLEJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -4342,7 +4342,7 @@
 		"nombre": "SISTEMAS LINEALES 1",
 		"pcurso": [
 			{
-				"id": "1028C",
+				"id": "G_1028C",
 				"nombre": "ANAL.II O ECUAC.DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -4350,19 +4350,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "B206",
+				"id": "G_B206",
 				"nombre": "ANALISIS COMPLEJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -4381,19 +4381,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1028E",
+				"id": "G_1028E",
 				"nombre": "EC.DIFERENC. O ANALISIS II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1036C",
+				"id": "G_1036C",
 				"nombre": "FUNC. DE VARIABLE.COMLEJA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4411,19 +4411,19 @@
 		"nombre": "SISTEMAS NEURO FUZZY",
 		"pcurso": [
 			{
-				"id": "5900",
+				"id": "G_5900",
 				"nombre": "INTR.A LA TEORIA DE CONT(91-97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1407E",
+				"id": "G_1407E",
 				"nombre": "SIST.LINEALES 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -4436,19 +4436,19 @@
 		"nombre": "SISTEMAS OPERATIVOS",
 		"pcurso": [
 			{
-				"id": "B300C",
+				"id": "G_B300C",
 				"nombre": "COMPUTACION O PROG. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1513C",
+				"id": "G_1513C",
 				"nombre": "DISEÑO LOGICO 91 E - 97 C",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1512C",
+				"id": "G_1512C",
 				"nombre": "DISEÑO LOGICO 91E-97C",
 				"actividad": "Grupo",
 				"obs": false
@@ -4456,7 +4456,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -4475,7 +4475,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B300",
+				"id": "G_B300",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -4493,19 +4493,19 @@
 		"nombre": "SUBESTACIONES EN MEDIA TENSION",
 		"pcurso": [
 			{
-				"id": "5507C",
+				"id": "G_5507C",
 				"nombre": "INST.ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5601C",
+				"id": "G_5601C",
 				"nombre": "INT. A LA ELECTROTECNICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5508",
+				"id": "G_5508",
 				"nombre": "REDES ELECT. O RED.1 Y 2 (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -4513,19 +4513,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "5507",
+				"id": "G_5507",
 				"nombre": "INST.ELECT.(74,87.91,97)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5601E",
+				"id": "G_5601E",
 				"nombre": "INTROD.A LA ELECTRO P91,97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5508E",
+				"id": "G_5508E",
 				"nombre": "REDES ELÉCTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -4543,7 +4543,7 @@
 		"nombre": "TALLER DE COMUNICACIONES",
 		"pcurso": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -4556,7 +4556,7 @@
 		"nombre": "TALLER DE FILTROS DIGITALES",
 		"pcurso": [
 			{
-				"id": "B303C",
+				"id": "G_B303C",
 				"nombre": "SIST.LINEALES Y SIST.LIN. 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -4582,7 +4582,7 @@
 		"nombre": "TALLER DE MAQUINAS ELECTRICAS",
 		"pcurso": [
 			{
-				"id": "3001E",
+				"id": "G_3001E",
 				"nombre": "INTROD.A LA ELECTROTECNICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4608,13 +4608,13 @@
 		"nombre": "TALLER DE TELECOMUNICACIONES",
 		"pcurso": [
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5801C",
+				"id": "G_5801C",
 				"nombre": "SIST.DE COM. O INT.A LA MOD.",
 				"actividad": "Grupo",
 				"obs": false
@@ -4634,13 +4634,13 @@
 		"nombre": "TALLER DE TELEMATICA",
 		"pcurso": [
 			{
-				"id": "1326",
+				"id": "G_1326",
 				"nombre": "DES.SOFT.ING.ELECT/ PROG.ORIEN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5805",
+				"id": "G_5805",
 				"nombre": "REDES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -4653,19 +4653,19 @@
 		"nombre": "TALLER III (ANUAL)",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4703,19 +4703,19 @@
 		"nombre": "TALLER LABORATORIO II (ELECTRICA)",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -4734,7 +4734,7 @@
 		"nombre": "TEC. DE ACCESO RADIO DE SIST. 3G",
 		"pcurso": [
 			{
-				"id": "5817",
+				"id": "G_5817",
 				"nombre": "ANTENAS Y PROPAGACIÓN",
 				"actividad": "Grupo",
 				"obs": false
@@ -4746,13 +4746,13 @@
 				"obs": false
 			},
 			{
-				"id": "5808",
+				"id": "G_5808",
 				"nombre": "SIST.DE COMUNICACIÓN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5806E",
+				"id": "G_5806E",
 				"nombre": "TELEFONIA DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -4765,7 +4765,7 @@
 		"nombre": "TEC. DE MULTIRRESOLUCION Y APLICACIONES",
 		"pcurso": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -4779,7 +4779,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1101",
+				"id": "G_1101",
 				"nombre": "TRATAMIENTO DE SEÑALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -4792,7 +4792,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -4804,13 +4804,13 @@
 		"nombre": "TELEFONIA DIGITAL",
 		"pcurso": [
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5801C",
+				"id": "G_5801C",
 				"nombre": "SIST.DE COM. O INT.A LA MOD.",
 				"actividad": "Grupo",
 				"obs": false
@@ -4823,13 +4823,13 @@
 		"nombre": "TELEVIS.,RADIODIF. Y TEC.DE CONVERG.",
 		"pcurso": [
 			{
-				"id": "1407",
+				"id": "G_1407",
 				"nombre": " SIST.LIN. O SIST.LIN. 2 (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5801C",
+				"id": "G_5801C",
 				"nombre": "SIST.DE COM. O INT.A LA MOD.",
 				"actividad": "Grupo",
 				"obs": false
@@ -4850,7 +4850,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -4868,13 +4868,13 @@
 		"nombre": "TEMAS DE SUBESTACIONES DE MEDIA TENSION",
 		"pcurso": [
 			{
-				"id": "5507C",
+				"id": "G_5507C",
 				"nombre": "INST.ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5508",
+				"id": "G_5508",
 				"nombre": "REDES ELECT. O RED.1 Y 2 (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -4887,7 +4887,7 @@
 		"nombre": "TEORIA DE LA INFORMACION",
 		"pcurso": [
 			{
-				"id": "1104",
+				"id": "G_1104",
 				"nombre": "INTRODUC. A LA MODULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -4900,19 +4900,19 @@
 		"nombre": "TEORIA ELECTROMAGNETICA",
 		"pcurso": [
 			{
-				"id": "1024C",
+				"id": "G_1024C",
 				"nombre": "CALCULO 3 Ó ANAL.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1028",
+				"id": "G_1028",
 				"nombre": "ECUACIO.DIFER. O ANAL. II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP13",
+				"id": "G_CP13",
 				"nombre": "ELECTROMAG. P.89-97",
 				"actividad": "Grupo",
 				"obs": false
@@ -4933,19 +4933,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -4958,19 +4958,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1024",
+				"id": "G_1024",
 				"nombre": "CALCUL.3 Ó ANAL.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201E",
+				"id": "G_B201E",
 				"nombre": "MEC.II O MEC.NEWTONIANA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B202",
+				"id": "G_B202",
 				"nombre": "TERMOD.Y FIS.TERMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4996,7 +4996,7 @@
 				"obs": false
 			},
 			{
-				"id": "E623",
+				"id": "G_E623",
 				"nombre": "REDES ELECTRICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -5014,13 +5014,13 @@
 		"nombre": "TRANSMISION DE ENERGIA ELECTRICA (S)",
 		"pcurso": [
 			{
-				"id": "E612C",
+				"id": "G_E612C",
 				"nombre": "CONVER.ELECTROM. O MAQ.ELE.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2905",
+				"id": "G_2905",
 				"nombre": "REDES ELECT. O RED.ELECT.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -5028,13 +5028,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "E612",
+				"id": "G_E612",
 				"nombre": "CONVER.ELECT. O MAQ.ELECT.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2905E",
+				"id": "G_2905E",
 				"nombre": "REDES ELECT. O REDES ELEC.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -5052,13 +5052,13 @@
 		"nombre": "TRANSPORTE DE ENERGIA ELECTRICA",
 		"pcurso": [
 			{
-				"id": "5508",
+				"id": "G_5508",
 				"nombre": "REDES ELECT. O RED.1 Y 2 (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP50",
+				"id": "G_CP50",
 				"nombre": "SIST.LIN. 1 O SIST.LIN. (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -5078,7 +5078,7 @@
 		"nombre": "TRATAMIENTO  ESTADISTICO DE SEÑALES",
 		"pcurso": [
 			{
-				"id": "1103",
+				"id": "G_1103",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -5098,13 +5098,13 @@
 		"nombre": "TRATAMIENTO DE IMAGENES POR COMPUTADORA",
 		"pcurso": [
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5801C",
+				"id": "G_5801C",
 				"nombre": "SIST.DE COM. O INT.A LA MOD.",
 				"actividad": "Grupo",
 				"obs": false
@@ -5117,13 +5117,13 @@
 		"nombre": "TRATAMIENTO DE IMAGENES POR COMPUTADORA",
 		"pcurso": [
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5801C",
+				"id": "G_5801C",
 				"nombre": "SIST.DE COM. O INT.A LA MOD.",
 				"actividad": "Grupo",
 				"obs": false
@@ -5149,7 +5149,7 @@
 		"nombre": "TRATAMIENTO ESTADISTICO DE SEÑALES",
 		"pcurso": [
 			{
-				"id": "1409E",
+				"id": "G_1409E",
 				"nombre": "MUESTREO Y PROC. DIGITAL",
 				"actividad": "Grupo",
 				"obs": false

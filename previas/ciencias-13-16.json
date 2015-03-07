@@ -4,13 +4,13 @@
 		"nombre": "ACUICULTURA ANIMAL",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -23,13 +23,13 @@
 		"nombre": "ADQUISICION Y ANALISIS DE DATOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -42,13 +42,13 @@
 		"nombre": "AMNIOTAS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -56,7 +56,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "233",
+				"id": "G_233",
 				"nombre": "VERTEBRADOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -68,13 +68,13 @@
 		"nombre": "ANALISIS POBLACIONALES CON TECN.MOLEC...",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -87,13 +87,13 @@
 		"nombre": "ANATOMIA COMPARADA DE LOS VERTEBRADOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -113,13 +113,13 @@
 		"nombre": "APLIC.CONOC.VERTEBRADOS EN ZOO.Y BIOT.",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -139,13 +139,13 @@
 		"nombre": "BIENESTAR ANIMAL",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -158,13 +158,13 @@
 		"nombre": "BIOLOGIA DE MAMIFEROS MARINOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -177,13 +177,13 @@
 		"nombre": "CLADISMO,APL.EN BIOL.EVOLUTIVA Y BIOGEOG",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -196,13 +196,13 @@
 		"nombre": "DINAMICA DE POBLACIONES",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -215,13 +215,13 @@
 		"nombre": "DISEÑO DE MUESTREO Y MEDICION DE BIODIV",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -234,13 +234,13 @@
 		"nombre": "ECOETOLOGIA Y FISIOL.DE LA REPRODUCCION",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -253,13 +253,13 @@
 		"nombre": "ECOLOGIA ADAPTATIVA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -272,7 +272,7 @@
 		"nombre": "ECOLOGIA DE COMUNIDADES",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -284,7 +284,7 @@
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -297,13 +297,13 @@
 		"nombre": "ECOLOGIA DE POBLACIONES",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -316,13 +316,13 @@
 		"nombre": "ECOLOGIA DEL COMPORTAMIENTO (2000-2010)",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -335,13 +335,13 @@
 		"nombre": "ECOMORFOLOGIA EN PECES TELEOSTEOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -354,7 +354,7 @@
 		"nombre": "ESPECIACION ECOLOGICA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -367,13 +367,13 @@
 		"nombre": "ETOLOGIA (PROFUNDIZACION)",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -386,13 +386,13 @@
 		"nombre": "ETOLOGIA APLICADA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -405,13 +405,13 @@
 		"nombre": "ETOLOGIA DE LA COMUNICACION ANIMAL",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -424,13 +424,13 @@
 		"nombre": "ETOLOGIA Y SIST.SOCIALES DE LOS PRIMATES",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -443,13 +443,13 @@
 		"nombre": "EVOLUCION HUMANA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -469,13 +469,13 @@
 		"nombre": "FISIOL.DEL COMPORTAMIENTO REPRODUCTOR",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -488,13 +488,13 @@
 		"nombre": "FISIOLOG.DE LA NUTRICION EN VERTEBRADOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -507,13 +507,13 @@
 		"nombre": "ICTIOLOGIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -526,7 +526,7 @@
 		"nombre": "ICTIOLOGIA NEOTROPICAL (HASTA 2009)",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -538,7 +538,7 @@
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -550,7 +550,7 @@
 				"obs": false
 			},
 			{
-				"id": "130",
+				"id": "G_130",
 				"nombre": "VERTEBRADOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -563,13 +563,13 @@
 		"nombre": "INTRODUCCION A LA ETOLOGIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -589,13 +589,13 @@
 		"nombre": "LIMNOLOGIA BASICA",
 		"pcurso": [
 			{
-				"id": "BL13",
+				"id": "G_BL13",
 				"nombre": "BIOESTAD.-FISIOLOGIA-ECOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -615,13 +615,13 @@
 		"nombre": "MAMIFEROS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -634,13 +634,13 @@
 		"nombre": "MANEJO DE FAUNA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -660,13 +660,13 @@
 		"nombre": "METABOLISMO LIPIDICO EN VERTEBRADOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -679,13 +679,13 @@
 		"nombre": "METODOS ETOLOGICOS Y SU APLICACION",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -698,13 +698,13 @@
 		"nombre": "NEUROETOLOGIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -717,13 +717,13 @@
 		"nombre": "NUTRICION ANIMAL",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -736,13 +736,13 @@
 		"nombre": "NUTRICION Y COMP.ALIMENT.EN VERTEBRADOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -755,13 +755,13 @@
 		"nombre": "OCEANOGRAFIA BIOLOGICA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -781,13 +781,13 @@
 		"nombre": "OSTEOLOGIA COMPARADA DE LOS MAMIFEROS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -807,13 +807,13 @@
 		"nombre": "PASANTIA ZOOLOGIA VERTEBRADOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -826,13 +826,13 @@
 		"nombre": "PROFUNDIZACION EN AVES",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -845,13 +845,13 @@
 		"nombre": "REPTILES",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -864,13 +864,13 @@
 		"nombre": "SIST.BIO:METODOS Y PRINCIPIOS(2008-4.13)",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -883,13 +883,13 @@
 		"nombre": "SISTEMATICA BIOLOGICA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -902,7 +902,7 @@
 		"nombre": "TEORIA ECOLOGICA APLIC.A LA CONSERVACION",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -914,7 +914,7 @@
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -927,13 +927,13 @@
 		"nombre": "TOPICOS EN BIOLOGIA DE PECES",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false
@@ -946,13 +946,13 @@
 		"nombre": "VERTEBRADOS (ANUAL)",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL02",
+				"id": "G_BL02",
 				"nombre": "FISIOLOGIA-EVOLUCION-PALEO",
 				"actividad": "Grupo",
 				"obs": false

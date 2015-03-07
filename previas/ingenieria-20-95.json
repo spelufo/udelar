@@ -31,13 +31,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -134,7 +134,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -146,7 +146,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -158,19 +158,19 @@
 		"nombre": "COMPUTACION",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -178,7 +178,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -190,7 +190,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -202,13 +202,13 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -228,13 +228,13 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -294,7 +294,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -306,7 +306,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -318,13 +318,13 @@
 		"nombre": "ELECTROMAGNETISMO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -338,13 +338,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -356,7 +356,7 @@
 		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "R100E",
+				"id": "G_R100E",
 				"nombre": "ANAL.I O CALC.3",
 				"actividad": "Grupo",
 				"obs": false
@@ -517,13 +517,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -535,7 +535,7 @@
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -547,7 +547,7 @@
 		"nombre": "MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -559,13 +559,13 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -586,13 +586,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -618,19 +618,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -643,19 +643,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -700,13 +700,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -737,19 +737,19 @@
 		"nombre": "RESISTENCIA DE MATERIALES 1",
 		"pcurso": [
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1031C",
+				"id": "G_1031C",
 				"nombre": "GEOMETRIA 2 (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1122C",
+				"id": "G_1122C",
 				"nombre": "MEC.NEWT. O MEC.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -763,19 +763,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1031",
+				"id": "G_C1031",
 				"nombre": "GEOMETRIA 2 O RESISTENCIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C2368",
+				"id": "G_C2368",
 				"nombre": "MECANICA NEW. O RESISTENCIA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -793,19 +793,19 @@
 		"nombre": "RESISTENCIA DE MATERIALES 1N",
 		"pcurso": [
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1031C",
+				"id": "G_1031C",
 				"nombre": "GEOMETRIA 2 (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1122",
+				"id": "G_C1122",
 				"nombre": "MEC. NEW. O MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -832,13 +832,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -850,19 +850,19 @@
 		"nombre": "TALLER LABORATORIO II (CIVIL)",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -882,19 +882,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false

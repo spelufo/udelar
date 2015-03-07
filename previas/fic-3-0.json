@@ -30,19 +30,19 @@
 		"nombre": "EPISTEMOLOGIA DE LAS CIENCIAS DE LA COM.",
 		"pcurso": [
 			{
-				"id": "GTEC",
+				"id": "G_GTEC",
 				"nombre": "INTR A LAS TÉCNICAS INV. COM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRIE",
+				"id": "G_GRIE",
 				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GTEOR",
+				"id": "G_GTEOR",
 				"nombre": "TEORÍA DE LA COMUNICACIÓN",
 				"actividad": "Grupo",
 				"obs": false
@@ -50,19 +50,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "GTEC",
+				"id": "G_GTEC",
 				"nombre": "INTR A LAS TÉCNICAS INV. COM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRIE",
+				"id": "G_GRIE",
 				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GTEOR",
+				"id": "G_GTEOR",
 				"nombre": "TEORÍA DE LA COMUNICACIÓN",
 				"actividad": "Grupo",
 				"obs": false
@@ -164,7 +164,7 @@
 		"nombre": "SOCIOLOGÍA DE LA COMUNICACIÓN P.2012-5CR",
 		"pcurso": [
 			{
-				"id": "GRSOC",
+				"id": "G_GRSOC",
 				"nombre": "SOCIOLOGÍA",
 				"actividad": "Grupo",
 				"obs": true
@@ -177,7 +177,7 @@
 		"nombre": "TEORIA DE LA COMUNICACION SOCIAL",
 		"pcurso": [
 			{
-				"id": "GRIE",
+				"id": "G_GRIE",
 				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -185,7 +185,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "GRIE",
+				"id": "G_GRIE",
 				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -197,7 +197,7 @@
 		"nombre": "TEORÍA DE LA COMUNICACIÓN II C.PROF-TEOR",
 		"pcurso": [
 			{
-				"id": "GRIE",
+				"id": "G_GRIE",
 				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -205,7 +205,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "GRIE",
+				"id": "G_GRIE",
 				"nombre": "INTRODUCCIÓN AL ESTUDIO COM.",
 				"actividad": "Grupo",
 				"obs": false

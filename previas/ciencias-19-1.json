@@ -56,7 +56,7 @@
 		"nombre": "APL.SENSORAMIENTO REMOTO Y SIG",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -82,7 +82,7 @@
 		"nombre": "CARTOGRAFIA",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -152,7 +152,7 @@
 				"obs": false
 			},
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -178,7 +178,7 @@
 		"nombre": "CIENCIAS SOCIALES II",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -191,7 +191,7 @@
 		"nombre": "ECONOMIA GENERAL",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -243,7 +243,7 @@
 		"nombre": "ESTADISTICA",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -262,7 +262,7 @@
 				"obs": false
 			},
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -365,7 +365,7 @@
 		"nombre": "EXPLOTACION DE YACIMIENTOS",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -417,7 +417,7 @@
 		"nombre": "FOTOINTERPRETACION",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -450,7 +450,7 @@
 		"nombre": "GENESIS DE SUELOS",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -489,7 +489,7 @@
 		"nombre": "GEOGRAFIA ECONOMICA",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -535,7 +535,7 @@
 		"nombre": "GEOLOGIA DEL CUATERNARIO",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -662,7 +662,7 @@
 		"nombre": "GEOLOGIA HISTORICA",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -830,7 +830,7 @@
 		"nombre": "GEOTECNICA II",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -945,7 +945,7 @@
 		"nombre": "HIDROLOGIA",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -958,7 +958,7 @@
 		"nombre": "INTERACCION ORGANISMO - SUSTRATO",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -971,7 +971,7 @@
 		"nombre": "INTR.A LA ACTIV.GEOL.MINERA DEL URUGUAY",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1099,7 +1099,7 @@
 		"nombre": "INTRODUCCION A LA MECANICA DE SUELOS",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1164,7 +1164,7 @@
 				"obs": false
 			},
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1222,7 +1222,7 @@
 		"nombre": "OCEANOGRAFIA FISICA",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1274,7 +1274,7 @@
 		"nombre": "PALEONTOLOGIA A (GEOL)",
 		"pcurso": [
 			{
-				"id": "210",
+				"id": "G_210",
 				"nombre": "GEOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1282,7 +1282,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "96",
+				"id": "G_96",
 				"nombre": "GEOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1338,7 +1338,7 @@
 		"nombre": "PETROLOGIA",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1466,7 +1466,7 @@
 		"nombre": "RADIOACTIVIDAD APLICADA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1549,7 +1549,7 @@
 		"nombre": "TELEDETECCION",
 		"pcurso": [
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false

@@ -11,13 +11,13 @@
 				"obs": false
 			},
 			{
-				"id": "1901C",
+				"id": "G_1901C",
 				"nombre": "CONTROL DE CALIDAD (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1902",
+				"id": "G_1902",
 				"nombre": "INTROD.A LA ING.IND(91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -43,13 +43,13 @@
 				"obs": false
 			},
 			{
-				"id": "1901C",
+				"id": "G_1901C",
 				"nombre": "CONTROL DE CALIDAD (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1902",
+				"id": "G_1902",
 				"nombre": "INTROD.A LA ING.IND(91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -120,7 +120,7 @@
 		"nombre": "APLICACIONES DE CONTROL E INSTRUM.IND.",
 		"pcurso": [
 			{
-				"id": "2102C",
+				"id": "G_2102C",
 				"nombre": "ELECT.1  O  ELECT.(C)P.91",
 				"actividad": "Grupo",
 				"obs": false
@@ -159,7 +159,7 @@
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -191,7 +191,7 @@
 				"obs": true
 			},
 			{
-				"id": "1701",
+				"id": "G_1701",
 				"nombre": "INT.A LA CIENCIA MAT.(91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -231,7 +231,7 @@
 		"nombre": "CONFORT TERMICO",
 		"pcurso": [
 			{
-				"id": "1824E",
+				"id": "G_1824E",
 				"nombre": "T. DE CALOR 2 O T. APLICADA E",
 				"actividad": "Grupo",
 				"obs": false
@@ -264,7 +264,7 @@
 				"obs": false
 			},
 			{
-				"id": "B308",
+				"id": "G_B308",
 				"nombre": "MECANICA DE MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -309,7 +309,7 @@
 		"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
 		"pcurso": [
 			{
-				"id": "2102C",
+				"id": "G_2102C",
 				"nombre": "ELECT.1  O  ELECT.(C)P.91",
 				"actividad": "Grupo",
 				"obs": false
@@ -329,7 +329,7 @@
 		"nombre": "CONTROL E INSTRUMENTACION INDUSTRIAL",
 		"pcurso": [
 			{
-				"id": "2102C",
+				"id": "G_2102C",
 				"nombre": "ELECT.1  O  ELECT.(C)P.91",
 				"actividad": "Grupo",
 				"obs": false
@@ -375,7 +375,7 @@
 		"nombre": "DINAMICA DE MAQUINAS Y VIBRACION",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -387,7 +387,7 @@
 				"obs": true
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -428,13 +428,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -458,7 +458,7 @@
 		"nombre": "ELECTROTECNICA 1",
 		"pcurso": [
 			{
-				"id": "1025",
+				"id": "G_1025",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -470,7 +470,7 @@
 				"obs": true
 			},
 			{
-				"id": "1017",
+				"id": "G_1017",
 				"nombre": "FISICA GENERAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -490,7 +490,7 @@
 		"nombre": "ELECTROTECNICA 2",
 		"pcurso": [
 			{
-				"id": "2102C",
+				"id": "G_2102C",
 				"nombre": "ELECT.1  O  ELECT.(C)P.91",
 				"actividad": "Grupo",
 				"obs": false
@@ -504,7 +504,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "2104",
+				"id": "G_2104",
 				"nombre": "ELECTROTEC.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -541,7 +541,7 @@
 				"obs": true
 			},
 			{
-				"id": "1703",
+				"id": "G_1703",
 				"nombre": "METALURG.FIS.I (91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -549,7 +549,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1702",
+				"id": "G_1702",
 				"nombre": "COMPORT.MEC.DE MAT.(91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -561,7 +561,7 @@
 				"obs": false
 			},
 			{
-				"id": "1703E",
+				"id": "G_1703E",
 				"nombre": "METALURG.FIS.I (91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -579,7 +579,7 @@
 				"obs": true
 			},
 			{
-				"id": "1123",
+				"id": "G_1123",
 				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -605,7 +605,7 @@
 				"obs": true
 			},
 			{
-				"id": "1815E",
+				"id": "G_1815E",
 				"nombre": "GENERADORES DE VAPOR (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -671,7 +671,7 @@
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -753,7 +753,7 @@
 				"obs": false
 			},
 			{
-				"id": "B309",
+				"id": "G_B309",
 				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
 				"actividad": "Grupo",
 				"obs": false
@@ -765,13 +765,13 @@
 		"nombre": "GESTION DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "1901",
+				"id": "G_1901",
 				"nombre": "CONTROL DE CALIDAD (P.91 Ò 97)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1903",
+				"id": "G_1903",
 				"nombre": "COSTOS PARA ING. (P.91 Ò 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -797,13 +797,13 @@
 		"nombre": "GESTION DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "1901",
+				"id": "G_1901",
 				"nombre": "CONTROL DE CALIDAD (P.91 Ò 97)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1903",
+				"id": "G_1903",
 				"nombre": "COSTOS PARA ING. (P.91 Ò 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -887,7 +887,7 @@
 		"nombre": "INSTRUMENTACION INDUSTRIAL",
 		"pcurso": [
 			{
-				"id": "2103C",
+				"id": "G_2103C",
 				"nombre": "ELECTROT.(P.91 Y 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -895,7 +895,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "2101",
+				"id": "G_2101",
 				"nombre": "ELECTROTECNICA O ELEC 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -913,19 +913,19 @@
 		"nombre": "INT. A LA CIENCIA DE MATERIALES",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -945,13 +945,13 @@
 		"nombre": "INT. A LA CIENCIA DE MATERIALES",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -963,7 +963,7 @@
 				"obs": true
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1023,7 +1023,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1041,7 +1041,7 @@
 		"nombre": "INT. AL CAD-CAM",
 		"pcurso": [
 			{
-				"id": "B315",
+				"id": "G_B315",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -1085,7 +1085,7 @@
 				"obs": true
 			},
 			{
-				"id": "2103C",
+				"id": "G_2103C",
 				"nombre": "ELECTROT.(P.91 Y 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1093,7 +1093,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "2101",
+				"id": "G_2101",
 				"nombre": "ELECTROTECNICA O ELEC 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1123,7 +1123,7 @@
 				"obs": true
 			},
 			{
-				"id": "2103C",
+				"id": "G_2103C",
 				"nombre": "ELECTROT.(P.91 Y 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1137,7 +1137,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "2101",
+				"id": "G_2101",
 				"nombre": "ELECTROTECNICA O ELEC 1 Y 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1162,7 +1162,7 @@
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1244,7 +1244,7 @@
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1295,7 +1295,7 @@
 		"nombre": "METALURGIA FISICA",
 		"pcurso": [
 			{
-				"id": "1701",
+				"id": "G_1701",
 				"nombre": "INT.A LA CIENCIA MAT.(91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1367,7 +1367,7 @@
 		"nombre": "MOTORES DE COMBUSTION INTERNA",
 		"pcurso": [
 			{
-				"id": "1809E",
+				"id": "G_1809E",
 				"nombre": "ENERGIA 1/I  (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1393,13 +1393,13 @@
 		"nombre": "PASANTIA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1411,25 +1411,25 @@
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B308",
+				"id": "G_B308",
 				"nombre": "MECANICA DE MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2017",
+				"id": "G_2017",
 				"nombre": "TALLER (91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1453,7 +1453,7 @@
 				"obs": false
 			},
 			{
-				"id": "B309",
+				"id": "G_B309",
 				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
 				"actividad": "Grupo",
 				"obs": false
@@ -1510,7 +1510,7 @@
 				"obs": false
 			},
 			{
-				"id": "1903",
+				"id": "G_1903",
 				"nombre": "COSTOS PARA ING. (P.91 Ò 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1555,7 +1555,7 @@
 				"obs": false
 			},
 			{
-				"id": "B309",
+				"id": "G_B309",
 				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
 				"actividad": "Grupo",
 				"obs": false
@@ -1567,13 +1567,13 @@
 		"nombre": "REFRIGERACION",
 		"pcurso": [
 			{
-				"id": "1805",
+				"id": "G_1805",
 				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1810",
+				"id": "G_1810",
 				"nombre": "MAQ.PARA FLUIDOS 1 91/97 (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1585,7 +1585,7 @@
 				"obs": true
 			},
 			{
-				"id": "B309",
+				"id": "G_B309",
 				"nombre": "TRAN.CALOR 1 Y 2 O TERM.APLIC",
 				"actividad": "Grupo",
 				"obs": false
@@ -1663,19 +1663,19 @@
 		"nombre": "TALLER",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1706,19 +1706,19 @@
 		"nombre": "TEORIA DE MAQUINAS Y MECANISMOS",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1744,13 +1744,13 @@
 		"nombre": "TRANSFERENCIA DE CALOR 1",
 		"pcurso": [
 			{
-				"id": "1805C",
+				"id": "G_1805C",
 				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1123",
+				"id": "G_1123",
 				"nombre": "FIS.TERMICA O TERMOD.(89) (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1782,7 +1782,7 @@
 				"obs": true
 			},
 			{
-				"id": "1823C",
+				"id": "G_1823C",
 				"nombre": "TRANSF.CALOR 1 O TERM.APLIC.",
 				"actividad": "Grupo",
 				"obs": false

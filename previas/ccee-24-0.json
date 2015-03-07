@@ -64,7 +64,7 @@
 		"nombre": "CONTABILIDAD GENERAL II",
 		"pcurso": [
 			{
-				"id": "G126P",
+				"id": "G_G126P",
 				"nombre": "G CONT II/CONT.GRAL I P/PREVIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -72,7 +72,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G126P",
+				"id": "G_G126P",
 				"nombre": "G CONT II/CONT.GRAL I P/PREVIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -104,7 +104,7 @@
 		"nombre": "CÁLCULO I/B",
 		"pcurso": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -112,7 +112,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -157,7 +157,7 @@
 		"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -165,7 +165,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -177,7 +177,7 @@
 		"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
 		"pcurso": [
 			{
-				"id": "G112B",
+				"id": "G_G112B",
 				"nombre": "CONT I/CON CONT/INTR A LA CONT",
 				"actividad": "Grupo",
 				"obs": false
@@ -191,7 +191,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G112B",
+				"id": "G_G112B",
 				"nombre": "CONT I/CON CONT/INTR A LA CONT",
 				"actividad": "Grupo",
 				"obs": false
@@ -209,7 +209,7 @@
 		"nombre": "MATEMÁTICA FINANCIERA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -217,7 +217,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false

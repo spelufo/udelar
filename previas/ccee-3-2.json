@@ -218,7 +218,7 @@
 				"obs": false
 			},
 			{
-				"id": "GP230",
+				"id": "G_GP230",
 				"nombre": "PROBABILIDAD I -C, E Y REV.",
 				"actividad": "Grupo",
 				"obs": false
@@ -238,7 +238,7 @@
 				"obs": false
 			},
 			{
-				"id": "GP230",
+				"id": "G_GP230",
 				"nombre": "PROBABILIDAD I -C, E Y REV.",
 				"actividad": "Grupo",
 				"obs": false
@@ -250,7 +250,7 @@
 		"nombre": "CÁLCULO III",
 		"pcurso": [
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -258,7 +258,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -572,7 +572,7 @@
 		"nombre": "INFERENCIA I",
 		"pcurso": [
 			{
-				"id": "GP230",
+				"id": "G_GP230",
 				"nombre": "PROBABILIDAD I -C, E Y REV.",
 				"actividad": "Grupo",
 				"obs": false
@@ -586,7 +586,7 @@
 				"obs": false
 			},
 			{
-				"id": "GP230",
+				"id": "G_GP230",
 				"nombre": "PROBABILIDAD I -C, E Y REV.",
 				"actividad": "Grupo",
 				"obs": false
@@ -598,13 +598,13 @@
 		"nombre": "INFERENCIA II",
 		"pcurso": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "216G",
+				"id": "G_216G",
 				"nombre": "ECONOMÍA DESCRIPTIVA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -616,19 +616,19 @@
 				"obs": false
 			},
 			{
-				"id": "117G",
+				"id": "G_117G",
 				"nombre": "INT. A LA COMPUTACIÓN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114G",
+				"id": "G_114G",
 				"nombre": "INT. A LAS ORG. (PLAN 12)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -642,13 +642,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "216G",
+				"id": "G_216G",
 				"nombre": "ECONOMÍA DESCRIPTIVA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -666,19 +666,19 @@
 				"obs": false
 			},
 			{
-				"id": "117G",
+				"id": "G_117G",
 				"nombre": "INT. A LA COMPUTACIÓN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114G",
+				"id": "G_114G",
 				"nombre": "INT. A LAS ORG. (PLAN 12)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -709,25 +709,25 @@
 		"nombre": "INTRODUCCIÓN A LOS PROCESOS ESTOCÁSTICOS",
 		"pcurso": [
 			{
-				"id": "216G",
+				"id": "G_216G",
 				"nombre": "ECONOMÍA DESCRIPTIVA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "117G",
+				"id": "G_117G",
 				"nombre": "INT. A LA COMPUTACIÓN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -747,19 +747,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "216G",
+				"id": "G_216G",
 				"nombre": "ECONOMÍA DESCRIPTIVA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "117G",
+				"id": "G_117G",
 				"nombre": "INT. A LA COMPUTACIÓN",
 				"actividad": "Grupo",
 				"obs": false
@@ -771,7 +771,7 @@
 				"obs": false
 			},
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -857,7 +857,7 @@
 		"nombre": "MACROECONOMÍA I",
 		"pcurso": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -865,7 +865,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -961,7 +961,7 @@
 		"nombre": "MATEMÁTICA FINANCIERA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -969,7 +969,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -993,7 +993,7 @@
 				"obs": false
 			},
 			{
-				"id": "GP230",
+				"id": "G_GP230",
 				"nombre": "PROBABILIDAD I -C, E Y REV.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1019,7 +1019,7 @@
 				"obs": false
 			},
 			{
-				"id": "GP230",
+				"id": "G_GP230",
 				"nombre": "PROBABILIDAD I -C, E Y REV.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1229,7 +1229,7 @@
 		"nombre": "PROBABILIDAD I",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1243,7 +1243,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1525,7 +1525,7 @@
 		"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1533,7 +1533,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false

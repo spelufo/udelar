@@ -20,7 +20,7 @@ var extract = function (file, cbk) {
 				process.stderr.write(new Buffer('Error parsing group info:\n' + $(ps[i*2+1]).text()))
 			} else {
 				var grupo = {
-					id: m[1] || '',
+					id: m[1] ? 'G_' + m[1] : '',
 					min: m[2]*1 || 0,
 					max: m[3]*1 || 0,
 					previas: []
@@ -28,10 +28,13 @@ var extract = function (file, cbk) {
 				$(tables[i]).find('> tr').each(function (i, tr) {
 					if (i === 0) return;
 					var row = $(tr)
+
+					var pactividad = row.find('> td:nth-child(3)').text()
+					var pid = row.find('> td:nth-child(1)').text()
 					grupo.previas.push({
-						id: row.find('> td:nth-child(1)').text(),
+						id: pactividad === 'Grupo' ? 'G_' + pid : pid,
 						nombre: row.find('> td:nth-child(2)').text(),
-						actividad: row.find('> td:nth-child(3)').text(),
+						actividad: pactividad,
 						puntaje: row.find('> td:nth-child(4)').text()*1
 					})
 				})

@@ -56,7 +56,7 @@
 		"nombre": "APLICACIONES DE RELATIVIDAD GENERAL",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -386,7 +386,7 @@
 		"nombre": "COMETAS Y EL SISTEMA SOLAR PRIMITIVO",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -399,7 +399,7 @@
 		"nombre": "DINAMICA DEL SISTEMA SOLAR",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -412,7 +412,7 @@
 		"nombre": "ECUACIONES DIF.EN DER.PARCIALES",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -675,7 +675,7 @@
 		"nombre": "FISICA NO LINEAL",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -688,7 +688,7 @@
 		"nombre": "FISICA NO LINEAL Y CAOS",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -771,7 +771,7 @@
 				"obs": false
 			},
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -797,13 +797,13 @@
 		"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
 		"pcurso": [
 			{
-				"id": "F18",
+				"id": "G_F18",
 				"nombre": "ALGEBRA LINEAL II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F16",
+				"id": "G_F16",
 				"nombre": "CALCULO DIF.II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -811,13 +811,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "F19",
+				"id": "G_F19",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F17",
+				"id": "G_F17",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -835,7 +835,7 @@
 		"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -905,7 +905,7 @@
 		"nombre": "INTRODUCCION  A LA GEOMETRIA DIFERENCIAL",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1063,7 +1063,7 @@
 		"nombre": "INTRODUCCION A LA TOPOLOGIA",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1383,7 +1383,7 @@
 		"nombre": "MECANICA CUANTICA RELATIVISTA",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1508,7 +1508,7 @@
 		"nombre": "MODELOS DE ATMOSTERAS ESTELARES",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1521,7 +1521,7 @@
 		"nombre": "MUEST.Y PROC.DIGITAL DE SEÑALES",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1608,7 +1608,7 @@
 		"nombre": "OPTICA",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1621,7 +1621,7 @@
 		"nombre": "ORIGEN DEL SISTEMA SOLAR",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1634,7 +1634,7 @@
 		"nombre": "PLANETOLOGIA  Y EXOBIOLOGIA",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1647,7 +1647,7 @@
 		"nombre": "PROCESAMIENTO DE DATOS ASTRONOMICOS",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1660,7 +1660,7 @@
 		"nombre": "RADIOASTRONOMIA",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1673,7 +1673,7 @@
 		"nombre": "RELATIVIDAD GENERAL",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1686,7 +1686,7 @@
 		"nombre": "RELATIVIDAD Y GRAVITACION",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1699,7 +1699,7 @@
 		"nombre": "SISTEMAS LINEALES I",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1712,7 +1712,7 @@
 		"nombre": "SISTEMAS LINEALES II",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1854,7 +1854,7 @@
 		"nombre": "TEORIA CUANTICA DE CAMPOS",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false

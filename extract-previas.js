@@ -51,7 +51,7 @@ var extract = function (file, cbk) {
 				})
 			} else {
 				var p = {
-					id: pid,
+					id: pactividad === 'Grupo' ? 'G_' + pid : pid,
 					nombre: pnombre,
 					actividad: pactividad,
 					obs: /\*/.test(pobs)

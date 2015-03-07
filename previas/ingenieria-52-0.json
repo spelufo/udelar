@@ -76,13 +76,13 @@
 				"obs": false
 			},
 			{
-				"id": "Q409",
+				"id": "G_Q409",
 				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -185,7 +185,7 @@
 		"nombre": "ELECTROTECNICA 2",
 		"pcurso": [
 			{
-				"id": "2102C",
+				"id": "G_2102C",
 				"nombre": "ELECT.1  O  ELECT.(C)P.91",
 				"actividad": "Grupo",
 				"obs": false
@@ -199,7 +199,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "2104",
+				"id": "G_2104",
 				"nombre": "ELECTROTEC.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -217,13 +217,13 @@
 		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
 		"pcurso": [
 			{
-				"id": "Q409",
+				"id": "G_Q409",
 				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -321,7 +321,7 @@
 		"nombre": "FLUIDODINAMICA",
 		"pcurso": [
 			{
-				"id": "Q22",
+				"id": "G_Q22",
 				"nombre": "FENOMEN.DE TRANS.EN ING.PROC.",
 				"actividad": "Grupo",
 				"obs": false
@@ -446,13 +446,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "Q500",
+				"id": "G_Q500",
 				"nombre": "DISEÑO DE REACTORES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508",
+				"id": "G_Q508",
 				"nombre": "FUNDAMENTOS DE ING. BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -470,13 +470,13 @@
 		"nombre": "INGENIERIA BIOQUIMICA",
 		"pcurso": [
 			{
-				"id": "Q500C",
+				"id": "G_Q500C",
 				"nombre": "DISEÑO DE REACTORES(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -484,13 +484,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "Q500",
+				"id": "G_Q500",
 				"nombre": "DISEÑO DE REACTORES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508",
+				"id": "G_Q508",
 				"nombre": "FUNDAMENTOS DE ING. BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -508,13 +508,13 @@
 		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
 		"pcurso": [
 			{
-				"id": "Q409C",
+				"id": "G_Q409C",
 				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -522,7 +522,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "Q409",
+				"id": "G_Q409",
 				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
 				"actividad": "Grupo",
 				"obs": false
@@ -534,7 +534,7 @@
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -637,7 +637,7 @@
 		"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
 		"pcurso": [
 			{
-				"id": "Q409C",
+				"id": "G_Q409C",
 				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
 				"actividad": "Grupo",
 				"obs": false
@@ -657,7 +657,7 @@
 		"nombre": "INT. A LA INGENIERIA BIOQUIMICA",
 		"pcurso": [
 			{
-				"id": "Q409C",
+				"id": "G_Q409C",
 				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
 				"actividad": "Grupo",
 				"obs": false
@@ -755,7 +755,7 @@
 		"nombre": "LABORATORIO",
 		"pcurso": [
 			{
-				"id": "Q409C",
+				"id": "G_Q409C",
 				"nombre": "FENOMENOS DE TRANS. Y FLUIDODI",
 				"actividad": "Grupo",
 				"obs": false
@@ -774,7 +774,7 @@
 		"nombre": "LABORATORIO DE PROCESOS FISICOS",
 		"pcurso": [
 			{
-				"id": "Q23YC",
+				"id": "G_Q23YC",
 				"nombre": "FENOMENOS DE TRANSPORTE",
 				"actividad": "Grupo",
 				"obs": false
@@ -904,37 +904,37 @@
 		"nombre": "PASANTIA-TRABAJO EXPERIM. MOD.1 BASICO",
 		"pcurso": [
 			{
-				"id": "Q405",
+				"id": "G_Q405",
 				"nombre": "DIBUJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q500C",
+				"id": "G_Q500C",
 				"nombre": "DISEÑO DE REACTORES(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q406",
+				"id": "G_Q406",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q502C",
+				"id": "G_Q502C",
 				"nombre": "SERV.YTEC.IND.(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q412",
+				"id": "G_Q412",
 				"nombre": "TRANSFERENCIA DE CALOR Y MASA",
 				"actividad": "Grupo",
 				"obs": false
@@ -947,37 +947,37 @@
 		"nombre": "PROYECTO INDUSTRIAL 1",
 		"pcurso": [
 			{
-				"id": "Q405",
+				"id": "G_Q405",
 				"nombre": "DIBUJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q500C",
+				"id": "G_Q500C",
 				"nombre": "DISEÑO DE REACTORES(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q406",
+				"id": "G_Q406",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q502C",
+				"id": "G_Q502C",
 				"nombre": "SERV.YTEC.IND.(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1120,7 +1120,7 @@
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1184,7 +1184,7 @@
 		"nombre": "TECNOLOGIA DEL CURTIDO DE PIELES",
 		"pcurso": [
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1197,7 +1197,7 @@
 		"nombre": "TECNOLOGIA EN PROCESOS BIOLOGICOS",
 		"pcurso": [
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1210,7 +1210,7 @@
 		"nombre": "TECNOLOGIA TEXTIL",
 		"pcurso": [
 			{
-				"id": "Q507",
+				"id": "G_Q507",
 				"nombre": "SERVICIOS Y TECNOLOGIA IND.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1223,13 +1223,13 @@
 		"nombre": "TECNOLOGIA Y GEST. DE LA IND. DEL CUERO",
 		"pcurso": [
 			{
-				"id": "Q69C",
+				"id": "G_Q69C",
 				"nombre": "ING. DE LAS REAC.QUIM.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q502C",
+				"id": "G_Q502C",
 				"nombre": "SERV.YTEC.IND.(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1242,19 +1242,19 @@
 		"nombre": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
 		"pcurso": [
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75",
+				"id": "G_Q75",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1288,7 +1288,7 @@
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1392,7 +1392,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1423,13 +1423,13 @@
 		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
 		"pcurso": [
 			{
-				"id": "Q22",
+				"id": "G_Q22",
 				"nombre": "FENOMEN.DE TRANS.EN ING.PROC.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402C",
+				"id": "G_Q402C",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1455,7 +1455,7 @@
 		"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
 		"pcurso": [
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1475,13 +1475,13 @@
 		"nombre": "TRAT.BIOLOG.DE EFLUENTES Y RESID.SOLIDOS",
 		"pcurso": [
 			{
-				"id": "Q506",
+				"id": "G_Q506",
 				"nombre": "DISEÑO DE REACTORES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1513,13 +1513,13 @@
 		"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
 		"pcurso": [
 			{
-				"id": "Q506",
+				"id": "G_Q506",
 				"nombre": "DISEÑO DE REACTORES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1532,13 +1532,13 @@
 		"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
 		"pcurso": [
 			{
-				"id": "Q506",
+				"id": "G_Q506",
 				"nombre": "DISEÑO DE REACTORES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1565,13 +1565,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "Q500",
+				"id": "G_Q500",
 				"nombre": "DISEÑO DE REACTORES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508",
+				"id": "G_Q508",
 				"nombre": "FUNDAMENTOS DE ING. BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false

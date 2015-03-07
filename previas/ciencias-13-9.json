@@ -891,7 +891,7 @@
 		"nombre": "QUIMICA II",
 		"pcurso": [
 			{
-				"id": "QUIM1",
+				"id": "G_QUIM1",
 				"nombre": "QUIMICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -899,7 +899,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "BG1",
+				"id": "G_BG1",
 				"nombre": "QUIMICA",
 				"actividad": "Grupo",
 				"obs": false

@@ -31,7 +31,7 @@
 				"obs": false
 			},
 			{
-				"id": "T02GR",
+				"id": "G_T02GR",
 				"nombre": "GRUPO SOLFEOI (PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -88,13 +88,13 @@
 		"nombre": "CONTRAPUNTO II",
 		"pcurso": [
 			{
-				"id": "GC39",
+				"id": "G_GC39",
 				"nombre": "CONTRAPUNTO I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "T02",
+				"id": "G_T02",
 				"nombre": "SOLFEO I",
 				"actividad": "Grupo",
 				"obs": false
@@ -102,13 +102,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "GC39",
+				"id": "G_GC39",
 				"nombre": "CONTRAPUNTO I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "T02",
+				"id": "G_T02",
 				"nombre": "SOLFEO I",
 				"actividad": "Grupo",
 				"obs": false
@@ -299,7 +299,7 @@
 		"nombre": "HISTORIA OCCIDENTAL II",
 		"pcurso": [
 			{
-				"id": "MO3G",
+				"id": "G_MO3G",
 				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -307,7 +307,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MO3G",
+				"id": "G_MO3G",
 				"nombre": "HIST.DE LA MUSICA PARA PREVIAS",
 				"actividad": "Grupo",
 				"obs": false

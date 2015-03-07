@@ -10,7 +10,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE403",
+				"id": "G_DE403",
 				"nombre": "DERECHO PRIVADO 6",
 				"actividad": "Grupo",
 				"obs": false
@@ -53,7 +53,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -71,19 +71,19 @@
 				"obs": false
 			},
 			{
-				"id": "DE403",
+				"id": "G_DE403",
 				"nombre": "DERECHO PRIVADO 6",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE401",
+				"id": "G_DE401",
 				"nombre": "DERECHO PROCESAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -101,7 +101,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE404",
+				"id": "G_DE404",
 				"nombre": "FILOSOFÍA DEL DERECHO",
 				"actividad": "Grupo",
 				"obs": false
@@ -138,13 +138,13 @@
 				"obs": false
 			},
 			{
-				"id": "DE403",
+				"id": "G_DE403",
 				"nombre": "DERECHO PRIVADO 6",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -163,19 +163,19 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "ECONOMÍA POLITICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -213,7 +213,7 @@
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -232,19 +232,19 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -281,7 +281,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -299,19 +299,19 @@
 				"obs": false
 			},
 			{
-				"id": "DE403",
+				"id": "G_DE403",
 				"nombre": "DERECHO PRIVADO 6",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE401",
+				"id": "G_DE401",
 				"nombre": "DERECHO PROCESAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -329,7 +329,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE404",
+				"id": "G_DE404",
 				"nombre": "FILOSOFÍA DEL DERECHO",
 				"actividad": "Grupo",
 				"obs": false
@@ -354,13 +354,13 @@
 		"nombre": "DERECHO FINANCIERO",
 		"pcurso": [
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "ECONOMÍA POLITICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -380,13 +380,13 @@
 		"nombre": "DERECHO FINANCIERO (LIBRE CONTROLADO)",
 		"pcurso": [
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "ECONOMÍA POLITICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -399,13 +399,13 @@
 		"nombre": "DERECHO FINANCIERO (REGLAMENTADO)",
 		"pcurso": [
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "ECONOMÍA POLITICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -431,7 +431,7 @@
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -559,7 +559,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -591,7 +591,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -616,7 +616,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -648,13 +648,13 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "ECONOMÍA POLITICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -673,7 +673,7 @@
 		"nombre": "DERECHO PRIVADO 5 (D.COMERCIAL 2)",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -685,7 +685,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -698,13 +698,13 @@
 		"nombre": "DERECHO PRIVADO 6",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -724,13 +724,13 @@
 		"nombre": "DERECHO PRIVADO 6 (LIBRE CONTROLADO)",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -743,13 +743,13 @@
 		"nombre": "DERECHO PRIVADO 6 (REGLAMENTADO)",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -775,13 +775,13 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -813,13 +813,13 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -844,13 +844,13 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -876,7 +876,7 @@
 		"nombre": "DERECHO PROCESAL 2",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -888,7 +888,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -908,7 +908,7 @@
 		"nombre": "DERECHO PROCESAL 2 (LIBRE CONTROLADO)",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -920,7 +920,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -933,7 +933,7 @@
 		"nombre": "DERECHO PROCESAL 2 (REGLAMENTADO)",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -945,7 +945,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -997,7 +997,7 @@
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1053,13 +1053,13 @@
 				"obs": false
 			},
 			{
-				"id": "DE202",
+				"id": "G_DE202",
 				"nombre": "DERECHO PRIVADO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1077,25 +1077,25 @@
 				"obs": false
 			},
 			{
-				"id": "DE403",
+				"id": "G_DE403",
 				"nombre": "DERECHO PRIVADO 6",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE401",
+				"id": "G_DE401",
 				"nombre": "DERECHO PROCESAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "200OE",
+				"id": "G_200OE",
 				"nombre": "DERECHO PUBLICO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1113,13 +1113,13 @@
 				"obs": false
 			},
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "ECONOMÍA POLITICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE404",
+				"id": "G_DE404",
 				"nombre": "FILOSOFÍA DEL DERECHO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1223,13 +1223,13 @@
 		"nombre": "FILOSOFIA DEL DERECHO",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1255,13 +1255,13 @@
 		"nombre": "FILOSOFÍA DEL DERECHO (LIBRE CONTROLADO)",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1280,13 +1280,13 @@
 		"nombre": "FILOSOFÍA DEL DERECHO (REGLAMENTADA)",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1336,7 +1336,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1354,19 +1354,19 @@
 				"obs": false
 			},
 			{
-				"id": "DE403",
+				"id": "G_DE403",
 				"nombre": "DERECHO PRIVADO 6",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "DE401",
+				"id": "G_DE401",
 				"nombre": "DERECHO PROCESAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1409,7 +1409,7 @@
 		"nombre": "TECNICA FORENSE 1",
 		"pcurso": [
 			{
-				"id": "DE300",
+				"id": "G_DE300",
 				"nombre": "DERECHO PRIVADO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1421,7 +1421,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE301",
+				"id": "G_DE301",
 				"nombre": "DERECHO PROCESAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1440,7 +1440,7 @@
 				"obs": false
 			},
 			{
-				"id": "DE401",
+				"id": "G_DE401",
 				"nombre": "DERECHO PROCESAL 2",
 				"actividad": "Grupo",
 				"obs": false

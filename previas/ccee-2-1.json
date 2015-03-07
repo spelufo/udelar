@@ -4,7 +4,7 @@
 		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
 		"pcurso": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -12,7 +12,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -24,7 +24,7 @@
 		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
 		"pcurso": [
 			{
-				"id": "G228",
+				"id": "G_G228",
 				"nombre": "ADMINISTRACIÓN II",
 				"actividad": "Grupo",
 				"obs": false
@@ -32,7 +32,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G228",
+				"id": "G_G228",
 				"nombre": "ADMINISTRACIÓN II",
 				"actividad": "Grupo",
 				"obs": false
@@ -192,7 +192,7 @@
 		"nombre": "ADMINISTRACIÓN II",
 		"pcurso": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -200,7 +200,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -334,7 +334,7 @@
 		"nombre": "COMPORTAMIENTO ORGANIZACIONAL",
 		"pcurso": [
 			{
-				"id": "G312",
+				"id": "G_G312",
 				"nombre": "ADMIN DE RECURSOS HUMANOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -342,7 +342,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G312",
+				"id": "G_G312",
 				"nombre": "ADMIN DE RECURSOS HUMANOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -354,7 +354,7 @@
 		"nombre": "CONTABILIDAD DE COSTOS Y PRESUPUESTAL",
 		"pcurso": [
 			{
-				"id": "G126",
+				"id": "G_G126",
 				"nombre": "CONTABILIDAD II",
 				"actividad": "Grupo",
 				"obs": false
@@ -362,7 +362,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G126",
+				"id": "G_G126",
 				"nombre": "CONTABILIDAD II",
 				"actividad": "Grupo",
 				"obs": false
@@ -504,7 +504,7 @@
 		"nombre": "CÁLCULO I/B",
 		"pcurso": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -512,7 +512,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -550,7 +550,7 @@
 		"nombre": "ELEMENTOS DE AUDITORÌA",
 		"pcurso": [
 			{
-				"id": "G214",
+				"id": "G_G214",
 				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -558,7 +558,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G214",
+				"id": "G_G214",
 				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -570,7 +570,7 @@
 		"nombre": "ESTADÍSTICA APLICADA A LA ADMINISTRACIÓN",
 		"pcurso": [
 			{
-				"id": "G213",
+				"id": "G_G213",
 				"nombre": "INTR. A LA PROB. Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -578,7 +578,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G213",
+				"id": "G_G213",
 				"nombre": "INTR. A LA PROB. Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -640,19 +640,19 @@
 		"nombre": "FINANZAS DE EMPRESAS",
 		"pcurso": [
 			{
-				"id": "G228",
+				"id": "G_G228",
 				"nombre": "ADMINISTRACIÓN II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G214",
+				"id": "G_G214",
 				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G227",
+				"id": "G_G227",
 				"nombre": "ESTADISTICA APLICADA A LA ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -660,19 +660,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "G228",
+				"id": "G_G228",
 				"nombre": "ADMINISTRACIÓN II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G214",
+				"id": "G_G214",
 				"nombre": "CONT. DE COSTOS Y PRESUPUESTAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G227",
+				"id": "G_G227",
 				"nombre": "ESTADISTICA APLICADA A LA ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -794,7 +794,7 @@
 		"nombre": "INFORMATICA I",
 		"pcurso": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -802,7 +802,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -854,7 +854,7 @@
 		"nombre": "INTROD. A LA PROBABILIDAD Y ESTADÍSTICA",
 		"pcurso": [
 			{
-				"id": "G128",
+				"id": "G_G128",
 				"nombre": "METODOS CUANTITATIVOS II",
 				"actividad": "Grupo",
 				"obs": false
@@ -862,7 +862,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G128",
+				"id": "G_G128",
 				"nombre": "METODOS CUANTITATIVOS II",
 				"actividad": "Grupo",
 				"obs": false
@@ -874,7 +874,7 @@
 		"nombre": "MARKETING I",
 		"pcurso": [
 			{
-				"id": "G227",
+				"id": "G_G227",
 				"nombre": "ESTADISTICA APLICADA A LA ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -882,7 +882,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G227",
+				"id": "G_G227",
 				"nombre": "ESTADISTICA APLICADA A LA ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -934,7 +934,7 @@
 		"nombre": "MARKETING II",
 		"pcurso": [
 			{
-				"id": "G311",
+				"id": "G_G311",
 				"nombre": "MARKETING I",
 				"actividad": "Grupo",
 				"obs": false
@@ -942,7 +942,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G311",
+				"id": "G_G311",
 				"nombre": "MARKETING I",
 				"actividad": "Grupo",
 				"obs": false
@@ -954,7 +954,7 @@
 		"nombre": "ORGANIZACIÓN Y SISTEMAS I",
 		"pcurso": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -962,7 +962,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G125",
+				"id": "G_G125",
 				"nombre": "ADMINISTRACIÓN I",
 				"actividad": "Grupo",
 				"obs": false
@@ -994,13 +994,13 @@
 		"nombre": "ORGANIZACIÓN Y SISTEMAS II",
 		"pcurso": [
 			{
-				"id": "G212",
+				"id": "G_G212",
 				"nombre": "INFORMATICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G211",
+				"id": "G_G211",
 				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1008,13 +1008,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "G212",
+				"id": "G_G212",
 				"nombre": "INFORMATICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G211",
+				"id": "G_G211",
 				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1046,13 +1046,13 @@
 		"nombre": "SISTEMAS INFORMATICOS APLICADOS",
 		"pcurso": [
 			{
-				"id": "G212",
+				"id": "G_G212",
 				"nombre": "INFORMATICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G211",
+				"id": "G_G211",
 				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1060,13 +1060,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "G212",
+				"id": "G_G212",
 				"nombre": "INFORMATICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G211",
+				"id": "G_G211",
 				"nombre": "ORGANIZACIÓN Y SISTEMAS I",
 				"actividad": "Grupo",
 				"obs": false

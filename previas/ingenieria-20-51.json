@@ -4,13 +4,13 @@
 		"nombre": "ADMINISTRACION",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -23,13 +23,13 @@
 		"nombre": "COSTOS",
 		"pcurso": [
 			{
-				"id": "0402",
+				"id": "G_0402",
 				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "0404",
+				"id": "G_0404",
 				"nombre": "GEOTECNICA I  (P.91 O 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -41,7 +41,7 @@
 				"obs": false
 			},
 			{
-				"id": "1508C",
+				"id": "G_1508C",
 				"nombre": "MAT Y ENSAYOS (P.97 Y P. 91)",
 				"actividad": "Grupo",
 				"obs": false
@@ -55,19 +55,19 @@
 				"obs": false
 			},
 			{
-				"id": "2204E",
+				"id": "G_2204E",
 				"nombre": "GEOTECNICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "0403",
+				"id": "G_0403",
 				"nombre": "HORMIGON ARMADO I O 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1508",
+				"id": "G_1508",
 				"nombre": "MATERIALES Y ENSAYOS 91 Y 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -79,13 +79,13 @@
 		"nombre": "COSTOS",
 		"pcurso": [
 			{
-				"id": "0402",
+				"id": "G_0402",
 				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "0404",
+				"id": "G_0404",
 				"nombre": "GEOTECNICA I  (P.91 O 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -136,7 +136,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -201,7 +201,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -214,7 +214,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1805",
+				"id": "G_1805",
 				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -233,7 +233,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1805",
+				"id": "G_1805",
 				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -246,7 +246,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -258,7 +258,7 @@
 		"nombre": "HORMIGON ARMADO I",
 		"pcurso": [
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -272,7 +272,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -285,7 +285,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -304,7 +304,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -323,13 +323,13 @@
 				"obs": false
 			},
 			{
-				"id": "B307",
+				"id": "G_B307",
 				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -348,13 +348,13 @@
 				"obs": false
 			},
 			{
-				"id": "B307",
+				"id": "G_B307",
 				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -419,13 +419,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false

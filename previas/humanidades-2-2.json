@@ -10,7 +10,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -48,7 +48,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -86,7 +86,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -124,7 +124,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -156,13 +156,13 @@
 		"nombre": "CIENCIA,TECNOL., INNOV. Y DESARR. (FCS)",
 		"pcurso": [
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "PREV",
+				"id": "G_PREV",
 				"nombre": "PREVIATURAS PARA OPT",
 				"actividad": "Grupo",
 				"obs": false
@@ -181,7 +181,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -212,7 +212,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -250,7 +250,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -281,7 +281,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -312,7 +312,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -344,25 +344,25 @@
 		"nombre": "EPISTEMOLOGIA EN CS. EDUCACION",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -388,7 +388,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -426,7 +426,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -464,7 +464,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -502,7 +502,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -542,13 +542,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "PREV",
+				"id": "G_PREV",
 				"nombre": "PREVIATURAS PARA OPT",
 				"actividad": "Grupo",
 				"obs": false
@@ -566,7 +566,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -604,7 +604,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -642,7 +642,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -680,7 +680,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -718,7 +718,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -756,7 +756,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -794,7 +794,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -832,7 +832,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -870,7 +870,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -908,7 +908,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -946,7 +946,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -984,7 +984,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1022,7 +1022,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1054,25 +1054,25 @@
 		"nombre": "HISTORIA CONTEMPORANEA",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1085,25 +1085,25 @@
 		"nombre": "HISTORIA DE LA EDUCACION EN EL URUGUAY",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1129,7 +1129,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1167,7 +1167,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1205,7 +1205,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1243,7 +1243,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1281,7 +1281,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1319,7 +1319,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1357,7 +1357,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1395,7 +1395,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1433,7 +1433,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1471,7 +1471,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1509,7 +1509,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1547,7 +1547,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1579,7 +1579,7 @@
 		"nombre": "INST.EDUCACION SUPERIOR",
 		"pcurso": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1587,7 +1587,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1611,7 +1611,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1649,7 +1649,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1687,7 +1687,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1725,7 +1725,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1763,7 +1763,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1801,7 +1801,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1839,7 +1839,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1877,7 +1877,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1915,7 +1915,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1953,7 +1953,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1991,7 +1991,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2029,7 +2029,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2080,7 +2080,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2118,7 +2118,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2156,7 +2156,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2176,7 +2176,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2200,7 +2200,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2220,7 +2220,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2244,7 +2244,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2276,25 +2276,25 @@
 		"nombre": "METODOLOGIA DE LA INVEST.EDUCATIVA II",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2320,7 +2320,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2358,7 +2358,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2378,7 +2378,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2396,7 +2396,7 @@
 		"nombre": "POL.EDUC.SUP.AM.LAT.URUGUAY",
 		"pcurso": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2404,7 +2404,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2428,7 +2428,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2460,25 +2460,25 @@
 		"nombre": "PREPARACION Y EVALUACION DE PROYECTOS",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2504,7 +2504,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2536,25 +2536,25 @@
 		"nombre": "PROSPECCION DE LA REALIDAD EDUCATIVA",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2580,7 +2580,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2618,7 +2618,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2688,7 +2688,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2726,7 +2726,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2764,7 +2764,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2802,7 +2802,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2833,7 +2833,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2871,7 +2871,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2909,7 +2909,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2947,7 +2947,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2985,7 +2985,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3023,7 +3023,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3061,7 +3061,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3099,7 +3099,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3119,7 +3119,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3143,7 +3143,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3181,7 +3181,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3219,7 +3219,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3251,25 +3251,25 @@
 		"nombre": "SEMINARIO II (EDUCACION)",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3289,25 +3289,25 @@
 		"nombre": "SEMINARIO II (EDUCACION)",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3333,7 +3333,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3371,7 +3371,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3409,7 +3409,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3440,7 +3440,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3478,7 +3478,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3516,7 +3516,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3554,7 +3554,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3592,7 +3592,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3630,7 +3630,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3668,7 +3668,7 @@
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3706,7 +3706,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3744,7 +3744,7 @@
 				"obs": false
 			},
 			{
-				"id": "21",
+				"id": "G_21",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
@@ -3776,25 +3776,25 @@
 		"nombre": "TEORIA Y PRACTICA DEL CURRICULO",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3814,25 +3814,25 @@
 		"nombre": "TEORIAS PEDAGOGICAS CONTEMPORANEAS",
 		"pcurso": [
 			{
-				"id": "BAS1",
+				"id": "G_BAS1",
 				"nombre": "EPISTEMOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2",
+				"id": "G_2",
 				"nombre": "IDIOMA EXTRANJERO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS2",
+				"id": "G_BAS2",
 				"nombre": "INTRODUCCION A LA UNIVERSIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BAS3",
+				"id": "G_BAS3",
 				"nombre": "MET. Y TECNICAS DEL TRAB. INT.",
 				"actividad": "Grupo",
 				"obs": false

@@ -85,7 +85,7 @@
 		"nombre": "CONTRABAJO 5",
 		"pcurso": [
 			{
-				"id": "CB1",
+				"id": "G_CB1",
 				"nombre": "CONTRABAJO 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -103,7 +103,7 @@
 				"obs": false
 			},
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -121,7 +121,7 @@
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -129,19 +129,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "CB1",
+				"id": "G_CB1",
 				"nombre": "CONTRABAJO 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -253,19 +253,19 @@
 		"nombre": "PRÁCTICA DE CONJUNTO 4",
 		"pcurso": [
 			{
-				"id": "CB1",
+				"id": "G_CB1",
 				"nombre": "CONTRABAJO 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -273,19 +273,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "CB1",
+				"id": "G_CB1",
 				"nombre": "CONTRABAJO 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -297,19 +297,19 @@
 		"nombre": "SEMINARIO DE INTERPRETACIÓN 5",
 		"pcurso": [
 			{
-				"id": "CB1",
+				"id": "G_CB1",
 				"nombre": "CONTRABAJO 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -317,19 +317,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "CB1",
+				"id": "G_CB1",
 				"nombre": "CONTRABAJO 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "I1",
+				"id": "G_I1",
 				"nombre": "INSTRUMENTOS PRIMER CICLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false

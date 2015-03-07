@@ -69,7 +69,7 @@
 		"nombre": "ASTROFISICA I",
 		"pcurso": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -99,7 +99,7 @@
 				"obs": false
 			},
 			{
-				"id": "27",
+				"id": "G_27",
 				"nombre": "FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -167,7 +167,7 @@
 				"obs": false
 			},
 			{
-				"id": "26",
+				"id": "G_26",
 				"nombre": "ONDAS Y ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -209,7 +209,7 @@
 				"obs": false
 			},
 			{
-				"id": "26",
+				"id": "G_26",
 				"nombre": "ONDAS Y ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -320,7 +320,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -377,7 +377,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -449,7 +449,7 @@
 				"obs": false
 			},
 			{
-				"id": "26",
+				"id": "G_26",
 				"nombre": "ONDAS Y ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -524,7 +524,7 @@
 		"nombre": "FISICA MODERNA",
 		"pcurso": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -548,7 +548,7 @@
 				"obs": false
 			},
 			{
-				"id": "27",
+				"id": "G_27",
 				"nombre": "FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -598,7 +598,7 @@
 				"obs": false
 			},
 			{
-				"id": "26",
+				"id": "G_26",
 				"nombre": "ONDAS Y ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -669,7 +669,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -706,7 +706,7 @@
 		"nombre": "MECANICA ANALITICA",
 		"pcurso": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -724,7 +724,7 @@
 				"obs": false
 			},
 			{
-				"id": "27",
+				"id": "G_27",
 				"nombre": "FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -768,7 +768,7 @@
 		"nombre": "MECANICA CELESTE I",
 		"pcurso": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -792,7 +792,7 @@
 				"obs": false
 			},
 			{
-				"id": "27",
+				"id": "G_27",
 				"nombre": "FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -854,7 +854,7 @@
 				"obs": false
 			},
 			{
-				"id": "26",
+				"id": "G_26",
 				"nombre": "ONDAS Y ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -957,7 +957,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -969,7 +969,7 @@
 				"obs": false
 			},
 			{
-				"id": "27",
+				"id": "G_27",
 				"nombre": "FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1029,7 +1029,7 @@
 				"obs": false
 			},
 			{
-				"id": "26",
+				"id": "G_26",
 				"nombre": "ONDAS Y ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1067,7 +1067,7 @@
 		"nombre": "TECNICAS INSTRUMENTALES",
 		"pcurso": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1091,7 +1091,7 @@
 				"obs": false
 			},
 			{
-				"id": "27",
+				"id": "G_27",
 				"nombre": "FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1137,7 +1137,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1167,7 +1167,7 @@
 		"nombre": "TRABAJO ESPECIAL DE ASTRONOMIA",
 		"pcurso": [
 			{
-				"id": "1",
+				"id": "G_1",
 				"nombre": "ALGEBRA LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1197,7 +1197,7 @@
 				"obs": false
 			},
 			{
-				"id": "27",
+				"id": "G_27",
 				"nombre": "FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1253,7 +1253,7 @@
 				"obs": false
 			},
 			{
-				"id": "26",
+				"id": "G_26",
 				"nombre": "ONDAS Y ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false

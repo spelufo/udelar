@@ -17,13 +17,13 @@
 		"nombre": "ARCHIVOS  ADMINISTRATIVOS",
 		"pcurso": [
 			{
-				"id": "GA34C",
+				"id": "G_GA34C",
 				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -31,13 +31,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "GA23C",
+				"id": "G_GA23C",
 				"nombre": "ARCHIVOS  ADMINISTRATIVOS.-",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -49,13 +49,13 @@
 		"nombre": "ARCHIVOS  HISTORICOS",
 		"pcurso": [
 			{
-				"id": "GA32C",
+				"id": "G_GA32C",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -69,13 +69,13 @@
 				"obs": true
 			},
 			{
-				"id": "GA12C",
+				"id": "G_GA12C",
 				"nombre": "ARCHIVOS HISTORICOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -119,13 +119,13 @@
 		"nombre": "ARCHIVOS HISTORICOS",
 		"pcurso": [
 			{
-				"id": "GA32C",
+				"id": "G_GA32C",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -133,13 +133,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "GA12C",
+				"id": "G_GA12C",
 				"nombre": "ARCHIVOS HISTORICOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -152,7 +152,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA7C",
+				"id": "G_GA7C",
 				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
 				"actividad": "Grupo",
 				"obs": false
@@ -165,7 +165,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA7C",
+				"id": "G_GA7C",
 				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
 				"actividad": "Grupo",
 				"obs": false
@@ -183,25 +183,25 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GAB2E",
+				"id": "G_GAB2E",
 				"nombre": "ESTADÍSTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -213,7 +213,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -227,7 +227,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -239,19 +239,19 @@
 				"obs": false
 			},
 			{
-				"id": "GAB2E",
+				"id": "G_GAB2E",
 				"nombre": "ESTADÍSTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -263,7 +263,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -289,7 +289,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA29E",
+				"id": "G_GA29E",
 				"nombre": "DESCRIP. Y SERV. DE EXT. ARCH.",
 				"actividad": "Grupo",
 				"obs": false
@@ -302,13 +302,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA29E",
+				"id": "G_GA29E",
 				"nombre": "DESCRIP. Y SERV. DE EXT. ARCH.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA9C",
+				"id": "G_GA9C",
 				"nombre": "DESCRIPCION DOCUMENTAL Y SERV.",
 				"actividad": "Grupo",
 				"obs": false
@@ -334,7 +334,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -346,13 +346,13 @@
 		"nombre": "GESTIÓN DOCUMENTAL II",
 		"pcurso": [
 			{
-				"id": "GA34C",
+				"id": "G_GA34C",
 				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -360,13 +360,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "GA34C",
+				"id": "G_GA34C",
 				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -379,7 +379,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA32C",
+				"id": "G_GA32C",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -392,7 +392,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA32C",
+				"id": "G_GA32C",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -410,25 +410,25 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GAB2E",
+				"id": "G_GAB2E",
 				"nombre": "ESTADÍSTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -440,7 +440,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -454,19 +454,19 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GAB2E",
+				"id": "G_GAB2E",
 				"nombre": "ESTADÍSTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -478,7 +478,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -490,7 +490,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -508,7 +508,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -526,13 +526,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -544,7 +544,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -558,7 +558,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -576,7 +576,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
@@ -588,7 +588,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -600,7 +600,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -613,7 +613,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA34C",
+				"id": "G_GA34C",
 				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -638,7 +638,7 @@
 		"nombre": "INTRODUCCION AL PROC. AUT. DATOS II",
 		"pcurso": [
 			{
-				"id": "GAB3E",
+				"id": "G_GAB3E",
 				"nombre": "IPAD I",
 				"actividad": "Grupo",
 				"obs": false
@@ -652,7 +652,7 @@
 				"obs": false
 			},
 			{
-				"id": "GAB3E",
+				"id": "G_GAB3E",
 				"nombre": "IPAD I",
 				"actividad": "Grupo",
 				"obs": false
@@ -683,7 +683,7 @@
 		"nombre": "IPAD II",
 		"pcurso": [
 			{
-				"id": "GAB3E",
+				"id": "G_GAB3E",
 				"nombre": "IPAD I",
 				"actividad": "Grupo",
 				"obs": false
@@ -691,7 +691,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "GAB3E",
+				"id": "G_GAB3E",
 				"nombre": "IPAD I",
 				"actividad": "Grupo",
 				"obs": false
@@ -759,7 +759,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -771,13 +771,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -789,7 +789,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -803,7 +803,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -815,13 +815,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -839,7 +839,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -852,7 +852,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA26C",
+				"id": "G_GA26C",
 				"nombre": "PRODUCCION DE DOCUMENTOS.",
 				"actividad": "Grupo",
 				"obs": false
@@ -865,7 +865,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "GA26C",
+				"id": "G_GA26C",
 				"nombre": "PRODUCCION DE DOCUMENTOS.",
 				"actividad": "Grupo",
 				"obs": false
@@ -883,19 +883,19 @@
 				"obs": false
 			},
 			{
-				"id": "GA23E",
+				"id": "G_GA23E",
 				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA23C",
+				"id": "G_GA23C",
 				"nombre": "ARCHIVOS  ADMINISTRATIVOS.-",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -907,13 +907,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -937,7 +937,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -963,7 +963,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA23E",
+				"id": "G_GA23E",
 				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -975,7 +975,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -987,13 +987,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1011,7 +1011,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1041,25 +1041,25 @@
 				"obs": false
 			},
 			{
-				"id": "GA23E",
+				"id": "G_GA23E",
 				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA23C",
+				"id": "G_GA23C",
 				"nombre": "ARCHIVOS  ADMINISTRATIVOS.-",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA7C",
+				"id": "G_GA7C",
 				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1077,19 +1077,19 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34C",
+				"id": "G_GA34C",
 				"nombre": "INTROD. A LA ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1113,13 +1113,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA26C",
+				"id": "G_GA26C",
 				"nombre": "PRODUCCION DE DOCUMENTOS.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1145,13 +1145,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA23E",
+				"id": "G_GA23E",
 				"nombre": "ARCHIVOS  ADMINISTRATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1163,13 +1163,13 @@
 				"obs": false
 			},
 			{
-				"id": "GA32E",
+				"id": "G_GA32E",
 				"nombre": "HISTORIA INST. DEL URUGUAY",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA34E",
+				"id": "G_GA34E",
 				"nombre": "INTRODUC.  A  LA  ARCHIVOLOGÍA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1187,7 +1187,7 @@
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1211,25 +1211,25 @@
 		"nombre": "SELECCION DOCUMENTAL",
 		"pcurso": [
 			{
-				"id": "GA7C",
+				"id": "G_GA7C",
 				"nombre": "CLASIFICACIÓN Y ORDENAC.DE DOC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA26C",
+				"id": "G_GA26C",
 				"nombre": "PRODUCCION DE DOCUMENTOS.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1237,13 +1237,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "GA7",
+				"id": "G_GA7",
 				"nombre": "CLASIFICACIÓN Y ORDENACIÓN.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GA26E",
+				"id": "G_GA26E",
 				"nombre": "PRODUCCIÓN DE DOCUMENTOS",
 				"actividad": "Grupo",
 				"obs": false

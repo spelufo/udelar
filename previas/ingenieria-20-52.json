@@ -37,7 +37,7 @@
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -81,7 +81,7 @@
 				"obs": false
 			},
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -93,7 +93,7 @@
 				"obs": false
 			},
 			{
-				"id": "2204E",
+				"id": "G_2204E",
 				"nombre": "GEOTECNICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -164,7 +164,7 @@
 		"nombre": "ANALISIS NO LINEAL DE ESTRUCTURAS I",
 		"pcurso": [
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -210,7 +210,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -223,7 +223,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -235,7 +235,7 @@
 		"nombre": "CALCULO NUMERICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -299,7 +299,7 @@
 		"nombre": "COMPLEMENTOS DE GEOTECNICA",
 		"pcurso": [
 			{
-				"id": "2205C",
+				"id": "G_2205C",
 				"nombre": "CURSO- GEOTECNIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -313,7 +313,7 @@
 				"obs": false
 			},
 			{
-				"id": "2205",
+				"id": "G_2205",
 				"nombre": "GEOTECNICA 2 (PLAN 91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -331,7 +331,7 @@
 				"obs": false
 			},
 			{
-				"id": "0404",
+				"id": "G_0404",
 				"nombre": "GEOTECNICA I  (P.91 O 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -369,7 +369,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -387,7 +387,7 @@
 				"obs": false
 			},
 			{
-				"id": "0404",
+				"id": "G_0404",
 				"nombre": "GEOTECNICA I  (P.91 O 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -425,7 +425,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -451,67 +451,67 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B315",
+				"id": "G_B315",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B307",
+				"id": "G_B307",
 				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -586,7 +586,7 @@
 		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
 		"pcurso": [
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -599,7 +599,7 @@
 		"nombre": "ELEMENTOS DE TOPOGRAFIA",
 		"pcurso": [
 			{
-				"id": "B312",
+				"id": "G_B312",
 				"nombre": "T.LAB. II (MECANICA O CIVIL)",
 				"actividad": "Grupo",
 				"obs": false
@@ -638,7 +638,7 @@
 				"obs": false
 			},
 			{
-				"id": "0521",
+				"id": "G_0521",
 				"nombre": "OBRAS HIDRAULICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -727,7 +727,7 @@
 		"nombre": "ESTUDIOS GEOTECNICOS",
 		"pcurso": [
 			{
-				"id": "2205C",
+				"id": "G_2205C",
 				"nombre": "CURSO- GEOTECNIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -792,7 +792,7 @@
 				"obs": false
 			},
 			{
-				"id": "B307",
+				"id": "G_B307",
 				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -804,13 +804,13 @@
 		"nombre": "HIDROLOGIA ESTADISTICA",
 		"pcurso": [
 			{
-				"id": "0408C",
+				"id": "G_0408C",
 				"nombre": "HIDROLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025C",
+				"id": "G_1025C",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -831,7 +831,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "0408",
+				"id": "G_0408",
 				"nombre": "HIDROLOGIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -850,13 +850,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "0408",
+				"id": "G_0408",
 				"nombre": "HIDROLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1226",
+				"id": "G_1226",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -951,7 +951,7 @@
 		"nombre": "INSTALACIONES SANITARIAS INTERNAS",
 		"pcurso": [
 			{
-				"id": "1805C",
+				"id": "G_1805C",
 				"nombre": "ELEM DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -959,7 +959,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1805",
+				"id": "G_1805",
 				"nombre": "ELEM . DE MEC. DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1062,13 +1062,13 @@
 				"obs": false
 			},
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B202",
+				"id": "G_B202",
 				"nombre": "TERMOD.Y FIS.TERMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1172,7 +1172,7 @@
 				"obs": false
 			},
 			{
-				"id": "T40",
+				"id": "G_T40",
 				"nombre": "RESISTENCIA DE MATERIALES II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1184,7 +1184,7 @@
 		"nombre": "MET. COMPUT.APLIC.AL CALCULO DE ESTRUCT.",
 		"pcurso": [
 			{
-				"id": "B306",
+				"id": "G_B306",
 				"nombre": "RESIST.I/MEC DE MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1198,7 +1198,7 @@
 				"obs": false
 			},
 			{
-				"id": "0401",
+				"id": "G_0401",
 				"nombre": "RESIST.II/MEC.DE MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1210,7 +1210,7 @@
 		"nombre": "METODOLOGIA DE LOS EST. GEOTECNICOS",
 		"pcurso": [
 			{
-				"id": "2205C",
+				"id": "G_2205C",
 				"nombre": "CURSO- GEOTECNIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1230,7 +1230,7 @@
 		"nombre": "MODULO DE AIRE HUMEDO",
 		"pcurso": [
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1243,7 +1243,7 @@
 		"nombre": "MODULO DE CICLOS TERMODINAMICOS",
 		"pcurso": [
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1256,7 +1256,7 @@
 		"nombre": "MODULO DE TRANSFERENCIA DE CALOR",
 		"pcurso": [
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1276,7 +1276,7 @@
 				"obs": false
 			},
 			{
-				"id": "2204E",
+				"id": "G_2204E",
 				"nombre": "GEOTECNICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1288,7 +1288,7 @@
 				"obs": false
 			},
 			{
-				"id": "0408",
+				"id": "G_0408",
 				"nombre": "HIDROLOGIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1313,19 +1313,19 @@
 		"nombre": "OPTIMIZACION",
 		"pcurso": [
 			{
-				"id": "C200",
+				"id": "G_C200",
 				"nombre": "ANAL II Y PLAN 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1338,7 +1338,7 @@
 		"nombre": "PASANTIA (HIDRAULICA-AMBIENTAL)",
 		"pcurso": [
 			{
-				"id": "B305",
+				"id": "G_B305",
 				"nombre": "MECANICA DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1388,7 +1388,7 @@
 				"obs": false
 			},
 			{
-				"id": "0404",
+				"id": "G_0404",
 				"nombre": "GEOTECNICA I  (P.91 O 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1456,7 +1456,7 @@
 				"obs": false
 			},
 			{
-				"id": "0404",
+				"id": "G_0404",
 				"nombre": "GEOTECNICA I  (P.91 O 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1494,7 +1494,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1506,7 +1506,7 @@
 		"nombre": "PROYECTO DE RIEGO",
 		"pcurso": [
 			{
-				"id": "0521",
+				"id": "G_0521",
 				"nombre": "OBRAS HIDRAULICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1514,7 +1514,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "0521",
+				"id": "G_0521",
 				"nombre": "OBRAS HIDRAULICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1588,7 +1588,7 @@
 				"obs": false
 			},
 			{
-				"id": "0502",
+				"id": "G_0502",
 				"nombre": "GEOTECNICA 2- CURSO P91 O P97",
 				"actividad": "Grupo",
 				"obs": false
@@ -1620,7 +1620,7 @@
 				"obs": false
 			},
 			{
-				"id": "2205",
+				"id": "G_2205",
 				"nombre": "GEOTECNICA 2 (PLAN 91-97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1719,31 +1719,31 @@
 		"nombre": "PROYECTO TRANSPORTE 2",
 		"pcurso": [
 			{
-				"id": "0505",
+				"id": "G_0505",
 				"nombre": "CAMINOS Y CALLES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "0402",
+				"id": "G_0402",
 				"nombre": "FUNDAM.O INT. A LA CONSTRUCCIO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "0502",
+				"id": "G_0502",
 				"nombre": "GEOTECNICA 2- CURSO P91 O P97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "0507",
+				"id": "G_0507",
 				"nombre": "PROYECTO DE TRANSPORTE I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "0506C",
+				"id": "G_0506C",
 				"nombre": "TRANSPORTE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1801,7 +1801,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "0508",
+				"id": "G_0508",
 				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1839,7 +1839,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "0508",
+				"id": "G_0508",
 				"nombre": "CONSTRUCCION PARA ESTRUCTURAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1870,13 +1870,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "0402E",
+				"id": "G_0402E",
 				"nombre": "FUND. DE CONST.O INT.A LA CONS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2204E",
+				"id": "G_2204E",
 				"nombre": "GEOTECNICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1958,7 +1958,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B307",
+				"id": "G_B307",
 				"nombre": "QUIMICA O PRINCIPIOS DE QUIM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2001,7 +2001,7 @@
 				"obs": false
 			},
 			{
-				"id": "0404",
+				"id": "G_0404",
 				"nombre": "GEOTECNICA I  (P.91 O 97)",
 				"actividad": "Grupo",
 				"obs": false
@@ -2033,7 +2033,7 @@
 				"obs": false
 			},
 			{
-				"id": "1310",
+				"id": "G_1310",
 				"nombre": "RESISTENCIA DE MAT. 1  Ò  I",
 				"actividad": "Grupo",
 				"obs": false
@@ -2051,13 +2051,13 @@
 		"nombre": "TOPOGRAFIA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B312",
+				"id": "G_B312",
 				"nombre": "T.LAB. II (MECANICA O CIVIL)",
 				"actividad": "Grupo",
 				"obs": false
@@ -2077,7 +2077,7 @@
 		"nombre": "TRANSPORTE",
 		"pcurso": [
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false

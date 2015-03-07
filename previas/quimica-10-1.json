@@ -104,31 +104,31 @@
 		"nombre": "BIOQUÍMICA OP. III (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G406",
+				"id": "G_G406",
 				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G103",
+				"id": "G_G103",
 				"nombre": "INT. A LAS CIEN. BIOLOGICAS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G402",
+				"id": "G_G402",
 				"nombre": "QCA ANALÍTICA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G401",
+				"id": "G_G401",
 				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -148,31 +148,31 @@
 		"nombre": "BOTÁNICA (DESDE 2006)",
 		"pcurso": [
 			{
-				"id": "G908",
+				"id": "G_G908",
 				"nombre": "BOTÁNICA (DESDE 2006)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G203",
+				"id": "G_G203",
 				"nombre": "INT. A LAS CIEN. BIOLÓGICAS II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -230,7 +230,7 @@
 				"obs": false
 			},
 			{
-				"id": "ENBQ",
+				"id": "G_ENBQ",
 				"nombre": "EXAMENES NÚCLEO BÁSICO QUÍMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -248,13 +248,13 @@
 		"nombre": "BROMATOLOGÍA Y NUTRICIÓN (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G704",
+				"id": "G_G704",
 				"nombre": "BROMATOLOGÍA Y NUTRICIÓN",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G533",
+				"id": "G_G533",
 				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -274,31 +274,31 @@
 		"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
 		"pcurso": [
 			{
-				"id": "G804",
+				"id": "G_G804",
 				"nombre": "CONTROL DE CALIDAD DE MED. I",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G702",
+				"id": "G_G702",
 				"nombre": "FARMACOTECNIA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G533",
+				"id": "G_G533",
 				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G701",
+				"id": "G_G701",
 				"nombre": "QUÍMICA FARMACEUTICA 102",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G700",
+				"id": "G_G700",
 				"nombre": "QUÍMICA FARMACÉUTICA 101",
 				"actividad": "Grupo",
 				"obs": false
@@ -318,31 +318,31 @@
 		"nombre": "CONTROL DE CALIDAD DE MEDICAMENTOS I",
 		"pcurso": [
 			{
-				"id": "G804",
+				"id": "G_G804",
 				"nombre": "CONTROL DE CALIDAD DE MED. I",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G702",
+				"id": "G_G702",
 				"nombre": "FARMACOTECNIA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G533",
+				"id": "G_G533",
 				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G701",
+				"id": "G_G701",
 				"nombre": "QUÍMICA FARMACEUTICA 102",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G700",
+				"id": "G_G700",
 				"nombre": "QUÍMICA FARMACÉUTICA 101",
 				"actividad": "Grupo",
 				"obs": false
@@ -362,13 +362,13 @@
 		"nombre": "FARMACOCINÉTICA Y BIOFARMACIA",
 		"pcurso": [
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G04",
+				"id": "G_G04",
 				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
 				"actividad": "Grupo",
 				"obs": false
@@ -407,25 +407,25 @@
 		"nombre": "FARMACOGNOSIA (DESDE 2006)",
 		"pcurso": [
 			{
-				"id": "G909",
+				"id": "G_G909",
 				"nombre": "FARMACOGNOSIA (DESDE 2006)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -452,7 +452,7 @@
 				"obs": false
 			},
 			{
-				"id": "ENBQ",
+				"id": "G_ENBQ",
 				"nombre": "EXAMENES NÚCLEO BÁSICO QUÍMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -470,13 +470,13 @@
 		"nombre": "FARMACOGNOSIA Y BOTÁNICA (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G401",
+				"id": "G_G401",
 				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G386",
+				"id": "G_G386",
 				"nombre": "QUÍMICA ORGÁNICA III",
 				"actividad": "Grupo",
 				"obs": false
@@ -496,37 +496,37 @@
 		"nombre": "FARMACOLOGÍA (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G703",
+				"id": "G_G703",
 				"nombre": "FARMACOLOGÍA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G401",
+				"id": "G_G401",
 				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -559,55 +559,55 @@
 		"nombre": "FARMACOTECNIA I (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G908",
+				"id": "G_G908",
 				"nombre": "BOTÁNICA (DESDE 2006)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G909",
+				"id": "G_G909",
 				"nombre": "FARMACOGNOSIA (DESDE 2006)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G702",
+				"id": "G_G702",
 				"nombre": "FARMACOTECNIA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G508",
+				"id": "G_G508",
 				"nombre": "FISICOQUÍMICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G533",
+				"id": "G_G533",
 				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G303",
+				"id": "G_G303",
 				"nombre": "QCA. INORGANICA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "700IC",
+				"id": "G_700IC",
 				"nombre": "QUÍMICA FARMACÉUTICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "701IC",
+				"id": "G_701IC",
 				"nombre": "QUÍMICA FARMACÉUTICA 102",
 				"actividad": "Grupo",
 				"obs": false
@@ -701,19 +701,19 @@
 		"nombre": "FARMACOTECNIA II (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "804IC",
+				"id": "G_804IC",
 				"nombre": "CONT. DE CAL. DE MEDICAMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G702",
+				"id": "G_G702",
 				"nombre": "FARMACOTECNIA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G802",
+				"id": "G_G802",
 				"nombre": "FARMACOTECNIA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
@@ -733,13 +733,13 @@
 		"nombre": "FARMACOTERAPIA I (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G703",
+				"id": "G_G703",
 				"nombre": "FARMACOLOGÍA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G803",
+				"id": "G_G803",
 				"nombre": "FARMACOTERAPIA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
@@ -759,19 +759,19 @@
 		"nombre": "FISIOLOGÍA (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G484",
+				"id": "G_G484",
 				"nombre": "ANATOMÍA Y FISIOLOGÍA",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G203",
+				"id": "G_G203",
 				"nombre": "INT. A LAS CIEN. BIOLÓGICAS II",
 				"actividad": "Grupo",
 				"obs": false
@@ -791,7 +791,7 @@
 		"nombre": "GESTIÓN DE EMPRESAS (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G410",
+				"id": "G_G410",
 				"nombre": "GESTION DE EMPRESAS",
 				"actividad": "Grupo",
 				"obs": true
@@ -842,25 +842,25 @@
 		"nombre": "INMUNOLOGÍA I (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G487",
+				"id": "G_G487",
 				"nombre": "INMUNOLOGÍA (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G506",
+				"id": "G_G506",
 				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G103",
+				"id": "G_G103",
 				"nombre": "INT. A LAS CIEN. BIOLOGICAS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -880,13 +880,13 @@
 		"nombre": "INMUNOLOGÍA II (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G506",
+				"id": "G_G506",
 				"nombre": "INMUNOLOGÍA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G534",
+				"id": "G_G534",
 				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
@@ -899,13 +899,13 @@
 		"nombre": "LABORATORIO DE FITOQUÍMICA (ORG. 202B)",
 		"pcurso": [
 			{
-				"id": "G565",
+				"id": "G_G565",
 				"nombre": "LABORATORIO DE FITOQUÍMICA",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "571IC",
+				"id": "G_571IC",
 				"nombre": "QUIMICA DE PRODUCTOS NATURALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -931,19 +931,19 @@
 		"nombre": "LEGISLACIÓN Y DEONTOLOGÍA (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G802",
+				"id": "G_G802",
 				"nombre": "FARMACOTECNIA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G803",
+				"id": "G_G803",
 				"nombre": "FARMACOTERAPIA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G809",
+				"id": "G_G809",
 				"nombre": "LEGISLACIÓN Y DEONTOLOGÍA",
 				"actividad": "Grupo",
 				"obs": true
@@ -982,19 +982,19 @@
 		"nombre": "MICROBIOLOGÍA GENERAL (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G103",
+				"id": "G_G103",
 				"nombre": "INT. A LAS CIEN. BIOLOGICAS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G533",
+				"id": "G_G533",
 				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
@@ -1014,37 +1014,37 @@
 		"nombre": "MOD. I - BIOQUÍMICA CLÍNICA I",
 		"pcurso": [
 			{
-				"id": "G210",
+				"id": "G_G210",
 				"nombre": "ANATOMIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "534IC",
+				"id": "G_534IC",
 				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G533",
+				"id": "G_G533",
 				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1064,31 +1064,31 @@
 		"nombre": "MOD. I - HEMATOLOGÍA CLÍNICA",
 		"pcurso": [
 			{
-				"id": "G210",
+				"id": "G_G210",
 				"nombre": "ANATOMIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G705",
+				"id": "G_G705",
 				"nombre": "BIOQUÍMICA CLÍNICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G534M",
+				"id": "G_G534M",
 				"nombre": "INMUNOLOGÍA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1108,31 +1108,31 @@
 		"nombre": "MOD. I - PARASITOLOGÍA CLÍNICA",
 		"pcurso": [
 			{
-				"id": "G210",
+				"id": "G_G210",
 				"nombre": "ANATOMIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "534IC",
+				"id": "G_534IC",
 				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1152,25 +1152,25 @@
 		"nombre": "MOD. II - MICROBIOLOGÍA CLÍNICA",
 		"pcurso": [
 			{
-				"id": "G210",
+				"id": "G_G210",
 				"nombre": "ANATOMIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "534IC",
+				"id": "G_534IC",
 				"nombre": "INMUNOLOGÍA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G533",
+				"id": "G_G533",
 				"nombre": "MICROBIOLOGIA GRAL (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1190,13 +1190,13 @@
 		"nombre": "MÓD. DE FARMACOCINÉTICA BÁSICA",
 		"pcurso": [
 			{
-				"id": "G408",
+				"id": "G_G408",
 				"nombre": "FISIOLOGIA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G02",
+				"id": "G_G02",
 				"nombre": "MATEMATICA 02",
 				"actividad": "Grupo",
 				"obs": false
@@ -1235,25 +1235,25 @@
 		"nombre": "QCA. DE PRODUCTOS NATURALES (ORG. 202A)",
 		"pcurso": [
 			{
-				"id": "505IC",
+				"id": "G_505IC",
 				"nombre": "BIOQUIMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G571",
+				"id": "G_G571",
 				"nombre": "QUÍMICA DE PRODUCTOS NATURALES",
 				"actividad": "Grupo",
 				"obs": true
@@ -1280,7 +1280,7 @@
 				"obs": false
 			},
 			{
-				"id": "ENBQ",
+				"id": "G_ENBQ",
 				"nombre": "EXAMENES NÚCLEO BÁSICO QUÍMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1298,49 +1298,49 @@
 		"nombre": "QCA. FARMACÉUTICA 101 (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G909",
+				"id": "G_G909",
 				"nombre": "FARMACOGNOSIA (DESDE 2006)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G520",
+				"id": "G_G520",
 				"nombre": "FISICOQUÍMICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G401",
+				"id": "G_G401",
 				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G700",
+				"id": "G_G700",
 				"nombre": "QUÍMICA FARMACÉUTICA 101",
 				"actividad": "Grupo",
 				"obs": true
@@ -1360,55 +1360,55 @@
 		"nombre": "QCA. FARMACÉUTICA 102 (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G909",
+				"id": "G_G909",
 				"nombre": "FARMACOGNOSIA (DESDE 2006)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G520",
+				"id": "G_G520",
 				"nombre": "FISICOQUÍMICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G401",
+				"id": "G_G401",
 				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G701",
+				"id": "G_G701",
 				"nombre": "QUÍMICA FARMACEUTICA 102",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "700IC",
+				"id": "G_700IC",
 				"nombre": "QUÍMICA FARMACÉUTICA 101",
 				"actividad": "Grupo",
 				"obs": false
@@ -1440,19 +1440,19 @@
 		"nombre": "SÍNT. DE FÁRMACOS II (ORG. 203B)",
 		"pcurso": [
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G574",
+				"id": "G_G574",
 				"nombre": "SINTESIS DE FARMACOS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G575",
+				"id": "G_G575",
 				"nombre": "SINTESIS DE FARMACOS II",
 				"actividad": "Grupo",
 				"obs": true
@@ -1485,7 +1485,7 @@
 		"nombre": "TOXICOLOGÍA ANALÍTICA Y QUÍMICA LEGAL",
 		"pcurso": [
 			{
-				"id": "G806",
+				"id": "G_G806",
 				"nombre": "TOXICOLOGÍA ANAL. Y QCA LEGAL",
 				"actividad": "Grupo",
 				"obs": true
@@ -1504,19 +1504,19 @@
 		"nombre": "TOXICOLOGÍA FUNDAMENTAL (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G505",
+				"id": "G_G505",
 				"nombre": "BIOQUÍMICA (OPCIÓN III)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G805",
+				"id": "G_G805",
 				"nombre": "TOXICOLOGIA FUNDAMENTAL",
 				"actividad": "Grupo",
 				"obs": true

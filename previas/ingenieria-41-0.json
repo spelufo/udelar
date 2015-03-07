@@ -4,19 +4,19 @@
 		"nombre": "AGRIMENSURA LEGAL I",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -114,13 +114,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -227,7 +227,7 @@
 				"obs": false
 			},
 			{
-				"id": "B102",
+				"id": "G_B102",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -392,7 +392,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -404,7 +404,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -504,19 +504,19 @@
 		"nombre": "COMPUTACION",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -524,7 +524,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -536,7 +536,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -548,13 +548,13 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -614,7 +614,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -626,7 +626,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -639,13 +639,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -657,19 +657,19 @@
 		"nombre": "ELEMENTOS DE CONSTRUCCION",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -689,19 +689,19 @@
 		"nombre": "ELEMENTOS DE GEOLOGIA",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -780,7 +780,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -792,7 +792,7 @@
 				"obs": false
 			},
 			{
-				"id": "4001",
+				"id": "G_4001",
 				"nombre": "OPTICA E INT. A LA OPTICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -874,19 +874,19 @@
 		"nombre": "GEODESIA I",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -938,7 +938,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1612E",
+				"id": "G_1612E",
 				"nombre": "ASTRONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1002,7 +1002,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B301E",
+				"id": "G_B301E",
 				"nombre": "ELECTROMAG. O FIS.GRAL.2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1154,19 +1154,19 @@
 		"nombre": "INFORMACION Y ANALISIS RURAL",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1353,13 +1353,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1497,13 +1497,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1521,19 +1521,19 @@
 		"nombre": "TEORIA DE OBSERVACIONES II",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1572,7 +1572,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1590,19 +1590,19 @@
 		"nombre": "TOPOGRAFIA II",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A103",
+				"id": "G_A103",
 				"nombre": "MECANICA",
 				"actividad": "Grupo",
 				"obs": false

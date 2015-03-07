@@ -24,7 +24,7 @@
 		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
 		"pcurso": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -32,7 +32,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -128,13 +128,13 @@
 		"nombre": "AUDITORÍA I",
 		"pcurso": [
 			{
-				"id": "429P",
+				"id": "G_429P",
 				"nombre": "CONTROL INTERNO(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "430P",
+				"id": "G_430P",
 				"nombre": "TEO.CONT.SUP.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -142,13 +142,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "429P",
+				"id": "G_429P",
 				"nombre": "CONTROL INTERNO(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "430P",
+				"id": "G_430P",
 				"nombre": "TEO.CONT.SUP.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -180,19 +180,19 @@
 		"nombre": "COMERCIO INTERNACIONAL",
 		"pcurso": [
 			{
-				"id": "316G2",
+				"id": "G_316G2",
 				"nombre": "CONT.DE COSTOS(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "20CRJ",
+				"id": "G_20CRJ",
 				"nombre": "CRÉDITOS ÁREA JURÍD.CR.PCO.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "218G",
+				"id": "G_218G",
 				"nombre": "ESTADISTICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -200,19 +200,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "316G2",
+				"id": "G_316G2",
 				"nombre": "CONT.DE COSTOS(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "20CRJ",
+				"id": "G_20CRJ",
 				"nombre": "CRÉDITOS ÁREA JURÍD.CR.PCO.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "218G",
+				"id": "G_218G",
 				"nombre": "ESTADISTICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -224,19 +224,19 @@
 		"nombre": "CONT.DE EMPRESAS DE INTERMED.FINANCIERA",
 		"pcurso": [
 			{
-				"id": "40JCP",
+				"id": "G_40JCP",
 				"nombre": "15 CRÉD.JURÍDICOS PARA CR.PCO.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "40CP",
+				"id": "G_40CP",
 				"nombre": "40 CRÉDITOS CONTABLES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "218G",
+				"id": "G_218G",
 				"nombre": "ESTADISTICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -244,19 +244,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "40JCP",
+				"id": "G_40JCP",
 				"nombre": "15 CRÉD.JURÍDICOS PARA CR.PCO.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "40CP",
+				"id": "G_40CP",
 				"nombre": "40 CRÉDITOS CONTABLES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "218G",
+				"id": "G_218G",
 				"nombre": "ESTADISTICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -300,7 +300,7 @@
 		"nombre": "CONTABILIDAD GENERAL I",
 		"pcurso": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -308,7 +308,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -320,7 +320,7 @@
 		"nombre": "CONTABILIDAD GENERAL II",
 		"pcurso": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -328,7 +328,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -340,7 +340,7 @@
 		"nombre": "CONTABILIDAD GENERAL III",
 		"pcurso": [
 			{
-				"id": "C30G",
+				"id": "G_C30G",
 				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -348,7 +348,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C30G",
+				"id": "G_C30G",
 				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -360,13 +360,13 @@
 		"nombre": "CONTABILIDAD SUPERIOR",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "316P",
+				"id": "G_316P",
 				"nombre": "COSTOS/ MODELOS/PRECIOS(PREV.)",
 				"actividad": "Grupo",
 				"obs": false
@@ -374,13 +374,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "316P",
+				"id": "G_316P",
 				"nombre": "COSTOS/ MODELOS/PRECIOS(PREV.)",
 				"actividad": "Grupo",
 				"obs": false
@@ -392,7 +392,7 @@
 		"nombre": "CONTABILIDAD Y CAMBIOS DE PRECIOS",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -400,7 +400,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -444,13 +444,13 @@
 		"nombre": "CONTROL INTERNO",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -458,13 +458,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -476,7 +476,7 @@
 		"nombre": "COSTOS PARA LA TOMA DE DECISIONES",
 		"pcurso": [
 			{
-				"id": "C50G",
+				"id": "G_C50G",
 				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -484,7 +484,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C50G",
+				"id": "G_C50G",
 				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -496,7 +496,7 @@
 		"nombre": "CÁLCULO II",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -504,7 +504,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -516,7 +516,7 @@
 		"nombre": "CÁLCULO III",
 		"pcurso": [
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -524,7 +524,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -537,7 +537,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -550,7 +550,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -562,13 +562,13 @@
 		"nombre": "ECONOMÍA APLICADA A LA EMPRESA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -576,13 +576,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -594,7 +594,7 @@
 		"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
 		"pcurso": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -602,7 +602,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -614,7 +614,7 @@
 		"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
 		"pcurso": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -622,7 +622,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -634,25 +634,25 @@
 		"nombre": "FINANZAS CORPORATIVAS",
 		"pcurso": [
 			{
-				"id": "180CP",
+				"id": "G_180CP",
 				"nombre": "180 CRÉD. CR.PCO. P90",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "30ECP",
+				"id": "G_30ECP",
 				"nombre": "30 CRÉD. EC.-C.P. P90",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -664,7 +664,7 @@
 				"obs": false
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -672,25 +672,25 @@
 		],
 		"pexamen": [
 			{
-				"id": "180CP",
+				"id": "G_180CP",
 				"nombre": "180 CRÉD. CR.PCO. P90",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "30ECP",
+				"id": "G_30ECP",
 				"nombre": "30 CRÉD. EC.-C.P. P90",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -702,7 +702,7 @@
 				"obs": false
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -752,7 +752,7 @@
 				"obs": false
 			},
 			{
-				"id": "220G",
+				"id": "G_220G",
 				"nombre": "DERECHO PÚBLICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -772,7 +772,7 @@
 				"obs": false
 			},
 			{
-				"id": "220G",
+				"id": "G_220G",
 				"nombre": "DERECHO PÚBLICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -790,13 +790,13 @@
 		"nombre": "INTRODUCCIÓN A LA COMPUTACIÓN",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -804,13 +804,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -822,7 +822,7 @@
 		"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -830,7 +830,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -842,7 +842,7 @@
 		"nombre": "LEGISLACION Y TECNICA TRIBUTARIA",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -850,7 +850,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -862,13 +862,13 @@
 		"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
 		"pcurso": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -876,13 +876,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -894,7 +894,7 @@
 		"nombre": "MACROECONOMÍA I",
 		"pcurso": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -902,7 +902,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -914,7 +914,7 @@
 		"nombre": "MACROECONOMÍA II",
 		"pcurso": [
 			{
-				"id": "E30G",
+				"id": "G_E30G",
 				"nombre": "MACROEC. I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -922,7 +922,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E30G",
+				"id": "G_E30G",
 				"nombre": "MACROEC. I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -934,7 +934,7 @@
 		"nombre": "MATEMÁTICA FINANCIERA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -942,7 +942,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -954,7 +954,7 @@
 		"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN",
 		"pcurso": [
 			{
-				"id": "I60P",
+				"id": "G_I60P",
 				"nombre": "MET. DE LA INV. -CRES- PREVIAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -962,7 +962,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "I60P",
+				"id": "G_I60P",
 				"nombre": "MET. DE LA INV. -CRES- PREVIAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -974,7 +974,7 @@
 		"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -982,7 +982,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -994,7 +994,7 @@
 		"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
 		"pcurso": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1002,7 +1002,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1034,7 +1034,7 @@
 		"nombre": "TEORIA CONTABLE SUPERIOR",
 		"pcurso": [
 			{
-				"id": "316P",
+				"id": "G_316P",
 				"nombre": "COSTOS/ MODELOS/PRECIOS(PREV.)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1042,7 +1042,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "316P",
+				"id": "G_316P",
 				"nombre": "COSTOS/ MODELOS/PRECIOS(PREV.)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1067,13 +1067,13 @@
 		"nombre": "TRIBUTARIA I",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "322G",
+				"id": "G_322G",
 				"nombre": "DERECHO TRIBUTARIO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1081,13 +1081,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "322G",
+				"id": "G_322G",
 				"nombre": "DERECHO TRIBUTARIO",
 				"actividad": "Grupo",
 				"obs": false

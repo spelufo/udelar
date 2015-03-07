@@ -17,7 +17,7 @@
 		"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD I",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -29,13 +29,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -65,7 +65,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -96,7 +96,7 @@
 		"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD II",
 		"pcurso": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -126,25 +126,25 @@
 				"obs": false
 			},
 			{
-				"id": "OS2",
+				"id": "G_OS2",
 				"nombre": "ODONTOLOGIA SOCIAL II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5020",
+				"id": "G_5020",
 				"nombre": "PEDIATRIA 1 2 Y PED",
 				"actividad": "Grupo",
 				"obs": false
@@ -235,7 +235,7 @@
 				"obs": false
 			},
 			{
-				"id": "5020",
+				"id": "G_5020",
 				"nombre": "PEDIATRIA 1 2 Y PED",
 				"actividad": "Grupo",
 				"obs": false
@@ -331,7 +331,7 @@
 		"nombre": "CIRUGIA BUCO-MAXILO-FACIAL I (CL.)",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -343,13 +343,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -373,7 +373,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -405,7 +405,7 @@
 		"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
 		"pcurso": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -417,7 +417,7 @@
 				"obs": false
 			},
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -461,7 +461,7 @@
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
@@ -559,13 +559,13 @@
 		"nombre": "DIAGNOST. PRONOSTICO Y PLAN TRAT. (CL.)",
 		"pcurso": [
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -611,13 +611,13 @@
 		"nombre": "INTROD. PROSTODONCIA Y OCLUSION",
 		"pcurso": [
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -629,7 +629,7 @@
 				"obs": false
 			},
 			{
-				"id": "1012C",
+				"id": "G_1012C",
 				"nombre": "GRUPO D MATERIALES DENTALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -768,7 +768,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -818,7 +818,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -868,7 +868,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -880,7 +880,7 @@
 				"obs": false
 			},
 			{
-				"id": "2011",
+				"id": "G_2011",
 				"nombre": "DIAG,PRONOST y PLAN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -940,7 +940,7 @@
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1046,7 +1046,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1058,7 +1058,7 @@
 		"nombre": "PATOLOGIA INFLAMATORIA E INFECCIOSA",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1070,13 +1070,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1088,7 +1088,7 @@
 				"obs": false
 			},
 			{
-				"id": "2011",
+				"id": "G_2011",
 				"nombre": "DIAG,PRONOST y PLAN.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1100,7 +1100,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1138,7 +1138,7 @@
 		"nombre": "PATOLOGÍA INFL.INFECCIOSA Y TUMORAL(CL.)",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1150,13 +1150,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1192,7 +1192,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1212,13 +1212,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1248,7 +1248,7 @@
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1280,7 +1280,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "5020",
+				"id": "G_5020",
 				"nombre": "PEDIATRIA 1 2 Y PED",
 				"actividad": "Grupo",
 				"obs": false
@@ -1338,7 +1338,7 @@
 		"nombre": "SALUD COLECTIVA I",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1350,13 +1350,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1386,7 +1386,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1430,13 +1430,13 @@
 				"obs": false
 			},
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "OS2",
+				"id": "G_OS2",
 				"nombre": "ODONTOLOGIA SOCIAL II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1482,7 +1482,7 @@
 		"nombre": "SEMIOLOGIA",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1494,13 +1494,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1524,7 +1524,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1590,7 +1590,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1634,7 +1634,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1664,13 +1664,13 @@
 		"nombre": "TRANSMISION DE INFECCIONES",
 		"pcurso": [
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1696,13 +1696,13 @@
 		"nombre": "TRAT. ENFERMED. MAS PREVALENTES I (CL.)",
 		"pcurso": [
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1714,7 +1714,7 @@
 				"obs": false
 			},
 			{
-				"id": "1012C",
+				"id": "G_1012C",
 				"nombre": "GRUPO D MATERIALES DENTALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1746,7 +1746,7 @@
 		"nombre": "TRAT. ENFERMED. MAS PREVALENTES II (CL.)",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1758,13 +1758,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1794,7 +1794,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1832,7 +1832,7 @@
 		"nombre": "TRATAMIENTO DE LA EDENTACION I (CL.)",
 		"pcurso": [
 			{
-				"id": "1012",
+				"id": "G_1012",
 				"nombre": "AT. ODONTOLOGICA Y MATERIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1844,13 +1844,13 @@
 				"obs": false
 			},
 			{
-				"id": "236",
+				"id": "G_236",
 				"nombre": "CAVIDAD BUCAL - DENTOMAXILAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "COMPONENTE NEURO-VASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1880,7 +1880,7 @@
 				"obs": false
 			},
 			{
-				"id": "OS1",
+				"id": "G_OS1",
 				"nombre": "ODONTOLOGIA SOCIAL I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1956,7 +1956,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1992,7 +1992,7 @@
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false

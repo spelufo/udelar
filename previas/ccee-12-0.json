@@ -4,7 +4,7 @@
 		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
 		"pcurso": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -12,7 +12,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -24,7 +24,7 @@
 		"nombre": "ANÁLISIS MULTIVARIADO I",
 		"pcurso": [
 			{
-				"id": "312G",
+				"id": "G_312G",
 				"nombre": "ESTADÍSTICA II (PLAN 12)",
 				"actividad": "Grupo",
 				"obs": false
@@ -32,7 +32,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "312G",
+				"id": "G_312G",
 				"nombre": "ESTADÍSTICA II (PLAN 12)",
 				"actividad": "Grupo",
 				"obs": false
@@ -102,7 +102,7 @@
 		"nombre": "CONTABILIDAD GENERAL I",
 		"pcurso": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -110,7 +110,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -122,7 +122,7 @@
 		"nombre": "CÁLCULO I/B",
 		"pcurso": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -130,7 +130,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -142,7 +142,7 @@
 		"nombre": "CÁLCULO II",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -150,7 +150,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -162,7 +162,7 @@
 		"nombre": "CÁLCULO III",
 		"pcurso": [
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -170,7 +170,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -182,7 +182,7 @@
 		"nombre": "DESIGUALDAD Y POBREZA",
 		"pcurso": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -190,7 +190,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -234,13 +234,13 @@
 		"nombre": "ECONOMETRÍA I",
 		"pcurso": [
 			{
-				"id": "321G",
+				"id": "G_321G",
 				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MC20P",
+				"id": "G_MC20P",
 				"nombre": "ÁLGEBRA (PREV)",
 				"actividad": "Grupo",
 				"obs": false
@@ -248,13 +248,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "321G",
+				"id": "G_321G",
 				"nombre": "ESTADISTICA II - EC. (PLAN 12)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MC20P",
+				"id": "G_MC20P",
 				"nombre": "ÁLGEBRA (PREV)",
 				"actividad": "Grupo",
 				"obs": false
@@ -266,7 +266,7 @@
 		"nombre": "ECONOMETRÍA II",
 		"pcurso": [
 			{
-				"id": "MC70P",
+				"id": "G_MC70P",
 				"nombre": "ECONOMETRÍA II(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -274,7 +274,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC70P",
+				"id": "G_MC70P",
 				"nombre": "ECONOMETRÍA II(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -360,7 +360,7 @@
 		"nombre": "ECONOMÍA INTERNACIONAL",
 		"pcurso": [
 			{
-				"id": "212G",
+				"id": "G_212G",
 				"nombre": "ECONOMIA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -368,7 +368,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "212G",
+				"id": "G_212G",
 				"nombre": "ECONOMIA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -380,13 +380,13 @@
 		"nombre": "ECONOMÍA LABORAL",
 		"pcurso": [
 			{
-				"id": "325P",
+				"id": "G_325P",
 				"nombre": "ECONOMÍA DEL URUGUAY(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "327P",
+				"id": "G_327P",
 				"nombre": "MICROEC. AV. (PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -394,13 +394,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "325P",
+				"id": "G_325P",
 				"nombre": "ECONOMÍA DEL URUGUAY(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "327P",
+				"id": "G_327P",
 				"nombre": "MICROEC. AV. (PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -412,7 +412,7 @@
 		"nombre": "ECONOMÍA PÚBLICA",
 		"pcurso": [
 			{
-				"id": "E41P",
+				"id": "G_E41P",
 				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -420,7 +420,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E41P",
+				"id": "G_E41P",
 				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -438,13 +438,13 @@
 				"obs": false
 			},
 			{
-				"id": "E30G",
+				"id": "G_E30G",
 				"nombre": "MACROEC. I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "327P",
+				"id": "G_327P",
 				"nombre": "MICROEC. AV. (PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -458,13 +458,13 @@
 				"obs": false
 			},
 			{
-				"id": "E30G",
+				"id": "G_E30G",
 				"nombre": "MACROEC. I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "327P",
+				"id": "G_327P",
 				"nombre": "MICROEC. AV. (PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -476,7 +476,7 @@
 		"nombre": "ECONOMÍA Y POLÍTICA MONETARIA",
 		"pcurso": [
 			{
-				"id": "212G",
+				"id": "G_212G",
 				"nombre": "ECONOMIA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -484,7 +484,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "212G",
+				"id": "G_212G",
 				"nombre": "ECONOMIA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -496,7 +496,7 @@
 		"nombre": "ESTADÍSTICA I(PROB.Y ESTAD.DESCRIPTIVA)",
 		"pcurso": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -504,7 +504,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -516,7 +516,7 @@
 		"nombre": "ESTADÍSTICA II(INFRENCIA ESTADÍSTICA)",
 		"pcurso": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -524,7 +524,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -546,13 +546,13 @@
 				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
 			},
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -564,7 +564,7 @@
 				"obs": false
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -582,13 +582,13 @@
 				"texto": " Créditos en la Carrera 12 - Ciclo 0. Área Temática: ECONOMÍA"
 			},
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -600,7 +600,7 @@
 				"obs": false
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -630,7 +630,7 @@
 		"nombre": "INTERPRET.Y ANÁLISIS DE INFORMACIÓN CONT",
 		"pcurso": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -638,7 +638,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -650,7 +650,7 @@
 		"nombre": "MACROECONOMÍA I",
 		"pcurso": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -658,7 +658,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -670,7 +670,7 @@
 		"nombre": "MACROECONOMÍA II",
 		"pcurso": [
 			{
-				"id": "E30G",
+				"id": "G_E30G",
 				"nombre": "MACROEC. I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -678,7 +678,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E30G",
+				"id": "G_E30G",
 				"nombre": "MACROEC. I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -690,13 +690,13 @@
 		"nombre": "MACROECONOMÍA III",
 		"pcurso": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E40G",
+				"id": "G_E40G",
 				"nombre": "MACROEC.II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -704,13 +704,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E40G",
+				"id": "G_E40G",
 				"nombre": "MACROEC.II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -722,7 +722,7 @@
 		"nombre": "MARKETING BÁSICO",
 		"pcurso": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -730,7 +730,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -742,7 +742,7 @@
 		"nombre": "MATEMÁTICA FINANCIERA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -750,7 +750,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -762,13 +762,13 @@
 		"nombre": "MICROECONOMÍA I",
 		"pcurso": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -776,13 +776,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC31G",
+				"id": "G_MC31G",
 				"nombre": "CÁLCULO II Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -814,7 +814,7 @@
 		"nombre": "MICROECONOMÍA III",
 		"pcurso": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -828,7 +828,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC42G",
+				"id": "G_MC42G",
 				"nombre": "ESTAD.I Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -846,7 +846,7 @@
 		"nombre": "POLÍTICA ECONÓMICA",
 		"pcurso": [
 			{
-				"id": "E41P",
+				"id": "G_E41P",
 				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -854,7 +854,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E41P",
+				"id": "G_E41P",
 				"nombre": "MICRO II Y EC. DEL SEC.PÚBLICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -866,13 +866,13 @@
 		"nombre": "SIST.DE DESC.MACROEC:CTAS.NLES.B.DE PAGO",
 		"pcurso": [
 			{
-				"id": "116G",
+				"id": "G_116G",
 				"nombre": "ECONOMIA DESCRIPTIVA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -880,13 +880,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "116G",
+				"id": "G_116G",
 				"nombre": "ECONOMIA DESCRIPTIVA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false

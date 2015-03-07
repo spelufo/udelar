@@ -4,7 +4,7 @@
 		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
 		"pcurso": [
 			{
-				"id": "G201",
+				"id": "G_G201",
 				"nombre": "GRUPO P/RELACIONES HUMANAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -12,7 +12,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G201",
+				"id": "G_G201",
 				"nombre": "GRUPO P/RELACIONES HUMANAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -44,7 +44,7 @@
 		"nombre": "ADMINISTRACIÓN II",
 		"pcurso": [
 			{
-				"id": "G101",
+				"id": "G_G101",
 				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -58,7 +58,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G101",
+				"id": "G_G101",
 				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -76,7 +76,7 @@
 		"nombre": "COMPORTAMIENTO  ORGANIZACIONAL",
 		"pcurso": [
 			{
-				"id": "G101",
+				"id": "G_G101",
 				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -90,7 +90,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G101",
+				"id": "G_G101",
 				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -114,7 +114,7 @@
 				"obs": true
 			},
 			{
-				"id": "G103",
+				"id": "G_G103",
 				"nombre": "GRUPO PARA TENEDURIA DE LIBROS",
 				"actividad": "Grupo",
 				"obs": false
@@ -128,7 +128,7 @@
 				"obs": true
 			},
 			{
-				"id": "G103",
+				"id": "G_G103",
 				"nombre": "GRUPO PARA TENEDURIA DE LIBROS",
 				"actividad": "Grupo",
 				"obs": false
@@ -140,7 +140,7 @@
 		"nombre": "COSTOS Y CONTROL PRESUPUESTARIOS",
 		"pcurso": [
 			{
-				"id": "G208",
+				"id": "G_G208",
 				"nombre": "GRUPO PARA CONT.  APLICADA",
 				"actividad": "Grupo",
 				"obs": false
@@ -148,7 +148,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G208",
+				"id": "G_G208",
 				"nombre": "GRUPO PARA CONT.  APLICADA",
 				"actividad": "Grupo",
 				"obs": false
@@ -320,13 +320,13 @@
 		"nombre": "ORGANIZACIÓN Y SISTEMAS I",
 		"pcurso": [
 			{
-				"id": "G-105",
+				"id": "G_G-105",
 				"nombre": "GRUPO 104-206",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G101",
+				"id": "G_G101",
 				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
 				"actividad": "Grupo",
 				"obs": false
@@ -334,13 +334,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "G-105",
+				"id": "G_G-105",
 				"nombre": "GRUPO 104-206",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G101",
+				"id": "G_G101",
 				"nombre": "GRUPO PARA PRINCIPIOS DE ADM.",
 				"actividad": "Grupo",
 				"obs": false

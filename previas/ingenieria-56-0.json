@@ -10,19 +10,19 @@
 				"obs": true
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z401",
+				"id": "G_Z401",
 				"nombre": "QUIMICA ORGANICA 102",
 				"actividad": "Grupo",
 				"obs": false
@@ -42,7 +42,7 @@
 		"nombre": "BIOTECNOLOGIA MARINA",
 		"pcurso": [
 			{
-				"id": "Z514E",
+				"id": "G_Z514E",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -54,7 +54,7 @@
 				"obs": true
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -67,7 +67,7 @@
 		"nombre": "CIENCIA Y TECNOLOGIA DE LA LECHE",
 		"pcurso": [
 			{
-				"id": "Z514E",
+				"id": "G_Z514E",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -85,13 +85,13 @@
 				"obs": true
 			},
 			{
-				"id": "A93C",
+				"id": "G_A93C",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -117,13 +117,13 @@
 		"nombre": "CIENCIA Y TECNOLOGIA DEL ACEITE DE OLIVA",
 		"pcurso": [
 			{
-				"id": "A79",
+				"id": "G_A79",
 				"nombre": "EVALUACION SENSORIAL DE ALIMEN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A615",
+				"id": "G_A615",
 				"nombre": "TECNOLOGIA DE GRASAS Y ACEITES",
 				"actividad": "Grupo",
 				"obs": false
@@ -136,49 +136,49 @@
 		"nombre": "CINETICA E INOC.MICROB.Y ANAL.DE RIESGOS",
 		"pcurso": [
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75E",
+				"id": "G_Q75E",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A69C",
+				"id": "G_A69C",
 				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A93E",
+				"id": "G_A93E",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A75E",
+				"id": "G_A75E",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68C",
+				"id": "G_Q68C",
 				"nombre": "TRANSF.DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -375,13 +375,13 @@
 				"obs": true
 			},
 			{
-				"id": "A405C",
+				"id": "G_A405C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -419,7 +419,7 @@
 				"obs": true
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -439,7 +439,7 @@
 		"nombre": "EVALUACION SENSORIAL DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -451,7 +451,7 @@
 				"obs": true
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -471,7 +471,7 @@
 		"nombre": "EVALUACION SENSORIAL DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -483,7 +483,7 @@
 				"obs": true
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -503,25 +503,25 @@
 		"nombre": "EXTRUSION DE HARINAS Y ALMIDONES",
 		"pcurso": [
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -540,37 +540,37 @@
 				"obs": true
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z304E",
+				"id": "G_Z304E",
 				"nombre": "FISICA 102",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z406E",
+				"id": "G_Z406E",
 				"nombre": "FISICOQUIMICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302C",
+				"id": "G_Z302C",
 				"nombre": "QUIMICA ANALITICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301C",
+				"id": "G_Z301C",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -600,7 +600,7 @@
 				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: TECNOLOGIA DE ALIMENTOS"
 			},
 			{
-				"id": "A109C",
+				"id": "G_A109C",
 				"nombre": "CONTROL DE CALIDAD",
 				"actividad": "Grupo",
 				"obs": false
@@ -626,7 +626,7 @@
 		"nombre": "GESTION DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "A109C",
+				"id": "G_A109C",
 				"nombre": "CONTROL DE CALIDAD",
 				"actividad": "Grupo",
 				"obs": false
@@ -664,61 +664,61 @@
 		"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "520A",
+				"id": "G_520A",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z07E",
+				"id": "G_Z07E",
 				"nombre": "MATEMATICA 07",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z405E",
+				"id": "G_Z405E",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -738,61 +738,61 @@
 		"nombre": "HIG.Y SERV.DE PLANTAS PROC.DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "520A",
+				"id": "G_520A",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z07E",
+				"id": "G_Z07E",
 				"nombre": "MATEMATICA 07",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z405E",
+				"id": "G_Z405E",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -818,7 +818,7 @@
 				"obs": true
 			},
 			{
-				"id": "A93C",
+				"id": "G_A93C",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -838,19 +838,19 @@
 		"nombre": "INGENIERIA BIOQUIMICA",
 		"pcurso": [
 			{
-				"id": "Q69E",
+				"id": "G_Q69E",
 				"nombre": "ING.REAC.QUIM.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A75E",
+				"id": "G_A75E",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68E",
+				"id": "G_Q68E",
 				"nombre": "TRANSF.DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -876,43 +876,43 @@
 				"obs": true
 			},
 			{
-				"id": "Z511G",
+				"id": "G_Z511G",
 				"nombre": "FEN.DE TRANSP.ING.PROC.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z520",
+				"id": "G_Z520",
 				"nombre": "FISICOQUIMICA III EXAMEN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z07E",
+				"id": "G_Z07E",
 				"nombre": "MATEMATICA 07",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z405E",
+				"id": "G_Z405E",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -938,7 +938,7 @@
 				"obs": true
 			},
 			{
-				"id": "A69C",
+				"id": "G_A69C",
 				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -964,7 +964,7 @@
 		"nombre": "LABORATORIO DE FITOQUIMICA",
 		"pcurso": [
 			{
-				"id": "505YC",
+				"id": "G_505YC",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -982,7 +982,7 @@
 				"obs": false
 			},
 			{
-				"id": "121YC",
+				"id": "G_121YC",
 				"nombre": "QUIMICA DE PRODUCTOS NATURALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -995,19 +995,19 @@
 		"nombre": "LABORATORIO DE QUIMICA DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z514E",
+				"id": "G_Z514E",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1026,13 +1026,13 @@
 				"obs": true
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1065,7 +1065,7 @@
 		"nombre": "MECANICA APLICADA (ING.QUÍM)",
 		"pcurso": [
 			{
-				"id": "104Q",
+				"id": "G_104Q",
 				"nombre": "CALCULO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1077,7 +1077,7 @@
 				"obs": true
 			},
 			{
-				"id": "102Q",
+				"id": "G_102Q",
 				"nombre": "FIS102 Y 103 O FIS2 Y FIS.EXP1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1103,37 +1103,37 @@
 				"obs": true
 			},
 			{
-				"id": "Z103",
+				"id": "G_Z103",
 				"nombre": "INT.A LAS CIENCIAS BIOLOGICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302E",
+				"id": "G_Z302E",
 				"nombre": "QUIMICA ANALITICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z102",
+				"id": "G_Z102",
 				"nombre": "QUIMICA GENERAL I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z202",
+				"id": "G_Z202",
 				"nombre": "QUIMICA GENERAL II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301",
+				"id": "G_Z301",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
@@ -1153,13 +1153,13 @@
 		"nombre": "MICROBIOLOGIA DE LACTEOS- MODULO II",
 		"pcurso": [
 			{
-				"id": "A93C",
+				"id": "G_A93C",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A116C",
+				"id": "G_A116C",
 				"nombre": "TEC. DE LA LECHE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1172,7 +1172,7 @@
 		"nombre": "MICROBIOLOGIA GENERAL",
 		"pcurso": [
 			{
-				"id": "Z514",
+				"id": "G_Z514",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1198,25 +1198,25 @@
 		"nombre": "NUEVOS PROC. PARA ESTERILIZAR ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1235,7 +1235,7 @@
 				"obs": true
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1310,31 +1310,31 @@
 				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
 			},
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75E",
+				"id": "G_Q75E",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A65",
+				"id": "G_A65",
 				"nombre": "HIG.Y SERV.DE PLANTAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A69C",
+				"id": "G_A69C",
 				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68C",
+				"id": "G_Q68C",
 				"nombre": "TRANSF.DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1402,13 +1402,13 @@
 				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
 			},
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75E",
+				"id": "G_Q75E",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1420,19 +1420,19 @@
 				"obs": false
 			},
 			{
-				"id": "A69C",
+				"id": "G_A69C",
 				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A88YC",
+				"id": "G_A88YC",
 				"nombre": "PASANT. TRAB. PRACT. GR. MOD.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68C",
+				"id": "G_Q68C",
 				"nombre": "TRANSF.DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1500,13 +1500,13 @@
 				"texto": " Créditos en la Carrera 56 - Ciclo 0. Área Temática: QUIMICA DE ALIMENTOS"
 			},
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75E",
+				"id": "G_Q75E",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1518,19 +1518,19 @@
 				"obs": false
 			},
 			{
-				"id": "A69C",
+				"id": "G_A69C",
 				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A88YC",
+				"id": "G_A88YC",
 				"nombre": "PASANT. TRAB. PRACT. GR. MOD.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68C",
+				"id": "G_Q68C",
 				"nombre": "TRANSF.DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1543,13 +1543,13 @@
 		"nombre": "POSCOSECHA DE FRUTAS Y HORTALIZAS",
 		"pcurso": [
 			{
-				"id": "A93C",
+				"id": "G_A93C",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1582,25 +1582,25 @@
 		"nombre": "PROCESAMIENTO NO TERMICO DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A75C",
+				"id": "G_A75C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1674,13 +1674,13 @@
 				"obs": true
 			},
 			{
-				"id": "Q75E",
+				"id": "G_Q75E",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A65",
+				"id": "G_A65",
 				"nombre": "HIG.Y SERV.DE PLANTAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1692,13 +1692,13 @@
 				"obs": false
 			},
 			{
-				"id": "A69C",
+				"id": "G_A69C",
 				"nombre": "ING.DE LAS REAC. QUIMICAS 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68C",
+				"id": "G_Q68C",
 				"nombre": "TRANSF.DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1750,7 +1750,7 @@
 		"nombre": "QUIMICA DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "Z514",
+				"id": "G_Z514",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1768,25 +1768,25 @@
 				"obs": false
 			},
 			{
-				"id": "Z302E",
+				"id": "G_Z302E",
 				"nombre": "QUIMICA ANALITICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z102",
+				"id": "G_Z102",
 				"nombre": "QUIMICA GENERAL I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z202",
+				"id": "G_Z202",
 				"nombre": "QUIMICA GENERAL II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301",
+				"id": "G_Z301",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
@@ -1806,7 +1806,7 @@
 		"nombre": "QUIMICA DE PRODUCTOS NATURALES",
 		"pcurso": [
 			{
-				"id": "505YC",
+				"id": "G_505YC",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1850,7 +1850,7 @@
 				"obs": true
 			},
 			{
-				"id": "520A",
+				"id": "G_520A",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1868,7 +1868,7 @@
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1894,7 +1894,7 @@
 				"obs": true
 			},
 			{
-				"id": "520A",
+				"id": "G_520A",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1912,7 +1912,7 @@
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1932,7 +1932,7 @@
 		"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.C",
 		"pcurso": [
 			{
-				"id": "A120",
+				"id": "G_A120",
 				"nombre": "QCA. TEC. GRASAS Y ACEITES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1945,31 +1945,31 @@
 		"nombre": "TECNOLOGIA DE CITRUS",
 		"pcurso": [
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A93C",
+				"id": "G_A93C",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1982,7 +1982,7 @@
 		"nombre": "TECNOLOGIA DE FRUTAS Y HORTALIZAS",
 		"pcurso": [
 			{
-				"id": "Z514E",
+				"id": "G_Z514E",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1994,13 +1994,13 @@
 				"obs": true
 			},
 			{
-				"id": "A93C",
+				"id": "G_A93C",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2020,25 +2020,25 @@
 		"nombre": "TECNOLOGIA DE HARINAS Y ALMIDONES",
 		"pcurso": [
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A106C",
+				"id": "G_A106C",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2051,19 +2051,19 @@
 		"nombre": "TECNOLOGIA DE LA CARNE",
 		"pcurso": [
 			{
-				"id": "Z514E",
+				"id": "G_Z514E",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A93S",
+				"id": "G_A93S",
 				"nombre": "M. ALIMENTARIA (CURSO O INSC.)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2083,7 +2083,7 @@
 		"nombre": "TECNOLOGIA DE LA LECHE",
 		"pcurso": [
 			{
-				"id": "Z514E",
+				"id": "G_Z514E",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2107,13 +2107,13 @@
 				"obs": true
 			},
 			{
-				"id": "A93C",
+				"id": "G_A93C",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2139,13 +2139,13 @@
 				"obs": true
 			},
 			{
-				"id": "A93S",
+				"id": "G_A93S",
 				"nombre": "M. ALIMENTARIA (CURSO O INSC.)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2165,7 +2165,7 @@
 		"nombre": "TOXICOLOGIA ALIMENTARIA",
 		"pcurso": [
 			{
-				"id": "GA91C",
+				"id": "G_GA91C",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2177,7 +2177,7 @@
 				"obs": true
 			},
 			{
-				"id": "A75YC",
+				"id": "G_A75YC",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2222,37 +2222,37 @@
 				"obs": true
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z304E",
+				"id": "G_Z304E",
 				"nombre": "FISICA 102",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z406E",
+				"id": "G_Z406E",
 				"nombre": "FISICOQUIMICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302C",
+				"id": "G_Z302C",
 				"nombre": "QUIMICA ANALITICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301C",
+				"id": "G_Z301C",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2266,13 +2266,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "Q23E",
+				"id": "G_Q23E",
 				"nombre": "FENOMENOS DE TRANSPORTE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2302,37 +2302,37 @@
 				"obs": true
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z520",
+				"id": "G_Z520",
 				"nombre": "FISICOQUIMICA III EXAMEN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z07E",
+				"id": "G_Z07E",
 				"nombre": "MATEMATICA 07",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z405E",
+				"id": "G_Z405E",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A67C",
+				"id": "G_A67C",
 				"nombre": "TRANSF.DE CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2340,7 +2340,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false

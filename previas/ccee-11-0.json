@@ -4,7 +4,7 @@
 		"nombre": "ADMIN.Y GESTIÓN DE LAS ORGANIZAC. II",
 		"pcurso": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -12,7 +12,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -24,7 +24,7 @@
 		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
 		"pcurso": [
 			{
-				"id": "314G",
+				"id": "G_314G",
 				"nombre": "ADMINISTRACIÓN GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -32,7 +32,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "314G",
+				"id": "G_314G",
 				"nombre": "ADMINISTRACIÓN GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -44,13 +44,13 @@
 		"nombre": "AUDITORÍA I",
 		"pcurso": [
 			{
-				"id": "429P",
+				"id": "G_429P",
 				"nombre": "CONTROL INTERNO(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "430P",
+				"id": "G_430P",
 				"nombre": "TEO.CONT.SUP.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -58,13 +58,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "429P",
+				"id": "G_429P",
 				"nombre": "CONTROL INTERNO(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "430P",
+				"id": "G_430P",
 				"nombre": "TEO.CONT.SUP.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -106,7 +106,7 @@
 				"texto": " Créditos en la Carrera 11 - Ciclo 0. Área Temática: JURÍDICA"
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -124,7 +124,7 @@
 				"texto": " Créditos en la Carrera 11 - Ciclo 0. Área Temática: JURÍDICA"
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -136,7 +136,7 @@
 		"nombre": "CONTABILIDAD DE GESTIÓN",
 		"pcurso": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -144,7 +144,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -156,7 +156,7 @@
 		"nombre": "CONTABILIDAD GENERAL I",
 		"pcurso": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -164,7 +164,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -176,7 +176,7 @@
 		"nombre": "CONTABILIDAD GENERAL II",
 		"pcurso": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -184,7 +184,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -196,7 +196,7 @@
 		"nombre": "CONTABILIDAD GENERAL III",
 		"pcurso": [
 			{
-				"id": "C30G",
+				"id": "G_C30G",
 				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -204,7 +204,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C30G",
+				"id": "G_C30G",
 				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -239,7 +239,7 @@
 				"texto": " Créditos en la Carrera 11 - Ciclo 0. Área Temática: CONTABILIDAD E IMPUESTOS"
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -252,7 +252,7 @@
 				"texto": " Créditos en la Carrera 11 - Ciclo 0. Área Temática: CONTABILIDAD E IMPUESTOS"
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -264,7 +264,7 @@
 		"nombre": "COSTOS PARA LA TOMA DE DECISIONES",
 		"pcurso": [
 			{
-				"id": "C50G",
+				"id": "G_C50G",
 				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -272,7 +272,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "C50G",
+				"id": "G_C50G",
 				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -284,7 +284,7 @@
 		"nombre": "CÁLCULO I/B",
 		"pcurso": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -292,7 +292,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "G114",
+				"id": "G_G114",
 				"nombre": "METODOS CUANTITATIVOS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -305,7 +305,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -318,7 +318,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -330,7 +330,7 @@
 		"nombre": "ECONOMÍA Y FINANZAS PÚBLICAS",
 		"pcurso": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -338,7 +338,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -368,7 +368,7 @@
 		"nombre": "EFI-COSTOS PARA LA TOMA DE DECISIONES",
 		"pcurso": [
 			{
-				"id": "C50G",
+				"id": "G_C50G",
 				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -396,19 +396,19 @@
 				"texto": " Créditos en la Carrera 11 - Ciclo 0. Área Temática: ECONOMÍA"
 			},
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -431,19 +431,19 @@
 				"texto": " Créditos en la Carrera 11 - Ciclo 0. Área Temática: ECONOMÍA"
 			},
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MC30P",
+				"id": "G_MC30P",
 				"nombre": "MAT. FINANCIERA(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -455,7 +455,7 @@
 		"nombre": "INTRODUCCIÓN A LA ESTADÍSTICA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -463,7 +463,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -475,13 +475,13 @@
 		"nombre": "LEGISLACIÓN LABORAL Y SEG.SOCIAL",
 		"pcurso": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -489,13 +489,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "C10G",
+				"id": "G_C10G",
 				"nombre": "CONCEPTOS CONTABLES Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "113G",
+				"id": "G_113G",
 				"nombre": "DERECHO CIVIL",
 				"actividad": "Grupo",
 				"obs": false
@@ -507,7 +507,7 @@
 		"nombre": "MACROECONOMÍA I",
 		"pcurso": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -515,7 +515,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "E10P",
+				"id": "G_E10P",
 				"nombre": "INT A LA EC (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -527,7 +527,7 @@
 		"nombre": "MARKETING BÁSICO",
 		"pcurso": [
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -535,7 +535,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
@@ -567,7 +567,7 @@
 		"nombre": "MATEMÁTICA FINANCIERA",
 		"pcurso": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -575,7 +575,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MC10P",
+				"id": "G_MC10P",
 				"nombre": "CALCULO/Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -605,7 +605,7 @@
 		"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -613,7 +613,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -630,13 +630,13 @@
 				"texto": "Créditos en la Carrera 11 - Ciclo 0"
 			},
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -649,13 +649,13 @@
 				"texto": "Créditos en la Carrera 11 - Ciclo 0"
 			},
 			{
-				"id": "MC40P",
+				"id": "G_MC40P",
 				"nombre": "INT.A LA ESTAD.(PREVIAS)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "111G",
+				"id": "G_111G",
 				"nombre": "MATEMÁTICA I (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -667,7 +667,7 @@
 		"nombre": "PROCESOS Y SISTEMAS DE LA INFORMACIÓN",
 		"pcurso": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -675,7 +675,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -687,13 +687,13 @@
 		"nombre": "SISTEMAS DE INFORMACIÓN",
 		"pcurso": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -701,13 +701,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "C20B",
+				"id": "G_C20B",
 				"nombre": "INT.A LA C./CG1  (SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "114P",
+				"id": "G_114P",
 				"nombre": "INT.A LAS ORG/GESTION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -719,13 +719,13 @@
 		"nombre": "TALLER \"ÉTICA Y RESPONSABILIDAD SOCIAL\"",
 		"pcurso": [
 			{
-				"id": "C50G",
+				"id": "G_C50G",
 				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -733,13 +733,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "C50G",
+				"id": "G_C50G",
 				"nombre": "MODELOS Y SISTEMAS DE COSTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "214G",
+				"id": "G_214G",
 				"nombre": "ORGANIZACIÓN Y MÉTODOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -751,7 +751,7 @@
 		"nombre": "TRIBUTARIA I",
 		"pcurso": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -765,7 +765,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "210G",
+				"id": "G_210G",
 				"nombre": "CONTAB. BASICA(SUPER GRUPO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -783,13 +783,13 @@
 		"nombre": "ÉTICA Y EJERCICIO PROFESIONAL",
 		"pcurso": [
 			{
-				"id": "C30G",
+				"id": "G_C30G",
 				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "J30G",
+				"id": "G_J30G",
 				"nombre": "DERECHO COMERCIAL Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false
@@ -797,13 +797,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "C30G",
+				"id": "G_C30G",
 				"nombre": "CONTAB.GRAL.2 Y SU GEMELO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "J30G",
+				"id": "G_J30G",
 				"nombre": "DERECHO COMERCIAL Y GEMELO",
 				"actividad": "Grupo",
 				"obs": false

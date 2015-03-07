@@ -4,13 +4,13 @@
 		"nombre": "ANALISIS DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "A404C",
+				"id": "G_A404C",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90YC",
+				"id": "G_A90YC",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -102,13 +102,13 @@
 				"obs": false
 			},
 			{
-				"id": "Q409",
+				"id": "G_Q409",
 				"nombre": "FEN. DE TRANSPORTE Y FLUIDO.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A403",
+				"id": "G_A403",
 				"nombre": "TERMO.SIST.ABIERTOS C.98 O C99",
 				"actividad": "Grupo",
 				"obs": false
@@ -133,7 +133,7 @@
 		"nombre": "CONTROL DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -153,7 +153,7 @@
 		"nombre": "GESTION DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "A109C",
+				"id": "G_A109C",
 				"nombre": "CONTROL DE CALIDAD",
 				"actividad": "Grupo",
 				"obs": false
@@ -173,7 +173,7 @@
 		"nombre": "GESTION DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "A109C",
+				"id": "G_A109C",
 				"nombre": "CONTROL DE CALIDAD",
 				"actividad": "Grupo",
 				"obs": false
@@ -205,19 +205,19 @@
 		"nombre": "INGENIERIA BIOQUIMICA",
 		"pcurso": [
 			{
-				"id": "A500",
+				"id": "G_A500",
 				"nombre": "CINETICA APLICADA O DISEÑO DE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A405C",
+				"id": "G_A405C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q412",
+				"id": "G_Q412",
 				"nombre": "TRANSFERENCIA DE CALOR Y MASA",
 				"actividad": "Grupo",
 				"obs": false
@@ -237,13 +237,13 @@
 		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
 		"pcurso": [
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q74C",
+				"id": "G_Q74C",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -282,13 +282,13 @@
 		"nombre": "LEGISLACION ALIMENTARIA",
 		"pcurso": [
 			{
-				"id": "A109C",
+				"id": "G_A109C",
 				"nombre": "CONTROL DE CALIDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A503",
+				"id": "G_A503",
 				"nombre": "MICROBIOLOGIA ALIME. I (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -314,7 +314,7 @@
 		"nombre": "MICROBIOLOGIA ALIMENTARIA",
 		"pcurso": [
 			{
-				"id": "A405C",
+				"id": "G_A405C",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -379,7 +379,7 @@
 		"nombre": "MICROBIOLOGIA GENERAL",
 		"pcurso": [
 			{
-				"id": "G101",
+				"id": "G_G101",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -431,25 +431,25 @@
 		"nombre": "PASANTIA-TRABAJO PRACTICO DE GRADO,MOD.1",
 		"pcurso": [
 			{
-				"id": "A501",
+				"id": "G_A501",
 				"nombre": "ANALISIS DE ALIMENTOS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A500",
+				"id": "G_A500",
 				"nombre": "CINETICA APLICADA O DISEÑO DE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A510",
+				"id": "G_A510",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A400",
+				"id": "G_A400",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -462,13 +462,13 @@
 		"nombre": "PROYECTO INDUSTRIAL 1",
 		"pcurso": [
 			{
-				"id": "224HS",
+				"id": "G_224HS",
 				"nombre": "ELECTIVAS ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A88YC",
+				"id": "G_A88YC",
 				"nombre": "PASANT. TRAB. PRACT. GR. MOD.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -520,7 +520,7 @@
 		"nombre": "QUIMICA DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "101YC",
+				"id": "G_101YC",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -645,7 +645,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "A403",
+				"id": "G_A403",
 				"nombre": "TERMO.SIST.ABIERTOS C.98 O C99",
 				"actividad": "Grupo",
 				"obs": false
@@ -696,7 +696,7 @@
 		"nombre": "TRANSFERENCIA DE CALOR Y MASA 2",
 		"pcurso": [
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false

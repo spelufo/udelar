@@ -4,25 +4,25 @@
 		"nombre": "ADMINISTRACION Y SEGURIDAD DE SISTEMAS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -35,25 +35,25 @@
 		"nombre": "ADMINISTRACION Y SEGURIDAD DE SISTEMAS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -66,37 +66,37 @@
 		"nombre": "ALGEBRA LINEAL NUMERICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C400",
+				"id": "G_C400",
 				"nombre": "CAL.NUM.- MET.NUM.Y COMPL.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -115,31 +115,31 @@
 				"obs": true
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -153,25 +153,25 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -183,31 +183,31 @@
 		"nombre": "ANALISIS DE ALGORITMOS",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C250",
+				"id": "G_C250",
 				"nombre": "PROGRAMACION II",
 				"actividad": "Grupo",
 				"obs": false
@@ -220,55 +220,55 @@
 		"nombre": "ANALISIS DE FOURIER PARA TRATAM.DE IMAGE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP2",
+				"id": "G_GRUP2",
 				"nombre": "GRUPO 2 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1033E",
+				"id": "G_1033E",
 				"nombre": "MET.NUMERICOS O CAL. NUM.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -295,13 +295,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -313,37 +313,37 @@
 		"nombre": "APRENDIZAJE AUTOMATICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -356,37 +356,37 @@
 		"nombre": "APRENDIZAJE AUTOMATICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -399,19 +399,19 @@
 		"nombre": "ARQUITECTURA DE COMPUTADORES 1",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -443,13 +443,13 @@
 		"nombre": "ARQUITECTURA DE COMPUTADORES 2",
 		"pcurso": [
 			{
-				"id": "1424",
+				"id": "G_1424",
 				"nombre": "ARQ.DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1532C",
+				"id": "G_1532C",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -476,19 +476,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -506,31 +506,31 @@
 		"nombre": "ARQUITECTURA DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -543,13 +543,13 @@
 		"nombre": "ARQUITECTURA DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -563,19 +563,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -593,25 +593,25 @@
 		"nombre": "BIO-COMPUTACION PARALELA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -709,7 +709,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -721,7 +721,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -733,13 +733,13 @@
 		"nombre": "CALCULO NUMERICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -751,13 +751,13 @@
 				"obs": false
 			},
 			{
-				"id": "C250",
+				"id": "G_C250",
 				"nombre": "PROGRAMACION II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -777,37 +777,37 @@
 		"nombre": "CALIDAD DE DATOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -820,37 +820,37 @@
 		"nombre": "COMPUT.DE PR.GRAL.EN UNID.DE PROC.GRAF.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -863,25 +863,25 @@
 		"nombre": "COMPUTACION DE ALTA PERFORMANCE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -894,25 +894,25 @@
 		"nombre": "COMPUTACION DE ALTA PERFORMANCE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -925,13 +925,13 @@
 		"nombre": "COMPUTACION DE ALTA PERFORMANCE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -949,25 +949,25 @@
 				"obs": true
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1511E",
+				"id": "G_1511E",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -980,25 +980,25 @@
 		"nombre": "COMPUTACION GRAFICA AVANZADA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1316",
+				"id": "G_1316",
 				"nombre": "INT. A LA COMPUTACION GRAFICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1010,7 +1010,7 @@
 				"obs": true
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1024,25 +1024,25 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1054,25 +1054,25 @@
 		"nombre": "COMUNICACION ORAL Y ESCRITA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1085,37 +1085,37 @@
 		"nombre": "CONST.DE MOD.PROB.DEL LENGUAJE NATURAL",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C401",
+				"id": "G_C401",
 				"nombre": "TEORIA DE LA PROGRAMACION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1128,19 +1128,19 @@
 		"nombre": "CONST.FORMAL DE PROGR.EN TEORIA DE TIPOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1152,13 +1152,13 @@
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1178,31 +1178,31 @@
 		"nombre": "CONST.FORMAL DE PROGR.EN TEORIA DE TIPOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1215,25 +1215,25 @@
 		"nombre": "CONTROL DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1253,25 +1253,25 @@
 		"nombre": "COSTOS PARA INGENIERIA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1292,19 +1292,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -1322,25 +1322,25 @@
 		"nombre": "CRIPT. SEG.EN REDES DE COMUN, COM.ELECT.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1353,25 +1353,25 @@
 		"nombre": "DESARROLLO DE SISTEMAS DE TIEMPO REAL",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1384,31 +1384,31 @@
 		"nombre": "DESCUBRIMIENTO DE INF.EN BASES DE DATOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1421,37 +1421,37 @@
 		"nombre": "DISEÑO DE COMPILADORES",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C401",
+				"id": "G_C401",
 				"nombre": "TEORIA DE LA PROGRAMACION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1478,13 +1478,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1496,25 +1496,25 @@
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1526,31 +1526,31 @@
 		"nombre": "DISEÑO TOPOLOGICO DE REDES",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1563,31 +1563,31 @@
 		"nombre": "DISEÑO TOPOLOGICO DE REDES",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1600,43 +1600,43 @@
 		"nombre": "DISEÑO Y CONSTRUCCION DE DATA WAREHOUSE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1663,7 +1663,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1675,7 +1675,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1687,31 +1687,31 @@
 		"nombre": "EXTENS. DE PROG. LINEAL Y PROG. ENTERA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1737,7 +1737,7 @@
 		"nombre": "FUND.PARA LA INVEST.EN REDES DE COMPUTAD",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1749,19 +1749,19 @@
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1774,13 +1774,13 @@
 		"nombre": "FUNDAMENTOS DE BASES DE DATOS",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1806,31 +1806,31 @@
 		"nombre": "FUNDAMENTOS DE LA WEB SEMANTICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1843,49 +1843,49 @@
 		"nombre": "FUNDAMENTOS DE SEGURIDAD INFORMATICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -1898,49 +1898,49 @@
 		"nombre": "FUNDAMENTOS DE SEGURIDAD INFORMATICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2043,25 +2043,25 @@
 		"nombre": "GESTION DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2081,13 +2081,13 @@
 		"nombre": "GESTION DE CALIDAD",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2105,13 +2105,13 @@
 				"obs": true
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2144,25 +2144,25 @@
 		"nombre": "GESTION DE PROYECTOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2175,31 +2175,31 @@
 		"nombre": "GESTION DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1716",
+				"id": "G_1716",
 				"nombre": "TALLER IV  O  PROY E ING.SOFT",
 				"actividad": "Grupo",
 				"obs": false
@@ -2212,43 +2212,43 @@
 		"nombre": "GRAMATICAS FORMALES PARA EL LENG.NATURAL",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C401",
+				"id": "G_C401",
 				"nombre": "TEORIA DE LA PROGRAMACION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -2261,31 +2261,31 @@
 		"nombre": "I.A. Y ROBOTICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2298,25 +2298,25 @@
 		"nombre": "INT. A LA ADMINISTRACION PARA INGENIEROS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2329,19 +2329,19 @@
 		"nombre": "INT. A LA ARQUITECTURA DE COMPUTADORES",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2373,31 +2373,31 @@
 		"nombre": "INT. A LA COMPUTACION GRAFICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2417,37 +2417,37 @@
 		"nombre": "INT. A LA COMPUTACION GRAFICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2460,19 +2460,19 @@
 		"nombre": "INT. A LA CRIPTOGRAFIA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2485,13 +2485,13 @@
 		"nombre": "INT. A LA INGENIERIA DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2511,25 +2511,25 @@
 		"nombre": "INT. A LA INTERAC. PERSONA COMPUTADORA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2542,7 +2542,7 @@
 		"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2562,31 +2562,31 @@
 		"nombre": "INT. A LA OPTIMIZ.Y A LA PROG. CON RESTR",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2599,25 +2599,25 @@
 		"nombre": "INT. A LA PROGR.PARA DISEÑO GRAFICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2630,19 +2630,19 @@
 		"nombre": "INT. A LA PROGRAMACION FUNCIONAL",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2654,7 +2654,7 @@
 				"obs": true
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2667,19 +2667,19 @@
 		"nombre": "INT. A LA PROGRAMACION GENERICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2691,7 +2691,7 @@
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2704,19 +2704,19 @@
 		"nombre": "INT. A LA PROGRAMACION LOGICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -2728,7 +2728,7 @@
 				"obs": true
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2741,25 +2741,25 @@
 		"nombre": "INT. A LA TEORIA DE LA INFORMACION",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2772,25 +2772,25 @@
 		"nombre": "INT. A LA TEORIA DE LA INFORMACION",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2803,25 +2803,25 @@
 		"nombre": "INT. A LA TEORIA DE LA INFORMACION",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2835,7 +2835,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1512E",
+				"id": "G_1512E",
 				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
 				"actividad": "Grupo",
 				"obs": false
@@ -2853,31 +2853,31 @@
 		"nombre": "INT. A LOS SIST. DE INFOR. GEOGRAFICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2890,37 +2890,37 @@
 		"nombre": "INT. AL MIDDLEWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -2933,43 +2933,43 @@
 		"nombre": "INT. AL PROCESAMIENTO DE LENG. NATURAL",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C401",
+				"id": "G_C401",
 				"nombre": "TEORIA DE LA PROGRAMACION I",
 				"actividad": "Grupo",
 				"obs": false
@@ -2982,19 +2982,19 @@
 		"nombre": "INTERACCION PERSONA COMPUTADORA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3006,7 +3006,7 @@
 				"obs": true
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3019,19 +3019,19 @@
 		"nombre": "INTEROPERABILIDAD",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3043,7 +3043,7 @@
 				"obs": true
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3056,25 +3056,25 @@
 		"nombre": "INTEROPERABILIDAD SEMANTICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1919",
+				"id": "G_1919",
 				"nombre": "INTEROP. O SIST. MULTIF.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3086,7 +3086,7 @@
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3099,25 +3099,25 @@
 		"nombre": "INVEST. DE OPER. EN COMERCIO ELECTRONICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3130,31 +3130,31 @@
 		"nombre": "INVESTIGACION DE OPER.Y GEST. DE RIESGOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3168,13 +3168,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -3186,7 +3186,7 @@
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3224,25 +3224,25 @@
 		"nombre": "LOGICA DE LA PROGRAMACION IMPERATIVA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3255,25 +3255,25 @@
 		"nombre": "LOGICA DE LA PROGRAMACION IMPERATIVA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3312,25 +3312,25 @@
 		"nombre": "MET. NUM. PARA LA RESOL. DE ECUAC. DIF.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3343,31 +3343,31 @@
 		"nombre": "METADATA EN SISTEMAS DE INFORMACION",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3380,25 +3380,25 @@
 		"nombre": "METAHEURISTICAS Y OPTIMIZ.SOBRE REDES",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3411,37 +3411,37 @@
 		"nombre": "METODOS DE APRENDIZAJE AUTOMATICO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3454,37 +3454,37 @@
 		"nombre": "METODOS DE MONTE CARLO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C400C",
+				"id": "G_C400C",
 				"nombre": "CALCULO NUMERICO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3497,37 +3497,37 @@
 		"nombre": "METODOS MONTECARLO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C400C",
+				"id": "G_C400C",
 				"nombre": "CALCULO NUMERICO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3553,31 +3553,31 @@
 		"nombre": "MODELADO Y OPTIMIZACION",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3590,31 +3590,31 @@
 		"nombre": "OPTIMIZACION BAJO INCERTIDUMBRE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3628,19 +3628,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -3658,25 +3658,25 @@
 		"nombre": "PASANTIA (COMPUTACION)",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3690,13 +3690,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -3714,43 +3714,43 @@
 		"nombre": "PROFESION EN INGENIERIA DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1716",
+				"id": "G_1716",
 				"nombre": "TALLER IV  O  PROY E ING.SOFT",
 				"actividad": "Grupo",
 				"obs": false
@@ -3763,19 +3763,19 @@
 		"nombre": "PROGRAMACION 4",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -3794,25 +3794,25 @@
 		"nombre": "PROGRAMACION FUNCIONAL AVANZADA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3852,19 +3852,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -3882,19 +3882,19 @@
 		"nombre": "PROGRAMACION LOGICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -3906,19 +3906,19 @@
 				"obs": true
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3937,25 +3937,25 @@
 		"nombre": "PROYECTO DE GRADO",
 		"pcurso": [
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP2",
+				"id": "G_GRUP2",
 				"nombre": "GRUPO 2 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -3968,7 +3968,7 @@
 		"nombre": "PROYECTO DE INGENIERIA DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -3981,37 +3981,37 @@
 		"nombre": "RECUP.DE INF.Y RECOMEND.EN LA WEB (WIR)",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4024,31 +4024,31 @@
 		"nombre": "RELAC.PERS.EN ING.DE SOFT.Y GER.DE PROY.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1716",
+				"id": "G_1716",
 				"nombre": "TALLER IV  O  PROY E ING.SOFT",
 				"actividad": "Grupo",
 				"obs": false
@@ -4061,31 +4061,31 @@
 		"nombre": "RELAC.PERS.EN ING.DE SOFT.Y GER.DE PROY.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1716C",
+				"id": "G_1716C",
 				"nombre": "INT.ING.SOFT.O TALLER IV",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4098,19 +4098,19 @@
 		"nombre": "ROBOTICA BASADA EN COMPORTAMIENTOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -4122,13 +4122,13 @@
 				"obs": true
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4141,43 +4141,43 @@
 		"nombre": "ROBOTICA EMBEBIDA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4190,7 +4190,7 @@
 		"nombre": "SEMINARIO DE PROCESAM. PARALELO APLICADO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -4202,25 +4202,25 @@
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4233,37 +4233,37 @@
 		"nombre": "SEMINARIO RECUP.DE INF.Y REC.EN LA WEB",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4276,31 +4276,31 @@
 		"nombre": "SEMINARIO:ELEMENTOS DE METAHEURISTICAS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C450",
+				"id": "G_C450",
 				"nombre": "INVESTIGACION OPERATIVA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4313,25 +4313,25 @@
 		"nombre": "SIMULACION A EVENTOS DISCRETOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4344,31 +4344,31 @@
 		"nombre": "SISTEMAS DE INFORMACION EN SALUD",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4381,25 +4381,25 @@
 		"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4412,25 +4412,25 @@
 		"nombre": "SISTEMAS DISTRIBUIDOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4456,19 +4456,19 @@
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP2",
+				"id": "G_GRUP2",
 				"nombre": "GRUPO 2 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -4486,25 +4486,25 @@
 		"nombre": "SISTEMAS MULTIFUENTES",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -4516,7 +4516,7 @@
 				"obs": true
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4529,19 +4529,19 @@
 		"nombre": "SISTEMAS OPERATIVOS",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4567,19 +4567,19 @@
 		"nombre": "SISTEMAS OPERATIVOS",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4605,19 +4605,19 @@
 		"nombre": "SISTEMAS OPERATIVOS",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4643,19 +4643,19 @@
 		"nombre": "SISTEMAS OPERATIVOS",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4700,19 +4700,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -4755,31 +4755,31 @@
 		"nombre": "TALLER DE ARQUITECTURA DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1716",
+				"id": "G_1716",
 				"nombre": "TALLER IV  O  PROY E ING.SOFT",
 				"actividad": "Grupo",
 				"obs": false
@@ -4792,7 +4792,7 @@
 		"nombre": "TALLER DE COMPUTACION GRAFICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -4804,19 +4804,19 @@
 				"obs": true
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4829,25 +4829,25 @@
 		"nombre": "TALLER DE DESARROLLO CLIENTE/SERVIDOR",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4860,37 +4860,37 @@
 		"nombre": "TALLER DE FIRMWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1511",
+				"id": "G_1511",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4903,25 +4903,25 @@
 		"nombre": "TALLER DE GESTION DE SOFTWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4934,19 +4934,19 @@
 		"nombre": "TALLER DE INTERACCION PERSONA COMPUTAD.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -4958,7 +4958,7 @@
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -4971,31 +4971,31 @@
 		"nombre": "TALLER DE PRODUCCION DE PROG.SIN FALLAS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5021,25 +5021,25 @@
 		"nombre": "TALLER DE PROGRAMACION Y ARTE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5052,19 +5052,19 @@
 		"nombre": "TALLER DE SEGURIDAD INFORMATICA",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -5076,19 +5076,19 @@
 				"obs": false
 			},
 			{
-				"id": "C306",
+				"id": "G_C306",
 				"nombre": "ELECTIVA EN ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -5100,19 +5100,19 @@
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5125,31 +5125,31 @@
 		"nombre": "TALLER DE SIST. DE INF.GEOGRAF.EMPRESAR.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5162,37 +5162,37 @@
 		"nombre": "TALLER DE SISTEMAS DE INFORMACION 1",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5205,37 +5205,37 @@
 		"nombre": "TALLER DE SISTEMAS DE INFORMACION 3",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5248,49 +5248,49 @@
 		"nombre": "TALLER DE SISTEMAS DE INFORMACION 4",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C402",
+				"id": "G_C402",
 				"nombre": "TALLER IV",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1734",
+				"id": "G_1734",
 				"nombre": "TALLER SIST.DE INF. 1 O 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -5303,43 +5303,43 @@
 		"nombre": "TALLER DE SISTEMAS OPERATIVOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1511E",
+				"id": "G_1511E",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5352,37 +5352,37 @@
 		"nombre": "TALLER DE SISTEMAS OPERATIVOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1511E",
+				"id": "G_1511E",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -5394,7 +5394,7 @@
 				"obs": true
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5407,31 +5407,31 @@
 		"nombre": "TALLER DE VERIFICACION DEL SOFTWARE",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C402",
+				"id": "G_C402",
 				"nombre": "TALLER IV",
 				"actividad": "Grupo",
 				"obs": false
@@ -5444,19 +5444,19 @@
 		"nombre": "TALLER III (ANUAL)",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -5475,13 +5475,13 @@
 		"nombre": "TALLER IV (ANUAL)",
 		"pcurso": [
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5494,37 +5494,37 @@
 		"nombre": "TALLER SISTEMAS DE INFORMACION 1",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5537,25 +5537,25 @@
 		"nombre": "TALLER SISTEMAS DE INFORMACION 2",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5568,25 +5568,25 @@
 		"nombre": "TALLER V",
 		"pcurso": [
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP2",
+				"id": "G_GRUP2",
 				"nombre": "GRUPO 2 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -5599,7 +5599,7 @@
 		"nombre": "TEC.AVANZ.PARA LA GEST.DE SIST.DE INF.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -5611,19 +5611,19 @@
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5636,7 +5636,7 @@
 		"nombre": "TEC.AVANZ.PARA LA GEST.DE SIST.DE INF.",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -5648,19 +5648,19 @@
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5673,31 +5673,31 @@
 		"nombre": "TECNOLOGIAS INTERACTIVAS Y VIDEOJUEGOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1749",
+				"id": "G_1749",
 				"nombre": "INT.COMP.GRAF. O PERSONA COMP.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5710,55 +5710,55 @@
 		"nombre": "TEORIA COMPUTACIONAL DE LA GESTALT",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1403",
+				"id": "G_1403",
 				"nombre": "ARQUITECTURA DE SISTEMAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C351",
+				"id": "G_C351",
 				"nombre": "BASES DE DATOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C400",
+				"id": "G_C400",
 				"nombre": "CAL.NUM.- MET.NUM.Y COMPL.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP2",
+				"id": "G_GRUP2",
 				"nombre": "GRUPO 2 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C350",
+				"id": "G_C350",
 				"nombre": "SISTEMAS OPERATIVOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5771,25 +5771,25 @@
 		"nombre": "TEORIA DE CODIGOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5808,43 +5808,43 @@
 		"nombre": "TEORIA DE JUEGOS Y PROG. FUNCIONAL",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5857,13 +5857,13 @@
 		"nombre": "TEORIA DE LA COMPUTACION",
 		"pcurso": [
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5876,25 +5876,25 @@
 		"nombre": "TEORIA DE LENGUAJES",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C102",
+				"id": "G_C102",
 				"nombre": "LOGICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C302",
+				"id": "G_C302",
 				"nombre": "PROG.  3    O    PROG.  III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5915,25 +5915,25 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5946,25 +5946,25 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -5976,25 +5976,25 @@
 		"nombre": "TRANSDUCTORES DE ESTADO FINITO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -6013,19 +6013,19 @@
 		"nombre": "VERIFICACION DE MODELOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
@@ -6037,7 +6037,7 @@
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false
@@ -6050,25 +6050,25 @@
 		"nombre": "WEB Y BASE DE DATOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C209",
+				"id": "G_C209",
 				"nombre": "ELECTIVA EN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GRUP1",
+				"id": "G_GRUP1",
 				"nombre": "GRUPO 1 ELECT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C303",
+				"id": "G_C303",
 				"nombre": "TALLER III",
 				"actividad": "Grupo",
 				"obs": false

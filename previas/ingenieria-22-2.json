@@ -15,7 +15,7 @@
 				"obs": false
 			},
 			{
-				"id": "1912",
+				"id": "G_1912",
 				"nombre": "INT.A LA ING.INDUSTRIAL (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -35,7 +35,7 @@
 		"nombre": "CALCULO 1",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -49,7 +49,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -61,7 +61,7 @@
 		"nombre": "CALCULO 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -75,7 +75,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -105,7 +105,7 @@
 				"obs": true
 			},
 			{
-				"id": "C1020",
+				"id": "G_C1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -113,7 +113,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -143,13 +143,13 @@
 				"obs": true
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -192,7 +192,7 @@
 				"texto": " Créditos en la Carrera 22 - Ciclo 2. Área Temática: MATEMATICAS"
 			},
 			{
-				"id": "1708N",
+				"id": "G_1708N",
 				"nombre": "NO TENER APROBADO",
 				"actividad": "Grupo",
 				"obs": true
@@ -300,7 +300,7 @@
 				"obs": true
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -312,7 +312,7 @@
 				"obs": true
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -332,13 +332,13 @@
 		"nombre": "ELECTROTECNICA I",
 		"pcurso": [
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1153E",
+				"id": "G_1153E",
 				"nombre": "FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -388,7 +388,7 @@
 				"obs": true
 			},
 			{
-				"id": "1620",
+				"id": "G_1620",
 				"nombre": "PPIOS DE QUIMICA O QUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -402,7 +402,7 @@
 				"obs": true
 			},
 			{
-				"id": "1620E",
+				"id": "G_1620E",
 				"nombre": "PRINCIPIOS DE QCA.GRAL.",
 				"actividad": "Grupo",
 				"obs": false
@@ -414,13 +414,13 @@
 		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "E1024",
+				"id": "G_E1024",
 				"nombre": "CALCULO 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1122",
+				"id": "G_E1122",
 				"nombre": "MECANICA NEWTONIANA",
 				"actividad": "Grupo",
 				"obs": false
@@ -452,7 +452,7 @@
 		"nombre": "FISICA 1",
 		"pcurso": [
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -466,7 +466,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -478,13 +478,13 @@
 		"nombre": "FISICA 2",
 		"pcurso": [
 			{
-				"id": "1020C",
+				"id": "G_1020C",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1C",
+				"id": "G_F1C",
 				"nombre": "FISICA 1 O FISICA GRAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -492,13 +492,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -516,19 +516,19 @@
 		"nombre": "FISICA 3",
 		"pcurso": [
 			{
-				"id": "1020C",
+				"id": "G_1020C",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FIS",
+				"id": "G_FIS",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -536,13 +536,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -554,7 +554,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -566,13 +566,13 @@
 		"nombre": "FISICA EXPERIMENTAL 1",
 		"pcurso": [
 			{
-				"id": "G1124",
+				"id": "G_G1124",
 				"nombre": "FIS1 (E) O FIS2 (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOFE1",
+				"id": "G_NOFE1",
 				"nombre": "NO ACUMULA CON FIS. EXP. 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -585,19 +585,19 @@
 		"nombre": "FISICA EXPERIMENTAL 2",
 		"pcurso": [
 			{
-				"id": "F3C",
+				"id": "G_F3C",
 				"nombre": "FIS.3 O FIS. GRAL.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FE1",
+				"id": "G_FE1",
 				"nombre": "FIS.EXP.1 O LAB.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOFE2",
+				"id": "G_NOFE2",
 				"nombre": "NO ACUMULA CON FIS. EXP. 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -610,13 +610,13 @@
 		"nombre": "FISICA TERMICA",
 		"pcurso": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -634,7 +634,7 @@
 				"obs": true
 			},
 			{
-				"id": "1122",
+				"id": "G_1122",
 				"nombre": "FISICA,ELECTROMAG.Y MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -660,13 +660,13 @@
 		"nombre": "FLUIDODINAMICA",
 		"pcurso": [
 			{
-				"id": "F3E",
+				"id": "G_F3E",
 				"nombre": "FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1123C",
+				"id": "G_1123C",
 				"nombre": "FISICA TERMICA O TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -704,7 +704,7 @@
 				"obs": true
 			},
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "CALCULO 3 Y ANALISIS II",
 				"actividad": "Grupo",
 				"obs": false
@@ -712,7 +712,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
@@ -742,7 +742,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -756,7 +756,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -768,7 +768,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -782,7 +782,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -794,13 +794,13 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
 		"pcurso": [
 			{
-				"id": "1030C",
+				"id": "G_1030C",
 				"nombre": "GEOM. 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -808,7 +808,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -820,7 +820,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -900,19 +900,19 @@
 				"texto": "Créditos en la Carrera 22 - Ciclo 2"
 			},
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -932,19 +932,19 @@
 		"nombre": "INT. A LA ING. QUIMICA Y DE PROCESOS",
 		"pcurso": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1C",
+				"id": "G_F1C",
 				"nombre": "FISICA 1 O FISICA GRAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1620E",
+				"id": "G_1620E",
 				"nombre": "PRINCIPIOS DE QCA.GRAL.",
 				"actividad": "Grupo",
 				"obs": false
@@ -983,31 +983,31 @@
 		"nombre": "INT. A LA INVESTIGACION DE OPERACIONES",
 		"pcurso": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1031E",
+				"id": "G_1031E",
 				"nombre": "GEOM.Y ALG.LINEAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "PROBA",
+				"id": "G_PROBA",
 				"nombre": "PROB.Y ESTAD.Y ANAL.MATEM.II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1071,7 +1071,7 @@
 		"nombre": "MATEMATICA DISCRETA 2",
 		"pcurso": [
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1097,25 +1097,25 @@
 		"nombre": "MECANICA NEWTONIANA",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1121",
+				"id": "G_C1121",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1147,25 +1147,25 @@
 		"nombre": "METODOS NUMERICOS",
 		"pcurso": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1031E",
+				"id": "G_1031E",
 				"nombre": "GEOM.Y ALG.LINEAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1177,7 +1177,7 @@
 				"obs": true
 			},
 			{
-				"id": "E1322",
+				"id": "G_E1322",
 				"nombre": "PROGRAMACION 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1272,13 +1272,13 @@
 				"obs": true
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1367,25 +1367,25 @@
 		"nombre": "TALLER 2:MODEL.CUANT.PARA PROBL.DE PROD.",
 		"pcurso": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025C",
+				"id": "G_1025C",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1398,7 +1398,7 @@
 		"nombre": "TALLER 4:MEJORA DE LA COMPETITIVIDAD",
 		"pcurso": [
 			{
-				"id": "1940E",
+				"id": "G_1940E",
 				"nombre": "GESTION DE CALIDAD",
 				"actividad": "Grupo",
 				"obs": false
@@ -1517,13 +1517,13 @@
 		"nombre": "TRANSFERENCIA DE CALOR Y MASA 1",
 		"pcurso": [
 			{
-				"id": "F3E",
+				"id": "G_F3E",
 				"nombre": "FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1123C",
+				"id": "G_1123C",
 				"nombre": "FISICA TERMICA O TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false

@@ -58,13 +58,13 @@
 		"nombre": "ANALISIS INSTRUMENTAL",
 		"pcurso": [
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302",
+				"id": "G_Z302",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -84,7 +84,7 @@
 		"nombre": "CALCULO 1",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -98,7 +98,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -110,7 +110,7 @@
 		"nombre": "CALCULO 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -124,7 +124,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -136,7 +136,7 @@
 		"nombre": "CALCULO 2",
 		"pcurso": [
 			{
-				"id": "C1020",
+				"id": "G_C1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -150,7 +150,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -168,7 +168,7 @@
 		"nombre": "CALCULO 3",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -180,7 +180,7 @@
 				"obs": true
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -200,13 +200,13 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "CA2",
+				"id": "G_CA2",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GE2",
+				"id": "G_GE2",
 				"nombre": "GEOMETRIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -237,7 +237,7 @@
 				"obs": true
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -257,19 +257,19 @@
 		"nombre": "CONVERSION ELECTROQUIMICA DE ENERGIA",
 		"pcurso": [
 			{
-				"id": "521",
+				"id": "G_521",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q70C",
+				"id": "G_Q70C",
 				"nombre": "ING. DE LAS REACIONES QUIM.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -301,7 +301,7 @@
 		"nombre": "COSTOS PARA INGENIERIA",
 		"pcurso": [
 			{
-				"id": "Q93",
+				"id": "G_Q93",
 				"nombre": "INT.ING.QUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -321,13 +321,13 @@
 		"nombre": "DETERIORO Y PRESERVACION DE MADERAS",
 		"pcurso": [
 			{
-				"id": "A75",
+				"id": "G_A75",
 				"nombre": "MICROB.GRAL. O INT.ING.BIOQUIM",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z401C",
+				"id": "G_Z401C",
 				"nombre": "QUIMICA ORGANICA 102",
 				"actividad": "Grupo",
 				"obs": false
@@ -346,13 +346,13 @@
 		"nombre": "DINAMICA Y CONTROL DE PROCESOS",
 		"pcurso": [
 			{
-				"id": "C1411",
+				"id": "G_C1411",
 				"nombre": "COMPUTACION 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q70C",
+				"id": "G_Q70C",
 				"nombre": "ING. DE LAS REACIONES QUIM.2",
 				"actividad": "Grupo",
 				"obs": false
@@ -391,7 +391,7 @@
 		"nombre": "ECUACIONES DIFERENCIALES",
 		"pcurso": [
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -409,7 +409,7 @@
 				"obs": true
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -429,19 +429,19 @@
 		"nombre": "ELECTROTECNICA 1",
 		"pcurso": [
 			{
-				"id": "1022Q",
+				"id": "G_1022Q",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1121B",
+				"id": "G_1121B",
 				"nombre": "FISICA 102 Y 103 O FIS. EXP. 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1121A",
+				"id": "G_1121A",
 				"nombre": "FISICA 102 Y 103 O FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -493,7 +493,7 @@
 		"nombre": "ELECTROTECNICA I",
 		"pcurso": [
 			{
-				"id": "1022Q",
+				"id": "G_1022Q",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -505,7 +505,7 @@
 				"obs": true
 			},
 			{
-				"id": "1121A",
+				"id": "G_1121A",
 				"nombre": "FISICA 102 Y 103 O FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -525,13 +525,13 @@
 		"nombre": "ELEMENTOS DE CIENCIAS DE LA ATMOSFERA",
 		"pcurso": [
 			{
-				"id": "Q75",
+				"id": "G_Q75",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -600,49 +600,49 @@
 				"obs": true
 			},
 			{
-				"id": "G1120",
+				"id": "G_G1120",
 				"nombre": "FIS 101 O FIS.GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1121G",
+				"id": "G_1121G",
 				"nombre": "FISICA 101 O FISICA GENERAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z406",
+				"id": "G_Z406",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1022",
+				"id": "G_G1022",
 				"nombre": "MAT 01,101 O CAL2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1031",
+				"id": "G_G1031",
 				"nombre": "MAT 03,102 O GEOM 1Y2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1024",
+				"id": "G_G1024",
 				"nombre": "MAT 04,104 O CAL3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1028",
+				"id": "G_G1028",
 				"nombre": "MAT 07 Y 08 O MAT 105 O EC.DI.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GZ202",
+				"id": "G_GZ202",
 				"nombre": "QUIM.GRAL.I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -662,7 +662,7 @@
 		"nombre": "FISICA 1",
 		"pcurso": [
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -676,7 +676,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -688,13 +688,13 @@
 		"nombre": "FISICA 2",
 		"pcurso": [
 			{
-				"id": "CALQC",
+				"id": "G_CALQC",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1C",
+				"id": "G_F1C",
 				"nombre": "FISICA 1 O FISICA GRAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -702,13 +702,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "E1020",
+				"id": "G_E1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -726,19 +726,19 @@
 		"nombre": "FISICA 3",
 		"pcurso": [
 			{
-				"id": "CALQC",
+				"id": "G_CALQC",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FIS",
+				"id": "G_FIS",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -746,13 +746,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "E1020",
+				"id": "G_E1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -764,7 +764,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -782,7 +782,7 @@
 				"obs": true
 			},
 			{
-				"id": "G1124",
+				"id": "G_G1124",
 				"nombre": "FIS1 (E) O FIS2 (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -847,7 +847,7 @@
 				"obs": false
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -859,19 +859,19 @@
 		"nombre": "FISICA NUCLEAR",
 		"pcurso": [
 			{
-				"id": "Q23E",
+				"id": "G_Q23E",
 				"nombre": "FENOMENOS DE TRANSPORTE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z205",
+				"id": "G_Z205",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z304",
+				"id": "G_Z304",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -909,49 +909,49 @@
 				"obs": true
 			},
 			{
-				"id": "FI102",
+				"id": "G_FI102",
 				"nombre": "EXAMEN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z406E",
+				"id": "G_Z406E",
 				"nombre": "FISICOQUIMICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q93C",
+				"id": "G_Q93C",
 				"nombre": "INT.A LA ING.QUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302C",
+				"id": "G_Z302C",
 				"nombre": "QUIMICA ANALITICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z303C",
+				"id": "G_Z303C",
 				"nombre": "QUIMICA INORGANICA Y LABORAT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301C",
+				"id": "G_Z301C",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -971,19 +971,19 @@
 		"nombre": "FUND. DE LA PROD. DE CELULOSA Y PAPEL",
 		"pcurso": [
 			{
-				"id": "Q69C",
+				"id": "G_Q69C",
 				"nombre": "ING. DE LAS REAC.QUIM.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q72C",
+				"id": "G_Q72C",
 				"nombre": "TEC.Y SERV.IND.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -997,19 +997,19 @@
 				"obs": false
 			},
 			{
-				"id": "Q69E",
+				"id": "G_Q69E",
 				"nombre": "ING.REAC.QUIM.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q72E",
+				"id": "G_Q72E",
 				"nombre": "TEC. Y SERV. IND. 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68E",
+				"id": "G_Q68E",
 				"nombre": "TRANSF.DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1021,7 +1021,7 @@
 		"nombre": "FUNDAMENTOS DE MATERIALES CERAMICOS",
 		"pcurso": [
 			{
-				"id": "FI102",
+				"id": "G_FI102",
 				"nombre": "EXAMEN FISICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1046,7 +1046,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1060,7 +1060,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1072,7 +1072,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1086,7 +1086,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1098,13 +1098,13 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
 		"pcurso": [
 			{
-				"id": "1030C",
+				"id": "G_1030C",
 				"nombre": "GEOM. 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -1112,7 +1112,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1124,7 +1124,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -1173,13 +1173,13 @@
 		"nombre": "GESTION DE LABORATORIOS",
 		"pcurso": [
 			{
-				"id": "C1025",
+				"id": "G_C1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302",
+				"id": "G_Z302",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1204,19 +1204,19 @@
 		"nombre": "INDUSTRIA CARNICA",
 		"pcurso": [
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q72C",
+				"id": "G_Q72C",
 				"nombre": "TEC.Y SERV.IND.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1229,19 +1229,19 @@
 		"nombre": "INGENIERIA BIOQUIMICA",
 		"pcurso": [
 			{
-				"id": "Q500C",
+				"id": "G_Q500C",
 				"nombre": "DISEÑO DE REACTORES(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1267,49 +1267,49 @@
 				"obs": true
 			},
 			{
-				"id": "E1028",
+				"id": "G_E1028",
 				"nombre": "ECUACIONES DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z520",
+				"id": "G_Z520",
 				"nombre": "FISICOQUIMICA III EXAMEN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75",
+				"id": "G_Q75",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302",
+				"id": "G_Z302",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z303",
+				"id": "G_Z303",
 				"nombre": "QUIMICA INORGANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q403",
+				"id": "G_Q403",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1367,19 +1367,19 @@
 		"nombre": "INGENIERIA DE LOS PROCESOS ELECTROQUIM.",
 		"pcurso": [
 			{
-				"id": "Q500C",
+				"id": "G_Q500C",
 				"nombre": "DISEÑO DE REACTORES(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "521",
+				"id": "G_521",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1424,31 +1424,31 @@
 		"nombre": "INSTRUMENTACION INDUSTRIAL",
 		"pcurso": [
 			{
-				"id": "E1028",
+				"id": "G_E1028",
 				"nombre": "ECUACIONES DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2104",
+				"id": "G_2104",
 				"nombre": "ELECTROTEC.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q23E",
+				"id": "G_Q23E",
 				"nombre": "FENOMENOS DE TRANSPORTE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q73",
+				"id": "G_Q73",
 				"nombre": "MECANICA APLICADA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1493,7 +1493,7 @@
 		"nombre": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
 		"pcurso": [
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1513,13 +1513,13 @@
 		"nombre": "INT. A LA ING. QUIMICA Y DE PROCESOS",
 		"pcurso": [
 			{
-				"id": "E1020",
+				"id": "G_E1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1151",
+				"id": "G_C1151",
 				"nombre": "FISICA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1531,7 +1531,7 @@
 				"obs": true
 			},
 			{
-				"id": "Z202",
+				"id": "G_Z202",
 				"nombre": "QUIMICA GENERAL II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1557,13 +1557,13 @@
 				"obs": true
 			},
 			{
-				"id": "Z508",
+				"id": "G_Z508",
 				"nombre": "FISICOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z520",
+				"id": "G_Z520",
 				"nombre": "FISICOQUIMICA III EXAMEN",
 				"actividad": "Grupo",
 				"obs": false
@@ -1581,13 +1581,13 @@
 				"obs": false
 			},
 			{
-				"id": "Z301",
+				"id": "G_Z301",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z401E",
+				"id": "G_Z401E",
 				"nombre": "QUIMICA ORGANICA 102",
 				"actividad": "Grupo",
 				"obs": false
@@ -1613,7 +1613,7 @@
 				"obs": true
 			},
 			{
-				"id": "Z520",
+				"id": "G_Z520",
 				"nombre": "FISICOQUIMICA III EXAMEN",
 				"actividad": "Grupo",
 				"obs": false
@@ -1631,13 +1631,13 @@
 				"obs": false
 			},
 			{
-				"id": "Z301",
+				"id": "G_Z301",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z401E",
+				"id": "G_Z401E",
 				"nombre": "QUIMICA ORGANICA 102",
 				"actividad": "Grupo",
 				"obs": false
@@ -1657,19 +1657,19 @@
 		"nombre": "INT. A LA INGENIERIA QUIMICA",
 		"pcurso": [
 			{
-				"id": "E1020",
+				"id": "G_E1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1120",
+				"id": "G_C1120",
 				"nombre": "FISICA GENERAL1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z202",
+				"id": "G_Z202",
 				"nombre": "QUIMICA GENERAL II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1689,7 +1689,7 @@
 		"nombre": "INT. A LA PREVENC. DE RIESGOS LABORALES",
 		"pcurso": [
 			{
-				"id": "Q71C",
+				"id": "G_Q71C",
 				"nombre": "TEC.Y SERV.IND.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1709,19 +1709,19 @@
 		"nombre": "INT. AL SISTEMA CLIMATICO",
 		"pcurso": [
 			{
-				"id": "E1020",
+				"id": "G_E1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1022",
+				"id": "G_E1022",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1120",
+				"id": "G_G1120",
 				"nombre": "FIS 101 O FIS.GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1741,7 +1741,7 @@
 		"nombre": "MECANICA APLICADA (ING.QUÍM)",
 		"pcurso": [
 			{
-				"id": "104Q",
+				"id": "G_104Q",
 				"nombre": "CALCULO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1753,13 +1753,13 @@
 				"obs": true
 			},
 			{
-				"id": "103Q",
+				"id": "G_103Q",
 				"nombre": "F102 Y 103 O F2 Y F.EXP.1 O F3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "102Q",
+				"id": "G_102Q",
 				"nombre": "FIS102 Y 103 O FIS2 Y FIS.EXP1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1779,19 +1779,19 @@
 		"nombre": "METODOS NUMERICOS",
 		"pcurso": [
 			{
-				"id": "CA1Y2",
+				"id": "G_CA1Y2",
 				"nombre": "CAL 1 Y 2 Y ANAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1411",
+				"id": "G_1411",
 				"nombre": "COMPUT. 1 (E)  89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1817,7 +1817,7 @@
 		"nombre": "MICROBIOLOGIA GENERAL",
 		"pcurso": [
 			{
-				"id": "Z514",
+				"id": "G_Z514",
 				"nombre": "BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1856,19 +1856,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "Z205",
+				"id": "G_Z205",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z304",
+				"id": "G_Z304",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z04",
+				"id": "G_Z04",
 				"nombre": "MATEMATICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1939,7 +1939,7 @@
 				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ACTIV.INTEGRADORAS DE ING.QUIM"
 			},
 			{
-				"id": "Q82YC",
+				"id": "G_Q82YC",
 				"nombre": "PASANTIA TRASB. EXPER.MOD.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1972,7 +1972,7 @@
 				"texto": " Créditos en la Carrera 53 - Ciclo 0. Área Temática: ACTIV.INTEGRADORAS DE ING.QUIM"
 			},
 			{
-				"id": "Q82YC",
+				"id": "G_Q82YC",
 				"nombre": "PASANTIA TRASB. EXPER.MOD.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2041,13 +2041,13 @@
 		"nombre": "PROBABILIDAD Y ESTADISTICA",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2085,43 +2085,43 @@
 				"obs": true
 			},
 			{
-				"id": "Q500C",
+				"id": "G_Q500C",
 				"nombre": "DISEÑO DE REACTORES(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2108",
+				"id": "G_2108",
 				"nombre": "ELECTROT.1 O ELECTROT.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75",
+				"id": "G_Q75",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508C",
+				"id": "G_Q508C",
 				"nombre": "FUNDAM.ING.BIOQUIMICA (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q73",
+				"id": "G_Q73",
 				"nombre": "MECANICA APLICADA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q502C",
+				"id": "G_Q502C",
 				"nombre": "SERV.YTEC.IND.(CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q68",
+				"id": "G_Q68",
 				"nombre": "TRANSF. DE CALOR Y MASA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2179,7 +2179,7 @@
 		"nombre": "RADIOACTIVIDAD APLICADA",
 		"pcurso": [
 			{
-				"id": "E1028",
+				"id": "G_E1028",
 				"nombre": "ECUACIONES DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -2205,13 +2205,13 @@
 		"nombre": "SISTEMA DE GESTION DE LABORATORIOS",
 		"pcurso": [
 			{
-				"id": "C1025",
+				"id": "G_C1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302",
+				"id": "G_Z302",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2224,13 +2224,13 @@
 		"nombre": "SISTEMA DE GESTION DE LABORATORIOS",
 		"pcurso": [
 			{
-				"id": "C1025",
+				"id": "G_C1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302",
+				"id": "G_Z302",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2276,7 +2276,7 @@
 				"obs": false
 			},
 			{
-				"id": "Q70",
+				"id": "G_Q70",
 				"nombre": "ING.REACCIONES QUIM.2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2289,13 +2289,13 @@
 		"nombre": "TECNOLOGIA DE LOS PROCESOS BIOLOGICOS",
 		"pcurso": [
 			{
-				"id": "Q81YC",
+				"id": "G_Q81YC",
 				"nombre": "INGENIERIA BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508E",
+				"id": "G_Q508E",
 				"nombre": "INT. A LA ING. BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2333,25 +2333,25 @@
 		"nombre": "TECNOLOGIA Y GEST. DE LA IND. DEL CUERO",
 		"pcurso": [
 			{
-				"id": "CQ43",
+				"id": "G_CQ43",
 				"nombre": "ING.DE LAS REACC.QUIM. 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z402",
+				"id": "G_Z402",
 				"nombre": "QUIM.ANAL.CUANT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301",
+				"id": "G_Z301",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CQ46",
+				"id": "G_CQ46",
 				"nombre": "TEC. Y SERV. INDUSTRIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -2370,61 +2370,61 @@
 				"obs": true
 			},
 			{
-				"id": "E1028",
+				"id": "G_E1028",
 				"nombre": "ECUACIONES DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z521",
+				"id": "G_Z521",
 				"nombre": "ELECTROQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z520",
+				"id": "G_Z520",
 				"nombre": "FISICOQUIMICA III EXAMEN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q75",
+				"id": "G_Q75",
 				"nombre": "FLUIDODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302",
+				"id": "G_Z302",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z303",
+				"id": "G_Z303",
 				"nombre": "QUIMICA INORGANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2476,7 +2476,7 @@
 		"nombre": "TEORIA DE RESTRICCIONES",
 		"pcurso": [
 			{
-				"id": "Q93",
+				"id": "G_Q93",
 				"nombre": "INT.ING.QUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2502,49 +2502,49 @@
 				"obs": true
 			},
 			{
-				"id": "G1120",
+				"id": "G_G1120",
 				"nombre": "FIS 101 O FIS.GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1121G",
+				"id": "G_1121G",
 				"nombre": "FISICA 101 O FISICA GENERAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z406",
+				"id": "G_Z406",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1022",
+				"id": "G_G1022",
 				"nombre": "MAT 01,101 O CAL2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1031",
+				"id": "G_G1031",
 				"nombre": "MAT 03,102 O GEOM 1Y2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1024",
+				"id": "G_G1024",
 				"nombre": "MAT 04,104 O CAL3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G1028",
+				"id": "G_G1028",
 				"nombre": "MAT 07 Y 08 O MAT 105 O EC.DI.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GZ202",
+				"id": "G_GZ202",
 				"nombre": "QUIM.GRAL.I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -2582,19 +2582,19 @@
 				"obs": true
 			},
 			{
-				"id": "FI102",
+				"id": "G_FI102",
 				"nombre": "EXAMEN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z406E",
+				"id": "G_Z406E",
 				"nombre": "FISICOQUIMICA 101",
 				"actividad": "Grupo",
 				"obs": false
@@ -2606,19 +2606,19 @@
 				"obs": false
 			},
 			{
-				"id": "Z302C",
+				"id": "G_Z302C",
 				"nombre": "QUIMICA ANALITICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301C",
+				"id": "G_Z301C",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402C",
+				"id": "G_Q402C",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2668,49 +2668,49 @@
 				"obs": true
 			},
 			{
-				"id": "FI102",
+				"id": "G_FI102",
 				"nombre": "EXAMEN FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z406E",
+				"id": "G_Z406E",
 				"nombre": "FISICOQUIMICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q93C",
+				"id": "G_Q93C",
 				"nombre": "INT.A LA ING.QUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302C",
+				"id": "G_Z302C",
 				"nombre": "QUIMICA ANALITICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z303C",
+				"id": "G_Z303C",
 				"nombre": "QUIMICA INORGANICA Y LABORAT.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z301C",
+				"id": "G_Z301C",
 				"nombre": "QUIMICA ORGANICA 101",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402C",
+				"id": "G_Q402C",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2718,13 +2718,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "Q23E",
+				"id": "G_Q23E",
 				"nombre": "FENOMENOS DE TRANSPORTE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q402",
+				"id": "G_Q402",
 				"nombre": "TERMODINAMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2760,43 +2760,43 @@
 				"obs": true
 			},
 			{
-				"id": "E1028",
+				"id": "G_E1028",
 				"nombre": "ECUACIONES DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q23",
+				"id": "G_Q23",
 				"nombre": "FENÓM.DE TRANSP.EN ING.DE PROC",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z520",
+				"id": "G_Z520",
 				"nombre": "FISICOQUIMICA III EXAMEN",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1025",
+				"id": "G_E1025",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z302",
+				"id": "G_Z302",
 				"nombre": "QUIMICA ANALITICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Z303",
+				"id": "G_Z303",
 				"nombre": "QUIMICA INORGANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q74C",
+				"id": "G_Q74C",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2804,7 +2804,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2828,19 +2828,19 @@
 				"obs": true
 			},
 			{
-				"id": "Q70",
+				"id": "G_Q70",
 				"nombre": "ING.REACCIONES QUIM.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508E",
+				"id": "G_Q508E",
 				"nombre": "INT. A LA ING. BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2878,19 +2878,19 @@
 				"obs": true
 			},
 			{
-				"id": "Q70",
+				"id": "G_Q70",
 				"nombre": "ING.REACCIONES QUIM.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508E",
+				"id": "G_Q508E",
 				"nombre": "INT. A LA ING. BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2903,19 +2903,19 @@
 		"nombre": "TRATAMIENTO BIOLOGICO DE EFLUENTES",
 		"pcurso": [
 			{
-				"id": "Q70",
+				"id": "G_Q70",
 				"nombre": "ING.REACCIONES QUIM.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q508E",
+				"id": "G_Q508E",
 				"nombre": "INT. A LA ING. BIOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "Q74",
+				"id": "G_Q74",
 				"nombre": "TRANSF.CALOR Y MASA 1",
 				"actividad": "Grupo",
 				"obs": false

@@ -29,13 +29,13 @@
 		"nombre": "CIENCIA Y TECNOLOGIA DE LA LECHE",
 		"pcurso": [
 			{
-				"id": "A93YC",
+				"id": "G_A93YC",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90C",
+				"id": "G_A90C",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -107,7 +107,7 @@
 		"nombre": "ELECTROTECNICA 2",
 		"pcurso": [
 			{
-				"id": "2102C",
+				"id": "G_2102C",
 				"nombre": "ELECT.1  O  ELECT.(C)P.91",
 				"actividad": "Grupo",
 				"obs": false
@@ -115,7 +115,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "2104",
+				"id": "G_2104",
 				"nombre": "ELECTROTEC.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -159,13 +159,13 @@
 		"nombre": "ENOLOGIA",
 		"pcurso": [
 			{
-				"id": "A75YC",
+				"id": "G_A75YC",
 				"nombre": "MICROBIOLOGIA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A90YC",
+				"id": "G_A90YC",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -211,7 +211,7 @@
 		"nombre": "EVALUACION SENSORIAL DE ALIMENTOS",
 		"pcurso": [
 			{
-				"id": "A90YC",
+				"id": "G_A90YC",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -244,7 +244,7 @@
 		"nombre": "HIGIENE Y SEGURIDAD DE LOS ALIM.(2003)",
 		"pcurso": [
 			{
-				"id": "A93YC",
+				"id": "G_A93YC",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -264,7 +264,7 @@
 		"nombre": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
 		"pcurso": [
 			{
-				"id": "A500",
+				"id": "G_A500",
 				"nombre": "CINETICA APLICADA O DISEÑO DE",
 				"actividad": "Grupo",
 				"obs": false
@@ -329,7 +329,7 @@
 				"obs": false
 			},
 			{
-				"id": "A400",
+				"id": "G_A400",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -375,13 +375,13 @@
 		"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.A",
 		"pcurso": [
 			{
-				"id": "A91YC",
+				"id": "G_A91YC",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A400",
+				"id": "G_A400",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -401,13 +401,13 @@
 		"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.B",
 		"pcurso": [
 			{
-				"id": "A91YC",
+				"id": "G_A91YC",
 				"nombre": "ANALISIS DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A400",
+				"id": "G_A400",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -427,7 +427,7 @@
 		"nombre": "QUIMICA Y TEC. DE GRASAS Y ACEITES OP.C",
 		"pcurso": [
 			{
-				"id": "A120",
+				"id": "G_A120",
 				"nombre": "QCA. TEC. GRASAS Y ACEITES",
 				"actividad": "Grupo",
 				"obs": false
@@ -440,7 +440,7 @@
 		"nombre": "TECNOLOGIA DE FRUTAS Y HORTALIZAS",
 		"pcurso": [
 			{
-				"id": "A510",
+				"id": "G_A510",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -492,13 +492,13 @@
 		"nombre": "TECNOLOGIA DE LA CARNE",
 		"pcurso": [
 			{
-				"id": "A93YC",
+				"id": "G_A93YC",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "A400",
+				"id": "G_A400",
 				"nombre": "QUIMICA DE ALIMENTOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -518,7 +518,7 @@
 		"nombre": "TECNOLOGIA DE LA LECHE",
 		"pcurso": [
 			{
-				"id": "A503",
+				"id": "G_A503",
 				"nombre": "MICROBIOLOGIA ALIME. I (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
@@ -544,7 +544,7 @@
 		"nombre": "TECNOLOGIA DE PRODUCTOS PESQUEROS",
 		"pcurso": [
 			{
-				"id": "A93YC",
+				"id": "G_A93YC",
 				"nombre": "MICROBIOLOGIA ALIMENTARIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -570,7 +570,7 @@
 		"nombre": "TOXICOLOGIA ALIMENTARIA",
 		"pcurso": [
 			{
-				"id": "A503",
+				"id": "G_A503",
 				"nombre": "MICROBIOLOGIA ALIME. I (CURSO)",
 				"actividad": "Grupo",
 				"obs": false

@@ -23,7 +23,7 @@
 				"obs": false
 			},
 			{
-				"id": "203",
+				"id": "G_203",
 				"nombre": "MATEMATICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -43,13 +43,13 @@
 				"obs": false
 			},
 			{
-				"id": "205",
+				"id": "G_205",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "104",
+				"id": "G_104",
 				"nombre": "MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -80,7 +80,7 @@
 				"obs": false
 			},
 			{
-				"id": "207",
+				"id": "G_207",
 				"nombre": "BIOQUIMICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -106,7 +106,7 @@
 				"obs": false
 			},
 			{
-				"id": "100",
+				"id": "G_100",
 				"nombre": "BIOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -207,7 +207,7 @@
 				"obs": false
 			},
 			{
-				"id": "101",
+				"id": "G_101",
 				"nombre": "FISICOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -219,7 +219,7 @@
 		"nombre": "BROMATOLOGIA Y NUTRICION (F.QUIMICA)",
 		"pcurso": [
 			{
-				"id": "206",
+				"id": "G_206",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -336,7 +336,7 @@
 				"obs": false
 			},
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "MATEMATICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -374,7 +374,7 @@
 				"obs": false
 			},
 			{
-				"id": "207",
+				"id": "G_207",
 				"nombre": "BIOQUIMICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -392,7 +392,7 @@
 				"obs": false
 			},
 			{
-				"id": "205",
+				"id": "G_205",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -406,7 +406,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "99",
+				"id": "G_99",
 				"nombre": "FISICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -418,7 +418,7 @@
 				"obs": false
 			},
 			{
-				"id": "101",
+				"id": "G_101",
 				"nombre": "FISICOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -437,7 +437,7 @@
 				"obs": false
 			},
 			{
-				"id": "104",
+				"id": "G_104",
 				"nombre": "MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -455,7 +455,7 @@
 		"nombre": "FISICOQUIMICA I",
 		"pcurso": [
 			{
-				"id": "201",
+				"id": "G_201",
 				"nombre": "MATEMATICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -493,7 +493,7 @@
 				"obs": false
 			},
 			{
-				"id": "203",
+				"id": "G_203",
 				"nombre": "MATEMATICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -543,7 +543,7 @@
 				"obs": false
 			},
 			{
-				"id": "206",
+				"id": "G_206",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -563,7 +563,7 @@
 				"obs": false
 			},
 			{
-				"id": "100",
+				"id": "G_100",
 				"nombre": "BIOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -593,7 +593,7 @@
 				"obs": false
 			},
 			{
-				"id": "206",
+				"id": "G_206",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -613,7 +613,7 @@
 				"obs": false
 			},
 			{
-				"id": "100",
+				"id": "G_100",
 				"nombre": "BIOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -644,19 +644,19 @@
 		"nombre": "GENETICA MOLECULAR I",
 		"pcurso": [
 			{
-				"id": "206",
+				"id": "G_206",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "99",
+				"id": "G_99",
 				"nombre": "FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "104",
+				"id": "G_104",
 				"nombre": "MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -670,7 +670,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "100",
+				"id": "G_100",
 				"nombre": "BIOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -720,19 +720,19 @@
 				"obs": false
 			},
 			{
-				"id": "206",
+				"id": "G_206",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "99",
+				"id": "G_99",
 				"nombre": "FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "104",
+				"id": "G_104",
 				"nombre": "MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -744,7 +744,7 @@
 				"obs": false
 			},
 			{
-				"id": "211",
+				"id": "G_211",
 				"nombre": "QUIMICA ORGANICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -758,7 +758,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "100",
+				"id": "G_100",
 				"nombre": "BIOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -847,19 +847,19 @@
 		"nombre": "MICROBIOLOGIA (F.Q.)",
 		"pcurso": [
 			{
-				"id": "206",
+				"id": "G_206",
 				"nombre": "BIOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "99",
+				"id": "G_99",
 				"nombre": "FISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "104",
+				"id": "G_104",
 				"nombre": "MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -879,7 +879,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "100",
+				"id": "G_100",
 				"nombre": "BIOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1008,7 +1008,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "101",
+				"id": "G_101",
 				"nombre": "FISICOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1026,7 +1026,7 @@
 		"nombre": "QUIMICA ORGANICA I",
 		"pcurso": [
 			{
-				"id": "205",
+				"id": "G_205",
 				"nombre": "FISICOQUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1078,7 +1078,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "7",
+				"id": "G_7",
 				"nombre": "FISICOQUIMICA I Y II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1148,7 +1148,7 @@
 		"nombre": "TRATAMIENTO DE DATOS Y DISEÑO EXP.CUALIT",
 		"pcurso": [
 			{
-				"id": "203",
+				"id": "G_203",
 				"nombre": "MATEMATICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1156,7 +1156,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "104",
+				"id": "G_104",
 				"nombre": "MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false

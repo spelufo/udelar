@@ -23,13 +23,13 @@
 				"obs": false
 			},
 			{
-				"id": "DO1",
+				"id": "G_DO1",
 				"nombre": "DIRECCIÓN ORQUESTAL I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -43,13 +43,13 @@
 				"obs": false
 			},
 			{
-				"id": "DO1",
+				"id": "G_DO1",
 				"nombre": "DIRECCIÓN ORQUESTAL I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -61,13 +61,13 @@
 		"nombre": "DIRECCIÓN DE CORO 1",
 		"pcurso": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -75,13 +75,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -174,7 +174,7 @@
 		"nombre": "DIRECCIÓN DE ORQUESTA 5",
 		"pcurso": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
@@ -204,7 +204,7 @@
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -212,13 +212,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -349,7 +349,7 @@
 		"nombre": "INSTRUMENTACIÓN 4",
 		"pcurso": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
@@ -367,7 +367,7 @@
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -375,13 +375,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -406,13 +406,13 @@
 		"nombre": "MÚSICA Y SOCIEDAD",
 		"pcurso": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false
@@ -420,13 +420,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "DOR1",
+				"id": "G_DOR1",
 				"nombre": "DIRECCION DE ORQUESTA 1ER CICL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "TC1",
+				"id": "G_TC1",
 				"nombre": "TRONCO COMÚN 1ER CICLO",
 				"actividad": "Grupo",
 				"obs": false

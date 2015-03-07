@@ -31,13 +31,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -134,7 +134,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -146,7 +146,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -158,19 +158,19 @@
 		"nombre": "COMPUTACION",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -178,7 +178,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -190,7 +190,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -202,13 +202,13 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -228,13 +228,13 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -268,7 +268,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1512",
+				"id": "G_1512",
 				"nombre": "DISEÑO LOGICO PLAN 91 O 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -280,19 +280,19 @@
 		"nombre": "DISEÑO LOGICO",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -339,7 +339,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
@@ -351,7 +351,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -363,13 +363,13 @@
 		"nombre": "ELECTROMAGNETISMO",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -383,13 +383,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -402,7 +402,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -414,13 +414,13 @@
 		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "1024E",
+				"id": "G_1024E",
 				"nombre": "CAL.3 O ANAL.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201E",
+				"id": "G_B201E",
 				"nombre": "MEC.II O MEC.NEWTONIANA",
 				"actividad": "Grupo",
 				"obs": false
@@ -447,13 +447,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -484,19 +484,19 @@
 		"nombre": "FISICA DE LOS DISPOSITIVOS DE EST.SOLIDO",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -504,7 +504,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1128",
+				"id": "G_1128",
 				"nombre": "ELECTROMAGNETISMO 89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -542,7 +542,7 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "2123",
+				"id": "G_2123",
 				"nombre": "CURSO O INSCRIPCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -670,7 +670,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1512E",
+				"id": "G_1512E",
 				"nombre": "DISEÑO LÓGICO P.91 Y P.97",
 				"actividad": "Grupo",
 				"obs": false
@@ -689,13 +689,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -707,7 +707,7 @@
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -719,7 +719,7 @@
 		"nombre": "MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
@@ -731,7 +731,7 @@
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -743,7 +743,7 @@
 				"obs": true
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -764,13 +764,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -783,13 +783,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -801,19 +801,19 @@
 		"nombre": "MECANICA DE LOS MATERIALES 1",
 		"pcurso": [
 			{
-				"id": "1022",
+				"id": "G_1022",
 				"nombre": "CALCULO 1 Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1030",
+				"id": "G_1030",
 				"nombre": "GEOM Y ALG 1 Y ALG LINEAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -834,13 +834,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -866,19 +866,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -891,19 +891,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -935,13 +935,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -972,19 +972,19 @@
 		"nombre": "RESISTENCIA DE MATERIALES 1N",
 		"pcurso": [
 			{
-				"id": "1022E",
+				"id": "G_1022E",
 				"nombre": "CALCULO 2 - ANÁL.MAT. I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1031C",
+				"id": "G_1031C",
 				"nombre": "GEOMETRIA 2 (CURSO)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1122",
+				"id": "G_C1122",
 				"nombre": "MEC. NEW. O MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1011,13 +1011,13 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1030,19 +1030,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B206",
+				"id": "G_B206",
 				"nombre": "ANALISIS COMPLEJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1054,7 +1054,7 @@
 		"nombre": "SISTEMAS LINEALES 1",
 		"pcurso": [
 			{
-				"id": "1028C",
+				"id": "G_1028C",
 				"nombre": "ANAL.II O ECUAC.DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -1062,7 +1062,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1401E",
+				"id": "G_1401E",
 				"nombre": "CURSO PLAN 97 O EXAM. PLAN 91",
 				"actividad": "Grupo",
 				"obs": false
@@ -1074,7 +1074,7 @@
 		"nombre": "SISTEMAS LINEALES 2",
 		"pcurso": [
 			{
-				"id": "1401C",
+				"id": "G_1401C",
 				"nombre": "SIST. LINEALES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1082,13 +1082,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "B206",
+				"id": "G_B206",
 				"nombre": "ANALISIS COMPLEJO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2043",
+				"id": "G_2043",
 				"nombre": "CURSO O INSCRIPC (1407)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1106,19 +1106,19 @@
 		"nombre": "TALLER LABORATORIO II (CIVIL)",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1137,19 +1137,19 @@
 		"nombre": "TALLER LABORATORIO II (ELECTRICA)",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1168,19 +1168,19 @@
 		"nombre": "TALLER LABORATORIO II (MECANICA)",
 		"pcurso": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1200,19 +1200,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B100",
+				"id": "G_B100",
 				"nombre": "ANALISIS I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B101",
+				"id": "G_B101",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B103",
+				"id": "G_B103",
 				"nombre": "MECANICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1225,19 +1225,19 @@
 		"pcurso": [],
 		"pexamen": [
 			{
-				"id": "B200",
+				"id": "G_B200",
 				"nombre": "ANALISIS MATEMATICO II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B201",
+				"id": "G_B201",
 				"nombre": "MECANICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "B202",
+				"id": "G_B202",
 				"nombre": "TERMOD.Y FIS.TERMICA",
 				"actividad": "Grupo",
 				"obs": false

@@ -56,7 +56,7 @@
 		"nombre": "ALGEBRA LINEAL II (F)",
 		"pcurso": [
 			{
-				"id": "F14",
+				"id": "G_F14",
 				"nombre": "ALGEBRA LINEAL I (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -64,7 +64,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "F15",
+				"id": "G_F15",
 				"nombre": "ALGEBRA LINEAL I (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -173,7 +173,7 @@
 		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (F)",
 		"pcurso": [
 			{
-				"id": "F12",
+				"id": "G_F12",
 				"nombre": "CALCULO DIF. I (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -181,7 +181,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "F13",
+				"id": "G_F13",
 				"nombre": "CALCULO DIF.I (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -199,13 +199,13 @@
 		"nombre": "CALCULO VECTORIAL Y ANALISIS COMPLEJO",
 		"pcurso": [
 			{
-				"id": "F18",
+				"id": "G_F18",
 				"nombre": "ALGEBRA LINEAL II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F16",
+				"id": "G_F16",
 				"nombre": "CALCULO DIF.II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -213,13 +213,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "F19",
+				"id": "G_F19",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F17",
+				"id": "G_F17",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -378,13 +378,13 @@
 		"nombre": "FISICA DE LA ATMOSFERA",
 		"pcurso": [
 			{
-				"id": "457",
+				"id": "G_457",
 				"nombre": "CALCULO VECTORIAL (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "456",
+				"id": "G_456",
 				"nombre": "TERMODINAMICA (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -392,7 +392,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "459",
+				"id": "G_459",
 				"nombre": "CALCULO VECTORIAL (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -404,7 +404,7 @@
 				"obs": false
 			},
 			{
-				"id": "458",
+				"id": "G_458",
 				"nombre": "TERMODINAMICA (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -455,13 +455,13 @@
 		"nombre": "FISICA MODERNA",
 		"pcurso": [
 			{
-				"id": "F18",
+				"id": "G_F18",
 				"nombre": "ALGEBRA LINEAL II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F16",
+				"id": "G_F16",
 				"nombre": "CALCULO DIF.II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -475,13 +475,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "F19",
+				"id": "G_F19",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F17",
+				"id": "G_F17",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -557,13 +557,13 @@
 		"nombre": "INTR. A ECUACIONES DIFERENCIALES",
 		"pcurso": [
 			{
-				"id": "F18",
+				"id": "G_F18",
 				"nombre": "ALGEBRA LINEAL II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F16",
+				"id": "G_F16",
 				"nombre": "CALCULO DIF.II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -571,13 +571,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "F19",
+				"id": "G_F19",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F17",
+				"id": "G_F17",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -595,13 +595,13 @@
 		"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (F)",
 		"pcurso": [
 			{
-				"id": "F18",
+				"id": "G_F18",
 				"nombre": "ALGEBRA LINEAL II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F16",
+				"id": "G_F16",
 				"nombre": "CALCULO DIF.II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -609,13 +609,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "F19",
+				"id": "G_F19",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F17",
+				"id": "G_F17",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -703,13 +703,13 @@
 		"nombre": "MECANICA CLASICA",
 		"pcurso": [
 			{
-				"id": "F18",
+				"id": "G_F18",
 				"nombre": "ALGEBRA LINEAL II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F16",
+				"id": "G_F16",
 				"nombre": "CALCULO DIF.II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -723,13 +723,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "F19",
+				"id": "G_F19",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F17",
+				"id": "G_F17",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -792,13 +792,13 @@
 		"nombre": "ONDAS",
 		"pcurso": [
 			{
-				"id": "F15",
+				"id": "G_F15",
 				"nombre": "ALGEBRA LINEAL I (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F13",
+				"id": "G_F13",
 				"nombre": "CALCULO DIF.I (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -979,13 +979,13 @@
 		"nombre": "QUIMICA GENERAL (2007 - 2013)",
 		"pcurso": [
 			{
-				"id": "F15",
+				"id": "G_F15",
 				"nombre": "ALGEBRA LINEAL I (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F13",
+				"id": "G_F13",
 				"nombre": "CALCULO DIF.I (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1209,7 +1209,7 @@
 		"nombre": "TERMODINAMICA",
 		"pcurso": [
 			{
-				"id": "F16",
+				"id": "G_F16",
 				"nombre": "CALCULO DIF.II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1223,7 +1223,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "F17",
+				"id": "G_F17",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false

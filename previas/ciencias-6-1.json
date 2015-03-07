@@ -17,7 +17,7 @@
 		"nombre": "ALGEBRA CONMUTATIVA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -37,7 +37,7 @@
 		"nombre": "ALGEBRA CONMUTATIVA Y CURVAS ALGEBRAICAS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -57,7 +57,7 @@
 		"nombre": "ALGEBRA HOMOLOGICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -103,13 +103,13 @@
 		"nombre": "ALGEBRA II",
 		"pcurso": [
 			{
-				"id": "MA18",
+				"id": "G_MA18",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA16",
+				"id": "G_MA16",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -135,7 +135,7 @@
 		"nombre": "ALGEBRA III",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -207,7 +207,7 @@
 		"nombre": "ALGEBRA LINEAL II (M)",
 		"pcurso": [
 			{
-				"id": "MA02",
+				"id": "G_MA02",
 				"nombre": "ALGEBRA LINEAL I (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -215,7 +215,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA14",
+				"id": "G_MA14",
 				"nombre": "ALGEBRA LINEAL I (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -233,7 +233,7 @@
 		"nombre": "ALGEBRAS DE INCIDENCIA DE CONJ.",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -259,7 +259,7 @@
 		"nombre": "ALGEBRAS DE OPERADORES",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -272,7 +272,7 @@
 		"nombre": "ANALISIS COMPLEJO II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -292,7 +292,7 @@
 		"nombre": "ANALISIS FUNCIONAL",
 		"pcurso": [
 			{
-				"id": "MA18",
+				"id": "G_MA18",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -324,7 +324,7 @@
 		"nombre": "ANALISIS FUNCIONAL II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -350,7 +350,7 @@
 		"nombre": "BIOFISICA (LIC.MAT. Y FISICA)",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -422,7 +422,7 @@
 		"nombre": "CALCULO DIFERENCIAL E INTEGRAL II (M)",
 		"pcurso": [
 			{
-				"id": "MA01",
+				"id": "G_MA01",
 				"nombre": "CALCULO DIF.I (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -430,7 +430,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA12",
+				"id": "G_MA12",
 				"nombre": "CALCUL0 DIF. I (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -448,7 +448,7 @@
 		"nombre": "CALCULO ESTOCASTICO",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -499,7 +499,7 @@
 		"nombre": "CALCULO LAMBDA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -512,7 +512,7 @@
 		"nombre": "CALCULO LAMBDA TIPADO",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -525,7 +525,7 @@
 		"nombre": "CALCULO NUMERICO",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -538,7 +538,7 @@
 		"nombre": "CAMPOS ALEATORIOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -564,7 +564,7 @@
 		"nombre": "COMPILACION DE LENGUAJES FUNC.PEREZOSOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -577,7 +577,7 @@
 		"nombre": "CONEXIONES EN FIBRADOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -590,7 +590,7 @@
 		"nombre": "DINAMICA DE FUNCIONES RACIONALES",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -603,7 +603,7 @@
 		"nombre": "DINAMICA DE HOMEOMORFISMOS EXPANSIVOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -616,7 +616,7 @@
 		"nombre": "ECONOMETRIA I",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -629,7 +629,7 @@
 		"nombre": "ECONOMIA I Y II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -642,7 +642,7 @@
 		"nombre": "ECONOMIA MATEMATICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -655,7 +655,7 @@
 		"nombre": "ECUACIONES DIF.EN DER.PARCIALES",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -675,7 +675,7 @@
 		"nombre": "ECUACIONES DIFERENCIALES II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -733,7 +733,7 @@
 		"nombre": "ELECTROMAGNETISMO I",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -746,7 +746,7 @@
 		"nombre": "ELECTROMAGNETISMO II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -816,7 +816,7 @@
 		"nombre": "ESTADISTICA NO PARAMETRICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -829,7 +829,7 @@
 		"nombre": "ESTADISTICA PARA DATOS FUNCIONALES",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -842,7 +842,7 @@
 		"nombre": "ESTRUCTURAS GEOMETRICAS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -946,7 +946,7 @@
 		"nombre": "FISICA MODERNA (MATEMATICA)",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -966,7 +966,7 @@
 		"nombre": "FLUJOS GEODESICOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -979,7 +979,7 @@
 		"nombre": "FUNDAMENTOS DE BIOLOGIA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -992,7 +992,7 @@
 		"nombre": "GEOMETRIA RIEMANNIANA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1005,7 +1005,7 @@
 		"nombre": "GRUPOS TOPOLOGICOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1087,7 +1087,7 @@
 		"nombre": "INT. A LA TEORIA DE GRUPOS ALGEBRAICOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1100,7 +1100,7 @@
 		"nombre": "INT.A LA T.ERGODICA DE BILLARES CAOTICOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1113,13 +1113,13 @@
 		"nombre": "INTR. A ECUACIONES DIFERENCIALES",
 		"pcurso": [
 			{
-				"id": "MA04",
+				"id": "G_MA04",
 				"nombre": "ALGEBRA LIN.II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA03",
+				"id": "G_MA03",
 				"nombre": "CALCULO DIF. II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1127,13 +1127,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA18",
+				"id": "G_MA18",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA16",
+				"id": "G_MA16",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1151,7 +1151,7 @@
 		"nombre": "INTR. A LA T. DE REPRES. DE GRUP Y ALGEB",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1164,7 +1164,7 @@
 		"nombre": "INTR.A LA GEOMETRIA ENUMERATIVA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1177,7 +1177,7 @@
 		"nombre": "INTR.A LA TOPOLOGIA ALGEBRAICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1190,13 +1190,13 @@
 		"nombre": "INTR.A LAS ECUACIONES DIFERENCIALES (M)",
 		"pcurso": [
 			{
-				"id": "MA04",
+				"id": "G_MA04",
 				"nombre": "ALGEBRA LIN.II (C)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA03",
+				"id": "G_MA03",
 				"nombre": "CALCULO DIF. II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1204,13 +1204,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA18",
+				"id": "G_MA18",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA16",
+				"id": "G_MA16",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1228,7 +1228,7 @@
 		"nombre": "INTROD. A LA GEOMETRIA SIMPLECTICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1241,7 +1241,7 @@
 		"nombre": "INTROD.A LA INVESTIGACION DE OPERACIONES",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1254,7 +1254,7 @@
 		"nombre": "INTROD.A LA TEORIA DE CONJUNTOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1274,7 +1274,7 @@
 		"nombre": "INTROD.A LA TEORIA DE MODELOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1294,7 +1294,7 @@
 		"nombre": "INTRODUC.A LA PROBABILIDAD Y ESTADISTICA",
 		"pcurso": [
 			{
-				"id": "MA03",
+				"id": "G_MA03",
 				"nombre": "CALCULO DIF. II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1302,7 +1302,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA16",
+				"id": "G_MA16",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1320,13 +1320,13 @@
 		"nombre": "INTRODUCCION  A LA GEOMETRIA DIFERENCIAL",
 		"pcurso": [
 			{
-				"id": "MA18",
+				"id": "G_MA18",
 				"nombre": "ALGEBRA LINEAL II (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA16",
+				"id": "G_MA16",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1377,7 +1377,7 @@
 		"nombre": "INTRODUCCION A LA TEORIA DE CATEGORIAS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1390,7 +1390,7 @@
 		"nombre": "INTRODUCCION A LA TEORIA DE GRAFOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1403,7 +1403,7 @@
 		"nombre": "INTRODUCCION A LA TOPOLOGIA",
 		"pcurso": [
 			{
-				"id": "MA03",
+				"id": "G_MA03",
 				"nombre": "CALCULO DIF. II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1411,7 +1411,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA16",
+				"id": "G_MA16",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1429,7 +1429,7 @@
 		"nombre": "INTRODUCCION A LOS METODOS NUMERICOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1481,7 +1481,7 @@
 		"nombre": "INTRODUCCION A LOS SISTEMAS DINAMICOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1507,13 +1507,13 @@
 		"nombre": "INTRODUCCION AL ANALISIS COMPLEJO",
 		"pcurso": [
 			{
-				"id": "MA14",
+				"id": "G_MA14",
 				"nombre": "ALGEBRA LINEAL I (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA12",
+				"id": "G_MA12",
 				"nombre": "CALCUL0 DIF. I (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1551,19 +1551,19 @@
 		"nombre": "INTRODUCCION AL ANALISIS REAL",
 		"pcurso": [
 			{
-				"id": "MA14",
+				"id": "G_MA14",
 				"nombre": "ALGEBRA LINEAL I (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA12",
+				"id": "G_MA12",
 				"nombre": "CALCUL0 DIF. I (E)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA03",
+				"id": "G_MA03",
 				"nombre": "CALCULO DIF. II (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1577,7 +1577,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA16",
+				"id": "G_MA16",
 				"nombre": "CALCULO DIF. II (E)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1595,7 +1595,7 @@
 		"nombre": "INVESTIGACION OPERATIVA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1608,7 +1608,7 @@
 		"nombre": "JACOBIANAS DE CURVAS PROYECTIVA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1621,7 +1621,7 @@
 		"nombre": "LOGICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1641,7 +1641,7 @@
 		"nombre": "LOGICA (TIPO A)",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1654,7 +1654,7 @@
 		"nombre": "LOGICA Y COMPUTABILIDAD",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1750,7 +1750,7 @@
 		"nombre": "MECANICA NEWTONIANA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1763,7 +1763,7 @@
 		"nombre": "OP.NO ACOTADOS EN ES.DE HILBERT",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1832,7 +1832,7 @@
 		"nombre": "PROCESOS GAUSSIANOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1845,7 +1845,7 @@
 		"nombre": "PROGRAMACION",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1858,7 +1858,7 @@
 		"nombre": "PROGRAMACION FUNCIONAL II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1871,7 +1871,7 @@
 		"nombre": "PROGRAMACION I",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1884,7 +1884,7 @@
 		"nombre": "REDES NEURONALES Y MEMORIAS DISTRIBUIDAS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1897,7 +1897,7 @@
 		"nombre": "REPRESENTACIONES DE GRUPOS FINITOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1910,7 +1910,7 @@
 		"nombre": "SEMIGRUPOS DE OPER. Y PROCESOS DE MARKON",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1923,7 +1923,7 @@
 		"nombre": "SISTEMAS DINAMICOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1936,7 +1936,7 @@
 		"nombre": "SISTEMAS DINAMICOS I",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1949,7 +1949,7 @@
 		"nombre": "SISTEMAS EXPANSIVOS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1962,7 +1962,7 @@
 		"nombre": "SISTEMAS LINEALES",
 		"pcurso": [
 			{
-				"id": "FI00",
+				"id": "G_FI00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1975,7 +1975,7 @@
 		"nombre": "SISTEMAS LINEALES I",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1988,7 +1988,7 @@
 		"nombre": "SISTEMAS LINEALES II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -2001,7 +2001,7 @@
 		"nombre": "TEOREMAS LIMITE EN T. DE LA PROBABIL. II",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -2014,7 +2014,7 @@
 		"nombre": "TEORIA AXIOMATICA DE CONJUNTOS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -2027,7 +2027,7 @@
 		"nombre": "TEORIA DE JUEGOS Y PROGRAMAC. FUNCIONAL",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -2040,7 +2040,7 @@
 		"nombre": "TEORIA DE NUMEROS",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -2053,7 +2053,7 @@
 		"nombre": "TEORIA ERGODICA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -2104,7 +2104,7 @@
 		"nombre": "TERMODINAMICA APLICADA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -2117,7 +2117,7 @@
 		"nombre": "TOPICOS EN ALGEBRA Y GEOMETRIA",
 		"pcurso": [
 			{
-				"id": "MA00",
+				"id": "G_MA00",
 				"nombre": "SEGUNDO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false

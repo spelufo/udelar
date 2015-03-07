@@ -4,7 +4,7 @@
 		"nombre": "CALCULO 1",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -18,7 +18,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -30,7 +30,7 @@
 		"nombre": "CALCULO 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -44,7 +44,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -74,7 +74,7 @@
 				"obs": true
 			},
 			{
-				"id": "MA01",
+				"id": "G_MA01",
 				"nombre": "CALCULO 1 O CAL.DIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
@@ -94,7 +94,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA05E",
+				"id": "G_MA05E",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -124,7 +124,7 @@
 				"obs": true
 			},
 			{
-				"id": "MA02C",
+				"id": "G_MA02C",
 				"nombre": "CALCULO 1C Y CALCULO2E",
 				"actividad": "Grupo",
 				"obs": false
@@ -136,7 +136,7 @@
 				"obs": true
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -156,31 +156,31 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "MA01E",
+				"id": "G_MA01E",
 				"nombre": "CALCULO 1 O CALDIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA02E",
+				"id": "G_MA02E",
 				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CO01",
+				"id": "G_CO01",
 				"nombre": "COMPUTACION",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA04E",
+				"id": "G_MA04E",
 				"nombre": "GEOMETRIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -231,7 +231,7 @@
 				"obs": true
 			},
 			{
-				"id": "MA02C",
+				"id": "G_MA02C",
 				"nombre": "CALCULO 1C Y CALCULO2E",
 				"actividad": "Grupo",
 				"obs": false
@@ -249,13 +249,13 @@
 				"obs": true
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA04E",
+				"id": "G_MA04E",
 				"nombre": "GEOMETRIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -287,13 +287,13 @@
 		"nombre": "ELECTROMAGNETISMO",
 		"pcurso": [
 			{
-				"id": "MA02E",
+				"id": "G_MA02E",
 				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CA03C",
+				"id": "G_CA03C",
 				"nombre": "CALCULO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -311,13 +311,13 @@
 				"obs": true
 			},
 			{
-				"id": "FI01E",
+				"id": "G_FI01E",
 				"nombre": "FISICA GENERAL 1 O FISICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FI02E",
+				"id": "G_FI02E",
 				"nombre": "FISICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -329,13 +329,13 @@
 				"obs": true
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA04E",
+				"id": "G_MA04E",
 				"nombre": "GEOMETRIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -366,7 +366,7 @@
 				"obs": true
 			},
 			{
-				"id": "1620A",
+				"id": "G_1620A",
 				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -385,7 +385,7 @@
 				"obs": true
 			},
 			{
-				"id": "1620A",
+				"id": "G_1620A",
 				"nombre": "PRINCIPIOS DE QUIMICA GENERAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -397,7 +397,7 @@
 		"nombre": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "CA03E",
+				"id": "G_CA03E",
 				"nombre": "CALCULO 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -415,7 +415,7 @@
 				"obs": true
 			},
 			{
-				"id": "FI04E",
+				"id": "G_FI04E",
 				"nombre": "MECANICA NEWTONIANA",
 				"actividad": "Grupo",
 				"obs": false
@@ -435,13 +435,13 @@
 		"nombre": "ELEMENTOS DE METEOROLOGIA Y CLIMA",
 		"pcurso": [
 			{
-				"id": "MA01",
+				"id": "G_MA01",
 				"nombre": "CALCULO 1 O CAL.DIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FI01",
+				"id": "G_FI01",
 				"nombre": "FIS.GRAL. 1 O FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -449,7 +449,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "MA01E",
+				"id": "G_MA01E",
 				"nombre": "CALCULO 1 O CALDIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
@@ -461,7 +461,7 @@
 				"obs": false
 			},
 			{
-				"id": "FI01E",
+				"id": "G_FI01E",
 				"nombre": "FISICA GENERAL 1 O FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -473,7 +473,7 @@
 		"nombre": "FISICA 1",
 		"pcurso": [
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -487,7 +487,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -499,13 +499,13 @@
 		"nombre": "FISICA 2",
 		"pcurso": [
 			{
-				"id": "CALYC",
+				"id": "G_CALYC",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FIS1C",
+				"id": "G_FIS1C",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -513,13 +513,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "CALYE",
+				"id": "G_CALYE",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -537,19 +537,19 @@
 		"nombre": "FISICA 3",
 		"pcurso": [
 			{
-				"id": "CALYC",
+				"id": "G_CALYC",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FIS",
+				"id": "G_FIS",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -557,13 +557,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "CALYE",
+				"id": "G_CALYE",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -575,7 +575,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -587,19 +587,19 @@
 		"nombre": "FISICA DEL SISTEMA CLIMATICO",
 		"pcurso": [
 			{
-				"id": "MA01E",
+				"id": "G_MA01E",
 				"nombre": "CALCULO 1 O CALDIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA02E",
+				"id": "G_MA02E",
 				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FI01E",
+				"id": "G_FI01E",
 				"nombre": "FISICA GENERAL 1 O FISICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -619,7 +619,7 @@
 		"nombre": "FISICA EXPERIMENTAL 1",
 		"pcurso": [
 			{
-				"id": "G1124",
+				"id": "G_G1124",
 				"nombre": "FIS1 (E) O FIS2 (C)",
 				"actividad": "Grupo",
 				"obs": false
@@ -644,13 +644,13 @@
 		"nombre": "FISICA EXPERIMENTAL 2",
 		"pcurso": [
 			{
-				"id": "F3C",
+				"id": "G_F3C",
 				"nombre": "FIS.3 O FIS. GRAL.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FE1",
+				"id": "G_FE1",
 				"nombre": "FIS.EXP.1 O LAB.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -720,19 +720,19 @@
 		"nombre": "FISICA TERMICA",
 		"pcurso": [
 			{
-				"id": "MA01E",
+				"id": "G_MA01E",
 				"nombre": "CALCULO 1 O CALDIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FI01E",
+				"id": "G_FI01E",
 				"nombre": "FISICA GENERAL 1 O FISICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FI02C",
+				"id": "G_FI02C",
 				"nombre": "FISICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -776,7 +776,7 @@
 		"nombre": "FUND. DE ING. Y SALUD AMBIENTAL",
 		"pcurso": [
 			{
-				"id": "2250C",
+				"id": "G_2250C",
 				"nombre": "ELEMENTOS DE ING.AMBIENTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -802,7 +802,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -816,7 +816,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -828,7 +828,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -842,7 +842,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -854,13 +854,13 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
 		"pcurso": [
 			{
-				"id": "MA01C",
+				"id": "G_MA01C",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -874,13 +874,13 @@
 				"obs": false
 			},
 			{
-				"id": "MA06E",
+				"id": "G_MA06E",
 				"nombre": "MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -892,13 +892,13 @@
 		"nombre": "INESTABILIDADES EN FLUIDOS",
 		"pcurso": [
 			{
-				"id": "MA05C",
+				"id": "G_MA05C",
 				"nombre": "ECUACIONES DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "YMEC",
+				"id": "G_YMEC",
 				"nombre": "ELEM.MEC.DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -924,7 +924,7 @@
 				"obs": true
 			},
 			{
-				"id": "FI04C",
+				"id": "G_FI04C",
 				"nombre": "VIBRACIONES Y ONDAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -950,7 +950,7 @@
 				"obs": true
 			},
 			{
-				"id": "FI04C",
+				"id": "G_FI04C",
 				"nombre": "VIBRACIONES Y ONDAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -983,7 +983,7 @@
 		"nombre": "MECANICA DE LOS FLUIDOS",
 		"pcurso": [
 			{
-				"id": "MA05C",
+				"id": "G_MA05C",
 				"nombre": "ECUACIONES DIFERENCIALES",
 				"actividad": "Grupo",
 				"obs": false
@@ -995,13 +995,13 @@
 				"obs": false
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA04E",
+				"id": "G_MA04E",
 				"nombre": "GEOMETRIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1039,25 +1039,25 @@
 		"nombre": "MECANICA NEWTONIANA",
 		"pcurso": [
 			{
-				"id": "MA01E",
+				"id": "G_MA01E",
 				"nombre": "CALCULO 1 O CALDIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FI01E",
+				"id": "G_FI01E",
 				"nombre": "FISICA GENERAL 1 O FISICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FI02C",
+				"id": "G_FI02C",
 				"nombre": "FISICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1133,25 +1133,25 @@
 		"nombre": "METODOS NUMERICOS",
 		"pcurso": [
 			{
-				"id": "MA01E",
+				"id": "G_MA01E",
 				"nombre": "CALCULO 1 O CALDIF.E INT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA02E",
+				"id": "G_MA02E",
 				"nombre": "CALCULO 2 O CAL.DIF.E INT.2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA04E",
+				"id": "G_MA04E",
 				"nombre": "GEOMETRIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1163,7 +1163,7 @@
 				"obs": true
 			},
 			{
-				"id": "CO01E",
+				"id": "G_CO01E",
 				"nombre": "PROGRAMACION O COMPUTACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -1246,13 +1246,13 @@
 				"obs": true
 			},
 			{
-				"id": "MA02C",
+				"id": "G_MA02C",
 				"nombre": "CALCULO 1C Y CALCULO2E",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "MA03E",
+				"id": "G_MA03E",
 				"nombre": "GEOMETRIA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1285,19 +1285,19 @@
 		"nombre": "VIBRACIONES Y ONDAS",
 		"pcurso": [
 			{
-				"id": "1025",
+				"id": "G_1025",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1153",
+				"id": "G_1153",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1309,7 +1309,7 @@
 				"obs": true
 			},
 			{
-				"id": "1122C",
+				"id": "G_1122C",
 				"nombre": "MEC.NEWT. O MEC.II",
 				"actividad": "Grupo",
 				"obs": false

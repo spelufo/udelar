@@ -44,37 +44,37 @@
 		"nombre": "C.E.F.A.",
 		"pcurso": [
 			{
-				"id": "GO7",
+				"id": "G_GO7",
 				"nombre": "GRUPO BIOLOGIA DEL DESARROLLO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO4",
+				"id": "G_GO4",
 				"nombre": "GRUPO NEUROBIOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO2",
+				"id": "G_GO2",
 				"nombre": "GRUPO PARA BIOLOGIA CELULAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO3",
+				"id": "G_GO3",
 				"nombre": "GRUPO PARA BIOLOGIA TISULAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO6",
+				"id": "G_GO6",
 				"nombre": "GRUPO PARA CARDIOVASCULAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO5",
+				"id": "G_GO5",
 				"nombre": "GRUPO PARA LOCOMOTOR",
 				"actividad": "Grupo",
 				"obs": false
@@ -94,7 +94,7 @@
 		"nombre": "C.I.M.I.",
 		"pcurso": [
 			{
-				"id": "G9",
+				"id": "G_G9",
 				"nombre": "GRUPO CURSO CEFA",
 				"actividad": "Grupo",
 				"obs": false
@@ -114,13 +114,13 @@
 		"nombre": "CICLIPA I - MEDICO QUIRURGICO",
 		"pcurso": [
 			{
-				"id": "G09C",
+				"id": "G_G09C",
 				"nombre": "GRUPO CEFA CURSO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO10",
+				"id": "G_GO10",
 				"nombre": "GRUPO PARA CIMI",
 				"actividad": "Grupo",
 				"obs": false
@@ -140,7 +140,7 @@
 		"nombre": "CICLIPA II - MEDICO QUIRURGICO",
 		"pcurso": [
 			{
-				"id": "G11",
+				"id": "G_G11",
 				"nombre": "GRUPO CURSO CICLIPA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -154,7 +154,7 @@
 				"obs": false
 			},
 			{
-				"id": "G09C",
+				"id": "G_G09C",
 				"nombre": "GRUPO CEFA CURSO",
 				"actividad": "Grupo",
 				"obs": false
@@ -231,7 +231,7 @@
 		"nombre": "CICLO DE INTERNADO OBLIGATORIO",
 		"pcurso": [
 			{
-				"id": "GO13",
+				"id": "G_GO13",
 				"nombre": "GRUPO PARA MATERNO",
 				"actividad": "Grupo",
 				"obs": false
@@ -296,19 +296,19 @@
 				"obs": true
 			},
 			{
-				"id": "G3",
+				"id": "G_G3",
 				"nombre": "GRUPO CURSO BIOLOGIA TISULAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G5",
+				"id": "G_G5",
 				"nombre": "GRUPO CURSO LOCOMOTOR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G4",
+				"id": "G_G4",
 				"nombre": "GRUPO CURSO NEUROBIOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -340,7 +340,7 @@
 				"obs": true
 			},
 			{
-				"id": "G4",
+				"id": "G_G4",
 				"nombre": "GRUPO CURSO NEUROBIOLOGIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -366,7 +366,7 @@
 		"nombre": "ESFUNO-BIOLOGIA CELULAR",
 		"pcurso": [
 			{
-				"id": "GO1",
+				"id": "G_GO1",
 				"nombre": "CICLO BÁSICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -386,7 +386,7 @@
 		"nombre": "ESFUNO-BIOLOGIA TISULAR",
 		"pcurso": [
 			{
-				"id": "GO2",
+				"id": "G_GO2",
 				"nombre": "GRUPO PARA BIOLOGIA CELULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -406,7 +406,7 @@
 		"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
 		"pcurso": [
 			{
-				"id": "GR15",
+				"id": "G_GR15",
 				"nombre": "GRUPO CURSO ANATOMIA ESPLACNIC",
 				"actividad": "Grupo",
 				"obs": false
@@ -426,7 +426,7 @@
 		"nombre": "ESFUNO-NEUROBIOLOGIA",
 		"pcurso": [
 			{
-				"id": "G3",
+				"id": "G_G3",
 				"nombre": "GRUPO CURSO BIOLOGIA TISULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -452,7 +452,7 @@
 				"obs": true
 			},
 			{
-				"id": "G6",
+				"id": "G_G6",
 				"nombre": "GRUPO CURSO CARDIOVASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -484,7 +484,7 @@
 				"obs": true
 			},
 			{
-				"id": "G7",
+				"id": "G_G7",
 				"nombre": "GRUPO CURSO REGULACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -522,13 +522,13 @@
 				"obs": false
 			},
 			{
-				"id": "G3",
+				"id": "G_G3",
 				"nombre": "GRUPO CURSO BIOLOGIA TISULAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO5",
+				"id": "G_GO5",
 				"nombre": "GRUPO PARA LOCOMOTOR",
 				"actividad": "Grupo",
 				"obs": false

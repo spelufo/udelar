@@ -262,7 +262,7 @@
 				"obs": false
 			},
 			{
-				"id": "GR015",
+				"id": "G_GR015",
 				"nombre": "GRUPO DE PREVIAS PARA 015",
 				"actividad": "Grupo",
 				"obs": false
@@ -302,7 +302,7 @@
 		"nombre": "ESFUNO-BIOLOGIA CELULAR",
 		"pcurso": [
 			{
-				"id": "001",
+				"id": "G_001",
 				"nombre": "CICLO BÁSICO",
 				"actividad": "Grupo",
 				"obs": false
@@ -342,7 +342,7 @@
 		"nombre": "ESFUNO-CARDIOVASCULAR Y RESPIRATORIO",
 		"pcurso": [
 			{
-				"id": "GRC",
+				"id": "G_GRC",
 				"nombre": "GRUPO PARA CARDIOVASCULAR",
 				"actividad": "Grupo",
 				"obs": false
@@ -434,13 +434,13 @@
 				"obs": false
 			},
 			{
-				"id": "G003",
+				"id": "G_G003",
 				"nombre": "GRUPO BIOLOGIA TISULAR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GO5",
+				"id": "G_GO5",
 				"nombre": "GRUPO PARA LOCOMOTOR",
 				"actividad": "Grupo",
 				"obs": false

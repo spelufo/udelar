@@ -4,13 +4,13 @@
 		"nombre": "ANALISIS INTEGR.DE UN PERFIL FOSILIFERO",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -23,13 +23,13 @@
 		"nombre": "ANTROPOLOGIA BIOLOGICA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -42,13 +42,13 @@
 		"nombre": "BIOGEOGRAFIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -88,13 +88,13 @@
 		"nombre": "BIOLOGIA Y FERTILIDAD DE SUELO",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -107,13 +107,13 @@
 		"nombre": "GEOLOGIA HISTORICA",
 		"pcurso": [
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GL00",
+				"id": "G_GL00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -133,13 +133,13 @@
 		"nombre": "HISTORIA DE LA TIERRA Y DE LA VIDA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -152,7 +152,7 @@
 		"nombre": "ICTIOLOGIA NEOTROPICAL (HASTA 2009)",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -170,13 +170,13 @@
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "130",
+				"id": "G_130",
 				"nombre": "VERTEBRADOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -189,13 +189,13 @@
 		"nombre": "INTRODUCCION A LA BIOMECANICA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -208,13 +208,13 @@
 		"nombre": "INTRODUCCION A LA ETOLOGIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -234,13 +234,13 @@
 		"nombre": "INTRODUCCION A LA GEOLOGIA I",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -260,13 +260,13 @@
 		"nombre": "MACROEVOLUCION",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -279,13 +279,13 @@
 		"nombre": "MAMIFEROS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -298,13 +298,13 @@
 		"nombre": "OSTEOLOGIA COMPARADA DE LOS MAMIFEROS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -324,13 +324,13 @@
 		"nombre": "PALEOBIOLOGIA Y BIOMECANICA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -343,13 +343,13 @@
 		"nombre": "PALINOLOGIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -362,13 +362,13 @@
 		"nombre": "PASANTIA EN PALEONTOLOGIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -381,13 +381,13 @@
 		"nombre": "RECONST PALEOAMBIENTAL EN EL CUATERNARIO",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -400,13 +400,13 @@
 		"nombre": "ROCAS SEDIMENTARIAS",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -419,7 +419,7 @@
 		"nombre": "SEDIMENTOLOGIA",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -431,7 +431,7 @@
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false
@@ -444,13 +444,13 @@
 		"nombre": "VERTEBRADOS (ANUAL)",
 		"pcurso": [
 			{
-				"id": "BL00",
+				"id": "G_BL00",
 				"nombre": "CUARTO SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "BL21",
+				"id": "G_BL21",
 				"nombre": "PALEONTOLOGIA (E)-EVOLUCION",
 				"actividad": "Grupo",
 				"obs": false

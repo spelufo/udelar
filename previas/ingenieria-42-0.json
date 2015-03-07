@@ -72,7 +72,7 @@
 				"obs": false
 			},
 			{
-				"id": "1222",
+				"id": "G_1222",
 				"nombre": "INT.DERECHO O ELEM DERECHO",
 				"actividad": "Grupo",
 				"obs": false
@@ -90,13 +90,13 @@
 				"obs": true
 			},
 			{
-				"id": "1910",
+				"id": "G_1910",
 				"nombre": "AGRIMENSURA LEGAL1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1222",
+				"id": "G_1222",
 				"nombre": "INT.DERECHO O ELEM DERECHO",
 				"actividad": "Grupo",
 				"obs": false
@@ -104,7 +104,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1910E",
+				"id": "G_1910E",
 				"nombre": "AGRIMENSURA LEGAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -122,7 +122,7 @@
 		"nombre": "AGRIMENSURA LEGAL 3",
 		"pcurso": [
 			{
-				"id": "1910E",
+				"id": "G_1910E",
 				"nombre": "AGRIMENSURA LEGAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -142,7 +142,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1913E",
+				"id": "G_1913E",
 				"nombre": "AGRIMENSURA LEGAL 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -160,13 +160,13 @@
 		"nombre": "AGRIMENSURA LEGAL 4",
 		"pcurso": [
 			{
-				"id": "1913E",
+				"id": "G_1913E",
 				"nombre": "AGRIMENSURA LEGAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1817",
+				"id": "G_1817",
 				"nombre": "AGRIMENSURA LEGAL 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -174,7 +174,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1817E",
+				"id": "G_1817E",
 				"nombre": "AGRIMENSURA LEGAL 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -198,19 +198,19 @@
 				"obs": true
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1125",
+				"id": "G_1125",
 				"nombre": "INT. A LA OPTICA O FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1038",
+				"id": "G_1038",
 				"nombre": "SISTEMAS DE REFERENCIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -224,19 +224,19 @@
 				"obs": false
 			},
 			{
-				"id": "CALCA",
+				"id": "G_CALCA",
 				"nombre": "CALCULO 2 OANAL.MAT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GEOM",
+				"id": "G_GEOM",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1038E",
+				"id": "G_1038E",
 				"nombre": "SISTEMAS DE REFERENCIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -262,7 +262,7 @@
 				"obs": false
 			},
 			{
-				"id": "1224",
+				"id": "G_1224",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -286,13 +286,13 @@
 				"obs": false
 			},
 			{
-				"id": "C1715",
+				"id": "G_C1715",
 				"nombre": "INTRODUCCION A LA CONSTRUCCION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1611E",
+				"id": "G_1611E",
 				"nombre": "INTRODUCCION AL ANALISIS RURAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -300,7 +300,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1614E",
+				"id": "G_1614E",
 				"nombre": "AVALUACIONES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -312,13 +312,13 @@
 				"obs": false
 			},
 			{
-				"id": "1616",
+				"id": "G_1616",
 				"nombre": "ELEMENTOS DE CONSTRUCCION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1611E",
+				"id": "G_1611E",
 				"nombre": "INTRODUCCION AL ANALISIS RURAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -330,7 +330,7 @@
 		"nombre": "AVALUACIONES 3",
 		"pcurso": [
 			{
-				"id": "1618",
+				"id": "G_1618",
 				"nombre": "AVALUACIONES 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -338,7 +338,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1618E",
+				"id": "G_1618E",
 				"nombre": "AVALUACIONES 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -356,7 +356,7 @@
 		"nombre": "CALCULO 1",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -370,7 +370,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -382,7 +382,7 @@
 		"nombre": "CALCULO 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -396,7 +396,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOC1",
+				"id": "G_NOC1",
 				"nombre": "NO ACUMULA CON CALCULO 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -426,7 +426,7 @@
 				"obs": true
 			},
 			{
-				"id": "C1020",
+				"id": "G_C1020",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -446,7 +446,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1020E",
+				"id": "G_1020E",
 				"nombre": "CALCULO 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -464,7 +464,7 @@
 		"nombre": "CALCULO 3",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -482,7 +482,7 @@
 				"obs": true
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -508,13 +508,13 @@
 				"obs": true
 			},
 			{
-				"id": "1807",
+				"id": "G_1807",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1422",
+				"id": "G_1422",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -528,13 +528,13 @@
 				"obs": false
 			},
 			{
-				"id": "1807E",
+				"id": "G_1807E",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1422E",
+				"id": "G_1422E",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -546,7 +546,7 @@
 		"nombre": "CATASTRO",
 		"pcurso": [
 			{
-				"id": "1817",
+				"id": "G_1817",
 				"nombre": "AGRIMENSURA LEGAL 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -558,13 +558,13 @@
 				"obs": true
 			},
 			{
-				"id": "1807",
+				"id": "G_1807",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1509",
+				"id": "G_1509",
 				"nombre": "TOPOGRAFIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -572,13 +572,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1913E",
+				"id": "G_1913E",
 				"nombre": "AGRIMENSURA LEGAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1614E",
+				"id": "G_1614E",
 				"nombre": "AVALUACIONES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -706,7 +706,7 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "CA1Y2",
+				"id": "G_CA1Y2",
 				"nombre": "CAL 1 Y 2 Y ANAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -718,7 +718,7 @@
 				"obs": true
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -738,7 +738,7 @@
 		"nombre": "COMPUTACION 1",
 		"pcurso": [
 			{
-				"id": "CA1Y2",
+				"id": "G_CA1Y2",
 				"nombre": "CAL 1 Y 2 Y ANAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -750,7 +750,7 @@
 				"obs": true
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -770,19 +770,19 @@
 		"nombre": "DISEÑO CATASTRAL",
 		"pcurso": [
 			{
-				"id": "1618",
+				"id": "G_1618",
 				"nombre": "AVALUACIONES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1619",
+				"id": "G_1619",
 				"nombre": "CATASTRO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1317",
+				"id": "G_1317",
 				"nombre": "SIST. DE INFOR. GEOGRAFICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -790,13 +790,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1618E",
+				"id": "G_1618E",
 				"nombre": "AVALUACIONES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1619E",
+				"id": "G_1619E",
 				"nombre": "CATASTRO",
 				"actividad": "Grupo",
 				"obs": false
@@ -808,7 +808,7 @@
 				"obs": false
 			},
 			{
-				"id": "1317E",
+				"id": "G_1317E",
 				"nombre": "SISTEMAS DE INFOR.GEOGRAFICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -858,7 +858,7 @@
 				"obs": true
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -870,7 +870,7 @@
 				"obs": true
 			},
 			{
-				"id": "1000",
+				"id": "G_1000",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -890,7 +890,7 @@
 		"nombre": "ELEM.DE GEOLOGIA PARA LA PLANIF.TERRIT.",
 		"pcurso": [
 			{
-				"id": "1806",
+				"id": "G_1806",
 				"nombre": "FOTOINTERPRETACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -922,7 +922,7 @@
 		"nombre": "FISICA 1",
 		"pcurso": [
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -936,7 +936,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOFG1",
+				"id": "G_NOFG1",
 				"nombre": "NO ACUMULA CON FISICA 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -948,13 +948,13 @@
 		"nombre": "FISICA 2",
 		"pcurso": [
 			{
-				"id": "1020C",
+				"id": "G_1020C",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1C",
+				"id": "G_F1C",
 				"nombre": "FISICA 1 O FISICA GRAL 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -962,13 +962,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1022",
+				"id": "G_1022",
 				"nombre": "CALCULO 1 Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -986,19 +986,19 @@
 		"nombre": "FISICA 3",
 		"pcurso": [
 			{
-				"id": "1020C",
+				"id": "G_1020C",
 				"nombre": "CALCULO 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "FIS",
+				"id": "G_FIS",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -1006,13 +1006,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1022",
+				"id": "G_1022",
 				"nombre": "CALCULO 1 Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "F1E",
+				"id": "G_F1E",
 				"nombre": "FISICA 1 O FISICA GRAL.1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1024,7 +1024,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOF3",
+				"id": "G_NOF3",
 				"nombre": "NO ACUMULA CON FISICA 3",
 				"actividad": "Grupo",
 				"obs": true
@@ -1144,7 +1144,7 @@
 		"nombre": "FOTOGRAMETRIA AVANZADA",
 		"pcurso": [
 			{
-				"id": "1807",
+				"id": "G_1807",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1158,7 +1158,7 @@
 				"obs": false
 			},
 			{
-				"id": "1807E",
+				"id": "G_1807E",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1182,7 +1182,7 @@
 				"obs": false
 			},
 			{
-				"id": "1527",
+				"id": "G_1527",
 				"nombre": "TOPOGRAFIA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1196,7 +1196,7 @@
 				"obs": false
 			},
 			{
-				"id": "1806E",
+				"id": "G_1806E",
 				"nombre": "FOTOINTERPRETACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -1208,7 +1208,7 @@
 		"nombre": "FOTOINTERPRETACION",
 		"pcurso": [
 			{
-				"id": "E1121",
+				"id": "G_E1121",
 				"nombre": "FIS.GRAL 2 O ELECTROMAGNETISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -1220,13 +1220,13 @@
 				"obs": true
 			},
 			{
-				"id": "1220C",
+				"id": "G_1220C",
 				"nombre": "TALLER DE DISEÑO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521",
+				"id": "G_1521",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1246,7 +1246,7 @@
 		"nombre": "GEODESIA 1",
 		"pcurso": [
 			{
-				"id": "1612",
+				"id": "G_1612",
 				"nombre": "ASTRONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1264,7 +1264,7 @@
 				"obs": true
 			},
 			{
-				"id": "1509",
+				"id": "G_1509",
 				"nombre": "TOPOGRAFIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1272,13 +1272,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1612E",
+				"id": "G_1612E",
 				"nombre": "ASTRONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1411C",
+				"id": "G_1411C",
 				"nombre": "COMPUTACION 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1290,7 +1290,7 @@
 				"obs": false
 			},
 			{
-				"id": "1509E",
+				"id": "G_1509E",
 				"nombre": "TOPOGRAFIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1320,7 +1320,7 @@
 				"obs": true
 			},
 			{
-				"id": "1524",
+				"id": "G_1524",
 				"nombre": "TOPOGRAFIA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1328,7 +1328,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1411",
+				"id": "G_1411",
 				"nombre": "COMPUT. 1 (E)  89 Y 97",
 				"actividad": "Grupo",
 				"obs": false
@@ -1340,13 +1340,13 @@
 				"obs": false
 			},
 			{
-				"id": "1418E",
+				"id": "G_1418E",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1524E",
+				"id": "G_1524E",
 				"nombre": "TOPOGRAFIA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1358,7 +1358,7 @@
 		"nombre": "GEODESIA 3",
 		"pcurso": [
 			{
-				"id": "1422",
+				"id": "G_1422",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1372,7 +1372,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1422E",
+				"id": "G_1422E",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1390,19 +1390,19 @@
 		"nombre": "GEOFISICA",
 		"pcurso": [
 			{
-				"id": "1151E",
+				"id": "G_1151E",
 				"nombre": "FISICA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1153E",
+				"id": "G_1153E",
 				"nombre": "FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1422",
+				"id": "G_1422",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1416,7 +1416,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1422E",
+				"id": "G_1422E",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -1434,7 +1434,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1448,7 +1448,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1460,7 +1460,7 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)",
 		"pcurso": [
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1474,7 +1474,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG1",
+				"id": "G_NOG1",
 				"nombre": "NO ACUMULA CON GAL 1",
 				"actividad": "Grupo",
 				"obs": true
@@ -1486,13 +1486,13 @@
 		"nombre": "GEOMETRIA Y ALGEBRA LINEAL 2",
 		"pcurso": [
 			{
-				"id": "1030C",
+				"id": "G_1030C",
 				"nombre": "GEOM. 1 SEM. O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -1500,7 +1500,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1030E",
+				"id": "G_1030E",
 				"nombre": "GEOM. 1 SEM O ANUAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1512,7 +1512,7 @@
 				"obs": false
 			},
 			{
-				"id": "NOG2",
+				"id": "G_NOG2",
 				"nombre": "NO ACUMULA CON GAL 2",
 				"actividad": "Grupo",
 				"obs": true
@@ -1531,7 +1531,7 @@
 				"obs": false
 			},
 			{
-				"id": "1526E",
+				"id": "G_1526E",
 				"nombre": "TEORIA DE INSTRUMENTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1555,7 +1555,7 @@
 				"obs": true
 			},
 			{
-				"id": "1806",
+				"id": "G_1806",
 				"nombre": "FOTOINTERPRETACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -1575,13 +1575,13 @@
 		"nombre": "INT. A LA OPTICA",
 		"pcurso": [
 			{
-				"id": "B301",
+				"id": "G_B301",
 				"nombre": "FIS.GRAL.2  ELECTROMAG.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP3",
+				"id": "G_CP3",
 				"nombre": "MECANICA I O FIS.GRAL. 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1634,7 +1634,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1224",
+				"id": "G_1224",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1665,25 +1665,25 @@
 		"nombre": "MECANICA NEWTONIANA",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1022",
+				"id": "G_1022",
 				"nombre": "CALCULO 1 Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1120",
+				"id": "G_1120",
 				"nombre": "FISICA GRAL1 O MECANICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "C1121",
+				"id": "G_C1121",
 				"nombre": "FISICAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1728,7 +1728,7 @@
 		"nombre": "PERCEPCION REMOTA",
 		"pcurso": [
 			{
-				"id": "1807",
+				"id": "G_1807",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1736,7 +1736,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1807E",
+				"id": "G_1807E",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1780,25 +1780,25 @@
 		"nombre": "PLANIFICACION",
 		"pcurso": [
 			{
-				"id": "1910",
+				"id": "G_1910",
 				"nombre": "AGRIMENSURA LEGAL1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1224",
+				"id": "G_1224",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1806E",
+				"id": "G_1806E",
 				"nombre": "FOTOINTERPRETACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1611",
+				"id": "G_1611",
 				"nombre": "INTRODUCCION AL ANALISIS RURAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1812,19 +1812,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "1910E",
+				"id": "G_1910E",
 				"nombre": "AGRIMENSURA LEGAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1228",
+				"id": "G_1228",
 				"nombre": "CIENCIA,TEC. Y SOCIEDAD",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1611E",
+				"id": "G_1611E",
 				"nombre": "INTRODUCCION AL ANALISIS RURAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -1898,7 +1898,7 @@
 		"nombre": "PROBABILIDAD Y ESTADISTICA",
 		"pcurso": [
 			{
-				"id": "1002",
+				"id": "G_1002",
 				"nombre": "ALGEBRA Y GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1922,7 +1922,7 @@
 				"obs": true
 			},
 			{
-				"id": "1001",
+				"id": "G_1001",
 				"nombre": "CALCULOS Y ANALISIS",
 				"actividad": "Grupo",
 				"obs": false
@@ -1948,19 +1948,19 @@
 		"nombre": "PROYECTO (AGRIM.)",
 		"pcurso": [
 			{
-				"id": "1817E",
+				"id": "G_1817E",
 				"nombre": "AGRIMENSURA LEGAL 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1618E",
+				"id": "G_1618E",
 				"nombre": "AVALUACIONES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1419",
+				"id": "G_1419",
 				"nombre": "GEODESIA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1972,7 +1972,7 @@
 				"obs": true
 			},
 			{
-				"id": "1317",
+				"id": "G_1317",
 				"nombre": "SIST. DE INFOR. GEOGRAFICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1980,31 +1980,31 @@
 		],
 		"pexamen": [
 			{
-				"id": "1420E",
+				"id": "G_1420E",
 				"nombre": "CARTOGRAFIA MATEMATICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1619E",
+				"id": "G_1619E",
 				"nombre": "CATASTRO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1419E",
+				"id": "G_1419E",
 				"nombre": "GEODESIA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1421E",
+				"id": "G_1421E",
 				"nombre": "GEOFISICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2242E",
+				"id": "G_2242E",
 				"nombre": "PLANIFICACION",
 				"actividad": "Grupo",
 				"obs": false
@@ -2016,19 +2016,19 @@
 				"obs": false
 			},
 			{
-				"id": "1317E",
+				"id": "G_1317E",
 				"nombre": "SISTEMAS DE INFOR.GEOGRAFICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1525E",
+				"id": "G_1525E",
 				"nombre": "TRAZADO DE CAMINOS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "2245E",
+				"id": "G_2245E",
 				"nombre": "URBANISMO",
 				"actividad": "Grupo",
 				"obs": false
@@ -2040,13 +2040,13 @@
 		"nombre": "SISTEMAS DE INFORMACION GEOGRAFICA",
 		"pcurso": [
 			{
-				"id": "1619",
+				"id": "G_1619",
 				"nombre": "CATASTRO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1807",
+				"id": "G_1807",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2060,7 +2060,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1807E",
+				"id": "G_1807E",
 				"nombre": "FOTOGRAMETRIA Y PERC.REMOTA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2078,13 +2078,13 @@
 		"nombre": "SISTEMAS DE REFERENCIA",
 		"pcurso": [
 			{
-				"id": "CALCA",
+				"id": "G_CALCA",
 				"nombre": "CALCULO 2 OANAL.MAT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GEOM",
+				"id": "G_GEOM",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2092,13 +2092,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1020",
+				"id": "G_1020",
 				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP2",
+				"id": "G_CP2",
 				"nombre": "GEOMETRIAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2116,13 +2116,13 @@
 		"nombre": "SISTEMAS DE REFERENCIA",
 		"pcurso": [
 			{
-				"id": "CALCA",
+				"id": "G_CALCA",
 				"nombre": "CALCULO 2 OANAL.MAT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GEOM",
+				"id": "G_GEOM",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2130,13 +2130,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1020",
+				"id": "G_1020",
 				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP2",
+				"id": "G_CP2",
 				"nombre": "GEOMETRIAS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2154,7 +2154,7 @@
 		"nombre": "TALLER DE DISEÑO, COM. Y REPRES. GRAFICA",
 		"pcurso": [
 			{
-				"id": "1220C",
+				"id": "G_1220C",
 				"nombre": "TALLER DE DISEÑO",
 				"actividad": "Grupo",
 				"obs": true
@@ -2173,19 +2173,19 @@
 		"nombre": "TEORIA DE ERRORES 1",
 		"pcurso": [
 			{
-				"id": "1020",
+				"id": "G_1020",
 				"nombre": "CALCULO 1 Y ANALISIS MATEM.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "CP2",
+				"id": "G_CP2",
 				"nombre": "GEOMETRIAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025C",
+				"id": "G_1025C",
 				"nombre": "PROBABILIDAD Y ESTADISTICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2199,13 +2199,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "CALCA",
+				"id": "G_CALCA",
 				"nombre": "CALCULO 2 OANAL.MAT.I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "GEOM",
+				"id": "G_GEOM",
 				"nombre": "GEOMETRIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2223,7 +2223,7 @@
 		"nombre": "TEORIA DE ERRORES 2",
 		"pcurso": [
 			{
-				"id": "1521",
+				"id": "G_1521",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2237,13 +2237,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "PROBA",
+				"id": "G_PROBA",
 				"nombre": "PROB.Y ESTAD.Y ANAL.MATEM.II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521E",
+				"id": "G_1521E",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2261,7 +2261,7 @@
 		"nombre": "TEORIA DE ERRORES AVANZADA",
 		"pcurso": [
 			{
-				"id": "1522",
+				"id": "G_1522",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2269,7 +2269,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1522E",
+				"id": "G_1522E",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2287,19 +2287,19 @@
 		"nombre": "TEORIA DE INSTRUMENTAL",
 		"pcurso": [
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "CALCULO 3 Y ANALISIS II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1125",
+				"id": "G_1125",
 				"nombre": "INT. A LA OPTICA O FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1038",
+				"id": "G_1038",
 				"nombre": "SISTEMAS DE REFERENCIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2319,31 +2319,31 @@
 		],
 		"pexamen": [
 			{
-				"id": "1021",
+				"id": "G_1021",
 				"nombre": "ALGEBRA Y GEOMETRIAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025",
+				"id": "G_1025",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1125E",
+				"id": "G_1125E",
 				"nombre": "OPTICA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1038E",
+				"id": "G_1038E",
 				"nombre": "SISTEMAS DE REFERENCIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521",
+				"id": "G_1521",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2361,19 +2361,19 @@
 		"nombre": "TEORIA DE INSTRUMENTAL",
 		"pcurso": [
 			{
-				"id": "1004",
+				"id": "G_1004",
 				"nombre": "CALCULO 3 Y ANALISIS II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1125",
+				"id": "G_1125",
 				"nombre": "INT. A LA OPTICA O FISICA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1038",
+				"id": "G_1038",
 				"nombre": "SISTEMAS DE REFERENCIA",
 				"actividad": "Grupo",
 				"obs": false
@@ -2393,31 +2393,31 @@
 		],
 		"pexamen": [
 			{
-				"id": "1021",
+				"id": "G_1021",
 				"nombre": "ALGEBRA Y GEOMETRIAS",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1025",
+				"id": "G_1025",
 				"nombre": "CALCULO 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "E1125",
+				"id": "G_E1125",
 				"nombre": "INT.A LA OPTICA O FIS.3 O FG 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1038E",
+				"id": "G_1038E",
 				"nombre": "SISTEMAS DE REFERENCIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521",
+				"id": "G_1521",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2435,19 +2435,19 @@
 		"nombre": "TOPOGRAFIA 1",
 		"pcurso": [
 			{
-				"id": "1220C",
+				"id": "G_1220C",
 				"nombre": "TALLER DE DISEÑO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521",
+				"id": "G_1521",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1526",
+				"id": "G_1526",
 				"nombre": "TEORIA DE INSTRUMENTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2467,25 +2467,25 @@
 		],
 		"pexamen": [
 			{
-				"id": "CP6E",
+				"id": "G_CP6E",
 				"nombre": "ANALISIS II O CALCULO 3 EX.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521E",
+				"id": "G_1521E",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1522",
+				"id": "G_1522",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1526E",
+				"id": "G_1526E",
 				"nombre": "TEORIA DE INSTRUMENTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2503,19 +2503,19 @@
 		"nombre": "TOPOGRAFIA 1",
 		"pcurso": [
 			{
-				"id": "1220C",
+				"id": "G_1220C",
 				"nombre": "TALLER DE DISEÑO",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521",
+				"id": "G_1521",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1526",
+				"id": "G_1526",
 				"nombre": "TEORIA DE INSTRUMENTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2535,25 +2535,25 @@
 		],
 		"pexamen": [
 			{
-				"id": "CP6E",
+				"id": "G_CP6E",
 				"nombre": "ANALISIS II O CALCULO 3 EX.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1521E",
+				"id": "G_1521E",
 				"nombre": "TEORIA DE ERRORES 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1522",
+				"id": "G_1522",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1526E",
+				"id": "G_1526E",
 				"nombre": "TEORIA DE INSTRUMENTAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2571,13 +2571,13 @@
 		"nombre": "TOPOGRAFIA 2",
 		"pcurso": [
 			{
-				"id": "1522",
+				"id": "G_1522",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1527",
+				"id": "G_1527",
 				"nombre": "TOPOGRAFIA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2591,13 +2591,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1522E",
+				"id": "G_1522E",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1527E",
+				"id": "G_1527E",
 				"nombre": "TOPOGRAFIA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2615,13 +2615,13 @@
 		"nombre": "TOPOGRAFIA 3",
 		"pcurso": [
 			{
-				"id": "1913",
+				"id": "G_1913",
 				"nombre": "AGRIMENSURA LEGAL 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1614",
+				"id": "G_1614",
 				"nombre": "AVALUACIONES",
 				"actividad": "Grupo",
 				"obs": false
@@ -2641,25 +2641,25 @@
 		],
 		"pexamen": [
 			{
-				"id": "CP6E",
+				"id": "G_CP6E",
 				"nombre": "ANALISIS II O CALCULO 3 EX.",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1612E",
+				"id": "G_1612E",
 				"nombre": "ASTRONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1522E",
+				"id": "G_1522E",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1509E",
+				"id": "G_1509E",
 				"nombre": "TOPOGRAFIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2671,7 +2671,7 @@
 				"obs": false
 			},
 			{
-				"id": "1525",
+				"id": "G_1525",
 				"nombre": "TRAZADO DE CAMINOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2683,19 +2683,19 @@
 		"nombre": "TOPOMETRIA",
 		"pcurso": [
 			{
-				"id": "1418",
+				"id": "G_1418",
 				"nombre": "GEODESIA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1524",
+				"id": "G_1524",
 				"nombre": "TOPOGRAFIA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1525",
+				"id": "G_1525",
 				"nombre": "TRAZADO DE CAMINOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2703,13 +2703,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1418E",
+				"id": "G_1418E",
 				"nombre": "GEODESIA 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1524E",
+				"id": "G_1524E",
 				"nombre": "TOPOGRAFIA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -2721,7 +2721,7 @@
 				"obs": false
 			},
 			{
-				"id": "1525E",
+				"id": "G_1525E",
 				"nombre": "TRAZADO DE CAMINOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -2733,19 +2733,19 @@
 		"nombre": "TRAZADO DE CAMINOS",
 		"pcurso": [
 			{
-				"id": "C1715",
+				"id": "G_C1715",
 				"nombre": "INTRODUCCION A LA CONSTRUCCION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1522",
+				"id": "G_1522",
 				"nombre": "TEORIA DE ERRORES 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1509",
+				"id": "G_1509",
 				"nombre": "TOPOGRAFIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2759,7 +2759,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "1509E",
+				"id": "G_1509E",
 				"nombre": "TOPOGRAFIA 2",
 				"actividad": "Grupo",
 				"obs": false
@@ -2777,25 +2777,25 @@
 		"nombre": "URBANISMO",
 		"pcurso": [
 			{
-				"id": "1910",
+				"id": "G_1910",
 				"nombre": "AGRIMENSURA LEGAL1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1224",
+				"id": "G_1224",
 				"nombre": "ECONOMIA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1806E",
+				"id": "G_1806E",
 				"nombre": "FOTOINTERPRETACION",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1611",
+				"id": "G_1611",
 				"nombre": "INTRODUCCION AL ANALISIS RURAL",
 				"actividad": "Grupo",
 				"obs": false
@@ -2809,13 +2809,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "1910E",
+				"id": "G_1910E",
 				"nombre": "AGRIMENSURA LEGAL 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "1611E",
+				"id": "G_1611E",
 				"nombre": "INTRODUCCION AL ANALISIS RURAL",
 				"actividad": "Grupo",
 				"obs": false

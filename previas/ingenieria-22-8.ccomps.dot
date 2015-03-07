@@ -1,0 +1,1473 @@
+digraph Previas_cc {
+	graph [ouputmode=edgesfirst,
+		ranksep=3
+	];
+	1020	 [label="CALCULO 1"];
+	1020 -> 1020;
+	G_1001	 [color=yellow,
+		label="Grupo G_1001 [4-6]"];
+	1020 -> G_1001	 [color=grey,
+		headlabel=3];
+	G_1020	 [color=yellow,
+		label="Grupo G_1020 [1-1]"];
+	1020 -> G_1020	 [color=grey,
+		headlabel=1];
+	G_1020E	 [color=yellow,
+		label="Grupo G_1020E [1-1]"];
+	1020 -> G_1020E	 [color=grey,
+		headlabel=1];
+	G_1022	 [color=yellow,
+		label="Grupo G_1022 [1-2]"];
+	1020 -> G_1022	 [color=grey,
+		headlabel=1];
+	G_CA1Y2	 [color=yellow,
+		label="Grupo G_CA1Y2 [2-4]"];
+	1020 -> G_CA1Y2	 [color=grey,
+		headlabel=1];
+	G_1020C	 [color=yellow,
+		label="Grupo G_1020C [1-3]"];
+	1020 -> G_1020C	 [color=grey,
+		headlabel=1];
+	1020 -> G_1020C	 [color=orange,
+		headlabel=1];
+	G_C1020	 [color=yellow,
+		label="Grupo G_C1020 [1-1]"];
+	1020 -> G_C1020	 [color=orange,
+		headlabel=1];
+	G_CP1E	 [color=yellow,
+		label="Grupo G_CP1E [1-1]"];
+	1020 -> G_CP1E	 [color=orange,
+		headlabel=1];
+	1021	 [label="ALGEBRA LINEAL"];
+	1021 -> 1021;
+	G_1000	 [color=yellow,
+		label="Grupo G_1000 [2-4]"];
+	1021 -> G_1000	 [color=grey,
+		headlabel=2];
+	G_1030E	 [color=yellow,
+		label="Grupo G_1030E [1-1]"];
+	1021 -> G_1030E	 [color=grey,
+		headlabel=1];
+	G_B101	 [color=yellow,
+		label="Grupo G_B101 [2-2]"];
+	1021 -> G_B101	 [color=grey,
+		headlabel=2];
+	G_1002	 [color=yellow,
+		label="Grupo G_1002 [1-1]"];
+	1021 -> G_1002	 [color=orange,
+		headlabel=1];
+	G_1009	 [color=yellow,
+		label="Grupo G_1009 [2-2]"];
+	1021 -> G_1009	 [color=orange,
+		headlabel=2];
+	G_1031E	 [color=yellow,
+		label="Grupo G_1031E [1-1]"];
+	1021 -> G_1031E	 [color=grey,
+		headlabel=1];
+	G_C1030	 [color=yellow,
+		label="Grupo G_C1030 [1-1]"];
+	1021 -> G_C1030	 [color=orange,
+		headlabel=1];
+	1022	 [label="CALCULO 2"];
+	1022 -> 1022;
+	1130	 [label="FISICA DE LAS RADIACIONES IONIZANTES"];
+	1022 -> 1130	 [color=blue];
+	1022 -> G_1001	 [color=orange,
+		headlabel=1];
+	1022 -> G_CA1Y2	 [color=grey,
+		headlabel=1];
+	G_1022E	 [color=yellow,
+		label="Grupo G_1022E [1-1]"];
+	1022 -> G_1022E	 [color=grey,
+		headlabel=1];
+	G_1025	 [color=yellow,
+		label="Grupo G_1025 [1-1]"];
+	1022 -> G_1025	 [color=grey,
+		headlabel=1];
+	1024	 [label="CALCULO 3"];
+	1024 -> 1024;
+	G_1024	 [color=yellow,
+		label="Grupo G_1024 [1-1]"];
+	1024 -> G_1024	 [color=grey,
+		headlabel=1];
+	1029	 [label="FUNCIONES DE VARIABLE COMPLEJA"];
+	1024 -> 1029	 [color=blue];
+	G_1004	 [color=yellow,
+		label="Grupo G_1004 [1-1]"];
+	1024 -> G_1004	 [color=orange,
+		headlabel=1];
+	G_1024C	 [color=yellow,
+		label="Grupo G_1024C [1-3]"];
+	1024 -> G_1024C	 [color=orange,
+		headlabel=1];
+	G_CP6E	 [color=yellow,
+		label="Grupo G_CP6E [1-1]"];
+	1024 -> G_CP6E	 [color=grey,
+		headlabel=1];
+	1025	 [label="PROBABILIDAD Y ESTADISTICA"];
+	1025 -> 1025;
+	1025 -> 1130	 [color=blue];
+	G_1025E	 [color=yellow,
+		label="Grupo G_1025E [1-1]"];
+	1025 -> G_1025E	 [color=grey,
+		headlabel=1];
+	G_PROBA	 [color=yellow,
+		label="Grupo G_PROBA [1-1]"];
+	1025 -> G_PROBA	 [color=grey,
+		headlabel=1];
+	1028	 [label="ECUACIONES DIFERENCIALES"];
+	1028 -> 1028;
+	G_1028E	 [color=yellow,
+		label="Grupo G_1028E [1-2]"];
+	1028 -> G_1028E	 [color=grey,
+		headlabel=1];
+	G_1028	 [color=yellow,
+		label="Grupo G_1028 [1-1]"];
+	1028 -> G_1028	 [color=orange,
+		headlabel=1];
+	G_1028C	 [color=yellow,
+		label="Grupo G_1028C [1-1]"];
+	1028 -> G_1028C	 [color=orange,
+		headlabel=1];
+	1030	 [label="GEOMETRIA Y ALGEBRA LINEAL 1"];
+	1030 -> 1030;
+	1030 -> G_1000	 [color=grey,
+		headlabel=1];
+	1030 -> G_1030E	 [color=grey,
+		headlabel=1];
+	1030 -> G_B101	 [color=grey,
+		headlabel=1];
+	1030 -> G_1002	 [color=grey,
+		headlabel=1];
+	1030 -> G_1009	 [color=grey,
+		headlabel=1];
+	G_1030C	 [color=yellow,
+		label="Grupo G_1030C [1-3]"];
+	1030 -> G_1030C	 [color=grey,
+		headlabel=1];
+	1030 -> G_1030C	 [color=orange,
+		headlabel=1];
+	1030 -> G_C1030	 [color=orange,
+		headlabel=1];
+	1031	 [label="GEOMETRIA Y ALGEBRA LINEAL 2"];
+	1031 -> 1031;
+	1031 -> G_1000	 [color=grey,
+		headlabel=1];
+	1031 -> G_B101	 [color=grey,
+		headlabel=1];
+	1031 -> G_1009	 [color=grey,
+		headlabel=1];
+	1031 -> G_1031E	 [color=grey,
+		headlabel=1];
+	1033	 [label="METODOS NUMERICOS"];
+	1033 -> 1033;
+	G_1033	 [color=yellow,
+		label="Grupo G_1033 [1-2]"];
+	1033 -> G_1033	 [color=orange,
+		headlabel=1];
+	G_1033E	 [color=yellow,
+		label="Grupo G_1033E [1-1]"];
+	1033 -> G_1033E	 [color=grey,
+		headlabel=1];
+	1036	 [label="FUNCIONES DE VARIABLE COMPLEJA"];
+	1036 -> 1036;
+	G_1029E	 [color=yellow,
+		label="Grupo G_1029E [1-1]"];
+	1036 -> G_1029E	 [color=grey,
+		headlabel=1];
+	G_1036C	 [color=yellow,
+		label="Grupo G_1036C [1-1]"];
+	1036 -> G_1036C	 [color=orange,
+		headlabel=1];
+	1044	 [label="INT. A LOS PROCESOS ESTOCASTICOS"];
+	1045	 [label="INT. A LA GEOMETRÍA DIFERENCIAL"];
+	1047	 [label="MET. DE SIMUL.COMPUTAC.APLIC.A SIST.F I"];
+	1047 -> 1047;
+	1051	 [label="ANALISIS FUNCIONAL"];
+	1052	 [label="CALCULO 1 (ANUAL)"];
+	1052 -> 1052;
+	1052 -> G_1001	 [color=grey,
+		headlabel=3];
+	1052 -> G_1020	 [color=grey,
+		headlabel=1];
+	1052 -> G_1020E	 [color=grey,
+		headlabel=1];
+	1052 -> G_1022	 [color=grey,
+		headlabel=1];
+	1052 -> G_CA1Y2	 [color=grey,
+		headlabel=1];
+	1052 -> G_1020C	 [color=grey,
+		headlabel=1];
+	1052 -> G_1020C	 [color=orange,
+		headlabel=1];
+	1052 -> G_C1020	 [color=orange,
+		headlabel=1];
+	1052 -> G_CP1E	 [color=orange,
+		headlabel=1];
+	1053	 [label="GEOMETRIA Y ALGEBRA LINEAL 1 (ANUAL)"];
+	1053 -> 1053;
+	1053 -> G_1000	 [color=grey,
+		headlabel=1];
+	1053 -> G_1030E	 [color=grey,
+		headlabel=1];
+	1053 -> G_B101	 [color=grey,
+		headlabel=1];
+	1053 -> G_1002	 [color=grey,
+		headlabel=1];
+	1053 -> G_1009	 [color=grey,
+		headlabel=1];
+	1053 -> G_1030C	 [color=grey,
+		headlabel=1];
+	1053 -> G_1030C	 [color=orange,
+		headlabel=1];
+	1053 -> G_C1030	 [color=orange,
+		headlabel=1];
+	1120	 [label="FISICA GENERAL 1"];
+	1120 -> 1120;
+	1121	 [label="FISICA GENERAL 2"];
+	1120 -> 1121	 [color=blue];
+	1120 -> 1130	 [color=blue];
+	G_1120	 [color=yellow,
+		label="Grupo G_1120 [1-2]"];
+	1120 -> G_1120	 [color=grey,
+		headlabel=1];
+	G_F1E	 [color=yellow,
+		label="Grupo G_F1E [1-1]"];
+	1120 -> G_F1E	 [color=grey,
+		headlabel=1];
+	G_1121C	 [color=yellow,
+		label="Grupo G_1121C [3-4]"];
+	1120 -> G_1121C	 [color=orange,
+		headlabel=1];
+	G_CP3	 [color=yellow,
+		label="Grupo G_CP3 [1-1]"];
+	1120 -> G_CP3	 [color=orange,
+		headlabel=1];
+	G_F1C	 [color=yellow,
+		label="Grupo G_F1C [1-1]"];
+	1120 -> G_F1C	 [color=orange,
+		headlabel=1];
+	G_FIS	 [color=yellow,
+		label="Grupo G_FIS [2-4]"];
+	1120 -> G_FIS	 [color=grey,
+		headlabel=2];
+	G_G1124	 [color=yellow,
+		label="Grupo G_G1124 [2-3]"];
+	1120 -> G_G1124	 [color=grey,
+		headlabel=2];
+	1121 -> 1121;
+	1121 -> 1130	 [color=blue];
+	G_1128E	 [color=yellow,
+		label="Grupo G_1128E [1-2]"];
+	1121 -> G_1128E	 [color=grey,
+		headlabel=1];
+	G_1010	 [color=yellow,
+		label="Grupo G_1010 [2-2]"];
+	1121 -> G_1010	 [color=grey,
+		headlabel=2];
+	G_1010C	 [color=yellow,
+		label="Grupo G_1010C [2-4]"];
+	1121 -> G_1010C	 [color=grey,
+		headlabel=2];
+	G_1017	 [color=yellow,
+		label="Grupo G_1017 [1-3]"];
+	1121 -> G_1017	 [color=grey,
+		headlabel=1];
+	G_1027	 [color=yellow,
+		label="Grupo G_1027 [1-1]"];
+	1121 -> G_1027	 [color=grey,
+		headlabel=1];
+	1121 -> G_1121C	 [color=orange,
+		headlabel=2];
+	G_1122	 [color=yellow,
+		label="Grupo G_1122 [1-3]"];
+	1121 -> G_1122	 [color=orange,
+		headlabel=1];
+	G_1152E	 [color=yellow,
+		label="Grupo G_1152E [2-2]"];
+	1121 -> G_1152E	 [color=grey,
+		headlabel=2];
+	G_1153	 [color=yellow,
+		label="Grupo G_1153 [3-5]"];
+	1121 -> G_1153	 [color=grey,
+		headlabel=3];
+	G_C1121	 [color=yellow,
+		label="Grupo G_C1121 [1-2]"];
+	1121 -> G_C1121	 [color=orange,
+		headlabel=1];
+	G_E1153	 [color=yellow,
+		label="Grupo G_E1153 [1-1]"];
+	1121 -> G_E1153	 [color=grey,
+		headlabel=1];
+	G_F3C	 [color=yellow,
+		label="Grupo G_F3C [1-1]"];
+	1121 -> G_F3C	 [color=orange,
+		headlabel=1];
+	1122	 [label="MECANICA NEWTONIANA"];
+	1122 -> 1122;
+	G_1122C	 [color=yellow,
+		label="Grupo G_1122C [1-1]"];
+	1122 -> G_1122C	 [color=orange,
+		headlabel=1];
+	G_1122E	 [color=yellow,
+		label="Grupo G_1122E [1-1]"];
+	1122 -> G_1122E	 [color=grey,
+		headlabel=1];
+	G_CP8	 [color=yellow,
+		label="Grupo G_CP8 [1-2]"];
+	1122 -> G_CP8	 [color=grey,
+		headlabel=1];
+	1123	 [label="FISICA TERMICA"];
+	1123 -> 1123;
+	G_1123	 [color=yellow,
+		label="Grupo G_1123 [1-1]"];
+	1123 -> G_1123	 [color=grey,
+		headlabel=1];
+	G_1123C	 [color=yellow,
+		label="Grupo G_1123C [1-1]"];
+	1123 -> G_1123C	 [color=orange,
+		headlabel=1];
+	G_E1152	 [color=yellow,
+		label="Grupo G_E1152 [1-1]"];
+	1123 -> G_E1152	 [color=grey,
+		headlabel=1];
+	1126	 [label="MEC.DE SIST.Y FENOMENOS ONDULATORIOS"];
+	1126 -> 1126;
+	G_1126	 [color=yellow,
+		label="Grupo G_1126 [1-1]"];
+	1126 -> G_1126	 [color=grey,
+		headlabel=1];
+	G_C1128	 [color=yellow,
+		label="Grupo G_C1128 [1-1]"];
+	1126 -> G_C1128	 [color=orange,
+		headlabel=1];
+	1128	 [label=ELECTROMAGNETISMO];
+	1128 -> 1128;
+	G_1128	 [color=yellow,
+		label="Grupo G_1128 [1-2]"];
+	1128 -> G_1128	 [color=grey,
+		headlabel=1];
+	1128 -> G_1128E	 [color=grey,
+		headlabel=1];
+	1128 -> G_C1128	 [color=orange,
+		headlabel=1];
+	G_CP13	 [color=yellow,
+		label="Grupo G_CP13 [1-1]"];
+	1128 -> G_CP13	 [color=orange,
+		headlabel=1];
+	G_CP13E	 [color=yellow,
+		label="Grupo G_CP13E [1-1]"];
+	1128 -> G_CP13E	 [color=grey,
+		headlabel=1];
+	1129	 [label=OPTICA];
+	1129 -> 1129;
+	1130 -> 1130;
+	1131	 [label="INT. A LA FISICA MODERNA"];
+	1131 -> 1131;
+	1137	 [label="FISICA DE LOS SEMICONDUCTORES"];
+	1131 -> 1137	 [color=blue];
+	G_1138	 [color=yellow,
+		label="Grupo G_1138 [1-1]"];
+	1131 -> G_1138	 [color=orange,
+		headlabel=1];
+	1136	 [label="TEORIA ELECTROMAGNETICA"];
+	1136 -> 1136;
+	1138	 [label="INT. A LA FISICA MODERNA"];
+	1138 -> 1138;
+	1138 -> G_1138	 [color=orange,
+		headlabel=1];
+	1142	 [label="FISICA NUCLEAR"];
+	1142 -> 1142;
+	1143	 [label=ACUSTICA];
+	1143 -> 1143;
+	1144	 [label="VIBRACIONES Y ONDAS"];
+	1144 -> 1144;
+	1144 -> G_C1128	 [color=orange,
+		headlabel=1];
+	1151	 [label="FISICA 1"];
+	1151 -> 1151;
+	1151 -> G_1120	 [color=grey,
+		headlabel=1];
+	1151 -> G_F1E	 [color=grey,
+		headlabel=1];
+	1151 -> G_1121C	 [color=orange,
+		headlabel=1];
+	1151 -> G_CP3	 [color=orange,
+		headlabel=1];
+	1151 -> G_F1C	 [color=orange,
+		headlabel=1];
+	1151 -> G_FIS	 [color=grey,
+		headlabel=2];
+	1151 -> G_FIS	 [color=orange,
+		headlabel=1];
+	1151 -> G_G1124	 [color=grey,
+		headlabel=1];
+	1152	 [label="FISICA 2"];
+	1152 -> 1152;
+	1152 -> G_1010C	 [color=grey,
+		headlabel=1];
+	1152 -> G_1122	 [color=orange,
+		headlabel=1];
+	1152 -> G_1152E	 [color=grey,
+		headlabel=1];
+	1152 -> G_1153	 [color=grey,
+		headlabel=2];
+	1152 -> G_C1121	 [color=orange,
+		headlabel=1];
+	1152 -> G_E1152	 [color=grey,
+		headlabel=1];
+	1152 -> G_FIS	 [color=orange,
+		headlabel=1];
+	1152 -> G_G1124	 [color=orange,
+		headlabel=1];
+	1153	 [label="FISICA 3"];
+	1153 -> 1153;
+	1153 -> G_1128E	 [color=grey,
+		headlabel=1];
+	1153 -> G_1010C	 [color=grey,
+		headlabel=2];
+	1153 -> G_1010C	 [color=orange,
+		headlabel=1];
+	1153 -> G_1017	 [color=grey,
+		headlabel=1];
+	1153 -> G_1122	 [color=orange,
+		headlabel=1];
+	1153 -> G_1152E	 [color=grey,
+		headlabel=1];
+	1153 -> G_1153	 [color=grey,
+		headlabel=3];
+	1153 -> G_1153	 [color=orange,
+		headlabel=1];
+	1153 -> G_C1121	 [color=orange,
+		headlabel=1];
+	1153 -> G_E1153	 [color=grey,
+		headlabel=1];
+	1153 -> G_F3C	 [color=orange,
+		headlabel=1];
+	1221	 [label=ECONOMIA];
+	1221 -> 1221;
+	G_1224	 [color=yellow,
+		label="Grupo G_1224 [1-2]"];
+	1221 -> G_1224	 [color=grey,
+		headlabel=1];
+	1224	 [label=ECONOMIA];
+	1224 -> 1224;
+	1224 -> G_1224	 [color=grey,
+		headlabel=1];
+	1322	 [label="PROGRAMACION 1"];
+	1322 -> 1322;
+	G_B300	 [color=yellow,
+		label="Grupo G_B300 [1-2]"];
+	1322 -> G_B300	 [color=grey,
+		headlabel=1];
+	G_CP9E	 [color=yellow,
+		label="Grupo G_CP9E [1-1]"];
+	1322 -> G_CP9E	 [color=grey,
+		headlabel=1];
+	G_1012	 [color=yellow,
+		label="Grupo G_1012 [1-3]"];
+	1322 -> G_1012	 [color=grey,
+		headlabel=1];
+	G_1322	 [color=yellow,
+		label="Grupo G_1322 [1-1]"];
+	1322 -> G_1322	 [color=orange,
+		headlabel=1];
+	G_1322E	 [color=yellow,
+		label="Grupo G_1322E [1-1]"];
+	1322 -> G_1322E	 [color=grey,
+		headlabel=1];
+	G_CP9	 [color=yellow,
+		label="Grupo G_CP9 [1-1]"];
+	1322 -> G_CP9	 [color=orange,
+		headlabel=1];
+	G_PR1	 [color=yellow,
+		label="Grupo G_PR1 [1-2]"];
+	1322 -> G_PR1	 [color=grey,
+		headlabel=1];
+	1324	 [label="PROGRAMACION 4"];
+	1324 -> 1324;
+	1401	 [label="SISTEMAS LINEALES 1"];
+	1401 -> 1401;
+	G_1407E	 [color=yellow,
+		label="Grupo G_1407E [2-2]"];
+	1401 -> G_1407E	 [color=grey,
+		headlabel=1];
+	G_CP50	 [color=yellow,
+		label="Grupo G_CP50 [1-1]"];
+	1401 -> G_CP50	 [color=grey,
+		headlabel=1];
+	G_1401	 [color=yellow,
+		label="Grupo G_1401 [1-1]"];
+	1401 -> G_1401	 [color=orange,
+		headlabel=1];
+	G_1423	 [color=yellow,
+		label="Grupo G_1423 [1-1]"];
+	1401 -> G_1423	 [color=grey,
+		headlabel=1];
+	G_1423E	 [color=yellow,
+		label="Grupo G_1423E [1-2]"];
+	1401 -> G_1423E	 [color=grey,
+		headlabel=1];
+	G_C1407	 [color=yellow,
+		label="Grupo G_C1407 [2-4]"];
+	1401 -> G_C1407	 [color=grey,
+		headlabel=1];
+	1407	 [label="SISTEMAS LINEALES 2"];
+	1407 -> 1407;
+	1407 -> G_1407E	 [color=grey,
+		headlabel=1];
+	G_1407	 [color=yellow,
+		label="Grupo G_1407 [1-1]"];
+	1407 -> G_1407	 [color=grey,
+		headlabel=1];
+	G_1407C	 [color=yellow,
+		label="Grupo G_1407C [1-1]"];
+	1407 -> G_1407C	 [color=orange,
+		headlabel=1];
+	1407 -> G_1423E	 [color=grey,
+		headlabel=1];
+	1407 -> G_C1407	 [color=orange,
+		headlabel=1];
+	G_CP50C	 [color=yellow,
+		label="Grupo G_CP50C [1-1]"];
+	1407 -> G_CP50C	 [color=orange,
+		headlabel=1];
+	1409	 [label="MUESTREO Y PROCESAMIENTO DIGITAL"];
+	1409 -> 1409;
+	5801	 [label="SISTEMAS DE COMUNICACION"];
+	1409 -> 5801	 [color=blue];
+	G_1409E	 [color=yellow,
+		label="Grupo G_1409E [1-1]"];
+	1409 -> G_1409E	 [color=grey,
+		headlabel=1];
+	G_1103	 [color=yellow,
+		label="Grupo G_1103 [1-1]"];
+	1409 -> G_1103	 [color=grey,
+		headlabel=1];
+	G_1409C	 [color=yellow,
+		label="Grupo G_1409C [1-1]"];
+	1409 -> G_1409C	 [color=orange,
+		headlabel=1];
+	1410	 [label="MEDIDAS ELECTRICAS"];
+	1410 -> 1410;
+	G_1410	 [color=yellow,
+		label="Grupo G_1410 [1-1]"];
+	1410 -> G_1410	 [color=orange,
+		headlabel=1];
+	G_1410C	 [color=yellow,
+		label="Grupo G_1410C [1-1]"];
+	1410 -> G_1410C	 [color=orange,
+		headlabel=1];
+	G_1410E	 [color=yellow,
+		label="Grupo G_1410E [1-1]"];
+	1410 -> G_1410E	 [color=grey,
+		headlabel=1];
+	G_5712	 [color=yellow,
+		label="Grupo G_5712 [3-5]"];
+	1410 -> G_5712	 [color=grey,
+		headlabel=1];
+	1423	 [label="SISTEMAS LINEALES 1"];
+	1423 -> 1423;
+	1423 -> G_1407E	 [color=grey,
+		headlabel=1];
+	1423 -> G_CP50	 [color=grey,
+		headlabel=1];
+	1423 -> G_1401	 [color=orange,
+		headlabel=1];
+	1423 -> G_1423	 [color=grey,
+		headlabel=1];
+	1423 -> G_1423E	 [color=grey,
+		headlabel=1];
+	1423 -> G_C1407	 [color=orange,
+		headlabel=1];
+	1451	 [label="MEDIDAS ELECTRICAS"];
+	1451 -> 1451;
+	1451 -> G_1410	 [color=orange,
+		headlabel=1];
+	1451 -> G_1410E	 [color=grey,
+		headlabel=1];
+	1511	 [label="SISTEMAS OPERATIVOS"];
+	1511 -> 1511;
+	1512	 [label="DISEÑO LOGICO"];
+	1512 -> 1512;
+	G_1512E	 [color=yellow,
+		label="Grupo G_1512E [1-1]"];
+	1512 -> G_1512E	 [color=grey,
+		headlabel=1];
+	G_B304	 [color=yellow,
+		label="Grupo G_B304 [2-2]"];
+	1512 -> G_B304	 [color=grey,
+		headlabel=1];
+	G_1512	 [color=yellow,
+		label="Grupo G_1512 [1-2]"];
+	1512 -> G_1512	 [color=orange,
+		headlabel=1];
+	G_1513	 [color=yellow,
+		label="Grupo G_1513 [2-2]"];
+	1512 -> G_1513	 [color=grey,
+		headlabel=1];
+	G_C1512	 [color=yellow,
+		label="Grupo G_C1512 [1-1]"];
+	1512 -> G_C1512	 [color=orange,
+		headlabel=1];
+	1513	 [label="INT. A LOS MICROPROCESADORES"];
+	1513 -> 1513;
+	1513 -> G_B304	 [color=grey,
+		headlabel=1];
+	1513 -> G_1513	 [color=grey,
+		headlabel=1];
+	"G_1513*"	 [color=yellow,
+		label="Grupo G_1513* [1-1]"];
+	1513 -> "G_1513*"	 [color=orange,
+		headlabel=1];
+	G_1513E	 [color=yellow,
+		label="Grupo G_1513E [1-1]"];
+	1513 -> G_1513E	 [color=grey,
+		headlabel=1];
+	G_C1513	 [color=yellow,
+		label="Grupo G_C1513 [1-1]"];
+	1513 -> G_C1513	 [color=orange,
+		headlabel=1];
+	1515	 [label="PROCESADORES DIGITALES DE SEÑALES"];
+	1515 -> 1515;
+	1518	 [label="SISTEMAS OPERATIVOS"];
+	1518 -> 1518;
+	1532	 [label="SISTEMAS OPERATIVOS"];
+	1532 -> 1532;
+	1537	 [label="SISTEMAS OPERATIVOS"];
+	1537 -> 1537;
+	1610	 [label="INT. A LA INVESTIGACION DE OPERACIONES"];
+	1610 -> 1610;
+	1810	 [label="MAQUINAS PARA FLUIDOS 1"];
+	1810 -> 1810;
+	1911	 [label="FUNDAMENTOS DE BASES DE DATOS"];
+	1911 -> 1911;
+	1914	 [label="ADMINISTRACION UNIX"];
+	1914 -> 1914;
+	3103	 [label="TALLER DE FILTROS DIGITALES"];
+	5501	 [label="REDES ELECTRICAS 1"];
+	5501 -> 5501;
+	G_5502	 [color=yellow,
+		label="Grupo G_5502 [2-2]"];
+	5501 -> G_5502	 [color=grey,
+		headlabel=1];
+	G_5501C	 [color=yellow,
+		label="Grupo G_5501C [1-1]"];
+	5501 -> G_5501C	 [color=orange,
+		headlabel=1];
+	G_5501E	 [color=yellow,
+		label="Grupo G_5501E [1-1]"];
+	5501 -> G_5501E	 [color=grey,
+		headlabel=1];
+	G_5508	 [color=yellow,
+		label="Grupo G_5508 [3-3]"];
+	5501 -> G_5508	 [color=grey,
+		headlabel=2];
+	5502	 [label="REDES ELECTRICAS 2"];
+	5502 -> 5502;
+	5502 -> G_5502	 [color=grey,
+		headlabel=1];
+	G_5508E	 [color=yellow,
+		label="Grupo G_5508E [1-1]"];
+	5502 -> G_5508E	 [color=grey,
+		headlabel=1];
+	G_5502C	 [color=yellow,
+		label="Grupo G_5502C [1-1]"];
+	5502 -> G_5502C	 [color=orange,
+		headlabel=1];
+	5502 -> G_5508	 [color=grey,
+		headlabel=1];
+	G_5508C	 [color=yellow,
+		label="Grupo G_5508C [1-1]"];
+	5502 -> G_5508C	 [color=orange,
+		headlabel=1];
+	5503	 [label="INSTALACIONES ELECTRICAS"];
+	5503 -> 5503;
+	G_5507	 [color=yellow,
+		label="Grupo G_5507 [1-1]"];
+	5503 -> G_5507	 [color=grey,
+		headlabel=1];
+	G_5507C	 [color=yellow,
+		label="Grupo G_5507C [1-1]"];
+	5503 -> G_5507C	 [color=orange,
+		headlabel=1];
+	5503 -> G_5712	 [color=grey,
+		headlabel=1];
+	5505	 [label="MEDIDAS Y PROTECCIONES EN SEP."];
+	5505 -> 5505;
+	5506	 [label="DISTRIBUCION DE ENERGIA ELECTRICA"];
+	5506 -> 5506;
+	5507	 [label="INSTALACIONES ELECTRICAS"];
+	5507 -> 5507;
+	5507 -> G_5507	 [color=grey,
+		headlabel=1];
+	5507 -> G_5507C	 [color=orange,
+		headlabel=1];
+	5507 -> G_5712	 [color=grey,
+		headlabel=1];
+	5508	 [label="REDES ELECTRICAS"];
+	5508 -> 5508;
+	5508 -> G_5508E	 [color=grey,
+		headlabel=1];
+	5508 -> G_5502C	 [color=orange,
+		headlabel=1];
+	5508 -> G_5508	 [color=orange,
+		headlabel=3];
+	5508 -> G_5508C	 [color=orange,
+		headlabel=1];
+	5513	 [label="TRANSPORTE DE ENERGIA ELECTRICA"];
+	5513 -> 5513;
+	5516	 [label="TALLER DE MATLAB.Y S.AP. AL ANAL.Y S.SEP"];
+	5513 -> 5516	 [color=blue];
+	5514	 [label="SUBESTACIONES EN MEDIA TENSION"];
+	5514 -> 5514;
+	5601	 [label="INT. A LA ELECTROTECNICA"];
+	5601 -> 5601;
+	G_5601E	 [color=yellow,
+		label="Grupo G_5601E [1-1]"];
+	5601 -> G_5601E	 [color=grey,
+		headlabel=1];
+	G_5601C	 [color=yellow,
+		label="Grupo G_5601C [1-3]"];
+	5601 -> G_5601C	 [color=orange,
+		headlabel=1];
+	5602	 [label="MAQUINAS ELECTRICAS"];
+	5602 -> 5602;
+	G_5602C	 [color=yellow,
+		label="Grupo G_5602C [1-1]"];
+	5602 -> G_5602C	 [color=orange,
+		headlabel=1];
+	5607	 [label="ELECTRONICA DE POTENCIA 1"];
+	5607 -> 5607;
+	5608	 [label="INT. A LA ELECTROTECNICA"];
+	5608 -> 5608;
+	5608 -> G_5601E	 [color=grey,
+		headlabel=1];
+	5608 -> G_5601C	 [color=orange,
+		headlabel=1];
+	5609	 [label="ELECTRONICA DE POTENCIA"];
+	5609 -> 5609;
+	5610	 [label="TALLER LABORAT. DE ELECTRON.DE POTENCIA"];
+	5609 -> 5610	 [color=blue];
+	5701	 [label="ELECTRONICA 1"];
+	5701 -> 5609	 [color=blue];
+	5701 -> 5701;
+	1005	 [label="DIS. CIRC.INTEG.CMOS ANALOG.Y MIXTOS A/D"];
+	5701 -> 1005	 [color=blue];
+	G_5701	 [color=yellow,
+		label="Grupo G_5701 [1-1]"];
+	5701 -> G_5701	 [color=orange,
+		headlabel=1];
+	G_5701C	 [color=yellow,
+		label="Grupo G_5701C [1-1]"];
+	5701 -> G_5701C	 [color=orange,
+		headlabel=1];
+	G_5701E	 [color=yellow,
+		label="Grupo G_5701E [1-1]"];
+	5701 -> G_5701E	 [color=grey,
+		headlabel=1];
+	5702	 [label="ELECTRONICA 2"];
+	5702 -> 5702;
+	5702 -> 1005	 [color=blue];
+	5704	 [label="DISEÑO DE CIRCUITOS INTEGRADOS DIGITALES"];
+	5704 -> 5704;
+	5705	 [label="SEMINARIO DE INGENIERIA BIOMEDICA"];
+	5705 -> 5705;
+	5705 -> G_5712	 [color=orange,
+		headlabel=1];
+	5801 -> 5801;
+	G_5801C	 [color=yellow,
+		label="Grupo G_5801C [1-1]"];
+	5801 -> G_5801C	 [color=orange,
+		headlabel=1];
+	G_1104	 [color=yellow,
+		label="Grupo G_1104 [1-1]"];
+	5801 -> G_1104	 [color=grey,
+		headlabel=1];
+	5801 -> G_5508C	 [color=orange,
+		headlabel=1];
+	G_5801	 [color=yellow,
+		label="Grupo G_5801 [1-1]"];
+	5801 -> G_5801	 [color=orange,
+		headlabel=1];
+	G_5808	 [color=yellow,
+		label="Grupo G_5808 [1-1]"];
+	5801 -> G_5808	 [color=grey,
+		headlabel=1];
+	G_5808C	 [color=yellow,
+		label="Grupo G_5808C [1-1]"];
+	5801 -> G_5808C	 [color=orange,
+		headlabel=1];
+	G_5808E	 [color=yellow,
+		label="Grupo G_5808E [1-1]"];
+	5801 -> G_5808E	 [color=grey,
+		headlabel=1];
+	5803	 [label="ANTENAS Y PROPAGACION"];
+	5803 -> 5803;
+	5814	 [label="INGENIERIA DE SISTEMAS CDMA"];
+	5803 -> 5814	 [color=blue];
+	G_5817	 [color=yellow,
+		label="Grupo G_5817 [1-1]"];
+	5803 -> G_5817	 [color=orange,
+		headlabel=1];
+	5805	 [label="REDES DE DATOS"];
+	5805 -> 5805;
+	G_5805	 [color=yellow,
+		label="Grupo G_5805 [1-1]"];
+	5805 -> G_5805	 [color=orange,
+		headlabel=1];
+	G_5805E	 [color=yellow,
+		label="Grupo G_5805E [1-1]"];
+	5805 -> G_5805E	 [color=grey,
+		headlabel=1];
+	5806	 [label="TELEFONIA DIGITAL"];
+	G_5806E	 [color=yellow,
+		label="Grupo G_5806E [1-1]"];
+	5806 -> G_5806E	 [color=grey,
+		headlabel=1];
+	5808	 [label="SISTEMAS DE COMUNICACION"];
+	5808 -> 5808;
+	5808 -> G_5801C	 [color=orange,
+		headlabel=1];
+	5808 -> G_1104	 [color=grey,
+		headlabel=1];
+	5808 -> G_5508C	 [color=orange,
+		headlabel=1];
+	5808 -> G_5801	 [color=orange,
+		headlabel=1];
+	5808 -> G_5808	 [color=grey,
+		headlabel=1];
+	5808 -> G_5808C	 [color=orange,
+		headlabel=1];
+	5808 -> G_5808E	 [color=grey,
+		headlabel=1];
+	5810	 [label="TELEVIS.,RADIODIF. Y TEC.DE CONVERG."];
+	5810 -> 5810;
+	5817	 [label="ANTENAS Y PROPAGACION"];
+	5817 -> 5817;
+	5817 -> G_5817	 [color=orange,
+		headlabel=1];
+	5827	 [label="TELEFONIA DIGITAL"];
+	5830	 [label="INT. A LA ELECTROTECNICA"];
+	5830 -> 5830;
+	5830 -> G_5601E	 [color=grey,
+		headlabel=1];
+	5830 -> G_5601C	 [color=orange,
+		headlabel=1];
+	5833	 [label="REDES DE ACCESO"];
+	5834	 [label="NUCLEO DE RED EN TELECOMUNICACIONES"];
+	5834 -> 5833;
+	5838	 [label="COMUNICACIONES INALAMBRICAS"];
+	5838 -> 5838;
+	5900	 [label="INT. A LA TEORIA DE CONTROL"];
+	5900 -> 5900;
+	G_5900	 [color=yellow,
+		label="Grupo G_5900 [1-1]"];
+	5900 -> G_5900	 [color=orange,
+		headlabel=1];
+	G_5900E	 [color=yellow,
+		label="Grupo G_5900E [1-1]"];
+	5900 -> G_5900E	 [color=grey,
+		headlabel=1];
+	5901	 [label="CONTROL 2"];
+	5901 -> 5901;
+	5903	 [label="CONTROL ROBUSTO"];
+	5903 -> 5903;
+	5910	 [label="INT. A LOS PLC"];
+	5910 -> 5910;
+	G_1000 -> 1028	 [color=blue];
+	G_1000 -> 1033	 [color=blue];
+	G_1000 -> 1045;
+	G_1000 -> 1051;
+	G_1000 -> 1126	 [color=blue];
+	G_1000 -> 1401;
+	G_1000 -> 1610	 [color=blue];
+	G_1000 -> 5900	 [color=blue];
+	1042	 [label="TEORIA DE COD.ALGEBR.PARA CORREC.DE ERR"];
+	G_1000 -> 1042	 [color=blue];
+	1233	 [label="TUTORIA EN MATEMATICA"];
+	G_1000 -> 1233	 [color=blue];
+	G_1001 -> 1024	 [color=blue];
+	G_1001 -> 1025	 [color=blue];
+	G_1001 -> 1028	 [color=blue];
+	G_1001 -> 1401;
+	G_1020 -> 1044;
+	G_1020E -> 1022;
+	G_1022 -> 1122	 [color=blue];
+	G_1022 -> 1123	 [color=blue];
+	G_1022 -> 1152;
+	G_1022 -> 1153;
+	YFC04	 [label="TERMODINAMICA (FAC. DE CIENCIAS)"];
+	G_1022 -> YFC04	 [color=blue];
+	G_1024 -> 1045;
+	G_1024 -> 1051;
+	G_1024 -> 1143	 [color=blue];
+	G_1024 -> 5900	 [color=blue];
+	1427	 [label="COMPUTACION CUANTICA"];
+	G_1024 -> 1427	 [color=blue];
+	G_1025E -> 1044;
+	G_1025E -> 5900	 [color=blue];
+	1046	 [label="TEORIA DE CODIGOS"];
+	G_1025E -> 1046	 [color=blue];
+	G_1025E -> 1137	 [color=blue];
+	1352	 [label="COMPRESION DE DATOS SIN PERDIDA"];
+	G_1025E -> 1352	 [color=blue];
+	1438	 [label="APL.DE TEORIA DE LA INF.AL PROC.DE IMAG."];
+	G_1025E -> 1438	 [color=blue];
+	1540	 [label="HERRAMIENTAS DE PROG.P/PROCES.DE SEÑALES"];
+	G_1025E -> 1540	 [color=blue];
+	5812	 [label="CODIFICACION DE IMAGENES Y VIDEO"];
+	G_1025E -> 5812	 [color=blue];
+	5818	 [label="EVALUACION DE PERF.EN REDES DE TELECOM."];
+	G_1025E -> 5818	 [color=blue];
+	5826	 [label="INT. AL RECONOCIMIENTO DE PATRONES"];
+	G_1025E -> 5826	 [color=blue];
+	5835	 [label="MODELADO Y ANALISIS DE REDES DE TELECOM."];
+	G_1025E -> 5835	 [color=blue];
+	5837	 [label="ALGUNOS MET.DE PROCES.DE IMAGENES CON..."];
+	G_1025E -> 5837	 [color=blue];
+	G_1028E -> 1409;
+	G_1028E -> 1410;
+	G_1028E -> 5501;
+	G_1028E -> 5508;
+	G_1028E -> 5601;
+	G_1028E -> 5608;
+	G_1028E -> 5609	 [color=blue];
+	G_1028E -> 5801;
+	G_1028E -> 5808;
+	G_1028E -> 5900	 [color=blue];
+	G_1028E -> 1540	 [color=blue];
+	G_1028E -> 5837	 [color=blue];
+	5913	 [label="ANALISIS Y CONTROL DE SIST. NO LINEALES"];
+	G_1028E -> 5913	 [color=blue];
+	G_1029E -> 1410;
+	G_1029E -> 5501;
+	G_1029E -> 5508;
+	G_1029E -> 5601;
+	G_1029E -> 5608;
+	G_1029E -> 5609	 [color=blue];
+	G_1029E -> 5801;
+	G_1029E -> 5808;
+	G_1029E -> 5900	 [color=blue];
+	G_1030E -> 1031;
+	G_1030E -> 1144	 [color=blue];
+	G_1036C -> 1407	 [color=blue];
+	G_1036C -> 1409;
+	G_1036C -> 1409	 [color=blue];
+	G_1036C -> 3103;
+	G_1036C -> 3103	 [color=blue];
+	G_1036C -> 5817	 [color=blue];
+	G_1120 -> 1121;
+	G_1120 -> 1122	 [color=blue];
+	G_1120 -> 1123	 [color=blue];
+	G_1120 -> 1128	 [color=blue];
+	G_1120 -> 1142	 [color=blue];
+	G_1120 -> 1401;
+	G_1120 -> 5830	 [color=blue];
+	G_1120 -> 5900	 [color=blue];
+	G_1120 -> YFC04	 [color=blue];
+	1124	 [label="LABORATORIO 1"];
+	G_1120 -> 1124	 [color=blue];
+	G_1123 -> 1810;
+	G_1128 -> 1129	 [color=blue];
+	G_1128 -> 1409;
+	G_1128 -> 1410;
+	G_1128 -> 5501;
+	G_1128 -> 5508;
+	G_1128 -> 5601;
+	G_1128 -> 5608;
+	G_1128 -> 5701	 [color=blue];
+	G_1128 -> 5801;
+	G_1128 -> 5808;
+	G_1128 -> 5817	 [color=blue];
+	G_1128 -> 5830	 [color=blue];
+	G_1128 -> 5900	 [color=blue];
+	G_1128 -> 1137	 [color=blue];
+	5829	 [label="COMUNICACIONES OPTICAS Y REDES WDM"];
+	G_1128 -> 5829	 [color=blue];
+	G_1128E -> 1401;
+	G_1407E -> 5502;
+	G_1407E -> 5503;
+	G_1407E -> 5602;
+	G_1407E -> 5803;
+	G_1407E -> 5900	 [color=blue];
+	5703	 [label="INGENIERIA BIOMEDICA"];
+	G_1407E -> 5703	 [color=blue];
+	5710	 [label="INGENIERIA BIOMEDICA"];
+	G_1407E -> 5710	 [color=blue];
+	5912	 [label="SISTEMAS NEURO FUZZY"];
+	G_1407E -> 5912	 [color=blue];
+	G_1409E -> 1515	 [color=blue];
+	G_1409E -> 5607	 [color=blue];
+	G_1409E -> 5803;
+	G_1409E -> 5806;
+	G_1409E -> 5806	 [color=blue];
+	G_1409E -> 5827;
+	G_1409E -> 5834;
+	G_1409E -> 1005	 [color=blue];
+	G_1409E -> 1540	 [color=blue];
+	5707	 [label="IMAGENES MEDICAS:ADQ. INSTRUM. Y GESTION"];
+	G_1409E -> 5707	 [color=blue];
+	5709	 [label="IMAGENES MEDICAS:ADQ. INSTRUM. Y GESTION"];
+	G_1409E -> 5709	 [color=blue];
+	G_1409E -> 5710	 [color=blue];
+	5802	 [label="TALLER DE TELECOMUNICACIONES"];
+	G_1409E -> 5802	 [color=blue];
+	5804	 [label="TRATAMIENTO  ESTADISTICO DE SEÑALES"];
+	G_1409E -> 5804	 [color=blue];
+	5811	 [label="TRATAMIENTO DE IMAGENES POR COMPUTADORA"];
+	G_1409E -> 5811	 [color=blue];
+	5828	 [label="TRATAMIENTO DE IMAGENES POR COMPUTADORA"];
+	G_1409E -> 5828	 [color=blue];
+	5831	 [label="INT. AL RECONOCIMIENTO DE PATRONES"];
+	G_1409E -> 5831	 [color=blue];
+	G_1409E -> 5837	 [color=blue];
+	5839	 [label="PROCESAMIENTO DIGIT. DE SEÑALES DE AUDIO"];
+	G_1409E -> 5839	 [color=blue];
+	5840	 [label="TRATAMIENTO ESTADISTICO DE SEÑALES"];
+	G_1409E -> 5840	 [color=blue];
+	5842	 [label="RECONOCIMIENTO DE PATRONES"];
+	G_1409E -> 5842	 [color=blue];
+	5843	 [label="PROC.DE IMAG.EN COLOR PARA CINE Y FOTOG."];
+	G_1409E -> 5843	 [color=blue];
+	5845	 [label="MET.V.Y NO LOC.P/REST.DE IM.DIG.Y VIDEO"];
+	G_1409E -> 5845	 [color=blue];
+	5909	 [label="INT. A LOS SIST.MOVILES CELULARES"];
+	G_1409E -> 5909	 [color=blue];
+	G_1409E -> 5912	 [color=blue];
+	G_1512E -> 1513;
+	G_1512E -> 5910	 [color=blue];
+	1516	 [label="DISEÑO LOGICO 2"];
+	G_1512E -> 1516	 [color=blue];
+	1517	 [label="DISEÑO CON MICROPROCESADORES"];
+	G_1512E -> 1517	 [color=blue];
+	2028	 [label="TALLER DE PROYECTO"];
+	G_1512E -> 2028	 [color=blue];
+	5708	 [label="DISEÑO DE CIRCUITOS INTEGRADOS"];
+	G_1512E -> 5708	 [color=blue];
+	G_1805	 [label="ELEM . DE MEC. DE LOS FLUIDOS"];
+	G_1805 -> 1810;
+	G_5502 -> 5506;
+	G_5507 -> 5506;
+	G_5507 -> 5514;
+	5504	 [label="PROYECTO DE INSTALACIONES ELECTRICAS"];
+	G_5507 -> 5504	 [color=blue];
+	G_5508E -> 5514;
+	5509	 [label="INT. AL SECTOR ELÉCT.COMPETITIVO"];
+	G_5508E -> 5509	 [color=blue];
+	5832	 [label="PROTECCION DE SIST. ELECT. DE POTENCIA"];
+	G_5508E -> 5832	 [color=blue];
+	G_5601E -> 5514;
+	G_5601E -> 5514	 [color=blue];
+	G_5601E -> 5607	 [color=blue];
+	5603	 [label="TALLER DE MAQUINAS ELECTRICAS"];
+	G_5601E -> 5603	 [color=blue];
+	G_5801C -> 5803	 [color=blue];
+	G_5801C -> 5806;
+	G_5801C -> 5806	 [color=blue];
+	G_5801C -> 5810	 [color=blue];
+	G_5801C -> 5827;
+	G_5801C -> 5834;
+	G_5801C -> 5802	 [color=blue];
+	G_5801C -> 5814	 [color=blue];
+	G_5801C -> 5804	 [color=blue];
+	G_5801C -> 5811	 [color=blue];
+	G_5801C -> 5828	 [color=blue];
+	G_B101 -> 1044;
+	G_B300 -> 1033	 [color=blue];
+	G_B300 -> 1324;
+	G_B300 -> 1511;
+	G_B300 -> 1518;
+	G_B300 -> 1532;
+	G_B300 -> 1537;
+	G_B300 -> 1911;
+	G_B304 -> 1324;
+	G_B304 -> 1511;
+	G_B304 -> 1518;
+	G_B304 -> 1532;
+	G_B304 -> 1537;
+	G_B304 -> 1911;
+	G_CA1Y2 -> 1033	 [color=blue];
+	G_CA1Y2 -> 1045;
+	G_CA1Y2 -> 1051;
+	G_CA1Y2 -> 1610	 [color=blue];
+	G_CA1Y2 -> 5900	 [color=blue];
+	G_CA1Y2 -> 1042	 [color=blue];
+	G_CA1Y2 -> 1233	 [color=blue];
+	G_CP50 -> 1410;
+	G_CP50 -> 5501;
+	G_CP50 -> 5508;
+	G_CP50 -> 5513	 [color=blue];
+	G_CP50 -> 5601;
+	G_CP50 -> 5608;
+	G_CP50 -> 5801;
+	G_CP50 -> 5808;
+	G_CP9E -> 1513	 [color=blue];
+	G_CP9E -> 1914;
+	1307	 [label="PROGRAMACION PARA INGENIERIA ELECTRICA"];
+	G_CP9E -> 1307	 [color=blue];
+	G_CP9E -> 1517	 [color=blue];
+	G_CP9E -> 5707	 [color=blue];
+	G_CP9E -> 5709	 [color=blue];
+	G_F1E -> 1152;
+	G_F1E -> 1153;
+	YFC04 -> YFC04;
+	1029 -> G_1029E	 [color=grey,
+		headlabel=1];
+	1029 -> G_1036C	 [color=grey,
+		headlabel=1];
+	1056	 [label="OPTIMIZ. CON APLIC. A LA PLANIF.C/ INCER"];
+	1140	 [label="LABORATORIO 3"];
+	1124 -> 1140	 [color=blue];
+	G_1016	 [color=yellow,
+		label="Grupo G_1016 [1-1]"];
+	1124 -> G_1016	 [color=orange,
+		headlabel=1];
+	G_FE1	 [color=yellow,
+		label="Grupo G_FE1 [1-1]"];
+	1124 -> G_FE1	 [color=orange,
+		headlabel=1];
+	1127	 [label="LABORATORIO 2"];
+	1127 -> 1140	 [color=blue];
+	1141	 [label="LABORATORIO DE FISICA MODERNA"];
+	1127 -> 1141	 [color=blue];
+	G_1127C	 [color=yellow,
+		label="Grupo G_1127C [1-1]"];
+	1127 -> G_1127C	 [color=orange,
+		headlabel=1];
+	1132	 [label="MODULO DE TRANSFERENCIA DE CALOR"];
+	1133	 [label="MODULO DE TERMODINAMICA ESTADISTICA"];
+	1135	 [label="MODULO DE CICLOS TERMODINAMICOS"];
+	1154	 [label="FISICA EXPERIMENTAL 1"];
+	1154 -> G_FE1	 [color=orange,
+		headlabel=1];
+	1155	 [label="FISICA EXPERIMENTAL 2"];
+	1155 -> G_1127C	 [color=orange,
+		headlabel=1];
+	1306	 [label="PROGRAMACION ORIENTADA A OBJETOS"];
+	G_1326	 [color=yellow,
+		label="Grupo G_1326 [1-1]"];
+	1306 -> G_1326	 [color=orange,
+		headlabel=1];
+	1307 -> G_1326	 [color=orange,
+		headlabel=1];
+	1326	 [label="DESARROLLO DE SOFTWARE PARA ING.ELECT."];
+	1326 -> G_1326	 [color=orange,
+		headlabel=1];
+	1344	 [label="INT. A LA ARQUITECTURA DEL PC"];
+	1357	 [label="SISTEMAS OPERATIVOS PARA PC-1"];
+	1344 -> 1357	 [color=blue];
+	1413	 [label="MONOGRAFIA EN MEDIDAS ELECTRICAS"];
+	1428	 [label="TALLER DE FIRMWARE"];
+	1431	 [label="INT. A LA TEORIA DE LA INFORMACION"];
+	1432	 [label="INT. A LA TEORIA DE LA INFORMACION"];
+	1442	 [label="ROBOTICA EMBEBIDA"];
+	1450	 [label="INT. A LA TEORIA DE LA INFORMACION"];
+	1534	 [label="DISEÑO LOGICO 2"];
+	1536	 [label="SISTEMAS EMBEBIDOS PARA TIEMPO REAL"];
+	1538	 [label="REDES DE SENSORES INALAMBRICOS"];
+	1541	 [label="MONOGR.DE HERR.DE PROG.P/PROC.DE SEÑALES"];
+	1540 -> 1541	 [color=blue];
+	1829	 [label="I.A. Y ROBOTICA"];
+	1849	 [label="BUTIA: ROBOTICA EDUCATIVA"];
+	1925	 [label="TALLER DE PROGRAMACION Y ARTE"];
+	2018	 [label="MODULO DE TALLER 1"];
+	2020	 [label="MODULO DE TALLER 2"];
+	2021	 [label="MODULO DE TALLER 3"];
+	2022	 [label="MODULO DE TALLER 4"];
+	2031	 [label="TALLER ENCARARE"];
+	2034	 [label="TALLER ENCARARE 1:CREATIVIDAD E INNOVAC."];
+	2036	 [label="TALLER ENCARARE 2:PLANIF.DE LA FUT.EMPR."];
+	2314	 [label="ESTABILIDAD DE LOS SIST.ELEC.DE POTENCIA"];
+	5510	 [label="TEMAS DE SUBESTACIONES DE MEDIA TENSION"];
+	5515	 [label="COMPLEM. TEMAS DE SUBEST.EN MEDIA TENS."];
+	5510 -> 5515	 [color=blue];
+	5512	 [label="ACONDICIONAMIENTO LUMINICO"];
+	5703 -> G_5712	 [color=orange,
+		headlabel=1];
+	5707 -> G_5712	 [color=orange,
+		headlabel=1];
+	5709 -> G_5712	 [color=orange,
+		headlabel=1];
+	5710 -> G_5712	 [color=orange,
+		headlabel=1];
+	5711	 [label="CIRCUITOS DE MICROONDAS"];
+	5712	 [label="INTERNADO DE INGENIERIA BIOMEDICA"];
+	5713	 [label="CIRCUITOS DE RADIOFRECUENCIA"];
+	5820	 [label="MONOGR. EN CODIFIC.DE IMAGENES Y VIDEO"];
+	5812 -> 5820	 [color=blue];
+	5813	 [label="CODIFICACION DE FUENTES SIN PERDIDA"];
+	5815	 [label="GESTION INTEG. DE REDES Y SERV.DE TELEC."];
+	5816	 [label="RUTEO IP Y TECNOLOGIAS DE TRANSPORTES"];
+	5819	 [label="CIRCUITOS AMPLIFIC. DE RADIOFRECUENCIA"];
+	5821	 [label="PROPAGACION EN ENTORNOS URBANOS"];
+	5822	 [label="PRINCIPIOS DE LA TECNICA SDH"];
+	5823	 [label="TALLER DE TELEMATICA"];
+	5825	 [label="TEC. DE ACCESO RADIO DE SIST. 3G"];
+	5836	 [label="REDES DE TRANSPORTE DE ALTA CAPACIDAD"];
+	5841	 [label="TELEVISION DIGITAL"];
+	5844	 [label="TALLER DE TELECOMUNICACIONES"];
+	5902	 [label="MOD.Y CONTROL DE CONV.ELECT.DE POTENCIA"];
+	5909 -> 5825	 [color=blue];
+	5950	 [label="FUND. DE BIOLOG. PARA ING.,FISICOS Y MAT"];
+	G_1002 -> 1024	 [color=blue];
+	G_1002 -> 1025	 [color=blue];
+	G_1002 -> 1122	 [color=blue];
+	G_1004 -> 1036	 [color=blue];
+	G_1004 -> 1128	 [color=blue];
+	G_1009 -> 1128	 [color=blue];
+	G_1010 -> 1142	 [color=blue];
+	G_1010 -> 5950	 [color=blue];
+	G_1010C -> 1128	 [color=blue];
+	G_1012 -> 1324	 [color=blue];
+	G_1016 -> 1127	 [color=blue];
+	G_1017 -> 1127	 [color=blue];
+	G_1020C -> 1152	 [color=blue];
+	G_1020C -> 1153	 [color=blue];
+	G_1022E -> 5950	 [color=blue];
+	G_1024C -> 1136	 [color=blue];
+	G_1025 -> 1036	 [color=blue];
+	G_1025 -> 1126	 [color=blue];
+	G_1025 -> 1128	 [color=blue];
+	G_1025 -> 1144	 [color=blue];
+	G_1025 -> 1029	 [color=blue];
+	G_1027 -> 1126	 [color=blue];
+	G_1028 -> 1136	 [color=blue];
+	G_1028 -> 1143	 [color=blue];
+	G_1028 -> 1407	 [color=blue];
+	G_1028 -> 2314	 [color=blue];
+	G_1028C -> 1401	 [color=blue];
+	G_1028C -> 1423	 [color=blue];
+	G_1030C -> 1031	 [color=blue];
+	G_1031E -> 1427	 [color=blue];
+	G_1033 -> 1056	 [color=blue];
+	G_1033 -> 2314	 [color=blue];
+	G_1033E -> 1540	 [color=blue];
+	G_1033E -> 5837	 [color=blue];
+	G_1103 -> 5812	 [color=blue];
+	G_1104 -> 5812	 [color=blue];
+	G_1104 -> 5822	 [color=blue];
+	G_1121C -> 1047	 [color=blue];
+	G_1122 -> 1123	 [color=blue];
+	G_1122 -> YFC04	 [color=blue];
+	G_1122C -> 1126	 [color=blue];
+	G_1122C -> 1144	 [color=blue];
+	G_1122C -> 5601	 [color=blue];
+	G_1122C -> 5608	 [color=blue];
+	G_1122C -> 5830	 [color=blue];
+	G_1122E -> 1143	 [color=blue];
+	G_1122E -> 5900	 [color=blue];
+	G_1123C -> 1810	 [color=blue];
+	G_1123C -> 5503	 [color=blue];
+	G_1123C -> 1132	 [color=blue];
+	G_1123C -> 1133	 [color=blue];
+	G_1123C -> 1135	 [color=blue];
+	G_1126 -> 1137	 [color=blue];
+	G_1127C -> 5830	 [color=blue];
+	G_1127C -> 5900	 [color=blue];
+	G_1138 -> 1141	 [color=blue];
+	G_1152E -> 5830	 [color=blue];
+	G_1153 -> 1144	 [color=blue];
+	G_1224 -> 5509	 [color=blue];
+	G_1322 -> 1511	 [color=blue];
+	G_1322 -> 1518	 [color=blue];
+	G_1322 -> 1532	 [color=blue];
+	G_1322 -> 1537	 [color=blue];
+	G_1322 -> 1911	 [color=blue];
+	G_1322E -> 1344	 [color=blue];
+	G_1322E -> 1849	 [color=blue];
+	G_1326 -> 1428	 [color=blue];
+	G_1326 -> 1442	 [color=blue];
+	G_1326 -> 1536	 [color=blue];
+	G_1326 -> 1538	 [color=blue];
+	G_1326 -> 1829	 [color=blue];
+	G_1326 -> 5823	 [color=blue];
+	G_1401 -> 1407	 [color=blue];
+	G_1401 -> 1409	 [color=blue];
+	G_1401 -> 3103	 [color=blue];
+	G_1401 -> 5601	 [color=blue];
+	G_1401 -> 5701	 [color=blue];
+	G_1401 -> 2018	 [color=blue];
+	G_1401 -> 2020	 [color=blue];
+	G_1401 -> 2021	 [color=blue];
+	G_1401 -> 2022	 [color=blue];
+	G_1407 -> 5702	 [color=blue];
+	G_1407 -> 5705	 [color=blue];
+	G_1407 -> 5810	 [color=blue];
+	G_1407 -> 1005	 [color=blue];
+	G_1407 -> 1517	 [color=blue];
+	G_1407 -> 5708	 [color=blue];
+	G_1407 -> 5711	 [color=blue];
+	G_1407 -> 5713	 [color=blue];
+	G_1407C -> 5608	 [color=blue];
+	G_1407C -> 2028	 [color=blue];
+	G_1409C -> 5705	 [color=blue];
+	G_1409C -> 5808	 [color=blue];
+	G_1409C -> 5900	 [color=blue];
+	G_1409C -> 2028	 [color=blue];
+	G_1409C -> 5703	 [color=blue];
+	G_1410 -> 1413	 [color=blue];
+	G_1410 -> 2028	 [color=blue];
+	G_1410C -> 5503	 [color=blue];
+	G_1410E -> 5505	 [color=blue];
+	G_1410E -> 5910	 [color=blue];
+	G_1410E -> 5703	 [color=blue];
+	G_1410E -> 5710	 [color=blue];
+	G_1411C -> 1047	 [color=blue];
+	G_1423 -> 1451	 [color=blue];
+	G_1423 -> 5609	 [color=blue];
+	G_1423 -> 5830	 [color=blue];
+	G_1423 -> 2028	 [color=blue];
+	G_1423 -> 2031	 [color=blue];
+	G_1423 -> 5707	 [color=blue];
+	G_1423 -> 5708	 [color=blue];
+	G_1423 -> 5709	 [color=blue];
+	G_1423 -> 5839	 [color=blue];
+	G_1423E -> 5701	 [color=blue];
+	G_1512 -> 1513	 [color=blue];
+	G_1512 -> 5701	 [color=blue];
+	G_1512 -> 2034	 [color=blue];
+	G_1512 -> 2036	 [color=blue];
+	G_1512C -> 1324	 [color=blue];
+	G_1512C -> 1511	 [color=blue];
+	G_1512C -> 1518	 [color=blue];
+	G_1512C -> 1532	 [color=blue];
+	G_1512C -> 1537	 [color=blue];
+	G_1512C -> 1911	 [color=blue];
+	G_1513 -> 5704	 [color=blue];
+	G_1513 -> 1344	 [color=blue];
+	G_1513 -> 1534	 [color=blue];
+	"G_1513*" -> 1516	 [color=blue];
+	G_1513E -> 1428	 [color=blue];
+	G_1513E -> 1442	 [color=blue];
+	G_1513E -> 1517	 [color=blue];
+	G_1513E -> 1536	 [color=blue];
+	G_1513E -> 1538	 [color=blue];
+	G_1513E -> 1829	 [color=blue];
+	G_1805C -> 1810	 [color=blue];
+	G_5501C -> 5502	 [color=blue];
+	G_5501E -> 5505	 [color=blue];
+	G_5502C -> 5505	 [color=blue];
+	G_5502C -> 5514	 [color=blue];
+	G_5502C -> 2314	 [color=blue];
+	G_5502C -> 5515	 [color=blue];
+	G_5502C -> 5603	 [color=blue];
+	G_5507C -> 5506	 [color=blue];
+	G_5507C -> 5514	 [color=blue];
+	G_5507C -> 5510	 [color=blue];
+	G_5507C -> 5512	 [color=blue];
+	G_5507C -> 5603	 [color=blue];
+	G_5508 -> 5513	 [color=blue];
+	G_5508 -> 5510	 [color=blue];
+	G_5508C -> 5805	 [color=blue];
+	G_5601C -> 5502	 [color=blue];
+	G_5601C -> 5503	 [color=blue];
+	G_5601C -> 5507	 [color=blue];
+	G_5601C -> 5602	 [color=blue];
+	G_5601C -> 2314	 [color=blue];
+	G_5602C -> 5505	 [color=blue];
+	G_5602C -> 5603	 [color=blue];
+	G_5701 -> 2028	 [color=blue];
+	G_5701C -> 5607	 [color=blue];
+	G_5701C -> 5702	 [color=blue];
+	G_5701C -> 5704	 [color=blue];
+	G_5701C -> 1516	 [color=blue];
+	G_5701C -> 1517	 [color=blue];
+	G_5701C -> 1534	 [color=blue];
+	G_5701C -> 1538	 [color=blue];
+	G_5701C -> 5703	 [color=blue];
+	G_5701C -> 5708	 [color=blue];
+	G_5701C -> 5710	 [color=blue];
+	G_5701C -> 5713	 [color=blue];
+	G_5701E -> 5711	 [color=blue];
+	G_5701E -> 5819	 [color=blue];
+	G_5712 -> 5712	 [color=blue];
+	G_5801 -> 5823	 [color=blue];
+	G_5801 -> 5841	 [color=blue];
+	G_5805 -> 5815	 [color=blue];
+	G_5805 -> 5816	 [color=blue];
+	G_5805 -> 5818	 [color=blue];
+	G_5805 -> 5822	 [color=blue];
+	G_5805 -> 5829	 [color=blue];
+	G_5805E -> 5835	 [color=blue];
+	G_5805E -> 5836	 [color=blue];
+	G_5805E -> 5909	 [color=blue];
+	G_5806E -> 5825	 [color=blue];
+	G_5808 -> 5819	 [color=blue];
+	G_5808 -> 5825	 [color=blue];
+	G_5808 -> 5826	 [color=blue];
+	G_5808 -> 5844	 [color=blue];
+	G_5808 -> 5909	 [color=blue];
+	G_5808C -> 5817	 [color=blue];
+	G_5808C -> 5838	 [color=blue];
+	G_5808C -> 5813	 [color=blue];
+	G_5808E -> 5836	 [color=blue];
+	G_5817 -> 5819	 [color=blue];
+	G_5817 -> 5821	 [color=blue];
+	G_5817 -> 5825	 [color=blue];
+	G_5900 -> 5901	 [color=blue];
+	G_5900 -> 5903	 [color=blue];
+	G_5900 -> 5912	 [color=blue];
+	G_5900E -> 5902	 [color=blue];
+	G_C1020 -> 1022	 [color=blue];
+	G_C1020 -> 1306	 [color=blue];
+	G_C1030 -> 1306	 [color=blue];
+	G_C1030 -> 1326	 [color=blue];
+	G_C1121 -> 1122	 [color=blue];
+	G_C1128 -> 1131	 [color=blue];
+	G_C1407 -> 5508	 [color=blue];
+	G_C1512 -> 2031	 [color=blue];
+	G_C1513 -> 2028	 [color=blue];
+	G_CP13 -> 1136	 [color=blue];
+	G_CP13 -> 1138	 [color=blue];
+	G_CP13 -> 1401	 [color=blue];
+	G_CP13 -> 1407	 [color=blue];
+	G_CP13 -> 1423	 [color=blue];
+	G_CP13 -> 2018	 [color=blue];
+	G_CP13 -> 2020	 [color=blue];
+	G_CP13 -> 2021	 [color=blue];
+	G_CP13 -> 2022	 [color=blue];
+	G_CP13E -> 5803	 [color=blue];
+	G_CP1E -> 1326	 [color=blue];
+	G_CP3 -> 1306	 [color=blue];
+	G_CP3 -> 1326	 [color=blue];
+	G_CP50C -> 1410	 [color=blue];
+	G_CP50C -> 1451	 [color=blue];
+	G_CP50C -> 5501	 [color=blue];
+	G_CP50C -> 5607	 [color=blue];
+	G_CP50C -> 5609	 [color=blue];
+	G_CP50C -> 5701	 [color=blue];
+	G_CP50C -> 5801	 [color=blue];
+	G_CP50C -> 5803	 [color=blue];
+	G_CP50C -> 5808	 [color=blue];
+	G_CP50C -> 2018	 [color=blue];
+	G_CP50C -> 2020	 [color=blue];
+	G_CP50C -> 2021	 [color=blue];
+	G_CP50C -> 2022	 [color=blue];
+	G_CP6E -> 1129	 [color=blue];
+	G_CP8 -> 1142	 [color=blue];
+	G_CP9 -> 1914	 [color=blue];
+	G_CP9 -> 1306	 [color=blue];
+	G_CP9 -> 1326	 [color=blue];
+	G_CP9 -> 2018	 [color=blue];
+	G_CP9 -> 2020	 [color=blue];
+	G_CP9 -> 2021	 [color=blue];
+	G_CP9 -> 2022	 [color=blue];
+	G_E1152 -> 5900	 [color=blue];
+	G_E1153 -> 5900	 [color=blue];
+	G_F1C -> 1152	 [color=blue];
+	G_F3C -> 1155	 [color=blue];
+	G_FE1 -> 5830	 [color=blue];
+	G_FE1 -> 5900	 [color=blue];
+	G_FE1 -> 1155	 [color=blue];
+	G_FIS -> 1153	 [color=blue];
+	G_G1124 -> 1154	 [color=blue];
+	G_PR1 -> 1925	 [color=blue];
+	G_PR1 -> 2028	 [color=blue];
+	G_PROBA -> 1610	 [color=blue];
+	G_PROBA -> 1042	 [color=blue];
+	G_PROBA -> 1427	 [color=blue];
+	G_PROBA -> 1431	 [color=blue];
+	G_PROBA -> 1432	 [color=blue];
+	G_PROBA -> 1450	 [color=blue];
+}

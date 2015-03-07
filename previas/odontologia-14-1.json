@@ -83,7 +83,7 @@
 		"nombre": "ATENC.OD.EN SERVICIOS Y COMUNIDAD II",
 		"pcurso": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -113,31 +113,31 @@
 				"obs": false
 			},
 			{
-				"id": "OS2",
+				"id": "G_OS2",
 				"nombre": "ODONTOLOGIA SOCIAL II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5020",
+				"id": "G_5020",
 				"nombre": "PEDIATRIA 1 2 Y PED",
 				"actividad": "Grupo",
 				"obs": false
@@ -228,19 +228,19 @@
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "OPT2",
+				"id": "G_OPT2",
 				"nombre": "OPTATIVA 2",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "OPT3",
+				"id": "G_OPT3",
 				"nombre": "OPTATIVA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -252,13 +252,13 @@
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "5020",
+				"id": "G_5020",
 				"nombre": "PEDIATRIA 1 2 Y PED",
 				"actividad": "Grupo",
 				"obs": false
@@ -415,7 +415,7 @@
 		"nombre": "CIRUGIA BUCO-MAXILO-FACIAL II (CL.)",
 		"pcurso": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -427,13 +427,13 @@
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -477,13 +477,13 @@
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
@@ -947,7 +947,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1051,7 +1051,7 @@
 		"nombre": "ODONTOLOGIA RESTAURADORA (CL.)",
 		"pcurso": [
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1095,7 +1095,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1143,13 +1143,13 @@
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1255,7 +1255,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1329,13 +1329,13 @@
 		],
 		"pexamen": [
 			{
-				"id": "3000",
+				"id": "G_3000",
 				"nombre": " PATOLOGIA INFL.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3001",
+				"id": "G_3001",
 				"nombre": "PATOLOGIA INF.INFECCIOSA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1365,13 +1365,13 @@
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false
@@ -1403,7 +1403,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "5020",
+				"id": "G_5020",
 				"nombre": "PEDIATRIA 1 2 Y PED",
 				"actividad": "Grupo",
 				"obs": false
@@ -1415,7 +1415,7 @@
 		"nombre": "PEDIATRIA I (CL.)",
 		"pcurso": [
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1441,7 +1441,7 @@
 		"nombre": "PEDIATRIA II (CL.)",
 		"pcurso": [
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1559,13 +1559,13 @@
 				"obs": false
 			},
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1705,7 +1705,7 @@
 		"nombre": "TERAPEUTICA ENDODONTICA (CL.)",
 		"pcurso": [
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1725,7 +1725,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -1755,7 +1755,7 @@
 		"nombre": "TERAPEUTICA PERIODONTAL (CL.)",
 		"pcurso": [
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -1775,7 +1775,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -2059,7 +2059,7 @@
 		"nombre": "TRATAMIENTO DE LA EDENTACION II (CL.)",
 		"pcurso": [
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
@@ -2103,7 +2103,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "CLIN3",
+				"id": "G_CLIN3",
 				"nombre": "CLINICA INTEGRADA 3",
 				"actividad": "Grupo",
 				"obs": false
@@ -2139,13 +2139,13 @@
 				"obs": false
 			},
 			{
-				"id": "OPT1",
+				"id": "G_OPT1",
 				"nombre": "OPTATIVA 1",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "3011",
+				"id": "G_3011",
 				"nombre": "PATOLOGÍA INFL. INFEC. Y TUMOR",
 				"actividad": "Grupo",
 				"obs": false

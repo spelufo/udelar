@@ -113,19 +113,19 @@
 		"nombre": "FISICOQUÍMICA 101 (DESDE 2003)",
 		"pcurso": [
 			{
-				"id": "G406",
+				"id": "G_G406",
 				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G04",
+				"id": "G_G04",
 				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G302",
+				"id": "G_G302",
 				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -145,13 +145,13 @@
 		"nombre": "FISICOQUÍMICA 103 (DESDE 2003)",
 		"pcurso": [
 			{
-				"id": "G406",
+				"id": "G_G406",
 				"nombre": "FISICOQUÌMICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G520",
+				"id": "G_G520",
 				"nombre": "FISICOQUÍMICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
@@ -171,13 +171,13 @@
 		"nombre": "FISICOQUÍMICA 104 (DESDE 2003)",
 		"pcurso": [
 			{
-				"id": "G521",
+				"id": "G_G521",
 				"nombre": "FISICOQUIMICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G520",
+				"id": "G_G520",
 				"nombre": "FISICOQUÍMICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -274,19 +274,19 @@
 		"nombre": "FÍSICA 101 (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G205",
+				"id": "G_G205",
 				"nombre": "FISICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G185",
+				"id": "G_G185",
 				"nombre": "FÍSICA I (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G01",
+				"id": "G_G01",
 				"nombre": "MATEMÁTICA 01 (ANÁLISIS I)",
 				"actividad": "Grupo",
 				"obs": false
@@ -306,13 +306,13 @@
 		"nombre": "FÍSICA 102 (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G205",
+				"id": "G_G205",
 				"nombre": "FISICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G304",
+				"id": "G_G304",
 				"nombre": "FÍSICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
@@ -389,19 +389,19 @@
 		"nombre": "LAB. AVANZADO DE ORGÁNICA (ORG 201)",
 		"pcurso": [
 			{
-				"id": "G543",
+				"id": "G_G543",
 				"nombre": "LAB. AVANZADO DE ORGÁNICA",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -414,13 +414,13 @@
 		"nombre": "MAT. 01 (ANÁLISIS I)",
 		"pcurso": [
 			{
-				"id": "G01",
+				"id": "G_G01",
 				"nombre": "MATEMÁTICA 01 (ANÁLISIS I)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G187",
+				"id": "G_G187",
 				"nombre": "MATEMÁTICA ANUAL (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
@@ -440,13 +440,13 @@
 		"nombre": "MAT. 03 (ÁLGEBRA)",
 		"pcurso": [
 			{
-				"id": "G03",
+				"id": "G_G03",
 				"nombre": "MATEMATICA 03 (ALGEBRA)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G187",
+				"id": "G_G187",
 				"nombre": "MATEMÁTICA ANUAL (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
@@ -466,19 +466,19 @@
 		"nombre": "MAT. 04 (ANÁLISIS II)",
 		"pcurso": [
 			{
-				"id": "G03",
+				"id": "G_G03",
 				"nombre": "MATEMATICA 03 (ALGEBRA)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G01",
+				"id": "G_G01",
 				"nombre": "MATEMÁTICA 01 (ANÁLISIS I)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G04",
+				"id": "G_G04",
 				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
 				"actividad": "Grupo",
 				"obs": true
@@ -498,13 +498,13 @@
 		"nombre": "MAT. 05 (ESTADÍSTICA)",
 		"pcurso": [
 			{
-				"id": "G05",
+				"id": "G_G05",
 				"nombre": "MAT.05 (ESTADISTICA)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G04",
+				"id": "G_G04",
 				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
 				"actividad": "Grupo",
 				"obs": false
@@ -524,13 +524,13 @@
 		"nombre": "MAT. 06 (CÁLCULO NUMÉRICO)",
 		"pcurso": [
 			{
-				"id": "G06",
+				"id": "G_G06",
 				"nombre": "MAT.06 (CALCULO NUMERICO)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G04",
+				"id": "G_G04",
 				"nombre": "MATEMÁTICA 04 (ANÁLISIS II)",
 				"actividad": "Grupo",
 				"obs": false
@@ -641,7 +641,7 @@
 		"nombre": "PREVENCIÓN DE RIESGOS EN EL LABORATORIO",
 		"pcurso": [
 			{
-				"id": "G104",
+				"id": "G_G104",
 				"nombre": "PREVENCION DE RIESGOS EN LAB",
 				"actividad": "Grupo",
 				"obs": true
@@ -693,19 +693,19 @@
 		"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G302",
+				"id": "G_G302",
 				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G391",
+				"id": "G_G391",
 				"nombre": "QUÍMICA ANALÍTICA CUANTITATIVA",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G202",
+				"id": "G_G202",
 				"nombre": "QUÍMICA GENERAL II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -725,13 +725,13 @@
 		"nombre": "QCA. ANALÍTICA II (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G402",
+				"id": "G_G402",
 				"nombre": "QCA ANALÍTICA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G302",
+				"id": "G_G302",
 				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -751,19 +751,19 @@
 		"nombre": "QCA. ANALÍTICA III (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G402",
+				"id": "G_G402",
 				"nombre": "QCA ANALÍTICA II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G503",
+				"id": "G_G503",
 				"nombre": "QCA ANALÍTICA III (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G302",
+				"id": "G_G302",
 				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -783,13 +783,13 @@
 		"nombre": "QCA. DE COORDINACIÓN - OPCIÓN I (T+L)",
 		"pcurso": [
 			{
-				"id": "G548",
+				"id": "G_G548",
 				"nombre": "QCA DE COORDINACIÓN (T+L)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G303",
+				"id": "G_G303",
 				"nombre": "QCA. INORGANICA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -822,19 +822,19 @@
 		"nombre": "QCA. GENERAL I (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G189",
+				"id": "G_G189",
 				"nombre": "QUÍMICA ANALÍTICA CUALITATIVA",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G188",
+				"id": "G_G188",
 				"nombre": "QUÍMICA GENERAL (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G102",
+				"id": "G_G102",
 				"nombre": "QUÍMICA GENERAL I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
@@ -854,19 +854,19 @@
 		"nombre": "QCA. INORGÁNICA (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G303",
+				"id": "G_G303",
 				"nombre": "QCA. INORGANICA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G286",
+				"id": "G_G286",
 				"nombre": "QCA. INORGÁNICA I (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G202",
+				"id": "G_G202",
 				"nombre": "QUÍMICA GENERAL II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -886,19 +886,19 @@
 		"nombre": "QCA. INORGÁNICA (TEÓRICO)",
 		"pcurso": [
 			{
-				"id": "G303",
+				"id": "G_G303",
 				"nombre": "QCA. INORGANICA (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G286",
+				"id": "G_G286",
 				"nombre": "QCA. INORGÁNICA I (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G202",
+				"id": "G_G202",
 				"nombre": "QUÍMICA GENERAL II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -956,19 +956,19 @@
 		"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G301",
+				"id": "G_G301",
 				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G202",
+				"id": "G_G202",
 				"nombre": "QUÍMICA GENERAL II (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G287",
+				"id": "G_G287",
 				"nombre": "QUÍMICA ORGÁNICA I (PLAN 1980)",
 				"actividad": "Grupo",
 				"obs": true
@@ -988,13 +988,13 @@
 		"nombre": "QCA. ORGÁNICA 102 (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G401",
+				"id": "G_G401",
 				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G301",
+				"id": "G_G301",
 				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1014,19 +1014,19 @@
 		"nombre": "QCA. ORGÁNICA 103 - LABORATORIO",
 		"pcurso": [
 			{
-				"id": "G501",
+				"id": "G_G501",
 				"nombre": "QCA ORGÁNICA 103 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G302",
+				"id": "G_G302",
 				"nombre": "QCA. ANALÍTICA I (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G301",
+				"id": "G_G301",
 				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
@@ -1039,19 +1039,19 @@
 		"nombre": "QCA. ORGÁNICA 104 (PLAN 2000)",
 		"pcurso": [
 			{
-				"id": "G401",
+				"id": "G_G401",
 				"nombre": "QCA ORGÁNICA 102 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "G502",
+				"id": "G_G502",
 				"nombre": "QCA ORGÁNICA 104 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": true
 			},
 			{
-				"id": "G301",
+				"id": "G_G301",
 				"nombre": "QCA. ORGÁNICA 101 (PLAN 2000)",
 				"actividad": "Grupo",
 				"obs": false

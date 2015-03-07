@@ -14,23 +14,23 @@ var grrr = []
 carr.forEach(function (c) {
 	carrids[c.id] = true;
 	c.pexamen.forEach(function (p) {
-	  if (p.actividad === 'Grupo' && !p.obs) carrgrp[p.id] = true
+		if (p.actividad === 'Grupo' && !p.obs) carrgrp[p.id] = true;
 	})
 	c.pcurso.forEach(function (p) {
-	  if (p.actividad === 'Grupo' && !p.obs) carrgrp[p.id] = true
+		if (p.actividad === 'Grupo' && !p.obs) carrgrp[p.id] = true
 	})
 })
 
 grps.forEach(function (g) {
-	if (/^NO/.test(g.id)) return; // exclude grp that starts with NO
+	// if (/^NO/.test(g.id)) return; // exclude grp that starts with NO
 	if (!carrgrp[g.id]) return; // exclude grp that is not in carr
 
 	// for the remaining groups exclude some asigs
 	var ps = []
 	g.previas.forEach(function (p) {
-	  if (!carrids[p.id]) return; // exclude asigs not in 
-	  if (p.actividad != 'Curso aprobado' && p.actividad != 'Examen aprobado') return; // exculde inscripciones y revalidas
-	  ps.push(p)
+		if (!carrids[p.id]) return; // exclude asigs not in carr
+		if (p.actividad != 'Curso aprobado' && p.actividad != 'Examen aprobado') return; // exculde inscripciones y revalidas
+		ps.push(p)
 	})
 	if (ps.length) {
 		g.previas = ps;

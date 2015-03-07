@@ -210,7 +210,7 @@
 		"nombre": "ENERGIA 1 (TEC.)",
 		"pcurso": [
 			{
-				"id": "TMF1",
+				"id": "G_TMF1",
 				"nombre": "TERMODINAMICA Y MEC.FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -224,7 +224,7 @@
 				"obs": false
 			},
 			{
-				"id": "TMF1E",
+				"id": "G_TMF1E",
 				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -236,7 +236,7 @@
 		"nombre": "ENERGIA 2 (TEC.)",
 		"pcurso": [
 			{
-				"id": "TMF1E",
+				"id": "G_TMF1E",
 				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -256,7 +256,7 @@
 		"nombre": "ENERGIA 2 (TEC.)",
 		"pcurso": [
 			{
-				"id": "TMF1",
+				"id": "G_TMF1",
 				"nombre": "TERMODINAMICA Y MEC.FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -270,7 +270,7 @@
 				"obs": false
 			},
 			{
-				"id": "TMF1E",
+				"id": "G_TMF1E",
 				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -434,7 +434,7 @@
 				"obs": false
 			},
 			{
-				"id": "TMF1",
+				"id": "G_TMF1",
 				"nombre": "TERMODINAMICA Y MEC.FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -460,7 +460,7 @@
 				"obs": false
 			},
 			{
-				"id": "TMF1E",
+				"id": "G_TMF1E",
 				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -582,7 +582,7 @@
 				"obs": false
 			},
 			{
-				"id": "TMF1C",
+				"id": "G_TMF1C",
 				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false
@@ -596,7 +596,7 @@
 				"obs": false
 			},
 			{
-				"id": "TMF1E",
+				"id": "G_TMF1E",
 				"nombre": "TERMOD. Y MEC.DE LOS FLUIDOS",
 				"actividad": "Grupo",
 				"obs": false

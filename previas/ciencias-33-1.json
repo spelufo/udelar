@@ -557,7 +557,7 @@
 				"obs": false
 			},
 			{
-				"id": "BQ00",
+				"id": "G_BQ00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -623,7 +623,7 @@
 		"nombre": "ELUCIDACION ESTRUC.COM.ORGANIC.(2006-11)",
 		"pcurso": [
 			{
-				"id": "BQ00",
+				"id": "G_BQ00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -940,7 +940,7 @@
 		"nombre": "FISICOQUIMICA II",
 		"pcurso": [
 			{
-				"id": "338",
+				"id": "G_338",
 				"nombre": "FISICOQUIMICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -948,19 +948,19 @@
 		],
 		"pexamen": [
 			{
-				"id": "438",
+				"id": "G_438",
 				"nombre": "FISICOQUIMICA I",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "339",
+				"id": "G_339",
 				"nombre": "FISICOQUIMICA II",
 				"actividad": "Grupo",
 				"obs": false
 			},
 			{
-				"id": "354",
+				"id": "G_354",
 				"nombre": "LABORATORIO DE FISICA II",
 				"actividad": "Grupo",
 				"obs": false
@@ -1198,7 +1198,7 @@
 				"obs": false
 			},
 			{
-				"id": "BQ00",
+				"id": "G_BQ00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1619,7 +1619,7 @@
 				"obs": false
 			},
 			{
-				"id": "BQ00",
+				"id": "G_BQ00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1709,7 +1709,7 @@
 				"obs": false
 			},
 			{
-				"id": "BQ00",
+				"id": "G_BQ00",
 				"nombre": "PRIMER SEMESTRE",
 				"actividad": "Grupo",
 				"obs": false
@@ -1741,7 +1741,7 @@
 		"nombre": "QUIMICA ANALITICA",
 		"pcurso": [
 			{
-				"id": "QUIM1",
+				"id": "G_QUIM1",
 				"nombre": "QUIMICA I",
 				"actividad": "Grupo",
 				"obs": false
@@ -1749,7 +1749,7 @@
 		],
 		"pexamen": [
 			{
-				"id": "BG1",
+				"id": "G_BG1",
 				"nombre": "QUIMICA",
 				"actividad": "Grupo",
 				"obs": false
@@ -1793,7 +1793,7 @@
 		"nombre": "QUIMICA ORGANICA I",
 		"pcurso": [
 			{
-				"id": "QUIM1",
+				"id": "G_QUIM1",
 				"nombre": "QUIMICA I",
 				"actividad": "Grupo",
 				"obs": false
