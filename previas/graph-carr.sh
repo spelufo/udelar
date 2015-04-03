@@ -2,10 +2,10 @@
 
 # carrera.json + groupo.json -> carrera.dot + carrera.svg
 # 
-# Usage: graph-carr carrfile grpfile [ranksfile]
+# Usage: graph-carr carrfile grpfile [ranksfile] [asigid]
 #
 # Example:
-#	$ ./graph-carr ingenieria-22-8.json ingenieria-grupos-22-8.json ingenieria-ranksame-22-8.dot
+#	$ ./graph-carr ingenieria-22-8.json ingenieria-grupos-22-8.json ingenieria-ranksame-22-8.dot 1024
 
 
 # grupos .dot
@@ -55,16 +55,18 @@ jq -r "$s" "$carr" | sort -u | sed '/\s->[^"]*;$/d' >> "$dotfile"
 cat "${g/.json/.dot}" >> "$dotfile"
 
 # rank same asigs del mismo semestre
-# [[ -f "$3" ]] && cat "$3" >> "$dotfile"
+[[ -f "$3" ]] && cat "$3" >> "$dotfile"
 
 # </carr>
 echo '}' >> "$dotfile"
 
 echo '.dot file done' >&2
 # dot2svg
-gc -a "$dotfile" >&2
-ccomps -X 1024 "$dotfile" > "${dotfile/.dot/.ccomps.dot}"
-gc -a "${dotfile/.dot/.ccomps.dot}" >&2
-# gc -a "$dotfile"
+if [[ ! -z "$4" ]]; then
+	gc -a "$dotfile" >&2
+	ccomps -X "$4" "$dotfile" > "${dotfile/.dot/.ccomps.dot}"
+	dotfile="${dotfile/.dot/.ccomps.dot}"
+fi
 
-dot -Tsvg "${dotfile/.dot/.ccomps.dot}" -o "$graphfile"
+gc -a "$dotfile" >&2
+dot -Tsvg "$dotfile" -o "$graphfile"
