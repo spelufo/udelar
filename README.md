@@ -24,11 +24,11 @@ En [previas](previas/) están los svg que generé para ingeniería eléctrica. S
 
 - bash
 - wget
-- [nodejs and npm]()
-- [cheerio]()
-- [html-xml-utils]() - cli para manipular html
-- [jq]() - cli para manipular json
-- [graphviz]() - graficas
+- [nodejs and npm](https://nodejs.org/)
+- [cheerio](https://github.com/cheeriojs/cheerio)
+- [html-xml-utils](www.w3.org/Tools/HTML-XML-utils/) - cli para manipular html
+- [jq](https://github.com/stedolan/jq) - cli para manipular json
+- [graphviz](https://graphviz.org) - graficas
 
 ## 1. Scrape
 
